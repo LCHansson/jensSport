@@ -2,7 +2,7 @@
 # http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-one/
 # http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-two/
 
-
+# Before we can install the 'rjags' package, make sure to install the latest version of JAGS (google: "JAGS")!
 library(rjags)
 library(coda)
 library(mcmcplots)
