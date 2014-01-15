@@ -81,7 +81,7 @@ ms1 <- as.matrix(s1)
 
 plot(s1[, col_name("skill", which(teams == "FC Sevilla"))])
 plot(s1[, col_name("skill", which(teams == "FC Valencia"))])
-
+plot(s1[, "baseline"])
 
 
 # Plots histograms over home_goals, away_goals, the difference in goals
@@ -189,3 +189,75 @@ plot_pred_comp2 <- function(home_team, away_team, ms) {
 plot_pred_comp2("FC Valencia", "FC Sevilla", ms2)
 
 plot_pred_comp2("FC Sevilla", "FC Valencia", ms2)
+
+
+qplot(Season, HomeTeam, data = d, ylab = "Team", xlab = "Participation by Season")
+
+m3_string <- "model {
+for(i in 1:n_games) {
+HomeGoals[i] ~ dpois(lambda_home[Season[i], HomeTeam[i],AwayTeam[i]])
+AwayGoals[i] ~ dpois(lambda_away[Season[i], HomeTeam[i],AwayTeam[i]])
+}
+
+for(season_i in 1:n_seasons) {
+for(home_i in 1:n_teams) {
+for(away_i in 1:n_teams) {
+lambda_home[season_i, home_i, away_i] <- exp( home_baseline[season_i] + skill[season_i, home_i] - skill[season_i, away_i])
+lambda_away[season_i, home_i, away_i] <- exp( away_baseline[season_i] + skill[season_i, away_i] - skill[season_i, home_i])
+}
+}
+}
+
+skill[1, 1] <- 0 
+for(j in 2:n_teams) {
+skill[1, j] ~ dnorm(group_skill, group_tau)
+}
+
+group_skill ~ dnorm(0, 0.0625)
+group_tau <- 1/pow(group_sigma, 2)
+group_sigma ~ dunif(0, 3)
+
+home_baseline[1] ~ dnorm(0, 0.0625)
+away_baseline[1] ~ dnorm(0, 0.0625)
+
+for(season_i in 2:n_seasons) {
+skill[season_i, 1] <- 0 
+for(j in 2:n_teams) {
+skill[season_i, j] ~ dnorm(skill[season_i - 1, j], season_tau)
+}
+home_baseline[season_i] ~ dnorm(home_baseline[season_i - 1], season_tau)
+away_baseline[season_i] ~ dnorm(away_baseline[season_i - 1], season_tau)
+}
+
+season_tau <- 1/pow(season_sigma, 2) 
+season_sigma ~ dunif(0, 3) 
+}"
+
+
+m3 <- jags.model(textConnection(m3_string), data = data_list, n.chains = 3,
+				 n.adapt = 10000)
+update(m3, 10000)
+s3 <- coda.samples(m3, variable.names = c("home_baseline", "away_baseline",
+										  "skill", "season_sigma", "group_sigma", "group_skill"), n.iter = 40000,
+				   thin = 8)
+ms3 <- as.matrix(s3)
+
+plot(s3[, "season_sigma"])
+
+dic_m3 <- dic.samples(m3, 40000, "pD")
+diffdic(dic_m2, dic_m3)
+
+
+
+# The ranking of the teams for the 2012/13 season.
+team_skill <- ms3[, str_detect(string = colnames(ms3), "skill\\[5,")]
+team_skill <- (team_skill - rowMeans(team_skill)) + ms3[, "home_baseline[5]"]
+team_skill <- exp(team_skill)
+colnames(team_skill) <- teams
+team_skill <- team_skill[, order(colMeans(team_skill), decreasing = T)]
+par(mar = c(2, 0.7, 0.7, 0.7), xaxs = "i")
+caterplot(team_skill, labels.loc = "above", val.lim = c(0.7, 3.8))
+
+
+plotPost(team_skill[, "FC Barcelona"] - team_skill[, "Real Madrid CF"], compVal = 0,
+		 xlab = "← Real Madrid     vs     Barcelona →")
