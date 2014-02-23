@@ -1,0 +1,872 @@
+gameId,round,homeTeam,homeTeamId,homeTeamScore,homePos,visitingTeam,visitingTeamId,visitingTeamScore,visitingPos,date,league,leagueId,player,minute,team,homeGoals,visitingGoals,homePlayers,visitingPlayers,homeWarnings,visitingWarnings
+1056643,1,Norrköping,9376,1,12,Djurgården,9368,2,2,2008-03-30T14:30+0200,Allsvenskan,27773,,,,0,0,,,,
+1056643,1,Norrköping,9376,1,12,Djurgården,9368,2,2,2008-03-30T14:30+0200,Allsvenskan,27773,Mikael Dahlberg,6,visiting,0,1,11,11,0,0
+1056643,1,Norrköping,9376,1,12,Djurgården,9368,2,2,2008-03-30T14:30+0200,Allsvenskan,27773,Sebastian Rajalakso,51,visiting,0,2,11,11,0,0
+1056643,1,Norrköping,9376,1,12,Djurgården,9368,2,2,2008-03-30T14:30+0200,Allsvenskan,27773,Kevin Amuneke,54,home,1,2,11,11,0,0
+1056644,1,Halmstad,9371,1,3,Gefle,9400,0,13,2008-03-30T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056644,1,Halmstad,9371,1,3,Gefle,9400,0,13,2008-03-30T15:00+0200,Allsvenskan,27773,Martin Fribrock,61,home,1,0,11,11,0,0
+1056645,1,Gais,9382,1,6,Elfsborg,9369,1,7,2008-03-30T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056645,1,Gais,9382,1,6,Elfsborg,9369,1,7,2008-03-30T15:00+0200,Allsvenskan,27773,Stefan Ishizaki,83,visiting,0,1,11,11,0,0
+1056645,1,Gais,9382,1,6,Elfsborg,9369,1,7,2008-03-30T15:00+0200,Allsvenskan,27773,Fredrik Lundgren,89,home,1,1,11,11,0,0
+1056646,1,AIK,9367,0,10,Kalmar FF,9374,0,11,2008-03-30T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056647,1,Örebro,9379,1,5,Trelleborgs FF,9377,0,15,2008-03-31T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056647,1,Örebro,9379,1,5,Trelleborgs FF,9377,0,15,2008-03-31T19:00+0200,Allsvenskan,27773,Nordin Gerzic,75,home,1,0,11,11,0,0
+1056648,1,GIF Sundsvall,9407,0,16,Helsingborg,9373,3,1,2008-03-31T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056648,1,GIF Sundsvall,9407,0,16,Helsingborg,9373,3,1,2008-03-31T19:00+0200,Allsvenskan,27773,Isaac Chansa,8,visiting,0,1,11,11,0,0
+1056648,1,GIF Sundsvall,9407,0,16,Helsingborg,9373,3,1,2008-03-31T19:00+0200,Allsvenskan,27773,Christoffer Andersson,23,visiting,0,2,11,11,0,0
+1056648,1,GIF Sundsvall,9407,0,16,Helsingborg,9373,3,1,2008-03-31T19:00+0200,Allsvenskan,27773,Christoffer Andersson,63,visiting,0,3,11,11,0,0
+1056649,1,Ljungskile,9391,0,14,Hammarby,9372,1,4,2008-03-31T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056649,1,Ljungskile,9391,0,14,Hammarby,9372,1,4,2008-03-31T19:00+0200,Allsvenskan,27773,Louay Chanko,75,visiting,0,1,11,11,0,0
+1056650,1,Malmö FF,9375,1,9,Göteborg,9370,1,8,2008-03-31T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056650,1,Malmö FF,9375,1,9,Göteborg,9370,1,8,2008-03-31T19:45+0200,Allsvenskan,27773,Jonas Wallerstedt,57,visiting,0,1,11,11,0,0
+1056650,1,Malmö FF,9375,1,9,Göteborg,9370,1,8,2008-03-31T19:45+0200,Allsvenskan,27773,Gabriel,62,home,1,1,11,11,0,0
+1056651,2,Djurgården,9368,1,6,Malmö FF,9375,1,11,2008-04-05T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056651,2,Djurgården,9368,1,6,Malmö FF,9375,1,11,2008-04-05T16:00+0200,Allsvenskan,27773,Niklas Skoog,3,visiting,0,1,11,11,0,0
+1056651,2,Djurgården,9368,1,6,Malmö FF,9375,1,11,2008-04-05T16:00+0200,Allsvenskan,27773,Sebastian Rajalakso,49,home,1,1,11,11,0,0
+1056653,2,Trelleborgs FF,9377,3,8,Gais,9382,1,12,2008-04-06T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056653,2,Trelleborgs FF,9377,3,8,Gais,9382,1,12,2008-04-06T15:00+0200,Allsvenskan,27773,Magnus Andersson,4,home,1,0,11,11,0,0
+1056653,2,Trelleborgs FF,9377,3,8,Gais,9382,1,12,2008-04-06T15:00+0200,Allsvenskan,27773,Paulino Lopes-Tavares,10,home,2,0,11,11,0,0
+1056653,2,Trelleborgs FF,9377,3,8,Gais,9382,1,12,2008-04-06T15:00+0200,Allsvenskan,27773,Magnus Andersson,23,home,3,0,11,11,0,0
+1056653,2,Trelleborgs FF,9377,3,8,Gais,9382,1,12,2008-04-06T15:00+0200,Allsvenskan,27773,Björn Andersson,68,visiting,3,1,11,11,0,0
+1056654,2,Gefle,9400,2,9,Norrköping,9376,0,14,2008-04-06T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056654,2,Gefle,9400,2,9,Norrköping,9376,0,14,2008-04-06T15:00+0200,Allsvenskan,27773,Johan Oremo,2,home,1,0,11,11,0,0
+1056654,2,Gefle,9400,2,9,Norrköping,9376,0,14,2008-04-06T15:00+0200,Allsvenskan,27773,Johan Oremo,27,home,2,0,11,11,0,0
+1056655,2,Göteborg,9370,4,2,Örebro,9379,1,10,2008-04-06T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056655,2,Göteborg,9370,4,2,Örebro,9379,1,10,2008-04-06T15:00+0200,Allsvenskan,27773,Ragnar Sigurdsson,5,home,1,0,11,11,0,0
+1056655,2,Göteborg,9370,4,2,Örebro,9379,1,10,2008-04-06T15:00+0200,Allsvenskan,27773,Niclas Alexandersson,43,home,2,0,11,11,0,0
+1056655,2,Göteborg,9370,4,2,Örebro,9379,1,10,2008-04-06T15:00+0200,Allsvenskan,27773,Pontus Wernbloom,48,home,3,0,11,11,0,0
+1056655,2,Göteborg,9370,4,2,Örebro,9379,1,10,2008-04-06T15:00+0200,Allsvenskan,27773,Niclas Alexandersson,62,home,4,0,11,11,0,0
+1056655,2,Göteborg,9370,4,2,Örebro,9379,1,10,2008-04-06T15:00+0200,Allsvenskan,27773,Magnus Kihlberg,85,visiting,4,1,11,11,0,0
+1056652,2,Helsingborg,9373,1,3,Halmstad,9371,1,7,2008-04-06T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056652,2,Helsingborg,9373,1,3,Halmstad,9371,1,7,2008-04-06T17:45+0200,Allsvenskan,27773,René Makondele,8,home,1,0,11,11,0,0
+1056652,2,Helsingborg,9373,1,3,Halmstad,9371,1,7,2008-04-06T17:45+0200,Allsvenskan,27773,Martin Fribrock,45,visiting,1,1,11,11,0,0
+1056656,2,Kalmar FF,9374,3,5,Ljungskile,9391,1,15,2008-04-07T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056656,2,Kalmar FF,9374,3,5,Ljungskile,9391,1,15,2008-04-07T19:00+0200,Allsvenskan,27773,Viktor Elm,36,home,1,0,11,11,0,0
+1056656,2,Kalmar FF,9374,3,5,Ljungskile,9391,1,15,2008-04-07T19:00+0200,Allsvenskan,27773,Rasmus Elm,59,home,2,0,11,11,0,0
+1056656,2,Kalmar FF,9374,3,5,Ljungskile,9391,1,15,2008-04-07T19:00+0200,Allsvenskan,27773,Aleksandar Kitic,63,visiting,2,1,11,11,0,0
+1056656,2,Kalmar FF,9374,3,5,Ljungskile,9391,1,15,2008-04-07T19:00+0200,Allsvenskan,27773,Cesar Santin,65,home,3,1,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Petter Andersson,12,home,1,0,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Hannes Sigurdsson,15,visiting,1,1,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Stefan Ålander,30,visiting,1,2,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Erkan Zengin,45,home,2,2,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Paulinho Guará,58,home,3,2,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Haris Laitinen,80,home,4,2,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Charlie Davies,83,home,5,2,11,11,0,0
+1056657,2,Hammarby,9372,5,1,GIF Sundsvall,9407,3,16,2008-04-07T19:00+0200,Allsvenskan,27773,Hannes Sigurdsson,90,visiting,5,3,11,11,0,0
+1056658,2,Elfsborg,9369,3,4,AIK,9367,0,13,2008-04-07T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056658,2,Elfsborg,9369,3,4,AIK,9367,0,13,2008-04-07T20:00+0200,Allsvenskan,27773,Stefan Ishizaki,38,home,1,0,11,11,0,0
+1056658,2,Elfsborg,9369,3,4,AIK,9367,0,13,2008-04-07T20:00+0200,Allsvenskan,27773,Joakim Sjöhage,43,home,2,0,11,11,0,0
+1056658,2,Elfsborg,9369,3,4,AIK,9367,0,13,2008-04-07T20:00+0200,Allsvenskan,27773,Denni Avdic,54,home,3,0,11,11,0,0
+1056659,3,Norrköping,9376,1,14,Trelleborgs FF,9377,1,8,2008-04-09T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056659,3,Norrköping,9376,1,14,Trelleborgs FF,9377,1,8,2008-04-09T19:00+0200,Allsvenskan,27773,självmål,32,home,1,0,11,11,0,0
+1056659,3,Norrköping,9376,1,14,Trelleborgs FF,9377,1,8,2008-04-09T19:00+0200,Allsvenskan,27773,Erik Sundin,77,visiting,1,1,11,11,0,0
+1056661,3,Gefle,9400,1,11,Djurgården,9368,2,3,2008-04-09T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056661,3,Gefle,9400,1,11,Djurgården,9368,2,3,2008-04-09T19:00+0200,Allsvenskan,27773,Johan Oremo,12,home,1,0,11,11,0,0
+1056661,3,Gefle,9400,1,11,Djurgården,9368,2,3,2008-04-09T19:00+0200,Allsvenskan,27773,Sebastian Rajalakso,24,visiting,1,1,11,11,0,0
+1056661,3,Gefle,9400,1,11,Djurgården,9368,2,3,2008-04-09T19:00+0200,Allsvenskan,27773,Jones Kusi-Asare,30,visiting,1,2,11,11,0,0
+1056660,3,Halmstad,9371,1,7,Göteborg,9370,1,5,2008-04-09T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056660,3,Halmstad,9371,1,7,Göteborg,9370,1,5,2008-04-09T19:45+0200,Allsvenskan,27773,Peter Larsson,25,home,1,0,11,11,0,0
+1056660,3,Halmstad,9371,1,7,Göteborg,9370,1,5,2008-04-09T19:45+0200,Allsvenskan,27773,Thomas Olsson,42,visiting,1,1,11,11,0,0
+1056662,3,Ljungskile,9391,0,15,Helsingborg,9373,2,1,2008-04-10T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056662,3,Ljungskile,9391,0,15,Helsingborg,9373,2,1,2008-04-10T19:00+0200,Allsvenskan,27773,Andreas Granqvist,59,visiting,0,1,11,11,0,0
+1056662,3,Ljungskile,9391,0,15,Helsingborg,9373,2,1,2008-04-10T19:00+0200,Allsvenskan,27773,Henrik Larsson,63,visiting,0,2,11,11,0,0
+1056663,3,Malmö FF,9375,1,12,Elfsborg,9369,1,6,2008-04-10T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056663,3,Malmö FF,9375,1,12,Elfsborg,9369,1,6,2008-04-10T19:00+0200,Allsvenskan,27773,Emir Bajrami,19,visiting,0,1,11,11,0,0
+1056663,3,Malmö FF,9375,1,12,Elfsborg,9369,1,6,2008-04-10T19:00+0200,Allsvenskan,27773,Guillermo Molins,33,home,1,1,11,11,0,0
+1056664,3,AIK,9367,1,10,GIF Sundsvall,9407,0,16,2008-04-10T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056664,3,AIK,9367,1,10,GIF Sundsvall,9407,0,16,2008-04-10T19:00+0200,Allsvenskan,27773,Lucas Valdemarin,25,home,1,0,11,11,0,0
+1056665,3,Gais,9382,2,9,Hammarby,9372,0,4,2008-04-10T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056665,3,Gais,9382,2,9,Hammarby,9372,0,4,2008-04-10T19:00+0200,Allsvenskan,27773,Wanderson do Carmo,17,home,1,0,11,11,0,0
+1056665,3,Gais,9382,2,9,Hammarby,9372,0,4,2008-04-10T19:00+0200,Allsvenskan,27773,Björn Andersson,88,home,2,0,11,11,0,0
+1056666,3,Örebro,9379,0,13,Kalmar FF,9374,1,2,2008-04-10T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056666,3,Örebro,9379,0,13,Kalmar FF,9374,1,2,2008-04-10T20:00+0200,Allsvenskan,27773,Patrik Ingelsten,80,visiting,0,1,11,11,0,0
+1056667,4,Göteborg,9370,4,3,Norrköping,9376,0,15,2008-04-12T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056667,4,Göteborg,9370,4,3,Norrköping,9376,0,15,2008-04-12T16:00+0200,Allsvenskan,27773,självmål,42,home,1,0,11,11,0,0
+1056667,4,Göteborg,9370,4,3,Norrköping,9376,0,15,2008-04-12T16:00+0200,Allsvenskan,27773,Tobias Hysén,53,home,2,0,11,11,0,0
+1056667,4,Göteborg,9370,4,3,Norrköping,9376,0,15,2008-04-12T16:00+0200,Allsvenskan,27773,Gustav Svensson,72,home,3,0,11,11,0,0
+1056667,4,Göteborg,9370,4,3,Norrköping,9376,0,15,2008-04-12T16:00+0200,Allsvenskan,27773,Mathias Ranégie,77,home,4,0,11,11,0,0
+1056668,4,Helsingborg,9373,2,4,Gefle,9400,2,10,2008-04-13T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056668,4,Helsingborg,9373,2,4,Gefle,9400,2,10,2008-04-13T15:00+0200,Allsvenskan,27773,Christoffer Andersson,28,home,1,0,11,11,0,0
+1056668,4,Helsingborg,9373,2,4,Gefle,9400,2,10,2008-04-13T15:00+0200,Allsvenskan,27773,Hans Berggren,57,visiting,1,1,11,11,0,0
+1056668,4,Helsingborg,9373,2,4,Gefle,9400,2,10,2008-04-13T15:00+0200,Allsvenskan,27773,Självmål,83,home,2,1,11,11,0,0
+1056668,4,Helsingborg,9373,2,4,Gefle,9400,2,10,2008-04-13T15:00+0200,Allsvenskan,27773,Amadou Jawo,90,visiting,2,2,11,11,0,0
+1056670,4,Djurgården,9368,2,2,Halmstad,9371,1,8,2008-04-13T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056670,4,Djurgården,9368,2,2,Halmstad,9371,1,8,2008-04-13T15:00+0200,Allsvenskan,27773,Sebastian Rajalakso,7,home,1,0,11,11,0,0
+1056670,4,Djurgården,9368,2,2,Halmstad,9371,1,8,2008-04-13T15:00+0200,Allsvenskan,27773,Sölvi Ottesen,71,home,2,0,11,11,0,0
+1056670,4,Djurgården,9368,2,2,Halmstad,9371,1,8,2008-04-13T15:00+0200,Allsvenskan,27773,Anselmo,77,visiting,2,1,11,11,0,0
+1056671,4,Elfsborg,9369,0,6,Örebro,9379,0,12,2008-04-13T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056669,4,Trelleborgs FF,9377,0,7,Malmö FF,9375,0,11,2008-04-13T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056672,4,GIF Sundsvall,9407,4,14,Ljungskile,9391,0,16,2008-04-14T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056672,4,GIF Sundsvall,9407,4,14,Ljungskile,9391,0,16,2008-04-14T19:00+0200,Allsvenskan,27773,Mikael Lustig,47,home,1,0,11,11,0,0
+1056672,4,GIF Sundsvall,9407,4,14,Ljungskile,9391,0,16,2008-04-14T19:00+0200,Allsvenskan,27773,Robert Mambo Mumba,51,home,2,0,11,11,0,0
+1056672,4,GIF Sundsvall,9407,4,14,Ljungskile,9391,0,16,2008-04-14T19:00+0200,Allsvenskan,27773,Johan Patriksson,53,home,3,0,11,11,0,0
+1056672,4,GIF Sundsvall,9407,4,14,Ljungskile,9391,0,16,2008-04-14T19:00+0200,Allsvenskan,27773,Hannes Sigurdsson,73,home,4,0,11,11,0,0
+1056673,4,Kalmar FF,9374,4,1,Gais,9382,0,13,2008-04-14T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056673,4,Kalmar FF,9374,4,1,Gais,9382,0,13,2008-04-14T19:00+0200,Allsvenskan,27773,Viktor Elm,43,home,1,0,11,11,0,0
+1056673,4,Kalmar FF,9374,4,1,Gais,9382,0,13,2008-04-14T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,46,home,2,0,11,11,0,0
+1056673,4,Kalmar FF,9374,4,1,Gais,9382,0,13,2008-04-14T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,55,home,3,0,11,11,0,0
+1056673,4,Kalmar FF,9374,4,1,Gais,9382,0,13,2008-04-14T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,79,home,4,0,11,11,0,0
+1056674,4,Hammarby,9372,1,5,AIK,9367,1,9,2008-04-14T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056674,4,Hammarby,9372,1,5,AIK,9367,1,9,2008-04-14T20:00+0200,Allsvenskan,27773,Louay Chanko,67,home,1,0,11,10,0,0
+1056674,4,Hammarby,9372,1,5,AIK,9367,1,9,2008-04-14T20:00+0200,Allsvenskan,27773,Jorge Ortiz,90,visiting,1,1,11,10,0,0
+1056676,5,Norrköping,9376,1,16,Halmstad,9371,3,6,2008-04-16T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056676,5,Norrköping,9376,1,16,Halmstad,9371,3,6,2008-04-16T19:00+0200,Allsvenskan,27773,Peter Larsson,2,visiting,0,1,11,11,0,0
+1056676,5,Norrköping,9376,1,16,Halmstad,9371,3,6,2008-04-16T19:00+0200,Allsvenskan,27773,Peter Larsson,24,visiting,0,2,11,11,0,0
+1056676,5,Norrköping,9376,1,16,Halmstad,9371,3,6,2008-04-16T19:00+0200,Allsvenskan,27773,Ajsel Kujovic,82,visiting,0,3,11,11,0,0
+1056676,5,Norrköping,9376,1,16,Halmstad,9371,3,6,2008-04-16T19:00+0200,Allsvenskan,27773,Riki Cakic,84,home,1,3,11,11,0,0
+1056677,5,Malmö FF,9375,2,8,Gefle,9400,0,13,2008-04-16T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056677,5,Malmö FF,9375,2,8,Gefle,9400,0,13,2008-04-16T19:00+0200,Allsvenskan,27773,Guillermo Molins,12,home,1,0,11,11,0,0
+1056677,5,Malmö FF,9375,2,8,Gefle,9400,0,13,2008-04-16T19:00+0200,Allsvenskan,27773,Jimmy Dixon,54,home,2,0,11,11,0,0
+1056675,5,Örebro,9379,1,11,Djurgården,9368,1,2,2008-04-16T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056675,5,Örebro,9379,1,11,Djurgården,9368,1,2,2008-04-16T20:00+0200,Allsvenskan,27773,Kristoffer Näfver,7,home,1,0,11,11,0,0
+1056675,5,Örebro,9379,1,11,Djurgården,9368,1,2,2008-04-16T20:00+0200,Allsvenskan,27773,Sebastian Rajalakso,70,visiting,1,1,11,11,0,0
+1056678,5,GIF Sundsvall,9407,0,14,Kalmar FF,9374,2,1,2008-04-17T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056678,5,GIF Sundsvall,9407,0,14,Kalmar FF,9374,2,1,2008-04-17T19:00+0200,Allsvenskan,27773,Viktor Elm,28,visiting,0,1,11,11,0,0
+1056678,5,GIF Sundsvall,9407,0,14,Kalmar FF,9374,2,1,2008-04-17T19:00+0200,Allsvenskan,27773,Marcus Lindberg,67,visiting,0,2,11,11,0,0
+1056679,5,Ljungskile,9391,1,15,Elfsborg,9369,0,9,2008-04-17T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056679,5,Ljungskile,9391,1,15,Elfsborg,9369,0,9,2008-04-17T19:00+0200,Allsvenskan,27773,Martin Smedberg-Dalence,87,home,1,0,11,11,0,0
+1056680,5,Hammarby,9372,2,3,Helsingborg,9373,1,5,2008-04-17T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056680,5,Hammarby,9372,2,3,Helsingborg,9373,1,5,2008-04-17T19:00+0200,Allsvenskan,27773,Paulinho Guará,3,home,1,0,11,11,0,0
+1056680,5,Hammarby,9372,2,3,Helsingborg,9373,1,5,2008-04-17T19:00+0200,Allsvenskan,27773,Petter Andersson,23,home,2,0,11,11,0,0
+1056680,5,Hammarby,9372,2,3,Helsingborg,9373,1,5,2008-04-17T19:00+0200,Allsvenskan,27773,Razak Omotoyossi,40,visiting,2,1,11,11,0,0
+1056681,5,Gais,9382,0,12,Göteborg,9370,0,4,2008-04-17T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056682,5,AIK,9367,1,7,Trelleborgs FF,9377,0,10,2008-04-18T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056682,5,AIK,9367,1,7,Trelleborgs FF,9377,0,10,2008-04-18T19:00+0200,Allsvenskan,27773,Ivan Obolo,48,home,1,0,11,11,0,0
+1056684,6,Kalmar FF,9374,1,1,Hammarby,9372,0,5,2008-04-20T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056684,6,Kalmar FF,9374,1,1,Hammarby,9372,0,5,2008-04-20T15:00+0200,Allsvenskan,27773,Patrik Ingelsten,90,home,1,0,11,10,0,0
+1056685,6,Elfsborg,9369,2,7,GIF Sundsvall,9407,0,15,2008-04-20T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056685,6,Elfsborg,9369,2,7,GIF Sundsvall,9407,0,15,2008-04-20T15:00+0200,Allsvenskan,27773,Daniel Mobaeck,9,home,1,0,11,11,0,0
+1056685,6,Elfsborg,9369,2,7,GIF Sundsvall,9407,0,15,2008-04-20T15:00+0200,Allsvenskan,27773,Fredrik Berglund,74,home,2,0,11,11,0,0
+1056686,6,Gefle,9400,0,14,Örebro,9379,1,9,2008-04-20T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056686,6,Gefle,9400,0,14,Örebro,9379,1,9,2008-04-20T15:00+0200,Allsvenskan,27773,Patrik Haginge,71,visiting,0,1,11,11,0,0
+1056683,6,Helsingborg,9373,2,6,Norrköping,9376,2,16,2008-04-20T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056683,6,Helsingborg,9373,2,6,Norrköping,9376,2,16,2008-04-20T17:45+0200,Allsvenskan,27773,Marcin Burkhardt,27,visiting,0,1,11,11,0,0
+1056683,6,Helsingborg,9373,2,6,Norrköping,9376,2,16,2008-04-20T17:45+0200,Allsvenskan,27773,Henrik Larsson,47,home,1,1,11,11,0,0
+1056683,6,Helsingborg,9373,2,6,Norrköping,9376,2,16,2008-04-20T17:45+0200,Allsvenskan,27773,Självmål,49,home,2,1,11,11,0,0
+1056683,6,Helsingborg,9373,2,6,Norrköping,9376,2,16,2008-04-20T17:45+0200,Allsvenskan,27773,Kristoffer Arvhage,90,visiting,2,2,11,11,1,1
+1056687,6,Trelleborgs FF,9377,1,13,Ljungskile,9391,2,12,2008-04-21T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056687,6,Trelleborgs FF,9377,1,13,Ljungskile,9391,2,12,2008-04-21T19:00+0200,Allsvenskan,27773,Cedomir Zarkovic,6,visiting,0,1,11,11,0,0
+1056687,6,Trelleborgs FF,9377,1,13,Ljungskile,9391,2,12,2008-04-21T19:00+0200,Allsvenskan,27773,Martin Smedberg-Dalence,26,visiting,0,2,11,11,0,0
+1056687,6,Trelleborgs FF,9377,1,13,Ljungskile,9391,2,12,2008-04-21T19:00+0200,Allsvenskan,27773,Rasmus Bengtsson,75,home,1,2,11,11,0,0
+1056688,6,Göteborg,9370,2,2,AIK,9367,0,10,2008-04-21T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056688,6,Göteborg,9370,2,2,AIK,9367,0,10,2008-04-21T19:00+0200,Allsvenskan,27773,Jonathan Berg,10,home,1,0,11,11,0,0
+1056688,6,Göteborg,9370,2,2,AIK,9367,0,10,2008-04-21T19:00+0200,Allsvenskan,27773,Jonas Wallerstedt,14,home,2,0,11,11,0,0
+1056689,6,Djurgården,9368,0,3,Gais,9382,0,11,2008-04-21T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056690,6,Halmstad,9371,2,8,Malmö FF,9375,3,4,2008-04-21T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056690,6,Halmstad,9371,2,8,Malmö FF,9375,3,4,2008-04-21T20:00+0200,Allsvenskan,27773,Alexander Prent,6,home,1,0,11,11,0,0
+1056690,6,Halmstad,9371,2,8,Malmö FF,9375,3,4,2008-04-21T20:00+0200,Allsvenskan,27773,Christian Järdler,46,visiting,1,1,11,11,0,0
+1056690,6,Halmstad,9371,2,8,Malmö FF,9375,3,4,2008-04-21T20:00+0200,Allsvenskan,27773,Ola Toivonen,73,visiting,1,2,11,11,0,0
+1056690,6,Halmstad,9371,2,8,Malmö FF,9375,3,4,2008-04-21T20:00+0200,Allsvenskan,27773,Anselmo,85,home,2,2,11,11,0,0
+1056690,6,Halmstad,9371,2,8,Malmö FF,9375,3,4,2008-04-21T20:00+0200,Allsvenskan,27773,Labinot Harbuzi,90,visiting,2,3,11,11,0,0
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,3,home,1,0,11,11,0,0
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,Viktor Elm,18,home,2,0,11,11,0,0
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,Christoffer Andersson,49,visiting,2,1,11,11,0,0
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,David Elm,53,home,3,1,11,11,0,0
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,Självmål,63,visiting,3,2,11,11,0,0
+1056692,7,Kalmar FF,9374,4,1,Helsingborg,9373,2,8,2008-04-23T19:00+0200,Allsvenskan,27773,Viktor Elm,67,home,4,2,11,11,0,0
+1056691,7,Hammarby,9372,0,6,Elfsborg,9369,0,7,2008-04-23T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056693,7,GIF Sundsvall,9407,2,15,Trelleborgs FF,9377,2,13,2008-04-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056693,7,GIF Sundsvall,9407,2,15,Trelleborgs FF,9377,2,13,2008-04-24T19:00+0200,Allsvenskan,27773,Johan Patriksson,14,home,1,0,11,11,0,0
+1056693,7,GIF Sundsvall,9407,2,15,Trelleborgs FF,9377,2,13,2008-04-24T19:00+0200,Allsvenskan,27773,Hannes Sigurdsson,19,home,2,0,11,11,0,0
+1056693,7,GIF Sundsvall,9407,2,15,Trelleborgs FF,9377,2,13,2008-04-24T19:00+0200,Allsvenskan,27773,Andreas Drugge,38,visiting,2,1,11,11,0,0
+1056693,7,GIF Sundsvall,9407,2,15,Trelleborgs FF,9377,2,13,2008-04-24T19:00+0200,Allsvenskan,27773,Magnus Andersson,77,visiting,2,2,11,11,0,0
+1056694,7,Örebro,9379,0,12,Halmstad,9371,1,5,2008-04-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056694,7,Örebro,9379,0,12,Halmstad,9371,1,5,2008-04-24T19:00+0200,Allsvenskan,27773,Anselmo,3,visiting,0,1,11,11,0,0
+1056695,7,Gais,9382,2,9,Gefle,9400,0,14,2008-04-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056695,7,Gais,9382,2,9,Gefle,9400,0,14,2008-04-24T19:00+0200,Allsvenskan,27773,Eyjólfur Hédinsson,40,home,1,0,11,11,0,0
+1056695,7,Gais,9382,2,9,Gefle,9400,0,14,2008-04-24T19:00+0200,Allsvenskan,27773,Daniel Nicklasson,85,home,2,0,11,11,0,0
+1056696,7,Malmö FF,9375,2,2,Norrköping,9376,1,16,2008-04-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056696,7,Malmö FF,9375,2,2,Norrköping,9376,1,16,2008-04-24T19:00+0200,Allsvenskan,27773,Ola Toivonen,26,home,1,0,11,11,0,0
+1056696,7,Malmö FF,9375,2,2,Norrköping,9376,1,16,2008-04-24T19:00+0200,Allsvenskan,27773,Ola Toivonen,46,home,2,0,11,10,0,0
+1056696,7,Malmö FF,9375,2,2,Norrköping,9376,1,16,2008-04-24T19:00+0200,Allsvenskan,27773,Richard Spong,72,visiting,2,1,11,10,0,0
+1056697,7,AIK,9367,1,10,Djurgården,9368,1,3,2008-04-24T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056697,7,AIK,9367,1,10,Djurgården,9368,1,3,2008-04-24T20:00+0200,Allsvenskan,27773,Daniel Mendes,3,home,1,0,11,11,0,0
+1056697,7,AIK,9367,1,10,Djurgården,9368,1,3,2008-04-24T20:00+0200,Allsvenskan,27773,Thiago Quirino da Silva,78,visiting,1,1,11,11,0,0
+1056698,7,Ljungskile,9391,2,11,Göteborg,9370,1,4,2008-04-25T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056698,7,Ljungskile,9391,2,11,Göteborg,9370,1,4,2008-04-25T19:00+0200,Allsvenskan,27773,Andreas Kristoffersson,6,home,1,0,11,11,0,0
+1056698,7,Ljungskile,9391,2,11,Göteborg,9370,1,4,2008-04-25T19:00+0200,Allsvenskan,27773,Pontus Wernbloom,21,visiting,1,1,11,11,0,0
+1056698,7,Ljungskile,9391,2,11,Göteborg,9370,1,4,2008-04-25T19:00+0200,Allsvenskan,27773,Andreas Kristoffersson,58,home,2,1,11,11,0,0
+1056699,8,Elfsborg,9369,1,4,Kalmar FF,9374,0,1,2008-04-26T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056699,8,Elfsborg,9369,1,4,Kalmar FF,9374,0,1,2008-04-26T16:00+0200,Allsvenskan,27773,Fredrik Berglund,3,home,1,0,11,11,0,0
+1056700,8,Trelleborgs FF,9377,1,11,Hammarby,9372,0,9,2008-04-27T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056700,8,Trelleborgs FF,9377,1,11,Hammarby,9372,0,9,2008-04-27T15:00+0200,Allsvenskan,27773,Michael Mensah,25,home,1,0,11,11,0,0
+1056701,8,Halmstad,9371,0,7,Gais,9382,0,10,2008-04-27T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056702,8,Gefle,9400,0,14,AIK,9367,1,8,2008-04-27T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056702,8,Gefle,9400,0,14,AIK,9367,1,8,2008-04-27T17:45+0200,Allsvenskan,27773,Ivan Obolo,14,visiting,0,1,11,11,0,0
+1056703,8,Norrköping,9376,0,16,Örebro,9379,0,12,2008-04-28T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056704,8,Göteborg,9370,1,3,GIF Sundsvall,9407,0,15,2008-04-28T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056704,8,Göteborg,9370,1,3,GIF Sundsvall,9407,0,15,2008-04-28T19:00+0200,Allsvenskan,27773,Ragnar Sigurdsson,59,home,1,0,11,11,0,0
+1056705,8,Djurgården,9368,2,2,Ljungskile,9391,1,13,2008-04-28T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056705,8,Djurgården,9368,2,2,Ljungskile,9391,1,13,2008-04-28T19:00+0200,Allsvenskan,27773,Mattias Jonson,12,home,1,0,11,11,0,0
+1056705,8,Djurgården,9368,2,2,Ljungskile,9391,1,13,2008-04-28T19:00+0200,Allsvenskan,27773,Andreas Kristoffersson,73,visiting,1,1,11,11,0,0
+1056705,8,Djurgården,9368,2,2,Ljungskile,9391,1,13,2008-04-28T19:00+0200,Allsvenskan,27773,Sölvi Ottesen,87,home,2,1,11,11,0,0
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,Razak Omotoyossi,2,home,1,0,11,11,0,0
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,Jonatan Johansson,9,visiting,1,1,11,11,0,0
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,Henrik Larsson,24,home,2,1,11,11,0,0
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,Henrik Larsson,63,home,3,1,11,11,0,0
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,Jonatan Johansson,65,visiting,3,2,11,11,0,0
+1056706,8,Helsingborg,9373,4,6,Malmö FF,9375,2,5,2008-04-28T20:00+0200,Allsvenskan,27773,Marcus Lantz,77,home,4,2,11,11,0,0
+1056707,9,Elfsborg,9369,1,4,Helsingborg,9373,0,7,2008-05-03T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056707,9,Elfsborg,9369,1,4,Helsingborg,9373,0,7,2008-05-03T16:00+0200,Allsvenskan,27773,Daniel Mobaeck,33,home,1,0,11,11,0,0
+1056708,9,GIF Sundsvall,9407,0,15,Djurgården,9368,0,2,2008-05-04T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056709,9,Örebro,9379,0,13,Malmö FF,9375,3,5,2008-05-04T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056709,9,Örebro,9379,0,13,Malmö FF,9375,3,5,2008-05-04T16:00+0200,Allsvenskan,27773,Edward Ofere,29,visiting,0,1,11,11,0,0
+1056709,9,Örebro,9379,0,13,Malmö FF,9375,3,5,2008-05-04T16:00+0200,Allsvenskan,27773,Jonatan Johansson,40,visiting,0,2,11,11,0,0
+1056709,9,Örebro,9379,0,13,Malmö FF,9375,3,5,2008-05-04T16:00+0200,Allsvenskan,27773,Edward Ofere,47,visiting,0,3,11,11,0,0
+1056711,9,Kalmar FF,9374,1,1,Trelleborgs FF,9377,0,12,2008-05-04T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056711,9,Kalmar FF,9374,1,1,Trelleborgs FF,9377,0,12,2008-05-04T16:00+0200,Allsvenskan,27773,Cesar Santin,23,home,1,0,11,11,0,0
+1056710,9,Hammarby,9372,0,9,Göteborg,9370,0,3,2008-05-04T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056712,9,Ljungskile,9391,0,11,Gefle,9400,0,14,2008-05-05T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056713,9,Gais,9382,0,10,Norrköping,9376,0,16,2008-05-05T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056714,9,AIK,9367,1,6,Halmstad,9371,0,8,2008-05-05T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056714,9,AIK,9367,1,6,Halmstad,9371,0,8,2008-05-05T20:00+0200,Allsvenskan,27773,Kenny Pavey,89,home,1,0,11,11,0,0
+1056715,10,Trelleborgs FF,9377,0,12,Elfsborg,9369,2,3,2008-05-07T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056715,10,Trelleborgs FF,9377,0,12,Elfsborg,9369,2,3,2008-05-07T19:00+0200,Allsvenskan,27773,självmål,13,visiting,0,1,11,11,0,0
+1056715,10,Trelleborgs FF,9377,0,12,Elfsborg,9369,2,3,2008-05-07T19:00+0200,Allsvenskan,27773,självmål,29,visiting,0,2,11,11,0,0
+1056716,10,Helsingborg,9373,1,7,Örebro,9379,0,13,2008-05-07T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056716,10,Helsingborg,9373,1,7,Örebro,9379,0,13,2008-05-07T19:00+0200,Allsvenskan,27773,Henrik Larsson,36,home,1,0,11,11,0,0
+1056717,10,Göteborg,9370,3,2,Kalmar FF,9374,2,1,2008-05-07T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056717,10,Göteborg,9370,3,2,Kalmar FF,9374,2,1,2008-05-07T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,7,visiting,0,1,11,11,0,0
+1056717,10,Göteborg,9370,3,2,Kalmar FF,9374,2,1,2008-05-07T19:00+0200,Allsvenskan,27773,Cesar Santin,39,visiting,0,2,11,11,0,0
+1056717,10,Göteborg,9370,3,2,Kalmar FF,9374,2,1,2008-05-07T19:00+0200,Allsvenskan,27773,Jonas Wallerstedt,52,home,1,2,11,11,0,0
+1056717,10,Göteborg,9370,3,2,Kalmar FF,9374,2,1,2008-05-07T19:00+0200,Allsvenskan,27773,Jonas Wallerstedt,55,home,2,2,11,11,0,0
+1056717,10,Göteborg,9370,3,2,Kalmar FF,9374,2,1,2008-05-07T19:00+0200,Allsvenskan,27773,Gustav Svensson,60,home,3,2,11,11,0,0
+1056718,10,Djurgården,9368,0,6,Hammarby,9372,2,9,2008-05-07T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056718,10,Djurgården,9368,0,6,Hammarby,9372,2,9,2008-05-07T20:00+0200,Allsvenskan,27773,Paulinho Guará,58,visiting,0,1,11,11,0,0
+1056718,10,Djurgården,9368,0,6,Hammarby,9372,2,9,2008-05-07T20:00+0200,Allsvenskan,27773,Charlie Davies,89,visiting,0,2,11,11,0,0
+1056719,10,Halmstad,9371,3,8,Ljungskile,9391,2,11,2008-05-08T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056719,10,Halmstad,9371,3,8,Ljungskile,9391,2,11,2008-05-08T19:00+0200,Allsvenskan,27773,Anselmo,3,home,1,0,11,11,0,0
+1056719,10,Halmstad,9371,3,8,Ljungskile,9391,2,11,2008-05-08T19:00+0200,Allsvenskan,27773,Emir Kujovic,56,home,2,0,11,11,0,0
+1056719,10,Halmstad,9371,3,8,Ljungskile,9391,2,11,2008-05-08T19:00+0200,Allsvenskan,27773,Marcus Olsson,66,home,3,0,11,11,0,0
+1056719,10,Halmstad,9371,3,8,Ljungskile,9391,2,11,2008-05-08T19:00+0200,Allsvenskan,27773,Andreas Kristoffersson,79,visiting,3,1,11,11,0,0
+1056719,10,Halmstad,9371,3,8,Ljungskile,9391,2,11,2008-05-08T19:00+0200,Allsvenskan,27773,Andreas Kristoffersson,87,visiting,3,2,11,11,0,0
+1056721,10,Malmö FF,9375,1,5,Gais,9382,1,10,2008-05-08T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056721,10,Malmö FF,9375,1,5,Gais,9382,1,10,2008-05-08T19:00+0200,Allsvenskan,27773,Levon Pachajyan,47,visiting,0,1,11,11,0,0
+1056721,10,Malmö FF,9375,1,5,Gais,9382,1,10,2008-05-08T19:00+0200,Allsvenskan,27773,självmål,90,home,1,1,11,11,0,0
+1056722,10,Gefle,9400,2,14,GIF Sundsvall,9407,0,15,2008-05-08T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056722,10,Gefle,9400,2,14,GIF Sundsvall,9407,0,15,2008-05-08T19:00+0200,Allsvenskan,27773,Johan Oremo,13,home,1,0,11,11,0,0
+1056722,10,Gefle,9400,2,14,GIF Sundsvall,9407,0,15,2008-05-08T19:00+0200,Allsvenskan,27773,Yannick Bapupa,53,home,2,0,11,11,0,0
+1056720,10,Norrköping,9376,1,16,AIK,9367,2,4,2008-05-08T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056720,10,Norrköping,9376,1,16,AIK,9367,2,4,2008-05-08T19:45+0200,Allsvenskan,27773,Dulee Johnson,46,visiting,0,1,11,11,0,0
+1056720,10,Norrköping,9376,1,16,AIK,9367,2,4,2008-05-08T19:45+0200,Allsvenskan,27773,Daniel Mendes,56,visiting,0,2,11,11,0,0
+1056720,10,Norrköping,9376,1,16,AIK,9367,2,4,2008-05-08T19:45+0200,Allsvenskan,27773,Kevin Amuneke,75,home,1,2,11,11,0,0
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,Cesar Santin,7,home,1,0,11,11,0,0
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,Jones Kusi-Asare,13,visiting,1,1,11,11,0,0
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,Patrik Ingelsten,14,home,2,1,11,11,0,0
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,Viktor Elm,56,home,3,1,11,10,0,0
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,David Elm,82,home,4,1,11,10,0,0
+1056723,11,Kalmar FF,9374,5,1,Djurgården,9368,1,8,2008-05-10T16:00+0200,Allsvenskan,27773,Abiola Dauda,90,home,5,1,11,10,0,0
+1056724,11,Ljungskile,9391,0,11,Norrköping,9376,2,16,2008-05-11T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056724,11,Ljungskile,9391,0,11,Norrköping,9376,2,16,2008-05-11T16:00+0200,Allsvenskan,27773,Kevin Amuneke,16,visiting,0,1,11,11,0,0
+1056724,11,Ljungskile,9391,0,11,Norrköping,9376,2,16,2008-05-11T16:00+0200,Allsvenskan,27773,Imad Khalili,49,visiting,0,2,11,11,0,0
+1056725,11,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,5,2008-05-11T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056725,11,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,5,2008-05-11T16:00+0200,Allsvenskan,27773,Henrik Larsson,4,visiting,0,1,11,11,0,0
+1056725,11,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,5,2008-05-11T16:00+0200,Allsvenskan,27773,Andreas Drugge,6,home,1,1,11,11,0,0
+1056725,11,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,5,2008-05-11T16:00+0200,Allsvenskan,27773,René Makondele,24,visiting,1,2,11,11,0,0
+1056725,11,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,5,2008-05-11T16:00+0200,Allsvenskan,27773,Marcus Lantz,72,visiting,1,3,11,11,0,0
+1056726,11,AIK,9367,2,3,Malmö FF,9375,0,7,2008-05-11T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056726,11,AIK,9367,2,3,Malmö FF,9375,0,7,2008-05-11T17:45+0200,Allsvenskan,27773,Khari Stephenson,86,home,1,0,11,11,0,0
+1056726,11,AIK,9367,2,3,Malmö FF,9375,0,7,2008-05-11T17:45+0200,Allsvenskan,27773,Daniel Mendes,89,home,2,0,11,11,0,0
+1056727,11,GIF Sundsvall,9407,2,15,Halmstad,9371,1,9,2008-05-12T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056727,11,GIF Sundsvall,9407,2,15,Halmstad,9371,1,9,2008-05-12T19:00+0200,Allsvenskan,27773,Tobias Eriksson,19,home,1,0,11,11,0,0
+1056727,11,GIF Sundsvall,9407,2,15,Halmstad,9371,1,9,2008-05-12T19:00+0200,Allsvenskan,27773,Anselmo,53,visiting,1,1,11,11,0,0
+1056727,11,GIF Sundsvall,9407,2,15,Halmstad,9371,1,9,2008-05-12T19:00+0200,Allsvenskan,27773,Tobias Eriksson,74,home,2,1,11,11,0,0
+1056728,11,Hammarby,9372,2,6,Gefle,9400,1,14,2008-05-12T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056728,11,Hammarby,9372,2,6,Gefle,9400,1,14,2008-05-12T19:00+0200,Allsvenskan,27773,Mathias Woxlin,41,visiting,0,1,11,11,0,0
+1056728,11,Hammarby,9372,2,6,Gefle,9400,1,14,2008-05-12T19:00+0200,Allsvenskan,27773,Charlie Davies,80,home,1,1,11,11,0,0
+1056728,11,Hammarby,9372,2,6,Gefle,9400,1,14,2008-05-12T19:00+0200,Allsvenskan,27773,Claudio Dadomo,90,home,2,1,11,11,0,0
+1056729,11,Gais,9382,3,10,Örebro,9379,0,13,2008-05-12T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056729,11,Gais,9382,3,10,Örebro,9379,0,13,2008-05-12T19:00+0200,Allsvenskan,27773,Wanderson do Carmo,19,home,1,0,11,11,0,0
+1056729,11,Gais,9382,3,10,Örebro,9379,0,13,2008-05-12T19:00+0200,Allsvenskan,27773,Daniel Morais Reis,45,home,2,0,11,11,0,0
+1056729,11,Gais,9382,3,10,Örebro,9379,0,13,2008-05-12T19:00+0200,Allsvenskan,27773,Daniel Morais Reis,46,home,3,0,11,11,0,0
+1056730,11,Elfsborg,9369,3,2,Göteborg,9370,0,4,2008-05-12T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056730,11,Elfsborg,9369,3,2,Göteborg,9370,0,4,2008-05-12T20:00+0200,Allsvenskan,27773,Fredrik Berglund,69,home,1,0,11,11,0,0
+1056730,11,Elfsborg,9369,3,2,Göteborg,9370,0,4,2008-05-12T20:00+0200,Allsvenskan,27773,Fredrik Berglund,74,home,2,0,11,11,0,0
+1056730,11,Elfsborg,9369,3,2,Göteborg,9370,0,4,2008-05-12T20:00+0200,Allsvenskan,27773,Stefan Ishizaki,90,home,3,0,11,11,0,0
+1056738,12,Göteborg,9370,0,6,Trelleborgs FF,9377,2,11,2008-07-01T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056738,12,Göteborg,9370,0,6,Trelleborgs FF,9377,2,11,2008-07-01T19:00+0200,Allsvenskan,27773,Paulino Lopes-Tavares,29,visiting,0,1,11,11,0,0
+1056738,12,Göteborg,9370,0,6,Trelleborgs FF,9377,2,11,2008-07-01T19:00+0200,Allsvenskan,27773,Fredrik Jensen,75,visiting,0,2,11,11,0,0
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,Cesar Santin,27,visiting,0,1,11,11,0,0
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,Yannick Bapupa,31,home,1,1,11,11,0,0
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,David Elm,37,visiting,1,2,11,11,0,0
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,Cesar Santin,41,visiting,1,3,11,11,0,0
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,David Elm,56,visiting,1,4,11,11,0,0
+1056731,12,Gefle,9400,1,15,Kalmar FF,9374,5,1,2008-07-02T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,88,visiting,1,5,11,11,0,0
+1056732,12,Norrköping,9376,0,16,GIF Sundsvall,9407,2,12,2008-07-02T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056732,12,Norrköping,9376,0,16,GIF Sundsvall,9407,2,12,2008-07-02T19:00+0200,Allsvenskan,27773,Linus Hallenius,88,visiting,0,1,11,11,0,0
+1056732,12,Norrköping,9376,0,16,GIF Sundsvall,9407,2,12,2008-07-02T19:00+0200,Allsvenskan,27773,Benny Mattsson,90,visiting,0,2,11,11,0,0
+1056733,12,Halmstad,9371,1,9,Hammarby,9372,1,7,2008-07-02T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056733,12,Halmstad,9371,1,9,Hammarby,9372,1,7,2008-07-02T19:00+0200,Allsvenskan,27773,Anselmo,14,home,1,0,11,11,0,0
+1056733,12,Halmstad,9371,1,9,Hammarby,9372,1,7,2008-07-02T19:00+0200,Allsvenskan,27773,Charlie Davies,80,visiting,1,1,10,11,0,0
+1056734,12,Djurgården,9368,0,8,Elfsborg,9369,2,2,2008-07-02T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056734,12,Djurgården,9368,0,8,Elfsborg,9369,2,2,2008-07-02T20:00+0200,Allsvenskan,27773,Anders Svensson,2,visiting,0,1,11,11,0,0
+1056734,12,Djurgården,9368,0,8,Elfsborg,9369,2,2,2008-07-02T20:00+0200,Allsvenskan,27773,Stefan Ishizaki,14,visiting,0,2,11,11,0,0
+1056735,12,Örebro,9379,1,14,AIK,9367,4,3,2008-07-03T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056735,12,Örebro,9379,1,14,AIK,9367,4,3,2008-07-03T19:00+0200,Allsvenskan,27773,Ivan Obolo,2,visiting,0,1,11,11,0,0
+1056735,12,Örebro,9379,1,14,AIK,9367,4,3,2008-07-03T19:00+0200,Allsvenskan,27773,Miran Burgic,30,visiting,0,2,11,11,0,0
+1056735,12,Örebro,9379,1,14,AIK,9367,4,3,2008-07-03T19:00+0200,Allsvenskan,27773,Ivan Obolo,34,visiting,0,3,11,11,0,0
+1056735,12,Örebro,9379,1,14,AIK,9367,4,3,2008-07-03T19:00+0200,Allsvenskan,27773,Jorge Anchén,63,visiting,0,4,11,11,0,0
+1056735,12,Örebro,9379,1,14,AIK,9367,4,3,2008-07-03T19:00+0200,Allsvenskan,27773,Samuel Wowoah,85,home,1,4,11,11,0,0
+1056736,12,Malmö FF,9375,2,5,Ljungskile,9391,1,13,2008-07-03T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056736,12,Malmö FF,9375,2,5,Ljungskile,9391,1,13,2008-07-03T19:00+0200,Allsvenskan,27773,Andreas Kristoffersson,17,visiting,0,1,11,11,0,0
+1056736,12,Malmö FF,9375,2,5,Ljungskile,9391,1,13,2008-07-03T19:00+0200,Allsvenskan,27773,Ola Toivonen,27,home,1,1,11,11,0,0
+1056736,12,Malmö FF,9375,2,5,Ljungskile,9391,1,13,2008-07-03T19:00+0200,Allsvenskan,27773,Ola Toivonen,75,home,2,1,11,11,0,0
+1056737,12,Helsingborg,9373,1,4,Gais,9382,0,10,2008-07-03T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056737,12,Helsingborg,9373,1,4,Gais,9382,0,10,2008-07-03T19:45+0200,Allsvenskan,27773,René Makondele,44,home,1,0,11,11,0,0
+1056743,13,Kalmar FF,9374,1,1,Halmstad,9371,1,9,2008-07-05T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056743,13,Kalmar FF,9374,1,1,Halmstad,9371,1,9,2008-07-05T16:00+0200,Allsvenskan,27773,Magnus Arvidsson,70,visiting,0,1,11,11,0,0
+1056743,13,Kalmar FF,9374,1,1,Halmstad,9371,1,9,2008-07-05T16:00+0200,Allsvenskan,27773,David Elm,90,home,1,1,11,11,0,0
+1056742,13,AIK,9367,2,3,Gais,9382,2,10,2008-07-06T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056742,13,AIK,9367,2,3,Gais,9382,2,10,2008-07-06T17:45+0200,Allsvenskan,27773,Levon Pachajyan,36,visiting,0,1,11,11,0,0
+1056742,13,AIK,9367,2,3,Gais,9382,2,10,2008-07-06T17:45+0200,Allsvenskan,27773,Ivan Obolo,49,home,1,1,11,11,0,0
+1056742,13,AIK,9367,2,3,Gais,9382,2,10,2008-07-06T17:45+0200,Allsvenskan,27773,Miran Burgic,57,home,2,1,11,11,0,0
+1056742,13,AIK,9367,2,3,Gais,9382,2,10,2008-07-06T17:45+0200,Allsvenskan,27773,Björn Andersson,71,visiting,2,2,11,11,0,0
+1056739,13,Trelleborgs FF,9377,1,11,Djurgården,9368,1,8,2008-07-06T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056739,13,Trelleborgs FF,9377,1,11,Djurgården,9368,1,8,2008-07-06T18:00+0200,Allsvenskan,27773,Mattias Jonson,38,visiting,0,1,11,11,0,0
+1056739,13,Trelleborgs FF,9377,1,11,Djurgården,9368,1,8,2008-07-06T18:00+0200,Allsvenskan,27773,Magnus Andersson,90,home,1,1,11,11,0,0
+1056740,13,GIF Sundsvall,9407,0,12,Malmö FF,9375,0,6,2008-07-06T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056741,13,Ljungskile,9391,0,15,Örebro,9379,1,13,2008-07-06T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056741,13,Ljungskile,9391,0,15,Örebro,9379,1,13,2008-07-06T18:00+0200,Allsvenskan,27773,Robin Staaf,89,visiting,0,1,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Petter Andersson,10,home,1,0,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Paulinho Guará,17,home,2,0,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Charlie Davies,45,home,3,0,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Gardar Gunnlaugson,51,visiting,3,1,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Petter Andersson,73,home,4,1,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Daniel Bamberg,78,visiting,4,2,11,11,0,0
+1056745,13,Hammarby,9372,4,5,Norrköping,9376,3,16,2008-07-07T19:00+0200,Allsvenskan,27773,Mikael Roth,83,visiting,4,3,11,11,0,0
+1056744,13,Göteborg,9370,1,7,Helsingborg,9373,1,4,2008-07-07T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056744,13,Göteborg,9370,1,7,Helsingborg,9373,1,4,2008-07-07T20:00+0200,Allsvenskan,27773,Jonas Wallerstedt,25,home,1,0,11,11,0,0
+1056744,13,Göteborg,9370,1,7,Helsingborg,9373,1,4,2008-07-07T20:00+0200,Allsvenskan,27773,Christoffer Andersson,73,visiting,1,1,11,11,0,0
+1056746,13,Elfsborg,9369,0,2,Gefle,9400,1,14,2008-07-09T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056746,13,Elfsborg,9369,0,2,Gefle,9400,1,14,2008-07-09T19:00+0200,Allsvenskan,27773,Hans Berggren,67,visiting,0,1,11,11,0,0
+1056747,14,Djurgården,9368,1,9,Göteborg,9370,2,6,2008-07-12T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056747,14,Djurgården,9368,1,9,Göteborg,9370,2,6,2008-07-12T16:00+0200,Allsvenskan,27773,Jan Tauer,37,home,1,0,11,11,0,0
+1056747,14,Djurgården,9368,1,9,Göteborg,9370,2,6,2008-07-12T16:00+0200,Allsvenskan,27773,Niclas Alexandersson,38,visiting,1,1,11,11,0,0
+1056747,14,Djurgården,9368,1,9,Göteborg,9370,2,6,2008-07-12T16:00+0200,Allsvenskan,27773,Robin Söder,90,visiting,1,2,11,11,0,0
+1056748,14,Norrköping,9376,1,16,Kalmar FF,9374,3,1,2008-07-13T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056748,14,Norrköping,9376,1,16,Kalmar FF,9374,3,1,2008-07-13T18:00+0200,Allsvenskan,27773,Cesar Santin,8,visiting,0,1,11,11,0,0
+1056748,14,Norrköping,9376,1,16,Kalmar FF,9374,3,1,2008-07-13T18:00+0200,Allsvenskan,27773,Viktor Elm,30,visiting,0,2,11,11,0,0
+1056748,14,Norrköping,9376,1,16,Kalmar FF,9374,3,1,2008-07-13T18:00+0200,Allsvenskan,27773,Cesar Santin,45,visiting,0,3,11,11,0,0
+1056748,14,Norrköping,9376,1,16,Kalmar FF,9374,3,1,2008-07-13T18:00+0200,Allsvenskan,27773,Daniel Bamberg,63,home,1,3,11,11,0,0
+1056749,14,Gefle,9400,0,14,Trelleborgs FF,9377,1,11,2008-07-13T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056749,14,Gefle,9400,0,14,Trelleborgs FF,9377,1,11,2008-07-13T18:00+0200,Allsvenskan,27773,Yousef Fakhro,59,visiting,0,1,11,11,0,0
+1056751,14,Örebro,9379,2,12,GIF Sundsvall,9407,1,13,2008-07-14T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056751,14,Örebro,9379,2,12,GIF Sundsvall,9407,1,13,2008-07-14T19:00+0200,Allsvenskan,27773,Robert Mambo Mumba,3,visiting,0,1,11,11,0,0
+1056751,14,Örebro,9379,2,12,GIF Sundsvall,9407,1,13,2008-07-14T19:00+0200,Allsvenskan,27773,Nordin Gerzic,32,home,1,1,11,11,0,0
+1056751,14,Örebro,9379,2,12,GIF Sundsvall,9407,1,13,2008-07-14T19:00+0200,Allsvenskan,27773,Eric Bassombeng,55,home,2,1,11,11,0,0
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,Charlie Davies,13,visiting,0,1,11,11,0,0
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,Jonatan Johansson,34,home,1,1,11,11,0,0
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,Carlos Gaete,36,visiting,1,2,11,11,0,0
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,Charlie Davies,43,visiting,1,3,11,11,0,0
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,David Johansson,70,visiting,1,4,11,11,0,0
+1056752,14,Malmö FF,9375,2,7,Hammarby,9372,4,4,2008-07-14T20:00+0200,Allsvenskan,27773,Ola Toivonen,78,home,2,4,11,11,0,0
+1056750,14,Gais,9382,3,8,Ljungskile,9391,1,15,2008-07-15T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056750,14,Gais,9382,3,8,Ljungskile,9391,1,15,2008-07-15T19:00+0200,Allsvenskan,27773,Andreas Tobiasson,47,home,1,0,11,11,0,0
+1056750,14,Gais,9382,3,8,Ljungskile,9391,1,15,2008-07-15T19:00+0200,Allsvenskan,27773,Daniel Morais Reis,53,home,2,0,11,11,0,0
+1056750,14,Gais,9382,3,8,Ljungskile,9391,1,15,2008-07-15T19:00+0200,Allsvenskan,27773,Niklas Löfgren,74,visiting,2,1,11,11,0,0
+1056750,14,Gais,9382,3,8,Ljungskile,9391,1,15,2008-07-15T19:00+0200,Allsvenskan,27773,Kenneth Gustafsson,78,home,3,1,11,11,0,0
+1056753,14,Helsingborg,9373,2,3,AIK,9367,1,5,2008-07-15T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056753,14,Helsingborg,9373,2,3,AIK,9367,1,5,2008-07-15T19:45+0200,Allsvenskan,27773,Miran Burgic,12,visiting,0,1,11,11,0,0
+1056753,14,Helsingborg,9373,2,3,AIK,9367,1,5,2008-07-15T19:45+0200,Allsvenskan,27773,Christoffer Andersson,40,home,1,1,11,11,0,0
+1056753,14,Helsingborg,9373,2,3,AIK,9367,1,5,2008-07-15T19:45+0200,Allsvenskan,27773,Henrik Larsson,63,home,2,1,11,11,0,0
+1056754,14,Halmstad,9371,1,10,Elfsborg,9369,2,2,2008-07-16T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056754,14,Halmstad,9371,1,10,Elfsborg,9369,2,2,2008-07-16T19:00+0200,Allsvenskan,27773,Emir Bajrami,31,visiting,0,1,11,11,0,0
+1056754,14,Halmstad,9371,1,10,Elfsborg,9369,2,2,2008-07-16T19:00+0200,Allsvenskan,27773,Fredrik Berglund,49,visiting,0,2,11,11,0,0
+1056754,14,Halmstad,9371,1,10,Elfsborg,9369,2,2,2008-07-16T19:00+0200,Allsvenskan,27773,Sebastian Johansson,90,home,1,2,11,11,0,0
+1056755,15,Göteborg,9370,3,5,Gefle,9400,0,15,2008-07-19T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056755,15,Göteborg,9370,3,5,Gefle,9400,0,15,2008-07-19T20:00+0200,Allsvenskan,27773,Robin Söder,18,home,1,0,11,11,0,0
+1056755,15,Göteborg,9370,3,5,Gefle,9400,0,15,2008-07-19T20:00+0200,Allsvenskan,27773,Sebastian Eriksson,33,home,2,0,11,11,0,0
+1056755,15,Göteborg,9370,3,5,Gefle,9400,0,15,2008-07-19T20:00+0200,Allsvenskan,27773,Jonas Wallerstedt,87,home,3,0,11,11,0,0
+1056756,15,GIF Sundsvall,9407,1,13,Gais,9382,1,8,2008-07-20T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056756,15,GIF Sundsvall,9407,1,13,Gais,9382,1,8,2008-07-20T18:00+0200,Allsvenskan,27773,Tommy Lycén,90,visiting,0,1,11,11,0,0
+1056756,15,GIF Sundsvall,9407,1,13,Gais,9382,1,8,2008-07-20T18:00+0200,Allsvenskan,27773,Robert Mambo Mumba,90,home,1,1,11,11,0,0
+1056757,15,Trelleborgs FF,9377,1,11,Halmstad,9371,2,9,2008-07-20T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056757,15,Trelleborgs FF,9377,1,11,Halmstad,9371,2,9,2008-07-20T18:00+0200,Allsvenskan,27773,Andreas Drugge,6,home,1,0,11,11,0,0
+1056757,15,Trelleborgs FF,9377,1,11,Halmstad,9371,2,9,2008-07-20T18:00+0200,Allsvenskan,27773,Ajsel Kujovic,56,visiting,1,1,11,11,0,0
+1056757,15,Trelleborgs FF,9377,1,11,Halmstad,9371,2,9,2008-07-20T18:00+0200,Allsvenskan,27773,Jesper Westerberg,80,visiting,1,2,11,11,0,0
+1056758,15,Hammarby,9372,1,4,Örebro,9379,0,12,2008-07-20T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056758,15,Hammarby,9372,1,4,Örebro,9379,0,12,2008-07-20T18:00+0200,Allsvenskan,27773,Petter Andersson,7,home,1,0,11,11,0,0
+1056759,15,Kalmar FF,9374,3,1,Malmö FF,9375,2,7,2008-07-21T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056759,15,Kalmar FF,9374,3,1,Malmö FF,9375,2,7,2008-07-21T19:00+0200,Allsvenskan,27773,Cesar Santin,16,home,1,0,11,11,0,0
+1056759,15,Kalmar FF,9374,3,1,Malmö FF,9375,2,7,2008-07-21T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,30,home,2,0,11,11,0,0
+1056759,15,Kalmar FF,9374,3,1,Malmö FF,9375,2,7,2008-07-21T19:00+0200,Allsvenskan,27773,Patrik Ingelsten,43,home,3,0,11,11,0,0
+1056759,15,Kalmar FF,9374,3,1,Malmö FF,9375,2,7,2008-07-21T19:00+0200,Allsvenskan,27773,Ola Toivonen,49,visiting,3,1,11,11,0,0
+1056759,15,Kalmar FF,9374,3,1,Malmö FF,9375,2,7,2008-07-21T19:00+0200,Allsvenskan,27773,Jonatan Johansson,68,visiting,3,2,11,11,0,0
+1056760,15,Ljungskile,9391,2,14,AIK,9367,1,6,2008-07-21T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056760,15,Ljungskile,9391,2,14,AIK,9367,1,6,2008-07-21T19:00+0200,Allsvenskan,27773,Jorge Anchén,25,visiting,0,1,11,11,0,0
+1056760,15,Ljungskile,9391,2,14,AIK,9367,1,6,2008-07-21T19:00+0200,Allsvenskan,27773,Niklas Löfgren,47,home,1,1,11,11,0,0
+1056760,15,Ljungskile,9391,2,14,AIK,9367,1,6,2008-07-21T19:00+0200,Allsvenskan,27773,Richard Jansson,90,home,2,1,11,11,0,0
+1056761,15,Helsingborg,9373,2,3,Djurgården,9368,0,10,2008-07-21T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056761,15,Helsingborg,9373,2,3,Djurgården,9368,0,10,2008-07-21T20:00+0200,Allsvenskan,27773,Christoffer Andersson,40,home,1,0,11,11,0,0
+1056761,15,Helsingborg,9373,2,3,Djurgården,9368,0,10,2008-07-21T20:00+0200,Allsvenskan,27773,René Makondele,44,home,2,0,11,11,0,0
+1056762,15,Elfsborg,9369,3,2,Norrköping,9376,0,16,2008-07-23T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056762,15,Elfsborg,9369,3,2,Norrköping,9376,0,16,2008-07-23T19:00+0200,Allsvenskan,27773,Emir Bajrami,2,home,1,0,11,11,0,0
+1056762,15,Elfsborg,9369,3,2,Norrköping,9376,0,16,2008-07-23T19:00+0200,Allsvenskan,27773,Lasse Nilsson,39,home,2,0,11,11,0,0
+1056762,15,Elfsborg,9369,3,2,Norrköping,9376,0,16,2008-07-23T19:00+0200,Allsvenskan,27773,Stefan Ishizaki,72,home,3,0,11,11,0,0
+1056763,16,Gefle,9400,0,15,Göteborg,9370,1,4,2008-07-26T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056763,16,Gefle,9400,0,15,Göteborg,9370,1,4,2008-07-26T16:00+0200,Allsvenskan,27773,Robin Söder,8,visiting,0,1,11,11,0,0
+1056764,16,Halmstad,9371,0,8,Trelleborgs FF,9377,0,11,2008-07-26T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056766,16,Djurgården,9368,1,10,Helsingborg,9373,2,3,2008-07-27T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056766,16,Djurgården,9368,1,10,Helsingborg,9373,2,3,2008-07-27T18:00+0200,Allsvenskan,27773,Johan Oremo,36,home,1,0,11,11,0,0
+1056766,16,Djurgården,9368,1,10,Helsingborg,9373,2,3,2008-07-27T18:00+0200,Allsvenskan,27773,Isaac Chansa,78,visiting,1,1,10,11,0,0
+1056766,16,Djurgården,9368,1,10,Helsingborg,9373,2,3,2008-07-27T18:00+0200,Allsvenskan,27773,Andreas Landgren,87,visiting,1,2,10,11,0,0
+1056767,16,Malmö FF,9375,3,7,Kalmar FF,9374,2,1,2008-07-27T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056767,16,Malmö FF,9375,3,7,Kalmar FF,9374,2,1,2008-07-27T18:00+0200,Allsvenskan,27773,Christian Järdler,35,home,1,0,11,11,0,0
+1056767,16,Malmö FF,9375,3,7,Kalmar FF,9374,2,1,2008-07-27T18:00+0200,Allsvenskan,27773,David Elm,63,visiting,1,1,11,11,0,0
+1056767,16,Malmö FF,9375,3,7,Kalmar FF,9374,2,1,2008-07-27T18:00+0200,Allsvenskan,27773,Patrik Rosengren,79,visiting,1,2,11,11,0,0
+1056767,16,Malmö FF,9375,3,7,Kalmar FF,9374,2,1,2008-07-27T18:00+0200,Allsvenskan,27773,Agon Mehmeti,84,home,2,2,11,11,0,0
+1056767,16,Malmö FF,9375,3,7,Kalmar FF,9374,2,1,2008-07-27T18:00+0200,Allsvenskan,27773,Agon Mehmeti,88,home,3,2,11,11,0,0
+1056765,16,AIK,9367,1,6,Ljungskile,9391,0,14,2008-07-28T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056765,16,AIK,9367,1,6,Ljungskile,9391,0,14,2008-07-28T19:00+0200,Allsvenskan,27773,Daniel Mendes,87,home,1,0,11,11,0,0
+1056769,16,Gais,9382,0,9,GIF Sundsvall,9407,2,12,2008-07-28T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056769,16,Gais,9382,0,9,GIF Sundsvall,9407,2,12,2008-07-28T19:00+0200,Allsvenskan,27773,Linus Hallenius,5,visiting,0,1,11,11,0,0
+1056769,16,Gais,9382,0,9,GIF Sundsvall,9407,2,12,2008-07-28T19:00+0200,Allsvenskan,27773,Hannes Sigurdsson,29,visiting,0,2,11,11,0,0
+1056768,16,Örebro,9379,1,13,Hammarby,9372,1,5,2008-07-28T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056768,16,Örebro,9379,1,13,Hammarby,9372,1,5,2008-07-28T20:00+0200,Allsvenskan,27773,Kim Olsen,17,home,1,0,11,11,0,0
+1056768,16,Örebro,9379,1,13,Hammarby,9372,1,5,2008-07-28T20:00+0200,Allsvenskan,27773,Petter Andersson,56,visiting,1,1,11,11,0,0
+1056770,16,Norrköping,9376,0,16,Elfsborg,9369,1,2,2008-07-30T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056770,16,Norrköping,9376,0,16,Elfsborg,9369,1,2,2008-07-30T19:45+0200,Allsvenskan,27773,Denni Avdic,84,visiting,0,1,11,11,0,0
+1056771,17,Göteborg,9370,2,4,Malmö FF,9375,0,7,2008-08-02T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056771,17,Göteborg,9370,2,4,Malmö FF,9375,0,7,2008-08-02T16:00+0200,Allsvenskan,27773,Robin Söder,1,home,1,0,11,11,0,0
+1056771,17,Göteborg,9370,2,4,Malmö FF,9375,0,7,2008-08-02T16:00+0200,Allsvenskan,27773,Jonas Wallerstedt,51,home,2,0,10,11,0,0
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,Thommie Persson,19,home,1,0,11,11,0,0
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,Fredrik Nordback,64,visiting,1,1,11,11,0,0
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,Nordin Gerzic,66,visiting,1,2,11,11,0,0
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,Fredrik Jensen,74,home,2,2,11,11,0,0
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,Robin Staaf,79,visiting,2,3,11,11,0,0
+1056772,17,Trelleborgs FF,9377,3,11,Örebro,9379,3,12,2008-08-03T18:00+0200,Allsvenskan,27773,Andreas Drugge,90,home,3,3,11,11,0,0
+1056773,17,Hammarby,9372,2,5,Ljungskile,9391,2,15,2008-08-03T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056773,17,Hammarby,9372,2,5,Ljungskile,9391,2,15,2008-08-03T18:00+0200,Allsvenskan,27773,Pascal Kondaponi,16,visiting,0,1,11,11,0,0
+1056773,17,Hammarby,9372,2,5,Ljungskile,9391,2,15,2008-08-03T18:00+0200,Allsvenskan,27773,Freddy Söderberg,42,home,1,1,11,11,0,0
+1056773,17,Hammarby,9372,2,5,Ljungskile,9391,2,15,2008-08-03T18:00+0200,Allsvenskan,27773,Daryl Smylie,80,visiting,1,2,11,11,0,0
+1056773,17,Hammarby,9372,2,5,Ljungskile,9391,2,15,2008-08-03T18:00+0200,Allsvenskan,27773,Freddy Söderberg,90,home,2,2,11,11,0,0
+1056774,17,Gefle,9400,4,14,Halmstad,9371,0,8,2008-08-03T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056774,17,Gefle,9400,4,14,Halmstad,9371,0,8,2008-08-03T18:00+0200,Allsvenskan,27773,Mathias Woxlin,53,home,1,0,11,11,0,0
+1056774,17,Gefle,9400,4,14,Halmstad,9371,0,8,2008-08-03T18:00+0200,Allsvenskan,27773,Johannes Ericsson,71,home,2,0,11,11,0,0
+1056774,17,Gefle,9400,4,14,Halmstad,9371,0,8,2008-08-03T18:00+0200,Allsvenskan,27773,Hans Berggren,77,home,3,0,11,11,0,0
+1056774,17,Gefle,9400,4,14,Halmstad,9371,0,8,2008-08-03T18:00+0200,Allsvenskan,27773,Hans Berggren,80,home,4,0,11,11,0,0
+1056775,17,Helsingborg,9373,2,3,GIF Sundsvall,9407,1,13,2008-08-04T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056775,17,Helsingborg,9373,2,3,GIF Sundsvall,9407,1,13,2008-08-04T19:00+0200,Allsvenskan,27773,René Makondele,26,home,1,0,11,11,0,0
+1056775,17,Helsingborg,9373,2,3,GIF Sundsvall,9407,1,13,2008-08-04T19:00+0200,Allsvenskan,27773,Ari Skúlason,61,visiting,1,1,11,11,0,0
+1056775,17,Helsingborg,9373,2,3,GIF Sundsvall,9407,1,13,2008-08-04T19:00+0200,Allsvenskan,27773,Marcus Lantz,74,home,2,1,11,11,0,0
+1056778,17,Elfsborg,9369,1,2,Gais,9382,0,9,2008-08-04T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056778,17,Elfsborg,9369,1,2,Gais,9382,0,9,2008-08-04T19:00+0200,Allsvenskan,27773,Teddy Lucic,43,home,1,0,11,11,0,0
+1056776,17,Kalmar FF,9374,3,1,AIK,9367,2,6,2008-08-04T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056776,17,Kalmar FF,9374,3,1,AIK,9367,2,6,2008-08-04T20:00+0200,Allsvenskan,27773,David Elm,2,home,1,0,11,11,0,0
+1056776,17,Kalmar FF,9374,3,1,AIK,9367,2,6,2008-08-04T20:00+0200,Allsvenskan,27773,Saihou Jagne,7,visiting,1,1,11,11,0,0
+1056776,17,Kalmar FF,9374,3,1,AIK,9367,2,6,2008-08-04T20:00+0200,Allsvenskan,27773,Saihou Jagne,15,visiting,1,2,11,11,0,0
+1056776,17,Kalmar FF,9374,3,1,AIK,9367,2,6,2008-08-04T20:00+0200,Allsvenskan,27773,Patrik Ingelsten,39,home,2,2,11,11,0,0
+1056776,17,Kalmar FF,9374,3,1,AIK,9367,2,6,2008-08-04T20:00+0200,Allsvenskan,27773,Rasmus Elm,51,home,3,2,11,11,0,0
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,självmål,1,home,1,0,11,11,0,0
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,självmål,18,visiting,1,1,11,11,0,0
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,Kim Olsen,30,home,2,1,11,11,0,0
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,Stefan Selakovic,44,visiting,2,2,11,11,0,0
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,Kim Olsen,69,home,3,2,11,11,0,0
+1056779,18,Örebro,9379,4,11,Göteborg,9370,2,5,2008-08-09T16:00+0200,Allsvenskan,27773,Robin Staaf,73,home,4,2,11,11,0,0
+1056780,18,Malmö FF,9375,1,7,Djurgården,9368,2,9,2008-08-10T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056780,18,Malmö FF,9375,1,7,Djurgården,9368,2,9,2008-08-10T18:00+0200,Allsvenskan,27773,Jones Kusi-Asare,19,visiting,0,1,11,11,0,0
+1056780,18,Malmö FF,9375,1,7,Djurgården,9368,2,9,2008-08-10T18:00+0200,Allsvenskan,27773,Ola Toivonen,47,home,1,1,11,11,0,0
+1056780,18,Malmö FF,9375,1,7,Djurgården,9368,2,9,2008-08-10T18:00+0200,Allsvenskan,27773,Daniel Sjölund,83,visiting,1,2,11,11,0,0
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,Patrik Ingelsten,5,visiting,0,1,11,11,0,0
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,Daryl Smylie,43,home,1,1,11,11,0,0
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,Daniel Sobralense,45,visiting,1,2,11,11,0,0
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,Rasmus Elm,67,visiting,1,3,11,11,0,0
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,Patrik Ingelsten,76,visiting,1,4,11,11,0,0
+1056782,18,Ljungskile,9391,2,15,Kalmar FF,9374,4,1,2008-08-10T18:00+0200,Allsvenskan,27773,Niklas Löfgren,90,home,2,4,11,11,0,0
+1056783,18,AIK,9367,0,6,Elfsborg,9369,2,2,2008-08-10T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056783,18,AIK,9367,0,6,Elfsborg,9369,2,2,2008-08-10T18:00+0200,Allsvenskan,27773,Stefan Ishizaki,24,visiting,0,1,11,11,0,0
+1056783,18,AIK,9367,0,6,Elfsborg,9369,2,2,2008-08-10T18:00+0200,Allsvenskan,27773,Fredrik Berglund,32,visiting,0,2,11,11,0,0
+1056784,18,Gais,9382,0,10,Trelleborgs FF,9377,0,12,2008-08-10T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056785,18,GIF Sundsvall,9407,1,13,Hammarby,9372,2,4,2008-08-11T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056785,18,GIF Sundsvall,9407,1,13,Hammarby,9372,2,4,2008-08-11T19:00+0200,Allsvenskan,27773,Louay Chanko,45,visiting,0,1,11,11,0,0
+1056785,18,GIF Sundsvall,9407,1,13,Hammarby,9372,2,4,2008-08-11T19:00+0200,Allsvenskan,27773,självmål,58,home,1,1,11,11,0,0
+1056785,18,GIF Sundsvall,9407,1,13,Hammarby,9372,2,4,2008-08-11T19:00+0200,Allsvenskan,27773,Christian Traoré,90,visiting,1,2,10,11,0,0
+1056786,18,Halmstad,9371,3,8,Helsingborg,9373,1,3,2008-08-11T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056786,18,Halmstad,9371,3,8,Helsingborg,9373,1,3,2008-08-11T20:00+0200,Allsvenskan,27773,Ajsel Kujovic,5,home,1,0,11,11,0,0
+1056786,18,Halmstad,9371,3,8,Helsingborg,9373,1,3,2008-08-11T20:00+0200,Allsvenskan,27773,Michael Görlitz,10,home,2,0,11,11,0,0
+1056786,18,Halmstad,9371,3,8,Helsingborg,9373,1,3,2008-08-11T20:00+0200,Allsvenskan,27773,Anselmo,65,home,3,0,11,11,0,0
+1056786,18,Halmstad,9371,3,8,Helsingborg,9373,1,3,2008-08-11T20:00+0200,Allsvenskan,27773,Henrik Larsson,67,visiting,3,1,11,11,0,0
+1056781,18,Norrköping,9376,2,16,Gefle,9400,1,14,2008-08-12T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056781,18,Norrköping,9376,2,16,Gefle,9400,1,14,2008-08-12T19:45+0200,Allsvenskan,27773,Daniel Bamberg,15,home,1,0,11,11,0,0
+1056781,18,Norrköping,9376,2,16,Gefle,9400,1,14,2008-08-12T19:45+0200,Allsvenskan,27773,Kevin Amuneke,21,home,2,0,11,11,0,0
+1056781,18,Norrköping,9376,2,16,Gefle,9400,1,14,2008-08-12T19:45+0200,Allsvenskan,27773,Hans Berggren,90,visiting,2,1,10,11,0,0
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,Nathan Paulse,8,home,1,0,11,11,0,0
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,Charlie Davies,22,home,2,0,11,11,0,0
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,Wanderson do Carmo,39,visiting,2,1,11,11,0,0
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,Wanderson do Carmo,77,visiting,2,2,11,11,0,0
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,självmål,84,visiting,2,3,11,11,0,0
+1056789,19,Hammarby,9372,2,5,Gais,9382,4,8,2008-08-15T19:00+0200,Allsvenskan,27773,Johan Mårtensson,90,visiting,2,4,11,11,0,0
+1056787,19,GIF Sundsvall,9407,1,13,AIK,9367,1,6,2008-08-16T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056787,19,GIF Sundsvall,9407,1,13,AIK,9367,1,6,2008-08-16T16:00+0200,Allsvenskan,27773,Linus Hallenius,2,home,1,0,11,11,0,0
+1056787,19,GIF Sundsvall,9407,1,13,AIK,9367,1,6,2008-08-16T16:00+0200,Allsvenskan,27773,Jorge Anchén,21,visiting,1,1,11,11,0,0
+1056794,19,Helsingborg,9373,0,4,Ljungskile,9391,1,14,2008-08-17T17:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056794,19,Helsingborg,9373,0,4,Ljungskile,9391,1,14,2008-08-17T17:45+0200,Allsvenskan,27773,Daryl Smylie,56,visiting,0,1,11,11,0,0
+1056790,19,Kalmar FF,9374,2,2,Örebro,9379,2,12,2008-08-17T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056790,19,Kalmar FF,9374,2,2,Örebro,9379,2,12,2008-08-17T18:00+0200,Allsvenskan,27773,Abiola Dauda,30,home,1,0,11,11,0,0
+1056790,19,Kalmar FF,9374,2,2,Örebro,9379,2,12,2008-08-17T18:00+0200,Allsvenskan,27773,Kim Olsen,34,visiting,1,1,11,11,0,0
+1056790,19,Kalmar FF,9374,2,2,Örebro,9379,2,12,2008-08-17T18:00+0200,Allsvenskan,27773,Daniel Sobralense,47,home,2,1,11,11,0,0
+1056790,19,Kalmar FF,9374,2,2,Örebro,9379,2,12,2008-08-17T18:00+0200,Allsvenskan,27773,Kim Olsen,54,visiting,2,2,11,11,0,0
+1056791,19,Trelleborgs FF,9377,1,11,Norrköping,9376,0,16,2008-08-17T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056791,19,Trelleborgs FF,9377,1,11,Norrköping,9376,0,16,2008-08-17T18:00+0200,Allsvenskan,27773,Erik Sundin,11,home,1,0,11,11,0,0
+1056792,19,Djurgården,9368,2,7,Gefle,9400,0,15,2008-08-17T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056792,19,Djurgården,9368,2,7,Gefle,9400,0,15,2008-08-17T18:00+0200,Allsvenskan,27773,Jones Kusi-Asare,51,home,1,0,11,11,0,0
+1056792,19,Djurgården,9368,2,7,Gefle,9400,0,15,2008-08-17T18:00+0200,Allsvenskan,27773,Enrico Cardoso Nazaré,55,home,2,0,11,11,0,0
+1056795,20,Norrköping,9376,2,16,Göteborg,9370,2,3,2008-08-23T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056795,20,Norrköping,9376,2,16,Göteborg,9370,2,3,2008-08-23T16:00+0200,Allsvenskan,27773,Pontus Wernbloom,1,visiting,0,1,11,11,0,0
+1056795,20,Norrköping,9376,2,16,Göteborg,9370,2,3,2008-08-23T16:00+0200,Allsvenskan,27773,Pontus Wernbloom,13,visiting,0,2,11,11,0,0
+1056795,20,Norrköping,9376,2,16,Göteborg,9370,2,3,2008-08-23T16:00+0200,Allsvenskan,27773,Djordje Mrdjanin,32,home,1,2,11,11,0,0
+1056795,20,Norrköping,9376,2,16,Göteborg,9370,2,3,2008-08-23T16:00+0200,Allsvenskan,27773,Felix Magro,81,home,2,2,11,11,0,0
+1056797,20,Örebro,9379,2,11,Elfsborg,9369,0,2,2008-08-24T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056797,20,Örebro,9379,2,11,Elfsborg,9369,0,2,2008-08-24T18:00+0200,Allsvenskan,27773,Robin Staaf,31,home,1,0,11,11,0,0
+1056797,20,Örebro,9379,2,11,Elfsborg,9369,0,2,2008-08-24T18:00+0200,Allsvenskan,27773,Eric Bassombeng,77,home,2,0,11,11,0,0
+1056798,20,Halmstad,9371,1,10,Djurgården,9368,2,7,2008-08-24T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056798,20,Halmstad,9371,1,10,Djurgården,9368,2,7,2008-08-24T18:00+0200,Allsvenskan,27773,Mikael Dahlberg,23,visiting,0,1,11,11,0,0
+1056798,20,Halmstad,9371,1,10,Djurgården,9368,2,7,2008-08-24T18:00+0200,Allsvenskan,27773,Andrej Komac,37,visiting,0,2,11,11,0,0
+1056798,20,Halmstad,9371,1,10,Djurgården,9368,2,7,2008-08-24T18:00+0200,Allsvenskan,27773,Marcus Olsson,56,home,1,2,11,11,0,0
+1056799,20,Gais,9382,1,9,Kalmar FF,9374,4,1,2008-08-24T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056799,20,Gais,9382,1,9,Kalmar FF,9374,4,1,2008-08-24T18:00+0200,Allsvenskan,27773,Wanderson do Carmo,11,home,1,0,11,11,0,0
+1056799,20,Gais,9382,1,9,Kalmar FF,9374,4,1,2008-08-24T18:00+0200,Allsvenskan,27773,Henrik Rydström,32,visiting,1,1,11,11,0,0
+1056799,20,Gais,9382,1,9,Kalmar FF,9374,4,1,2008-08-24T18:00+0200,Allsvenskan,27773,självmål,67,visiting,1,2,11,11,0,0
+1056799,20,Gais,9382,1,9,Kalmar FF,9374,4,1,2008-08-24T18:00+0200,Allsvenskan,27773,Patrik Ingelsten,69,visiting,1,3,11,11,0,0
+1056799,20,Gais,9382,1,9,Kalmar FF,9374,4,1,2008-08-24T18:00+0200,Allsvenskan,27773,Abiola Dauda,80,visiting,1,4,11,11,0,0
+1056801,20,Malmö FF,9375,1,8,Trelleborgs FF,9377,1,12,2008-08-25T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056801,20,Malmö FF,9375,1,8,Trelleborgs FF,9377,1,12,2008-08-25T19:00+0200,Allsvenskan,27773,Fredrik Jensen,5,visiting,0,1,11,11,0,0
+1056801,20,Malmö FF,9375,1,8,Trelleborgs FF,9377,1,12,2008-08-25T19:00+0200,Allsvenskan,27773,Edward Ofere,88,home,1,1,11,11,0,0
+1056802,20,AIK,9367,2,6,Hammarby,9372,2,4,2008-08-25T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056802,20,AIK,9367,2,6,Hammarby,9372,2,4,2008-08-25T20:00+0200,Allsvenskan,27773,Ivan Obolo,23,home,1,0,11,11,0,0
+1056802,20,AIK,9367,2,6,Hammarby,9372,2,4,2008-08-25T20:00+0200,Allsvenskan,27773,Fredrik Söderström,49,visiting,1,1,11,11,0,0
+1056802,20,AIK,9367,2,6,Hammarby,9372,2,4,2008-08-25T20:00+0200,Allsvenskan,27773,Markus Jonsson,85,home,2,1,11,11,0,0
+1056802,20,AIK,9367,2,6,Hammarby,9372,2,4,2008-08-25T20:00+0200,Allsvenskan,27773,Suleyman Sleyman,88,visiting,2,2,11,11,0,0
+1056800,20,Gefle,9400,3,15,Helsingborg,9373,0,5,2008-08-26T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056800,20,Gefle,9400,3,15,Helsingborg,9373,0,5,2008-08-26T19:45+0200,Allsvenskan,27773,Hans Berggren,13,home,1,0,11,11,0,0
+1056800,20,Gefle,9400,3,15,Helsingborg,9373,0,5,2008-08-26T19:45+0200,Allsvenskan,27773,Mathias Woxlin,35,home,2,0,11,11,0,0
+1056800,20,Gefle,9400,3,15,Helsingborg,9373,0,5,2008-08-26T19:45+0200,Allsvenskan,27773,Mathias Woxlin,71,home,3,0,11,11,0,0
+1056804,21,Trelleborgs FF,9377,2,11,AIK,9367,0,6,2008-08-30T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056804,21,Trelleborgs FF,9377,2,11,AIK,9367,0,6,2008-08-30T16:00+0200,Allsvenskan,27773,Rasmus Bengtsson,15,home,1,0,11,11,0,0
+1056804,21,Trelleborgs FF,9377,2,11,AIK,9367,0,6,2008-08-30T16:00+0200,Allsvenskan,27773,Andreas Drugge,86,home,2,0,11,11,0,0
+1056803,21,Kalmar FF,9374,3,1,GIF Sundsvall,9407,0,15,2008-08-31T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056803,21,Kalmar FF,9374,3,1,GIF Sundsvall,9407,0,15,2008-08-31T15:00+0200,Allsvenskan,27773,Rasmus Elm,3,home,1,0,11,11,0,0
+1056803,21,Kalmar FF,9374,3,1,GIF Sundsvall,9407,0,15,2008-08-31T15:00+0200,Allsvenskan,27773,Viktor Elm,29,home,2,0,11,11,0,0
+1056803,21,Kalmar FF,9374,3,1,GIF Sundsvall,9407,0,15,2008-08-31T15:00+0200,Allsvenskan,27773,Abiola Dauda,71,home,3,0,11,11,0,0
+1056805,21,Gefle,9400,1,14,Malmö FF,9375,2,8,2008-08-31T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056805,21,Gefle,9400,1,14,Malmö FF,9375,2,8,2008-08-31T18:00+0200,Allsvenskan,27773,Labinot Harbuzi,75,visiting,0,1,11,11,0,0
+1056805,21,Gefle,9400,1,14,Malmö FF,9375,2,8,2008-08-31T18:00+0200,Allsvenskan,27773,Jonatan Johansson,81,visiting,0,2,11,11,0,0
+1056805,21,Gefle,9400,1,14,Malmö FF,9375,2,8,2008-08-31T18:00+0200,Allsvenskan,27773,Amadou Jawo,86,home,1,2,11,11,0,0
+1056806,21,Halmstad,9371,2,10,Norrköping,9376,0,16,2008-08-31T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056806,21,Halmstad,9371,2,10,Norrköping,9376,0,16,2008-08-31T18:00+0200,Allsvenskan,27773,Anselmo,20,home,1,0,11,11,0,0
+1056806,21,Halmstad,9371,2,10,Norrköping,9376,0,16,2008-08-31T18:00+0200,Allsvenskan,27773,Michael Görlitz,36,home,2,0,11,10,0,0
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,Christoffer Andersson,14,home,1,0,11,11,0,0
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,Henrik Larsson,37,home,2,0,11,11,0,0
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,Hannu Patronen,59,home,3,0,11,11,0,0
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,Charlie Davies,61,visiting,3,1,11,11,0,0
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,Henrik Larsson,83,home,4,1,11,11,0,0
+1056808,21,Helsingborg,9373,5,3,Hammarby,9372,1,5,2008-09-01T19:00+0200,Allsvenskan,27773,Roman Kienast,90,home,5,1,11,11,0,0
+1056809,21,Djurgården,9368,0,7,Örebro,9379,0,12,2008-09-01T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056810,21,Elfsborg,9369,4,2,Ljungskile,9391,0,13,2008-09-01T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056810,21,Elfsborg,9369,4,2,Ljungskile,9391,0,13,2008-09-01T19:00+0200,Allsvenskan,27773,Denni Avdic,7,home,1,0,11,11,0,0
+1056810,21,Elfsborg,9369,4,2,Ljungskile,9391,0,13,2008-09-01T19:00+0200,Allsvenskan,27773,Stefan Ishizaki,58,home,2,0,11,11,0,0
+1056810,21,Elfsborg,9369,4,2,Ljungskile,9391,0,13,2008-09-01T19:00+0200,Allsvenskan,27773,Denni Avdic,75,home,3,0,11,11,0,0
+1056810,21,Elfsborg,9369,4,2,Ljungskile,9391,0,13,2008-09-01T19:00+0200,Allsvenskan,27773,James Keene,90,home,4,0,11,11,0,0
+1056807,21,Göteborg,9370,0,4,Gais,9382,1,9,2008-09-01T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056807,21,Göteborg,9370,0,4,Gais,9382,1,9,2008-09-01T20:00+0200,Allsvenskan,27773,Eyjólfur Hédinsson,7,visiting,0,1,11,11,0,0
+1056811,22,AIK,9367,0,6,Göteborg,9370,0,4,2008-09-13T12:30+0200,Allsvenskan,27773,,,,0,0,,,,
+1056816,22,Malmö FF,9375,0,10,Halmstad,9371,3,7,2008-09-13T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056816,22,Malmö FF,9375,0,10,Halmstad,9371,3,7,2008-09-13T16:00+0200,Allsvenskan,27773,Per Johansson,22,visiting,0,1,11,11,0,0
+1056816,22,Malmö FF,9375,0,10,Halmstad,9371,3,7,2008-09-13T16:00+0200,Allsvenskan,27773,Anselmo,68,visiting,0,2,11,11,0,0
+1056816,22,Malmö FF,9375,0,10,Halmstad,9371,3,7,2008-09-13T16:00+0200,Allsvenskan,27773,Anselmo,73,visiting,0,3,11,11,0,0
+1056812,22,GIF Sundsvall,9407,0,15,Elfsborg,9369,0,2,2008-09-14T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Rasmus Jönsson,12,visiting,0,1,11,11,0,0
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Isaac Chansa,16,visiting,0,2,11,11,0,0
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Rasmus Jönsson,19,visiting,0,3,11,11,0,0
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Kevin Amuneke,57,home,1,3,11,11,0,0
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Daniel Bamberg,78,home,2,3,11,11,0,0
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Roman Kienast,84,visiting,2,4,11,11,0,0
+1056814,22,Norrköping,9376,3,16,Helsingborg,9373,4,3,2008-09-14T17:00+0200,Allsvenskan,27773,Mikael Roth,89,home,3,4,11,11,0,0
+1056815,22,Hammarby,9372,1,5,Kalmar FF,9374,2,1,2008-09-14T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056815,22,Hammarby,9372,1,5,Kalmar FF,9374,2,1,2008-09-14T17:00+0200,Allsvenskan,27773,Daniel Sobralense,11,visiting,0,1,11,11,0,0
+1056815,22,Hammarby,9372,1,5,Kalmar FF,9374,2,1,2008-09-14T17:00+0200,Allsvenskan,27773,Stefan Larsson,73,visiting,0,2,11,11,0,0
+1056815,22,Hammarby,9372,1,5,Kalmar FF,9374,2,1,2008-09-14T17:00+0200,Allsvenskan,27773,Charlie Davies,92,home,1,2,10,11,0,0
+1056817,22,Ljungskile,9391,0,13,Trelleborgs FF,9377,0,11,2008-09-15T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056818,22,Gais,9382,2,8,Djurgården,9368,1,9,2008-09-15T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056818,22,Gais,9382,2,8,Djurgården,9368,1,9,2008-09-15T19:00+0200,Allsvenskan,27773,Wanderson do Carmo,28,home,1,0,11,11,0,0
+1056818,22,Gais,9382,2,8,Djurgården,9368,1,9,2008-09-15T19:00+0200,Allsvenskan,27773,Johan Oremo,37,visiting,1,1,11,11,0,0
+1056818,22,Gais,9382,2,8,Djurgården,9368,1,9,2008-09-15T19:00+0200,Allsvenskan,27773,Eyjólfur Hédinsson,73,home,2,1,11,11,0,0
+1056813,22,Örebro,9379,1,12,Gefle,9400,1,14,2008-09-16T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056813,22,Örebro,9379,1,12,Gefle,9400,1,14,2008-09-16T19:45+0200,Allsvenskan,27773,Daniel Westlin,29,visiting,0,1,11,11,0,0
+1056813,22,Örebro,9379,1,12,Gefle,9400,1,14,2008-09-16T19:45+0200,Allsvenskan,27773,Stefan Rodevåg,67,home,1,1,11,11,0,0
+1056793,19,Göteborg,9370,3,3,Halmstad,9371,0,9,2008-09-17T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056793,19,Göteborg,9370,3,3,Halmstad,9371,0,9,2008-09-17T19:00+0200,Allsvenskan,27773,Tobias Hysén,36,home,1,0,11,11,0,0
+1056793,19,Göteborg,9370,3,3,Halmstad,9371,0,9,2008-09-17T19:00+0200,Allsvenskan,27773,Robin Söder,50,home,2,0,11,11,0,0
+1056793,19,Göteborg,9370,3,3,Halmstad,9371,0,9,2008-09-17T19:00+0200,Allsvenskan,27773,Mattias Bjärsmyr,64,home,3,0,11,11,0,0
+1056788,19,Elfsborg,9369,4,1,Malmö FF,9375,0,10,2008-09-17T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056788,19,Elfsborg,9369,4,1,Malmö FF,9375,0,10,2008-09-17T20:00+0200,Allsvenskan,27773,Stefan Ishizaki,11,home,1,0,11,11,0,0
+1056788,19,Elfsborg,9369,4,1,Malmö FF,9375,0,10,2008-09-17T20:00+0200,Allsvenskan,27773,Daniel Mobaeck,45,home,2,0,11,11,0,0
+1056788,19,Elfsborg,9369,4,1,Malmö FF,9375,0,10,2008-09-17T20:00+0200,Allsvenskan,27773,Emir Bajrami,67,home,3,0,11,11,0,0
+1056788,19,Elfsborg,9369,4,1,Malmö FF,9375,0,10,2008-09-17T20:00+0200,Allsvenskan,27773,James Keene,73,home,4,0,11,11,0,0
+1056819,23,Halmstad,9371,1,9,Örebro,9379,2,11,2008-09-22T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056819,23,Halmstad,9371,1,9,Örebro,9379,2,11,2008-09-22T19:00+0200,Allsvenskan,27773,Magnus Wikström,23,visiting,0,1,11,11,0,0
+1056819,23,Halmstad,9371,1,9,Örebro,9379,2,11,2008-09-22T19:00+0200,Allsvenskan,27773,Kim Olsen,28,visiting,0,2,11,11,0,0
+1056819,23,Halmstad,9371,1,9,Örebro,9379,2,11,2008-09-22T19:00+0200,Allsvenskan,27773,Emir Kujovic,87,home,1,2,11,11,0,0
+1056820,23,Trelleborgs FF,9377,2,8,GIF Sundsvall,9407,0,15,2008-09-22T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056820,23,Trelleborgs FF,9377,2,8,GIF Sundsvall,9407,0,15,2008-09-22T19:00+0200,Allsvenskan,27773,Fredrik Jensen,13,home,1,0,11,11,0,0
+1056820,23,Trelleborgs FF,9377,2,8,GIF Sundsvall,9407,0,15,2008-09-22T19:00+0200,Allsvenskan,27773,Erik Sundin,52,home,2,0,11,11,0,0
+1056823,23,Norrköping,9376,1,16,Malmö FF,9375,0,12,2008-09-23T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056823,23,Norrköping,9376,1,16,Malmö FF,9375,0,12,2008-09-23T19:00+0200,Allsvenskan,27773,Kevin Amuneke,12,home,1,0,11,11,0,0
+1056821,23,Elfsborg,9369,1,2,Hammarby,9372,0,5,2008-09-23T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056821,23,Elfsborg,9369,1,2,Hammarby,9372,0,5,2008-09-23T19:45+0200,Allsvenskan,27773,självmål,49,home,1,0,11,11,0,0
+1056822,23,Göteborg,9370,0,4,Ljungskile,9391,0,13,2008-09-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056824,23,Helsingborg,9373,1,3,Kalmar FF,9374,0,1,2008-09-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056824,23,Helsingborg,9373,1,3,Kalmar FF,9374,0,1,2008-09-24T19:00+0200,Allsvenskan,27773,Henrik Larsson,63,home,1,0,11,11,0,0
+1056825,23,Gefle,9400,0,14,Gais,9382,0,7,2008-09-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056826,23,Djurgården,9368,1,10,AIK,9367,1,6,2008-09-24T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056826,23,Djurgården,9368,1,10,AIK,9367,1,6,2008-09-24T20:00+0200,Allsvenskan,27773,Johan Oremo,11,home,1,0,11,11,0,0
+1056826,23,Djurgården,9368,1,10,AIK,9367,1,6,2008-09-24T20:00+0200,Allsvenskan,27773,Saihou Jagne,90,visiting,1,1,11,11,0,0
+1056834,24,Hammarby,9372,0,5,Trelleborgs FF,9377,0,9,2008-09-27T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056829,24,Gais,9382,0,10,Halmstad,9371,4,6,2008-09-28T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056829,24,Gais,9382,0,10,Halmstad,9371,4,6,2008-09-28T17:00+0200,Allsvenskan,27773,Tomas Zvirgzdauskas,17,visiting,0,1,11,11,0,0
+1056829,24,Gais,9382,0,10,Halmstad,9371,4,6,2008-09-28T17:00+0200,Allsvenskan,27773,Michael Görlitz,24,visiting,0,2,11,11,0,0
+1056829,24,Gais,9382,0,10,Halmstad,9371,4,6,2008-09-28T17:00+0200,Allsvenskan,27773,Anselmo,29,visiting,0,3,11,11,0,0
+1056829,24,Gais,9382,0,10,Halmstad,9371,4,6,2008-09-28T17:00+0200,Allsvenskan,27773,Anselmo,81,visiting,0,4,11,11,0,0
+1056830,24,Ljungskile,9391,0,13,Djurgården,9368,1,8,2008-09-28T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056830,24,Ljungskile,9391,0,13,Djurgården,9368,1,8,2008-09-28T17:00+0200,Allsvenskan,27773,Jones Kusi-Asare,71,visiting,0,1,11,11,0,0
+1056831,24,AIK,9367,1,7,Gefle,9400,1,14,2008-09-28T17:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056831,24,AIK,9367,1,7,Gefle,9400,1,14,2008-09-28T17:00+0200,Allsvenskan,27773,Ivan Obolo,17,home,1,0,11,11,0,0
+1056831,24,AIK,9367,1,7,Gefle,9400,1,14,2008-09-28T17:00+0200,Allsvenskan,27773,Hans Berggren,59,visiting,1,1,11,11,0,0
+1056828,24,Kalmar FF,9374,2,1,Elfsborg,9369,1,2,2008-09-28T18:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056828,24,Kalmar FF,9374,2,1,Elfsborg,9369,1,2,2008-09-28T18:00+0200,Allsvenskan,27773,Viktor Elm,45,home,1,0,11,11,0,0
+1056828,24,Kalmar FF,9374,2,1,Elfsborg,9369,1,2,2008-09-28T18:00+0200,Allsvenskan,27773,Viktor Elm,82,home,2,0,11,11,0,0
+1056828,24,Kalmar FF,9374,2,1,Elfsborg,9369,1,2,2008-09-28T18:00+0200,Allsvenskan,27773,Joakim Sjöhage,90,visiting,2,1,11,10,0,0
+1056827,24,GIF Sundsvall,9407,0,15,Göteborg,9370,5,4,2008-09-29T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056827,24,GIF Sundsvall,9407,0,15,Göteborg,9370,5,4,2008-09-29T19:00+0200,Allsvenskan,27773,Pontus Wernbloom,15,visiting,0,1,11,11,0,0
+1056827,24,GIF Sundsvall,9407,0,15,Göteborg,9370,5,4,2008-09-29T19:00+0200,Allsvenskan,27773,Tobias Hysén,45,visiting,0,2,11,11,0,0
+1056827,24,GIF Sundsvall,9407,0,15,Göteborg,9370,5,4,2008-09-29T19:00+0200,Allsvenskan,27773,Ragnar Sigurdsson,78,visiting,0,3,11,11,0,0
+1056827,24,GIF Sundsvall,9407,0,15,Göteborg,9370,5,4,2008-09-29T19:00+0200,Allsvenskan,27773,Thomas Olsson,87,visiting,0,4,10,11,0,0
+1056827,24,GIF Sundsvall,9407,0,15,Göteborg,9370,5,4,2008-09-29T19:00+0200,Allsvenskan,27773,Stefan Selakovic,90,visiting,0,5,10,11,0,0
+1056832,24,Örebro,9379,2,11,Norrköping,9376,2,16,2008-09-29T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056832,24,Örebro,9379,2,11,Norrköping,9376,2,16,2008-09-29T19:00+0200,Allsvenskan,27773,Nordin Gerzic,24,home,1,0,11,11,0,0
+1056832,24,Örebro,9379,2,11,Norrköping,9376,2,16,2008-09-29T19:00+0200,Allsvenskan,27773,Daniel Bamberg,36,visiting,1,1,11,11,0,0
+1056832,24,Örebro,9379,2,11,Norrköping,9376,2,16,2008-09-29T19:00+0200,Allsvenskan,27773,Felix Magro,46,visiting,1,2,11,11,0,0
+1056832,24,Örebro,9379,2,11,Norrköping,9376,2,16,2008-09-29T19:00+0200,Allsvenskan,27773,Kim Olsen,53,home,2,2,11,11,0,0
+1056833,24,Malmö FF,9375,1,12,Helsingborg,9373,2,3,2008-09-30T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056833,24,Malmö FF,9375,1,12,Helsingborg,9373,2,3,2008-09-30T19:45+0200,Allsvenskan,27773,Edward Ofere,30,home,1,0,11,11,0,0
+1056833,24,Malmö FF,9375,1,12,Helsingborg,9373,2,3,2008-09-30T19:45+0200,Allsvenskan,27773,Henrik Larsson,39,visiting,1,1,11,11,0,0
+1056833,24,Malmö FF,9375,1,12,Helsingborg,9373,2,3,2008-09-30T19:45+0200,Allsvenskan,27773,Rasmus Jönsson,63,visiting,1,2,11,11,0,0
+1056777,17,Djurgården,9368,1,10,Norrköping,9376,1,16,2008-10-02T20:30+0200,Allsvenskan,27773,,,,0,0,,,,
+1056777,17,Djurgården,9368,1,10,Norrköping,9376,1,16,2008-10-02T20:30+0200,Allsvenskan,27773,Richard Spong,49,visiting,0,1,11,11,0,0
+1056777,17,Djurgården,9368,1,10,Norrköping,9376,1,16,2008-10-02T20:30+0200,Allsvenskan,27773,Enrico Cardoso Nazaré,75,home,1,1,11,11,0,0
+1056838,25,Helsingborg,9373,2,3,Elfsborg,9369,2,2,2008-10-04T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056838,25,Helsingborg,9373,2,3,Elfsborg,9369,2,2,2008-10-04T16:00+0200,Allsvenskan,27773,René Makondele,28,home,1,0,11,11,0,0
+1056838,25,Helsingborg,9373,2,3,Elfsborg,9369,2,2,2008-10-04T16:00+0200,Allsvenskan,27773,Henrik Larsson,42,home,2,0,11,11,0,0
+1056838,25,Helsingborg,9373,2,3,Elfsborg,9369,2,2,2008-10-04T16:00+0200,Allsvenskan,27773,Teddy Lucic,53,visiting,2,1,11,11,0,0
+1056838,25,Helsingborg,9373,2,3,Elfsborg,9369,2,2,2008-10-04T16:00+0200,Allsvenskan,27773,Fredrik Berglund,71,visiting,2,2,11,11,0,0
+1056836,25,Djurgården,9368,3,6,GIF Sundsvall,9407,1,15,2008-10-05T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056836,25,Djurgården,9368,3,6,GIF Sundsvall,9407,1,15,2008-10-05T15:00+0200,Allsvenskan,27773,Andrej Komac,20,home,1,0,11,11,0,0
+1056836,25,Djurgården,9368,3,6,GIF Sundsvall,9407,1,15,2008-10-05T15:00+0200,Allsvenskan,27773,Sebastian Rajalakso,43,home,2,0,11,11,0,0
+1056836,25,Djurgården,9368,3,6,GIF Sundsvall,9407,1,15,2008-10-05T15:00+0200,Allsvenskan,27773,Johan Patriksson,85,visiting,2,1,11,11,0,0
+1056836,25,Djurgården,9368,3,6,GIF Sundsvall,9407,1,15,2008-10-05T15:00+0200,Allsvenskan,27773,Thiago Quirino da Silva,90,home,3,1,11,11,0,0
+1056837,25,Trelleborgs FF,9377,2,8,Kalmar FF,9374,1,1,2008-10-05T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056837,25,Trelleborgs FF,9377,2,8,Kalmar FF,9374,1,1,2008-10-05T15:00+0200,Allsvenskan,27773,Abiola Dauda,47,visiting,0,1,11,11,0,0
+1056837,25,Trelleborgs FF,9377,2,8,Kalmar FF,9374,1,1,2008-10-05T15:00+0200,Allsvenskan,27773,Erik Sundin,63,home,1,1,11,10,0,0
+1056837,25,Trelleborgs FF,9377,2,8,Kalmar FF,9374,1,1,2008-10-05T15:00+0200,Allsvenskan,27773,Magnus Andersson,74,home,2,1,11,10,0,0
+1056839,25,Halmstad,9371,2,5,AIK,9367,1,10,2008-10-05T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056839,25,Halmstad,9371,2,5,AIK,9367,1,10,2008-10-05T15:00+0200,Allsvenskan,27773,Mikael Rosén,65,home,1,0,11,11,0,0
+1056839,25,Halmstad,9371,2,5,AIK,9367,1,10,2008-10-05T15:00+0200,Allsvenskan,27773,Nils-Eric Johansson,69,visiting,1,1,11,11,0,0
+1056839,25,Halmstad,9371,2,5,AIK,9367,1,10,2008-10-05T15:00+0200,Allsvenskan,27773,Tommy Jönsson,78,home,2,1,11,11,0,0
+1056840,25,Malmö FF,9375,3,11,Örebro,9379,1,12,2008-10-06T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056840,25,Malmö FF,9375,3,11,Örebro,9379,1,12,2008-10-06T19:00+0200,Allsvenskan,27773,Daniel Andersson,10,home,1,0,11,11,0,0
+1056840,25,Malmö FF,9375,3,11,Örebro,9379,1,12,2008-10-06T19:00+0200,Allsvenskan,27773,Daniel Andersson,22,home,2,0,11,10,0,0
+1056840,25,Malmö FF,9375,3,11,Örebro,9379,1,12,2008-10-06T19:00+0200,Allsvenskan,27773,Fredrik Nordback,47,visiting,2,1,11,10,0,0
+1056840,25,Malmö FF,9375,3,11,Örebro,9379,1,12,2008-10-06T19:00+0200,Allsvenskan,27773,Edward Ofere,90,home,3,1,11,10,0,0
+1056841,25,Norrköping,9376,0,16,Gais,9382,1,9,2008-10-06T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056841,25,Norrköping,9376,0,16,Gais,9382,1,9,2008-10-06T19:00+0200,Allsvenskan,27773,Fredrik Lundgren,4,visiting,0,1,11,11,0,0
+1056842,25,Göteborg,9370,2,4,Hammarby,9372,0,7,2008-10-06T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056842,25,Göteborg,9370,2,4,Hammarby,9372,0,7,2008-10-06T20:00+0200,Allsvenskan,27773,Thomas Olsson,9,home,1,0,11,11,0,0
+1056842,25,Göteborg,9370,2,4,Hammarby,9372,0,7,2008-10-06T20:00+0200,Allsvenskan,27773,Jakob Johansson,76,home,2,0,11,11,0,0
+1056843,26,AIK,9367,2,7,Norrköping,9376,0,16,2008-10-18T14:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056843,26,AIK,9367,2,7,Norrköping,9376,0,16,2008-10-18T14:00+0200,Allsvenskan,27773,Ivan Obolo,10,home,1,0,11,11,0,0
+1056843,26,AIK,9367,2,7,Norrköping,9376,0,16,2008-10-18T14:00+0200,Allsvenskan,27773,Daniel Mendes,82,home,2,0,11,11,0,0
+1056844,26,Kalmar FF,9374,0,1,Göteborg,9370,1,3,2008-10-18T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056844,26,Kalmar FF,9374,0,1,Göteborg,9370,1,3,2008-10-18T16:00+0200,Allsvenskan,27773,Ragnar Sigurdsson,16,visiting,0,1,11,11,0,0
+1056845,26,Gais,9382,2,9,Malmö FF,9375,2,12,2008-10-19T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056845,26,Gais,9382,2,9,Malmö FF,9375,2,12,2008-10-19T15:00+0200,Allsvenskan,27773,Ola Toivonen,2,visiting,0,1,11,11,0,0
+1056845,26,Gais,9382,2,9,Malmö FF,9375,2,12,2008-10-19T15:00+0200,Allsvenskan,27773,Edward Ofere,30,visiting,0,2,11,11,1,1
+1056845,26,Gais,9382,2,9,Malmö FF,9375,2,12,2008-10-19T15:00+0200,Allsvenskan,27773,Wanderson do Carmo,53,home,1,2,11,11,1,1
+1056845,26,Gais,9382,2,9,Malmö FF,9375,2,12,2008-10-19T15:00+0200,Allsvenskan,27773,Wanderson do Carmo,90,home,2,2,11,11,2,3
+1056846,26,Ljungskile,9391,0,14,Halmstad,9371,3,5,2008-10-19T15:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056846,26,Ljungskile,9391,0,14,Halmstad,9371,3,5,2008-10-19T15:00+0200,Allsvenskan,27773,Anselmo,30,visiting,0,1,11,11,1,0
+1056846,26,Ljungskile,9391,0,14,Halmstad,9371,3,5,2008-10-19T15:00+0200,Allsvenskan,27773,Anselmo,66,visiting,0,2,11,11,3,0
+1056846,26,Ljungskile,9391,0,14,Halmstad,9371,3,5,2008-10-19T15:00+0200,Allsvenskan,27773,Emir Kujovic,77,visiting,0,3,11,11,3,0
+1056849,26,Örebro,9379,3,11,Helsingborg,9373,1,4,2008-10-20T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056849,26,Örebro,9379,3,11,Helsingborg,9373,1,4,2008-10-20T19:00+0200,Allsvenskan,27773,Roman Kienast,7,visiting,0,1,11,11,0,0
+1056849,26,Örebro,9379,3,11,Helsingborg,9373,1,4,2008-10-20T19:00+0200,Allsvenskan,27773,Sebastian Henriksson,27,home,1,1,11,11,0,0
+1056849,26,Örebro,9379,3,11,Helsingborg,9373,1,4,2008-10-20T19:00+0200,Allsvenskan,27773,Kim Olsen,53,home,2,1,11,11,0,0
+1056849,26,Örebro,9379,3,11,Helsingborg,9373,1,4,2008-10-20T19:00+0200,Allsvenskan,27773,Roni Porokara,76,home,3,1,11,11,0,0
+1056850,26,GIF Sundsvall,9407,2,15,Gefle,9400,3,13,2008-10-20T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056850,26,GIF Sundsvall,9407,2,15,Gefle,9400,3,13,2008-10-20T19:00+0200,Allsvenskan,27773,Daniel Bernhardsson,5,visiting,0,1,11,11,0,0
+1056850,26,GIF Sundsvall,9407,2,15,Gefle,9400,3,13,2008-10-20T19:00+0200,Allsvenskan,27773,Amadou Jawo,44,visiting,0,2,11,11,0,0
+1056850,26,GIF Sundsvall,9407,2,15,Gefle,9400,3,13,2008-10-20T19:00+0200,Allsvenskan,27773,Hannes Sigurdsson,48,home,1,2,11,11,0,0
+1056850,26,GIF Sundsvall,9407,2,15,Gefle,9400,3,13,2008-10-20T19:00+0200,Allsvenskan,27773,Robert Mambo Mumba,57,home,2,2,11,11,0,0
+1056850,26,GIF Sundsvall,9407,2,15,Gefle,9400,3,13,2008-10-20T19:00+0200,Allsvenskan,27773,Yannick Bapupa,73,visiting,2,3,11,11,0,0
+1056848,26,Hammarby,9372,3,6,Djurgården,9368,0,8,2008-10-20T20:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056848,26,Hammarby,9372,3,6,Djurgården,9368,0,8,2008-10-20T20:00+0200,Allsvenskan,27773,Erkan Zengin,65,home,1,0,11,11,0,0
+1056848,26,Hammarby,9372,3,6,Djurgården,9368,0,8,2008-10-20T20:00+0200,Allsvenskan,27773,Charlie Davies,67,home,2,0,11,11,0,0
+1056848,26,Hammarby,9372,3,6,Djurgården,9368,0,8,2008-10-20T20:00+0200,Allsvenskan,27773,Louay Chanko,76,home,3,0,11,11,0,0
+1056847,26,Elfsborg,9369,4,2,Trelleborgs FF,9377,1,10,2008-10-21T19:45+0200,Allsvenskan,27773,,,,0,0,,,,
+1056847,26,Elfsborg,9369,4,2,Trelleborgs FF,9377,1,10,2008-10-21T19:45+0200,Allsvenskan,27773,Daniel Mobaeck,21,home,1,0,11,11,0,0
+1056847,26,Elfsborg,9369,4,2,Trelleborgs FF,9377,1,10,2008-10-21T19:45+0200,Allsvenskan,27773,Fredrik Jensen,35,visiting,1,1,11,11,0,0
+1056847,26,Elfsborg,9369,4,2,Trelleborgs FF,9377,1,10,2008-10-21T19:45+0200,Allsvenskan,27773,Johan Karlsson,54,home,2,1,11,11,0,0
+1056847,26,Elfsborg,9369,4,2,Trelleborgs FF,9377,1,10,2008-10-21T19:45+0200,Allsvenskan,27773,Johan Karlsson,71,home,3,1,11,11,0,0
+1056847,26,Elfsborg,9369,4,2,Trelleborgs FF,9377,1,10,2008-10-21T19:45+0200,Allsvenskan,27773,Lasse Nilsson,79,home,4,1,11,11,0,0
+1056851,27,Malmö FF,9375,1,12,AIK,9367,0,7,2008-10-22T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056851,27,Malmö FF,9375,1,12,AIK,9367,0,7,2008-10-22T19:00+0200,Allsvenskan,27773,Jeffrey Aubynn,56,home,1,0,11,11,0,0
+1056852,27,Norrköping,9376,1,16,Ljungskile,9391,1,14,2008-10-22T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056852,27,Norrköping,9376,1,16,Ljungskile,9391,1,14,2008-10-22T19:00+0200,Allsvenskan,27773,Russell Mwafulirwa,28,home,1,0,10,11,0,0
+1056852,27,Norrköping,9376,1,16,Ljungskile,9391,1,14,2008-10-22T19:00+0200,Allsvenskan,27773,Jörgen Wålemark,76,visiting,1,1,10,11,0,0
+1056853,27,Örebro,9379,1,8,Gais,9382,0,11,2008-10-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056853,27,Örebro,9379,1,8,Gais,9382,0,11,2008-10-24T19:00+0200,Allsvenskan,27773,Magnus Wikström,51,home,1,0,11,11,0,0
+1056854,27,Halmstad,9371,0,5,GIF Sundsvall,9407,0,15,2008-10-24T19:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056856,27,Helsingborg,9373,1,4,Trelleborgs FF,9377,1,10,2008-10-25T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056856,27,Helsingborg,9373,1,4,Trelleborgs FF,9377,1,10,2008-10-25T16:00+0200,Allsvenskan,27773,Andreas Drugge,37,visiting,0,1,11,11,1,1
+1056856,27,Helsingborg,9373,1,4,Trelleborgs FF,9377,1,10,2008-10-25T16:00+0200,Allsvenskan,27773,Christoffer Andersson,39,home,1,1,11,11,1,1
+1056858,27,Djurgården,9368,0,9,Kalmar FF,9374,1,1,2008-10-25T16:00+0200,Allsvenskan,27773,,,,0,0,,,,
+1056858,27,Djurgården,9368,0,9,Kalmar FF,9374,1,1,2008-10-25T16:00+0200,Allsvenskan,27773,Patrik Ingelsten,46,visiting,0,1,11,11,0,0
+1056857,27,Gefle,9400,3,13,Hammarby,9372,0,6,2008-10-26T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056857,27,Gefle,9400,3,13,Hammarby,9372,0,6,2008-10-26T15:00+0100,Allsvenskan,27773,Daniel Bernhardsson,40,home,1,0,11,11,0,0
+1056857,27,Gefle,9400,3,13,Hammarby,9372,0,6,2008-10-26T15:00+0100,Allsvenskan,27773,Johannes Ericsson,72,home,2,0,11,11,0,0
+1056857,27,Gefle,9400,3,13,Hammarby,9372,0,6,2008-10-26T15:00+0100,Allsvenskan,27773,Amadou Jawo,81,home,3,0,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Johan Karlsson,11,visiting,0,1,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Gustav Svensson,18,home,1,1,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Pontus Wernbloom,48,home,2,1,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Niclas Alexandersson,60,home,3,1,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Jakob Johansson,75,home,4,1,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Pontus Wernbloom,86,home,5,1,11,11,0,0
+1056855,27,Göteborg,9370,5,3,Elfsborg,9369,2,2,2008-10-26T17:00+0100,Allsvenskan,27773,Daniel Nordmark,90,visiting,5,2,11,11,0,0
+1056859,28,GIF Sundsvall,9407,2,15,Norrköping,9376,1,16,2008-10-27T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056859,28,GIF Sundsvall,9407,2,15,Norrköping,9376,1,16,2008-10-27T19:00+0100,Allsvenskan,27773,Kristoffer Arvhage,11,visiting,0,1,11,11,0,0
+1056859,28,GIF Sundsvall,9407,2,15,Norrköping,9376,1,16,2008-10-27T19:00+0100,Allsvenskan,27773,Magnus Powell,20,home,1,1,11,11,0,0
+1056859,28,GIF Sundsvall,9407,2,15,Norrköping,9376,1,16,2008-10-27T19:00+0100,Allsvenskan,27773,Robert Mambo Mumba,89,home,2,1,11,11,0,0
+1056861,28,AIK,9367,2,7,Örebro,9379,1,10,2008-10-27T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056861,28,AIK,9367,2,7,Örebro,9379,1,10,2008-10-27T19:00+0100,Allsvenskan,27773,Stefan Rodevåg,13,visiting,0,1,11,11,0,0
+1056861,28,AIK,9367,2,7,Örebro,9379,1,10,2008-10-27T19:00+0100,Allsvenskan,27773,Ivan Obolo,49,home,1,1,11,11,0,0
+1056861,28,AIK,9367,2,7,Örebro,9379,1,10,2008-10-27T19:00+0100,Allsvenskan,27773,Kenny Pavey,56,home,2,1,11,11,0,0
+1056860,28,Ljungskile,9391,1,14,Malmö FF,9375,3,8,2008-10-28T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056860,28,Ljungskile,9391,1,14,Malmö FF,9375,3,8,2008-10-28T19:00+0100,Allsvenskan,27773,Edward Ofere,30,visiting,0,1,11,11,0,0
+1056860,28,Ljungskile,9391,1,14,Malmö FF,9375,3,8,2008-10-28T19:00+0100,Allsvenskan,27773,Cedomir Zarkovic,36,home,1,1,11,11,0,0
+1056860,28,Ljungskile,9391,1,14,Malmö FF,9375,3,8,2008-10-28T19:00+0100,Allsvenskan,27773,Ola Toivonen,54,visiting,1,2,11,11,0,0
+1056860,28,Ljungskile,9391,1,14,Malmö FF,9375,3,8,2008-10-28T19:00+0100,Allsvenskan,27773,Ola Toivonen,80,visiting,1,3,11,11,0,0
+1056862,28,Gais,9382,0,12,Helsingborg,9373,3,4,2008-10-28T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056862,28,Gais,9382,0,12,Helsingborg,9373,3,4,2008-10-28T19:00+0100,Allsvenskan,27773,René Makondele,46,visiting,0,1,11,11,0,0
+1056862,28,Gais,9382,0,12,Helsingborg,9373,3,4,2008-10-28T19:00+0100,Allsvenskan,27773,René Makondele,87,visiting,0,2,11,11,0,0
+1056862,28,Gais,9382,0,12,Helsingborg,9373,3,4,2008-10-28T19:00+0100,Allsvenskan,27773,Tobias Holmqvist,90,visiting,0,3,11,11,0,0
+1056863,28,Trelleborgs FF,9377,0,9,Göteborg,9370,0,3,2008-10-29T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056864,28,Elfsborg,9369,1,2,Djurgården,9368,0,11,2008-10-29T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056864,28,Elfsborg,9369,1,2,Djurgården,9368,0,11,2008-10-29T19:00+0100,Allsvenskan,27773,James Keene,49,home,1,0,11,11,0,0
+1056865,28,Hammarby,9372,2,5,Halmstad,9371,1,6,2008-10-29T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056865,28,Hammarby,9372,2,5,Halmstad,9371,1,6,2008-10-29T19:00+0100,Allsvenskan,27773,Anselmo,55,visiting,0,1,11,11,0,0
+1056865,28,Hammarby,9372,2,5,Halmstad,9371,1,6,2008-10-29T19:00+0100,Allsvenskan,27773,Olof Guterstam,68,home,1,1,11,11,0,0
+1056865,28,Hammarby,9372,2,5,Halmstad,9371,1,6,2008-10-29T19:00+0100,Allsvenskan,27773,Louay Chanko,78,home,2,1,11,11,0,0
+1056866,28,Kalmar FF,9374,3,1,Gefle,9400,1,13,2008-10-29T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056866,28,Kalmar FF,9374,3,1,Gefle,9400,1,13,2008-10-29T19:00+0100,Allsvenskan,27773,Viktor Elm,23,home,1,0,11,11,0,0
+1056866,28,Kalmar FF,9374,3,1,Gefle,9400,1,13,2008-10-29T19:00+0100,Allsvenskan,27773,Hans Berggren,34,visiting,1,1,11,11,0,0
+1056866,28,Kalmar FF,9374,3,1,Gefle,9400,1,13,2008-10-29T19:00+0100,Allsvenskan,27773,Patrik Ingelsten,74,home,2,1,11,11,0,0
+1056866,28,Kalmar FF,9374,3,1,Gefle,9400,1,13,2008-10-29T19:00+0100,Allsvenskan,27773,Patrik Ingelsten,76,home,3,1,11,11,0,0
+1056870,29,Ljungskile,9391,0,14,Gais,9382,3,10,2008-11-01T16:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056870,29,Ljungskile,9391,0,14,Gais,9382,3,10,2008-11-01T16:00+0100,Allsvenskan,27773,Björn Andersson,24,visiting,0,1,11,11,0,0
+1056870,29,Ljungskile,9391,0,14,Gais,9382,3,10,2008-11-01T16:00+0100,Allsvenskan,27773,Wanderson do Carmo,55,visiting,0,2,11,11,0,0
+1056870,29,Ljungskile,9391,0,14,Gais,9382,3,10,2008-11-01T16:00+0100,Allsvenskan,27773,Tommy Lycén,87,visiting,0,3,11,11,0,0
+1056868,29,GIF Sundsvall,9407,1,15,Örebro,9379,2,9,2008-11-02T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056868,29,GIF Sundsvall,9407,1,15,Örebro,9379,2,9,2008-11-02T15:00+0100,Allsvenskan,27773,Sebastian Henriksson,28,visiting,0,1,11,11,0,0
+1056868,29,GIF Sundsvall,9407,1,15,Örebro,9379,2,9,2008-11-02T15:00+0100,Allsvenskan,27773,Robert Mambo Mumba,31,home,1,1,11,11,0,0
+1056868,29,GIF Sundsvall,9407,1,15,Örebro,9379,2,9,2008-11-02T15:00+0100,Allsvenskan,27773,Eric Bassombeng,90,visiting,1,2,11,11,0,0
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,Kristian Haynes,26,home,1,0,11,11,0,0
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,Andreas Drugge,28,home,2,0,11,11,0,0
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,Hans Berggren,68,visiting,2,1,11,11,0,0
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,Jonas Lantto,73,visiting,2,2,11,11,0,0
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,Rasmus Bengtsson,83,home,3,2,11,11,0,0
+1056869,29,Trelleborgs FF,9377,3,11,Gefle,9400,3,13,2008-11-02T15:00+0100,Allsvenskan,27773,Hans Berggren,87,visiting,3,3,11,11,0,0
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,Rasmus Elm,41,home,1,0,11,10,0,0
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,Viktor Elm,42,home,2,0,11,10,0,0
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,Viktor Elm,48,home,3,0,11,10,0,0
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,Daniel Sobralense,73,home,4,0,11,10,0,0
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,Viktor Elm,78,home,5,0,11,10,0,0
+1056872,29,Kalmar FF,9374,6,1,Norrköping,9376,0,16,2008-11-02T15:00+0100,Allsvenskan,27773,Viktor Elm,90,home,6,0,11,10,0,0
+1056874,29,AIK,9367,3,5,Helsingborg,9373,1,4,2008-11-02T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056874,29,AIK,9367,3,5,Helsingborg,9373,1,4,2008-11-02T15:00+0100,Allsvenskan,27773,Miran Burgic,56,home,1,0,11,11,0,0
+1056874,29,AIK,9367,3,5,Helsingborg,9373,1,4,2008-11-02T15:00+0100,Allsvenskan,27773,Miran Burgic,64,home,2,0,11,11,0,0
+1056874,29,AIK,9367,3,5,Helsingborg,9373,1,4,2008-11-02T15:00+0100,Allsvenskan,27773,Gabriel Özkan,68,home,3,0,11,11,0,0
+1056874,29,AIK,9367,3,5,Helsingborg,9373,1,4,2008-11-02T15:00+0100,Allsvenskan,27773,Tobias Holmqvist,84,visiting,3,1,11,11,0,0
+1056867,29,Göteborg,9370,3,3,Djurgården,9368,1,12,2008-11-03T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056867,29,Göteborg,9370,3,3,Djurgården,9368,1,12,2008-11-03T19:00+0100,Allsvenskan,27773,Pontus Wernbloom,10,home,1,0,11,11,0,0
+1056867,29,Göteborg,9370,3,3,Djurgården,9368,1,12,2008-11-03T19:00+0100,Allsvenskan,27773,Niclas Alexandersson,22,home,2,0,11,11,0,0
+1056867,29,Göteborg,9370,3,3,Djurgården,9368,1,12,2008-11-03T19:00+0100,Allsvenskan,27773,Jones Kusi-Asare,51,visiting,2,1,11,11,0,0
+1056867,29,Göteborg,9370,3,3,Djurgården,9368,1,12,2008-11-03T19:00+0100,Allsvenskan,27773,Tobias Hysén,56,home,3,1,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Robert Åhman Persson,9,visiting,0,1,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Charlie Davies,11,home,1,1,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Olof Guterstam,18,home,2,1,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Jeffrey Aubynn,24,visiting,2,2,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Jeffrey Aubynn,30,visiting,2,3,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,José Monteiro de Macedo,34,home,3,3,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Daniel Andersson,37,visiting,3,4,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Jeffrey Aubynn,55,visiting,3,5,11,11,0,0
+1056871,29,Hammarby,9372,3,7,Malmö FF,9375,6,6,2008-11-03T19:00+0100,Allsvenskan,27773,Jimmy Touma,90,visiting,3,6,11,11,0,0
+1056873,29,Elfsborg,9369,3,2,Halmstad,9371,0,8,2008-11-03T19:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056873,29,Elfsborg,9369,3,2,Halmstad,9371,0,8,2008-11-03T19:00+0100,Allsvenskan,27773,Fredrik Berglund,74,home,1,0,11,11,0,0
+1056873,29,Elfsborg,9369,3,2,Halmstad,9371,0,8,2008-11-03T19:00+0100,Allsvenskan,27773,Emir Bajrami,78,home,2,0,11,11,0,0
+1056873,29,Elfsborg,9369,3,2,Halmstad,9371,0,8,2008-11-03T19:00+0100,Allsvenskan,27773,Lasse Nilsson,82,home,3,0,11,11,0,0
+1056875,30,Gefle,9400,1,13,Elfsborg,9369,2,2,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056875,30,Gefle,9400,1,13,Elfsborg,9369,2,2,2008-11-09T15:00+0100,Allsvenskan,27773,Martin Andersson,22,visiting,0,1,11,11,0,0
+1056875,30,Gefle,9400,1,13,Elfsborg,9369,2,2,2008-11-09T15:00+0100,Allsvenskan,27773,Johan Karlsson,55,visiting,0,2,11,11,0,0
+1056875,30,Gefle,9400,1,13,Elfsborg,9369,2,2,2008-11-09T15:00+0100,Allsvenskan,27773,Hans Berggren,90,home,1,2,11,11,0,0
+1056876,30,Halmstad,9371,2,8,Kalmar FF,9374,2,1,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056876,30,Halmstad,9371,2,8,Kalmar FF,9374,2,1,2008-11-09T15:00+0100,Allsvenskan,27773,Daniel Sobralense,14,visiting,0,1,11,11,0,0
+1056876,30,Halmstad,9371,2,8,Kalmar FF,9374,2,1,2008-11-09T15:00+0100,Allsvenskan,27773,Emir Kujovic,50,home,1,1,11,11,0,0
+1056876,30,Halmstad,9371,2,8,Kalmar FF,9374,2,1,2008-11-09T15:00+0100,Allsvenskan,27773,Andreas Johansson,65,home,2,1,11,11,0,0
+1056876,30,Halmstad,9371,2,8,Kalmar FF,9374,2,1,2008-11-09T15:00+0100,Allsvenskan,27773,Patrik Ingelsten,87,visiting,2,2,11,11,0,0
+1056877,30,Örebro,9379,3,7,Ljungskile,9391,0,14,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056877,30,Örebro,9379,3,7,Ljungskile,9391,0,14,2008-11-09T15:00+0100,Allsvenskan,27773,Eric Bassombeng,1,home,1,0,11,11,0,0
+1056877,30,Örebro,9379,3,7,Ljungskile,9391,0,14,2008-11-09T15:00+0100,Allsvenskan,27773,Sebastian Henriksson,34,home,2,0,11,10,0,0
+1056877,30,Örebro,9379,3,7,Ljungskile,9391,0,14,2008-11-09T15:00+0100,Allsvenskan,27773,Roni Porokara,47,home,3,0,11,10,0,0
+1056878,30,Djurgården,9368,1,12,Trelleborgs FF,9377,3,10,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056878,30,Djurgården,9368,1,12,Trelleborgs FF,9377,3,10,2008-11-09T15:00+0100,Allsvenskan,27773,Sebastian Rajalakso,22,home,1,0,11,11,0,0
+1056878,30,Djurgården,9368,1,12,Trelleborgs FF,9377,3,10,2008-11-09T15:00+0100,Allsvenskan,27773,Rasmus Bengtsson,39,visiting,1,1,11,11,0,0
+1056878,30,Djurgården,9368,1,12,Trelleborgs FF,9377,3,10,2008-11-09T15:00+0100,Allsvenskan,27773,Mattias Thylander,89,visiting,1,2,11,11,0,0
+1056878,30,Djurgården,9368,1,12,Trelleborgs FF,9377,3,10,2008-11-09T15:00+0100,Allsvenskan,27773,Magnus Andersson,90,visiting,1,3,11,11,0,0
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,Edward Ofere,23,home,1,0,11,11,0,0
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,Ola Toivonen,29,home,2,0,11,11,0,0
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,Edward Ofere,32,home,3,0,11,11,0,0
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,Ola Toivonen,50,home,4,0,11,11,0,0
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,Jimmy Touma,83,home,5,0,11,11,0,0
+1056879,30,Malmö FF,9375,6,6,GIF Sundsvall,9407,0,15,2008-11-09T15:00+0100,Allsvenskan,27773,Agon Mehmeti,90,home,6,0,11,11,0,0
+1056880,30,Gais,9382,0,11,AIK,9367,2,5,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056880,30,Gais,9382,0,11,AIK,9367,2,5,2008-11-09T15:00+0100,Allsvenskan,27773,Gabriel Özkan,12,visiting,0,1,11,11,0,0
+1056880,30,Gais,9382,0,11,AIK,9367,2,5,2008-11-09T15:00+0100,Allsvenskan,27773,Ivan Obolo,38,visiting,0,2,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Charlie Davies,2,visiting,0,1,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Charlie Davies,5,visiting,0,2,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Imad Khalili,25,home,1,2,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Russell Mwafulirwa,28,home,2,2,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Russell Mwafulirwa,46,home,3,2,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Thomas Magnusson,82,home,4,2,11,11,0,0
+1056881,30,Norrköping,9376,5,16,Hammarby,9372,2,9,2008-11-09T15:00+0100,Allsvenskan,27773,Christopher Telo,87,home,5,2,11,11,0,0
+1056882,30,Helsingborg,9373,2,4,Göteborg,9370,1,3,2008-11-09T15:00+0100,Allsvenskan,27773,,,,0,0,,,,
+1056882,30,Helsingborg,9373,2,4,Göteborg,9370,1,3,2008-11-09T15:00+0100,Allsvenskan,27773,Rasmus Jönsson,13,home,1,0,11,11,0,0
+1056882,30,Helsingborg,9373,2,4,Göteborg,9370,1,3,2008-11-09T15:00+0100,Allsvenskan,27773,Niclas Alexandersson,27,visiting,1,1,11,11,0,0
+1056882,30,Helsingborg,9373,2,4,Göteborg,9370,1,3,2008-11-09T15:00+0100,Allsvenskan,27773,Henrik Larsson,54,home,2,1,11,11,0,0

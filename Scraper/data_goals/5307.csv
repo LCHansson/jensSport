@@ -1,0 +1,303 @@
+gameId,round,homeTeam,homeTeamId,homeTeamScore,homePos,visitingTeam,visitingTeamId,visitingTeamScore,visitingPos,date,league,leagueId,player,minute,team,homeGoals,visitingGoals,homePlayers,visitingPlayers,homeWarnings,visitingWarnings
+333028,1,Landskrona,9388,6,1,Helsingborg,9373,2,14,2002-04-06T14:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333030,1,AIK,9367,0,13,Elfsborg,9369,2,2,2002-04-07T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333031,1,Halmstad,9371,0,11,GIF Sundsvall,9407,1,5,2002-04-07T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333032,1,Kalmar FF,9374,1,6,Norrköping,9376,0,12,2002-04-07T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333033,1,Hammarby,9372,2,9,Örgryte IS,9380,3,3,2002-04-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333035,1,Göteborg,9370,1,7,Örebro,9379,1,8,2002-04-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333036,1,Malmö FF,9375,1,10,Djurgården,9368,2,4,2002-04-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333037,2,Djurgården,9368,3,6,AIK,9367,4,8,2002-04-13T14:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333039,2,Norrköping,9376,0,14,Malmö FF,9375,3,5,2002-04-13T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333040,2,Örebro,9379,1,12,Landskrona,9388,3,1,2002-04-13T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333041,2,Örgryte IS,9380,2,2,Kalmar FF,9374,0,9,2002-04-13T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333043,2,GIF Sundsvall,9407,1,7,Göteborg,9370,2,4,2002-04-14T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333044,2,Helsingborg,9373,4,10,Hammarby,9372,2,13,2002-04-14T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333045,2,Elfsborg,9369,1,3,Halmstad,9371,1,11,2002-04-14T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333046,3,AIK,9367,1,12,Norrköping,9376,3,10,2002-04-21T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333047,3,Landskrona,9388,2,2,GIF Sundsvall,9407,2,5,2002-04-21T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333048,3,Malmö FF,9375,0,9,Örgryte IS,9380,1,1,2002-04-21T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333049,3,Halmstad,9371,1,13,Djurgården,9368,1,4,2002-04-22T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333049,3,Halmstad,9371,1,13,Djurgården,9368,1,4,2002-04-22T19:00+0200,Allsvenskan,5307,Abgar Barsom,53,home,1,0,11,11,0,0
+333050,3,Göteborg,9370,1,6,Elfsborg,9369,2,3,2002-04-22T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333051,3,Örebro,9379,1,7,Helsingborg,9373,0,11,2002-04-22T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333052,3,Kalmar FF,9374,1,8,Hammarby,9372,1,14,2002-04-23T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333053,4,Djurgården,9368,1,3,Göteborg,9370,0,9,2002-04-27T14:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333053,4,Djurgården,9368,1,3,Göteborg,9370,0,9,2002-04-27T14:00+0200,Allsvenskan,5307,Babis Stefanidis,79,home,1,0,11,11,0,0
+333054,4,GIF Sundsvall,9407,1,5,Örebro,9379,1,6,2002-04-28T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333057,4,Hammarby,9372,3,8,Malmö FF,9375,1,13,2002-04-29T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333058,4,Elfsborg,9369,0,4,Landskrona,9388,3,1,2002-04-29T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333059,4,Örgryte IS,9380,2,2,AIK,9367,2,11,2002-04-29T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333061,5,GIF Sundsvall,9407,0,10,Helsingborg,9373,1,6,2002-05-01T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333062,5,Göteborg,9370,1,5,Norrköping,9376,0,14,2002-05-01T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333063,5,Halmstad,9371,1,13,Örgryte IS,9380,1,2,2002-05-02T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333064,5,Landskrona,9388,1,1,Djurgården,9368,1,3,2002-05-02T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333066,5,Örebro,9379,2,4,Elfsborg,9369,0,7,2002-05-02T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333067,5,AIK,9367,2,11,Hammarby,9372,2,9,2002-05-02T20:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333065,5,Malmö FF,9375,4,8,Kalmar FF,9374,0,12,2002-05-03T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333080,6,Djurgården,9368,3,3,Örebro,9379,0,5,2002-05-05T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333083,6,Hammarby,9372,2,9,Halmstad,9371,2,13,2002-05-06T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333084,6,Norrköping,9376,1,14,Landskrona,9388,1,2,2002-05-06T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333086,6,Helsingborg,9373,2,8,Malmö FF,9375,3,4,2002-05-07T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333088,6,Örgryte IS,9380,2,1,Göteborg,9370,1,7,2002-05-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333099,7,GIF Sundsvall,9407,2,8,Djurgården,9368,1,4,2002-05-12T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333100,7,Halmstad,9371,1,9,Kalmar FF,9374,0,13,2002-05-12T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333101,7,Landskrona,9388,3,1,Örgryte IS,9380,1,2,2002-05-12T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333102,7,AIK,9367,1,12,Malmö FF,9375,2,3,2002-05-13T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333102,7,AIK,9367,1,12,Malmö FF,9375,2,3,2002-05-13T19:00+0200,Allsvenskan,5307,Peter Ijeh,68,home,1,0,11,11,0,0
+333103,7,Elfsborg,9369,0,10,Helsingborg,9373,1,7,2002-05-13T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333103,7,Elfsborg,9369,0,10,Helsingborg,9373,1,7,2002-05-13T19:00+0200,Allsvenskan,5307,Alvaro Santos,21,visiting,0,1,11,11,0,0
+333104,7,Örebro,9379,1,5,Norrköping,9376,0,14,2002-05-13T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333104,7,Örebro,9379,1,5,Norrköping,9376,0,14,2002-05-13T19:00+0200,Allsvenskan,5307,Patrik Anttonen,54,home,1,0,11,11,0,0
+333105,7,Göteborg,9370,3,6,Hammarby,9372,1,11,2002-05-14T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333105,7,Göteborg,9370,3,6,Hammarby,9372,1,11,2002-05-14T19:00+0200,Allsvenskan,5307,Tomas Rosenkvist,55,home,1,0,11,11,0,0
+333110,8,Helsingborg,9373,2,5,AIK,9367,1,13,2002-07-02T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333110,8,Helsingborg,9373,2,5,AIK,9367,1,13,2002-07-02T19:00+0200,Allsvenskan,5307,Marcus Ekenberg,78,home,1,0,11,11,0,0
+333111,8,Kalmar FF,9374,0,14,Göteborg,9370,1,4,2002-07-03T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333111,8,Kalmar FF,9374,0,14,Göteborg,9370,1,4,2002-07-03T19:00+0200,Allsvenskan,5307,Peter Eriksson,38,visiting,0,1,11,11,0,0
+333112,8,Örgryte IS,9380,1,3,Örebro,9379,1,7,2002-07-03T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333112,8,Örgryte IS,9380,1,3,Örebro,9379,1,7,2002-07-03T19:00+0200,Allsvenskan,5307,Paul Oyuga,90,home,1,0,11,11,0,0
+333116,8,Hammarby,9372,1,11,Landskrona,9388,2,1,2002-07-04T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333116,8,Hammarby,9372,1,11,Landskrona,9388,2,1,2002-07-04T18:30+0200,Allsvenskan,5307,Peter Markstedt,77,visiting,0,1,11,11,0,0
+333117,8,Malmö FF,9375,2,2,Halmstad,9371,1,10,2002-07-04T20:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333117,8,Malmö FF,9375,2,2,Halmstad,9371,1,10,2002-07-04T20:00+0200,Allsvenskan,5307,Peter Ijeh,76,home,1,0,11,11,0,0
+333109,8,Djurgården,9368,1,6,Elfsborg,9369,1,9,2002-07-05T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333109,8,Djurgården,9368,1,6,Elfsborg,9369,1,9,2002-07-05T19:00+0200,Allsvenskan,5307,Abgar Barsom,72,visiting,0,1,11,11,0,0
+333118,9,GIF Sundsvall,9407,0,8,Kalmar FF,9374,1,13,2002-07-07T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333118,9,GIF Sundsvall,9407,0,8,Kalmar FF,9374,1,13,2002-07-07T17:00+0200,Allsvenskan,5307,Henrik Rydström,12,visiting,0,1,11,11,0,0
+333119,9,Malmö FF,9375,4,2,Örebro,9379,1,7,2002-07-07T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333119,9,Malmö FF,9375,4,2,Örebro,9379,1,7,2002-07-07T17:00+0200,Allsvenskan,5307,Niklas Skoog,87,visiting,0,1,11,11,0,0
+333120,9,Elfsborg,9369,1,12,Hammarby,9372,2,9,2002-07-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333120,9,Elfsborg,9369,1,12,Hammarby,9372,2,9,2002-07-08T19:00+0200,Allsvenskan,5307,Jurica Siljanoski,62,visiting,0,1,11,11,0,0
+333121,9,Göteborg,9370,1,4,Halmstad,9371,0,14,2002-07-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333121,9,Göteborg,9370,1,4,Halmstad,9371,0,14,2002-07-08T19:00+0200,Allsvenskan,5307,Gustaf Andersson,61,home,1,0,11,11,0,0
+333122,9,Landskrona,9388,2,1,AIK,9367,3,11,2002-07-08T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333122,9,Landskrona,9388,2,1,AIK,9367,3,11,2002-07-08T19:00+0200,Allsvenskan,5307,Krister Nordin,89,visiting,0,1,11,11,0,0
+333124,9,Djurgården,9368,2,6,Örgryte IS,9380,3,3,2002-07-09T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333124,9,Djurgården,9368,2,6,Örgryte IS,9380,3,3,2002-07-09T19:00+0200,Allsvenskan,5307,Christer Mattiasson,85,visiting,0,1,11,11,0,0
+333123,9,Norrköping,9376,1,10,Helsingborg,9373,0,5,2002-07-10T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333123,9,Norrköping,9376,1,10,Helsingborg,9373,0,5,2002-07-10T19:00+0200,Allsvenskan,5307,Fredrik Bild,69,home,1,0,11,11,0,0
+333125,10,AIK,9367,1,9,Örebro,9379,1,8,2002-07-14T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333125,10,AIK,9367,1,9,Örebro,9379,1,8,2002-07-14T17:00+0200,Allsvenskan,5307,Boniventure Maruti,67,home,1,0,11,11,0,0
+333126,10,Malmö FF,9375,0,3,GIF Sundsvall,9407,2,7,2002-07-14T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333126,10,Malmö FF,9375,0,3,GIF Sundsvall,9407,2,7,2002-07-14T17:00+0200,Allsvenskan,5307,Tommy Bergersen,55,visiting,0,1,11,11,0,0
+333127,10,Örgryte IS,9380,3,1,Norrköping,9376,2,14,2002-07-14T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333127,10,Örgryte IS,9380,3,1,Norrköping,9376,2,14,2002-07-14T17:00+0200,Allsvenskan,5307,Mikael Ström,86,visiting,0,1,11,11,0,0
+333129,10,Hammarby,9372,1,13,Djurgården,9368,2,6,2002-07-15T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333129,10,Hammarby,9372,1,13,Djurgården,9368,2,6,2002-07-15T19:00+0200,Allsvenskan,5307,Abgar Barsom,37,home,1,0,11,11,0,0
+333130,10,Kalmar FF,9374,1,11,Elfsborg,9369,1,10,2002-07-15T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333130,10,Kalmar FF,9374,1,11,Elfsborg,9369,1,10,2002-07-15T19:00+0200,Allsvenskan,5307,Alysson,38,visiting,0,1,11,11,0,0
+333128,10,Halmstad,9371,1,12,Landskrona,9388,1,2,2002-07-16T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333128,10,Halmstad,9371,1,12,Landskrona,9388,1,2,2002-07-16T19:00+0200,Allsvenskan,5307,Magnus Andersson,68,visiting,0,1,11,11,0,0
+333131,10,Helsingborg,9373,2,5,Göteborg,9370,1,4,2002-07-17T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333131,10,Helsingborg,9373,2,5,Göteborg,9370,1,4,2002-07-17T19:00+0200,Allsvenskan,5307,Gustaf Andersson,79,home,1,0,11,11,0,0
+333132,11,GIF Sundsvall,9407,1,8,Örgryte IS,9380,1,1,2002-07-21T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333132,11,GIF Sundsvall,9407,1,8,Örgryte IS,9380,1,1,2002-07-21T17:00+0200,Allsvenskan,5307,Afonso Alves,86,home,1,0,11,11,0,0
+333133,11,Landskrona,9388,1,3,Kalmar FF,9374,3,9,2002-07-21T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333133,11,Landskrona,9388,1,3,Kalmar FF,9374,3,9,2002-07-21T17:00+0200,Allsvenskan,5307,Damir Spahic,84,visiting,0,1,11,11,0,0
+333134,11,Halmstad,9371,1,12,AIK,9367,1,10,2002-07-22T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333134,11,Halmstad,9371,1,12,AIK,9367,1,10,2002-07-22T19:00+0200,Allsvenskan,5307,Teddy Lucic,80,home,1,0,11,11,0,0
+333135,11,Elfsborg,9369,2,11,Norrköping,9376,2,13,2002-07-22T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333135,11,Elfsborg,9369,2,11,Norrköping,9376,2,13,2002-07-22T19:00+0200,Allsvenskan,5307,Dawid Banaczek,88,home,1,0,11,11,0,0
+333137,11,Örebro,9379,2,7,Hammarby,9372,1,14,2002-07-22T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333137,11,Örebro,9379,2,7,Hammarby,9372,1,14,2002-07-22T19:00+0200,Allsvenskan,5307,Antti Pohja,80,home,1,0,11,11,0,0
+333136,11,Göteborg,9370,0,6,Malmö FF,9375,4,2,2002-07-23T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333136,11,Göteborg,9370,0,6,Malmö FF,9375,4,2,2002-07-23T19:00+0200,Allsvenskan,5307,Daniel Sliper,78,visiting,0,1,11,11,0,0
+333138,11,Djurgården,9368,1,5,Helsingborg,9373,1,4,2002-07-24T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333138,11,Djurgården,9368,1,5,Helsingborg,9373,1,4,2002-07-24T19:00+0200,Allsvenskan,5307,Abgar Barsom,60,visiting,0,1,11,11,0,0
+333139,12,Hammarby,9372,3,11,GIF Sundsvall,9407,1,9,2002-07-27T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333139,12,Hammarby,9372,3,11,GIF Sundsvall,9407,1,9,2002-07-27T15:00+0200,Allsvenskan,5307,Fredric Lundqvist,75,home,1,0,11,11,0,0
+333140,12,Kalmar FF,9374,0,10,Örebro,9379,1,5,2002-07-28T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333140,12,Kalmar FF,9374,0,10,Örebro,9379,1,5,2002-07-28T17:00+0200,Allsvenskan,5307,Mikael Steen,45,visiting,0,1,11,11,0,0
+333141,12,Malmö FF,9375,2,2,Landskrona,9388,1,3,2002-07-29T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333141,12,Malmö FF,9375,2,2,Landskrona,9388,1,3,2002-07-29T19:00+0200,Allsvenskan,5307,Peter Ijeh,81,home,1,0,11,11,0,0
+333142,12,AIK,9367,3,8,Göteborg,9370,0,7,2002-07-29T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333142,12,AIK,9367,3,8,Göteborg,9370,0,7,2002-07-29T19:00+0200,Allsvenskan,5307,Daniel Hoch,56,home,1,0,11,11,0,0
+333143,12,Norrköping,9376,0,14,Djurgården,9368,1,4,2002-07-29T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333143,12,Norrköping,9376,0,14,Djurgården,9368,1,4,2002-07-29T19:00+0200,Allsvenskan,5307,Kim Källström,90,visiting,0,1,11,11,0,0
+333144,12,Örgryte IS,9380,4,1,Elfsborg,9369,1,13,2002-07-30T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333144,12,Örgryte IS,9380,4,1,Elfsborg,9369,1,13,2002-07-30T19:00+0200,Allsvenskan,5307,Lars Nilsson,82,home,1,0,11,11,0,0
+333146,13,Norrköping,9376,1,14,Hammarby,9372,1,11,2002-08-03T18:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333146,13,Norrköping,9376,1,14,Hammarby,9372,1,11,2002-08-03T18:00+0200,Allsvenskan,5307,Peter Markstedt,65,home,1,0,11,11,0,0
+333147,13,Djurgården,9368,1,3,Kalmar FF,9374,0,12,2002-08-04T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333147,13,Djurgården,9368,1,3,Kalmar FF,9374,0,12,2002-08-04T17:00+0200,Allsvenskan,5307,Abgar Barsom,36,home,1,0,11,11,0,0
+333148,13,Elfsborg,9369,2,10,Malmö FF,9375,1,2,2002-08-04T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333148,13,Elfsborg,9369,2,10,Malmö FF,9375,1,2,2002-08-04T17:00+0200,Allsvenskan,5307,Daniel Sliper,65,home,1,0,11,11,0,0
+333149,13,Örgryte IS,9380,2,1,Helsingborg,9373,2,6,2002-08-04T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333149,13,Örgryte IS,9380,2,1,Helsingborg,9373,2,6,2002-08-04T17:00+0200,Allsvenskan,5307,Paulinho Guara,58,visiting,0,1,11,11,0,0
+333150,13,GIF Sundsvall,9407,1,9,AIK,9367,1,8,2002-08-05T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333150,13,GIF Sundsvall,9407,1,9,AIK,9367,1,8,2002-08-05T19:00+0200,Allsvenskan,5307,Mattias Thorsell,61,visiting,0,1,11,11,0,0
+333151,13,Landskrona,9388,1,5,Göteborg,9370,2,7,2002-08-05T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333151,13,Landskrona,9388,1,5,Göteborg,9370,2,7,2002-08-05T19:00+0200,Allsvenskan,5307,Henrik Nilsson,76,visiting,0,1,11,11,0,0
+333152,13,Örebro,9379,3,4,Halmstad,9371,1,13,2002-08-05T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333152,13,Örebro,9379,3,4,Halmstad,9371,1,13,2002-08-05T19:00+0200,Allsvenskan,5307,Johan Wallinder,57,home,1,0,11,11,0,0
+333153,14,Kalmar FF,9374,1,12,Örgryte IS,9380,3,1,2002-08-07T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333153,14,Kalmar FF,9374,1,12,Örgryte IS,9380,3,1,2002-08-07T19:00+0200,Allsvenskan,5307,Håkan Lindqvist,90,visiting,0,1,11,11,0,0
+333154,14,Malmö FF,9375,3,2,Norrköping,9376,2,14,2002-08-07T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333154,14,Malmö FF,9375,3,2,Norrköping,9376,2,14,2002-08-07T19:00+0200,Allsvenskan,5307,Andreas Yngvesson,51,home,1,0,11,11,0,0
+333156,14,Halmstad,9371,0,13,Elfsborg,9369,1,8,2002-08-08T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333156,14,Halmstad,9371,0,13,Elfsborg,9369,1,8,2002-08-08T18:30+0200,Allsvenskan,5307,Anders Svensson,58,visiting,0,1,11,11,0,0
+333158,14,Landskrona,9388,3,4,Örebro,9379,1,5,2002-08-08T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333158,14,Landskrona,9388,3,4,Örebro,9379,1,5,2002-08-08T18:30+0200,Allsvenskan,5307,Alexander Farnerud,68,home,1,0,11,11,0,0
+333155,14,AIK,9367,0,11,Djurgården,9368,3,3,2002-08-08T20:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333155,14,AIK,9367,0,11,Djurgården,9368,3,3,2002-08-08T20:00+0200,Allsvenskan,5307,Kim Källström,73,visiting,0,1,11,11,0,0
+333159,15,Örgryte IS,9380,1,2,Hammarby,9372,1,10,2002-08-10T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333159,15,Örgryte IS,9380,1,2,Hammarby,9372,1,10,2002-08-10T16:00+0200,Allsvenskan,5307,Joachim Karlsson,75,visiting,0,1,11,11,0,0
+333160,15,Djurgården,9368,3,4,Malmö FF,9375,4,1,2002-08-11T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333160,15,Djurgården,9368,3,4,Malmö FF,9375,4,1,2002-08-11T17:00+0200,Allsvenskan,5307,Abgar Barsom,90,visiting,0,1,11,11,0,0
+333161,15,Elfsborg,9369,0,11,AIK,9367,1,9,2002-08-11T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333161,15,Elfsborg,9369,0,11,AIK,9367,1,9,2002-08-11T17:00+0200,Allsvenskan,5307,Krister Nordin,24,visiting,0,1,11,11,0,0
+333162,15,Örebro,9379,2,5,Göteborg,9370,0,6,2002-08-11T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333162,15,Örebro,9379,2,5,Göteborg,9370,0,6,2002-08-11T17:00+0200,Allsvenskan,5307,Christopher Pozniak,74,home,1,0,11,11,0,0
+333163,15,GIF Sundsvall,9407,3,7,Halmstad,9371,2,14,2002-08-12T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333163,15,GIF Sundsvall,9407,3,7,Halmstad,9371,2,14,2002-08-12T18:30+0200,Allsvenskan,5307,Dennis Östlundh,90,visiting,0,1,11,11,0,0
+333165,15,Norrköping,9376,5,12,Kalmar FF,9374,1,13,2002-08-12T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333165,15,Norrköping,9376,5,12,Kalmar FF,9374,1,13,2002-08-12T18:30+0200,Allsvenskan,5307,Mattias Flodström,74,home,1,0,11,11,0,0
+333164,15,Helsingborg,9373,2,8,Landskrona,9388,3,3,2002-08-12T20:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333164,15,Helsingborg,9373,2,8,Landskrona,9388,3,3,2002-08-12T20:00+0200,Allsvenskan,5307,Magnus Torvaldsson,90,visiting,0,1,11,11,0,0
+333168,16,Örgryte IS,9380,2,2,Malmö FF,9375,2,1,2002-08-17T14:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333168,16,Örgryte IS,9380,2,2,Malmö FF,9375,2,1,2002-08-17T14:00+0200,Allsvenskan,5307,Joachim Karlsson,62,home,1,0,11,11,0,0
+333166,16,GIF Sundsvall,9407,1,6,Landskrona,9388,0,3,2002-08-17T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333166,16,GIF Sundsvall,9407,1,6,Landskrona,9388,0,3,2002-08-17T16:00+0200,Allsvenskan,5307,Mattias Thorsell,12,home,1,0,11,11,0,0
+333167,16,Hammarby,9372,3,8,Kalmar FF,9374,1,14,2002-08-17T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333167,16,Hammarby,9372,3,8,Kalmar FF,9374,1,14,2002-08-17T16:00+0200,Allsvenskan,5307,Antti Pohja,37,home,1,0,11,11,0,0
+333169,16,Djurgården,9368,1,4,Halmstad,9371,3,13,2002-08-18T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333169,16,Djurgården,9368,1,4,Halmstad,9371,3,13,2002-08-18T16:00+0200,Allsvenskan,5307,Mattias Thylander,42,home,1,0,11,11,0,0
+333170,16,Helsingborg,9373,2,7,Örebro,9379,1,5,2002-08-18T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333170,16,Helsingborg,9373,2,7,Örebro,9379,1,5,2002-08-18T18:30+0200,Allsvenskan,5307,Babis Stefanidis,86,home,1,0,11,11,0,0
+333171,16,Elfsborg,9369,2,9,Göteborg,9370,1,10,2002-08-18T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333171,16,Elfsborg,9369,2,9,Göteborg,9370,1,10,2002-08-18T18:30+0200,Allsvenskan,5307,Anders Svensson,45,visiting,0,1,11,11,0,0
+333172,16,Norrköping,9376,1,12,AIK,9367,1,11,2002-08-18T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333172,16,Norrköping,9376,1,12,AIK,9367,1,11,2002-08-18T18:30+0200,Allsvenskan,5307,Daniel Hoch,70,home,1,0,11,11,0,0
+333173,17,Malmö FF,9375,1,1,Hammarby,9372,1,8,2002-08-24T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333174,17,AIK,9367,1,9,Örgryte IS,9380,1,2,2002-08-25T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333174,17,AIK,9367,1,9,Örgryte IS,9380,1,2,2002-08-25T17:00+0200,Allsvenskan,5307,Afonso Alves,75,home,1,0,11,11,0,0
+333176,17,Kalmar FF,9374,1,14,Helsingborg,9373,1,7,2002-08-25T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333176,17,Kalmar FF,9374,1,14,Helsingborg,9373,1,7,2002-08-25T17:00+0200,Allsvenskan,5307,Alysson,79,visiting,0,1,11,11,0,0
+333175,17,Göteborg,9370,1,11,Djurgården,9368,2,4,2002-08-25T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333175,17,Göteborg,9370,1,11,Djurgården,9368,2,4,2002-08-25T19:00+0200,Allsvenskan,5307,Abgar Barsom,84,home,1,0,11,11,0,0
+333177,17,Halmstad,9371,3,12,Norrköping,9376,2,13,2002-08-26T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333177,17,Halmstad,9371,3,12,Norrköping,9376,2,13,2002-08-26T19:00+0200,Allsvenskan,5307,Pascal Simpson,90,home,1,0,11,11,0,0
+333178,17,Landskrona,9388,2,3,Elfsborg,9369,1,10,2002-08-26T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333178,17,Landskrona,9388,2,3,Elfsborg,9369,1,10,2002-08-26T19:00+0200,Allsvenskan,5307,Daniel Nannskog,56,visiting,0,1,11,11,0,0
+333179,17,Örebro,9379,2,5,GIF Sundsvall,9407,2,6,2002-08-26T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333179,17,Örebro,9379,2,5,GIF Sundsvall,9407,2,6,2002-08-26T19:00+0200,Allsvenskan,5307,Paul Oyuga,76,home,1,0,11,11,0,0
+334175,14,Hammarby,9372,3,9,Helsingborg,9373,1,7,2002-08-28T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+334175,14,Hammarby,9372,3,9,Helsingborg,9373,1,7,2002-08-28T19:00+0200,Allsvenskan,5307,Pablo Pinones-Arce,69,home,1,0,11,11,0,0
+333180,18,Djurgården,9368,1,3,Landskrona,9388,0,4,2002-09-01T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333180,18,Djurgården,9368,1,3,Landskrona,9388,0,4,2002-09-01T17:00+0200,Allsvenskan,5307,Ngabu Bapupa,21,home,1,0,11,11,0,0
+333181,18,Helsingborg,9373,5,5,GIF Sundsvall,9407,2,8,2002-09-01T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333181,18,Helsingborg,9373,5,5,GIF Sundsvall,9407,2,8,2002-09-01T17:00+0200,Allsvenskan,5307,Christoffer Andersson,89,home,1,0,11,11,0,0
+333182,18,Elfsborg,9369,3,9,Örebro,9379,0,6,2002-09-01T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333182,18,Elfsborg,9369,3,9,Örebro,9379,0,6,2002-09-01T17:00+0200,Allsvenskan,5307,Anders Svensson,64,home,1,0,11,11,0,0
+333185,18,Kalmar FF,9374,0,14,Malmö FF,9375,3,1,2002-09-02T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333185,18,Kalmar FF,9374,0,14,Malmö FF,9375,3,1,2002-09-02T18:30+0200,Allsvenskan,5307,Hans Mattisson,90,visiting,0,1,11,11,0,0
+333186,18,Örgryte IS,9380,0,2,Halmstad,9371,1,12,2002-09-02T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333186,18,Örgryte IS,9380,0,2,Halmstad,9371,1,12,2002-09-02T18:30+0200,Allsvenskan,5307,Pascal Simpson,66,visiting,0,1,11,11,0,0
+333184,18,Norrköping,9376,1,13,Göteborg,9370,1,11,2002-09-02T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333184,18,Norrköping,9376,1,13,Göteborg,9370,1,11,2002-09-02T19:00+0200,Allsvenskan,5307,Jonas Henriksson,64,home,1,0,11,11,0,0
+333183,18,Hammarby,9372,0,10,AIK,9367,2,7,2002-09-02T20:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333183,18,Hammarby,9372,0,10,AIK,9367,2,7,2002-09-02T20:00+0200,Allsvenskan,5307,Daniel Hoch,73,visiting,0,1,11,11,0,0
+333187,19,Göteborg,9370,2,12,Örgryte IS,9380,5,2,2002-09-10T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333187,19,Göteborg,9370,2,12,Örgryte IS,9380,5,2,2002-09-10T19:00+0200,Allsvenskan,5307,Morgan Nilsson,90,visiting,0,1,11,11,0,0
+333188,19,Halmstad,9371,1,11,Hammarby,9372,1,10,2002-09-11T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333189,19,Malmö FF,9375,0,1,Helsingborg,9373,2,4,2002-09-11T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333190,19,Örebro,9379,0,8,Djurgården,9368,3,3,2002-09-11T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333190,19,Örebro,9379,0,8,Djurgården,9368,3,3,2002-09-11T19:00+0200,Allsvenskan,5307,Babis Stefanidis,80,visiting,0,1,11,11,0,0
+333191,19,AIK,9367,2,6,Kalmar FF,9374,1,14,2002-09-12T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333191,19,AIK,9367,2,6,Kalmar FF,9374,1,14,2002-09-12T19:00+0200,Allsvenskan,5307,Derek Boateng,79,home,1,0,11,11,0,0
+333192,19,GIF Sundsvall,9407,1,7,Elfsborg,9369,0,9,2002-09-12T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333192,19,GIF Sundsvall,9407,1,7,Elfsborg,9369,0,9,2002-09-12T19:00+0200,Allsvenskan,5307,Cain Dotson,50,home,1,0,11,11,0,0
+333193,19,Landskrona,9388,0,5,Norrköping,9376,1,13,2002-09-12T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333193,19,Landskrona,9388,0,5,Norrköping,9376,1,13,2002-09-12T19:00+0200,Allsvenskan,5307,Antti Sumiala,65,visiting,0,1,11,11,0,0
+333194,20,Hammarby,9372,0,12,Örebro,9379,2,6,2002-09-14T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333194,20,Hammarby,9372,0,12,Örebro,9379,2,6,2002-09-14T15:00+0200,Allsvenskan,5307,Einar Brakkan,90,visiting,0,1,11,11,0,0
+333195,20,AIK,9367,1,8,Halmstad,9371,1,11,2002-09-15T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333195,20,AIK,9367,1,8,Halmstad,9371,1,11,2002-09-15T17:00+0200,Allsvenskan,5307,Sharbel Touma,90,home,1,0,11,11,0,0
+333197,20,Malmö FF,9375,4,1,Göteborg,9370,2,13,2002-09-15T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333197,20,Malmö FF,9375,4,1,Göteborg,9370,2,13,2002-09-15T17:00+0200,Allsvenskan,5307,Peter Ijeh,22,visiting,0,1,11,11,0,0
+333196,20,Helsingborg,9373,1,4,Djurgården,9368,3,2,2002-09-15T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333196,20,Helsingborg,9373,1,4,Djurgården,9368,3,2,2002-09-15T19:00+0200,Allsvenskan,5307,Louay Chanko,90,home,1,0,11,11,0,0
+333198,20,Norrköping,9376,3,10,Elfsborg,9369,1,9,2002-09-16T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333198,20,Norrköping,9376,3,10,Elfsborg,9369,1,9,2002-09-16T19:00+0200,Allsvenskan,5307,Lars Nilsson,88,home,1,0,11,11,0,0
+333199,20,Kalmar FF,9374,2,14,Landskrona,9388,1,7,2002-09-16T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333199,20,Kalmar FF,9374,2,14,Landskrona,9388,1,7,2002-09-16T19:00+0200,Allsvenskan,5307,Håkan Lindqvist,49,home,1,0,11,11,0,0
+333200,20,Örgryte IS,9380,1,3,GIF Sundsvall,9407,2,5,2002-09-16T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333200,20,Örgryte IS,9380,1,3,GIF Sundsvall,9407,2,5,2002-09-16T19:00+0200,Allsvenskan,5307,Afonso Alves,86,visiting,0,1,11,11,0,0
+333207,21,Landskrona,9388,0,7,Malmö FF,9375,1,1,2002-09-21T14:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333207,21,Landskrona,9388,0,7,Malmö FF,9375,1,1,2002-09-21T14:00+0200,Allsvenskan,5307,Daniel Sliper,70,visiting,0,1,11,11,0,0
+333201,21,GIF Sundsvall,9407,1,6,Hammarby,9372,4,10,2002-09-21T16:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333201,21,GIF Sundsvall,9407,1,6,Hammarby,9372,4,10,2002-09-21T16:00+0200,Allsvenskan,5307,Kennedy Bakircioglu,62,visiting,0,1,11,11,0,0
+333202,21,Djurgården,9368,6,2,Norrköping,9376,3,13,2002-09-22T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333202,21,Djurgården,9368,6,2,Norrköping,9376,3,13,2002-09-22T17:00+0200,Allsvenskan,5307,Abgar Barsom,90,home,1,0,11,11,0,0
+333203,21,Örebro,9379,1,5,Kalmar FF,9374,1,14,2002-09-22T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333203,21,Örebro,9379,1,5,Kalmar FF,9374,1,14,2002-09-22T17:00+0200,Allsvenskan,5307,Krister Andersson,7,home,1,0,11,11,0,0
+333204,21,Halmstad,9371,2,12,Helsingborg,9373,2,4,2002-09-23T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333204,21,Halmstad,9371,2,12,Helsingborg,9373,2,4,2002-09-23T19:00+0200,Allsvenskan,5307,Sharbel Touma,85,visiting,0,1,11,11,0,0
+333205,21,Elfsborg,9369,2,9,Örgryte IS,9380,1,3,2002-09-23T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333205,21,Elfsborg,9369,2,9,Örgryte IS,9380,1,3,2002-09-23T19:00+0200,Allsvenskan,5307,Paulinho Guara,86,home,1,0,11,11,0,0
+333206,21,Göteborg,9370,2,11,AIK,9367,0,8,2002-09-23T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333206,21,Göteborg,9370,2,11,AIK,9367,0,8,2002-09-23T19:00+0200,Allsvenskan,5307,Jonas Henriksson,53,home,1,0,11,11,0,0
+333209,22,AIK,9367,3,5,Landskrona,9388,1,8,2002-09-29T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333209,22,AIK,9367,3,5,Landskrona,9388,1,8,2002-09-29T17:00+0200,Allsvenskan,5307,Matthias Eklund,65,home,1,0,11,11,0,0
+333210,22,Halmstad,9371,2,11,Göteborg,9370,1,13,2002-09-29T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333210,22,Halmstad,9371,2,11,Göteborg,9370,1,13,2002-09-29T17:00+0200,Allsvenskan,5307,Magnus Erlingmark,90,home,1,0,11,11,0,0
+333211,22,Kalmar FF,9374,3,14,GIF Sundsvall,9407,1,7,2002-09-29T17:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333211,22,Kalmar FF,9374,3,14,GIF Sundsvall,9407,1,7,2002-09-29T17:00+0200,Allsvenskan,5307,Marko Tuomela,90,home,1,0,11,11,0,0
+333208,22,Hammarby,9372,1,10,Elfsborg,9369,1,9,2002-09-30T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333208,22,Hammarby,9372,1,10,Elfsborg,9369,1,9,2002-09-30T19:00+0200,Allsvenskan,5307,Peter Markstedt,51,visiting,0,1,11,11,0,0
+333212,22,Helsingborg,9373,1,6,Norrköping,9376,4,12,2002-09-30T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333212,22,Helsingborg,9373,1,6,Norrköping,9376,4,12,2002-09-30T19:00+0200,Allsvenskan,5307,Antti Sumiala,32,home,1,0,11,11,0,0
+333214,22,Örgryte IS,9380,4,3,Djurgården,9368,2,2,2002-09-30T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333214,22,Örgryte IS,9380,4,3,Djurgården,9368,2,2,2002-09-30T19:00+0200,Allsvenskan,5307,Martin Ulander,90,visiting,0,1,11,11,0,0
+333213,22,Örebro,9379,2,4,Malmö FF,9375,2,1,2002-10-01T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333213,22,Örebro,9379,2,4,Malmö FF,9375,2,1,2002-10-01T19:00+0200,Allsvenskan,5307,Herish Kuhi,88,visiting,0,1,11,11,0,0
+333215,23,GIF Sundsvall,9407,1,6,Malmö FF,9375,0,2,2002-10-06T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333215,23,GIF Sundsvall,9407,1,6,Malmö FF,9375,0,2,2002-10-06T15:00+0200,Allsvenskan,5307,Tommy Bergersen,33,home,1,0,11,11,0,0
+333216,23,Norrköping,9376,1,12,Örgryte IS,9380,2,3,2002-10-06T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333216,23,Norrköping,9376,1,12,Örgryte IS,9380,2,3,2002-10-06T15:00+0200,Allsvenskan,5307,Jeffrey Aubynn,33,home,1,0,11,11,0,0
+333217,23,Landskrona,9388,2,9,Halmstad,9371,2,10,2002-10-06T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333217,23,Landskrona,9388,2,9,Halmstad,9371,2,10,2002-10-06T15:00+0200,Allsvenskan,5307,Mikael Nilsson,88,home,1,0,11,11,0,0
+333219,23,Elfsborg,9369,1,8,Kalmar FF,9374,0,14,2002-10-07T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333219,23,Elfsborg,9369,1,8,Kalmar FF,9374,0,14,2002-10-07T18:30+0200,Allsvenskan,5307,Anders Svensson,69,home,1,0,11,11,0,0
+333220,23,Göteborg,9370,0,13,Helsingborg,9373,1,5,2002-10-07T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333220,23,Göteborg,9370,0,13,Helsingborg,9373,1,5,2002-10-07T18:30+0200,Allsvenskan,5307,Christoffer Andersson,87,visiting,0,1,11,11,0,0
+333221,23,Örebro,9379,0,7,AIK,9367,1,4,2002-10-07T18:30+0200,Allsvenskan,5307,,,,0,0,,,,
+333221,23,Örebro,9379,0,7,AIK,9367,1,4,2002-10-07T18:30+0200,Allsvenskan,5307,Andreas Andersson,38,visiting,0,1,11,11,0,0
+333218,23,Djurgården,9368,2,1,Hammarby,9372,1,11,2002-10-07T20:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333218,23,Djurgården,9368,2,1,Hammarby,9372,1,11,2002-10-07T20:00+0200,Allsvenskan,5307,Abgar Barsom,73,visiting,0,1,11,11,0,0
+333223,24,AIK,9367,2,4,GIF Sundsvall,9407,1,6,2002-10-20T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333223,24,AIK,9367,2,4,GIF Sundsvall,9407,1,6,2002-10-20T15:00+0200,Allsvenskan,5307,Derek Boateng,90,home,1,0,11,11,0,0
+333225,24,Kalmar FF,9374,0,14,Djurgården,9368,1,1,2002-10-20T15:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333225,24,Kalmar FF,9374,0,14,Djurgården,9368,1,1,2002-10-20T15:00+0200,Allsvenskan,5307,Kim Källström,23,visiting,0,1,11,11,0,0
+333222,24,Hammarby,9372,3,11,Norrköping,9376,1,12,2002-10-21T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333222,24,Hammarby,9372,3,11,Norrköping,9376,1,12,2002-10-21T19:00+0200,Allsvenskan,5307,Jonas Wallerstedt,74,home,1,0,11,11,0,0
+333226,24,Halmstad,9371,2,10,Örebro,9379,0,8,2002-10-21T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333226,24,Halmstad,9371,2,10,Örebro,9379,0,8,2002-10-21T19:00+0200,Allsvenskan,5307,Per Johansson,76,home,1,0,11,11,0,0
+333227,24,Helsingborg,9373,2,5,Örgryte IS,9380,0,3,2002-10-21T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333227,24,Helsingborg,9373,2,5,Örgryte IS,9380,0,3,2002-10-21T19:00+0200,Allsvenskan,5307,Babis Stefanidis,37,home,1,0,11,11,0,0
+333232,25,Djurgården,9368,2,1,GIF Sundsvall,9407,1,8,2002-10-24T19:00+0200,Allsvenskan,5307,,,,0,0,,,,
+333232,25,Djurgården,9368,2,1,GIF Sundsvall,9407,1,8,2002-10-24T19:00+0200,Allsvenskan,5307,Stefan Rehn,51,visiting,0,1,11,11,0,0
+333231,25,Kalmar FF,9374,0,14,Halmstad,9371,5,6,2002-10-27T15:00+0100,Allsvenskan,5307,,,,0,0,,,,
+333231,25,Kalmar FF,9374,0,14,Halmstad,9371,5,6,2002-10-27T15:00+0100,Allsvenskan,5307,Magnus Andersson,85,visiting,0,1,11,11,0,0
+333229,25,Hammarby,9372,0,11,Göteborg,9370,1,12,2002-10-28T19:00+0100,Allsvenskan,5307,,,,0,0,,,,
+333229,25,Hammarby,9372,0,11,Göteborg,9370,1,12,2002-10-28T19:00+0100,Allsvenskan,5307,Patric Andersson,86,visiting,0,1,11,11,0,0
+333233,25,Norrköping,9376,2,13,Örebro,9379,2,9,2002-10-28T19:00+0100,Allsvenskan,5307,,,,0,0,,,,
+333233,25,Norrköping,9376,2,13,Örebro,9379,2,9,2002-10-28T19:00+0100,Allsvenskan,5307,Johan Wallinder,87,home,1,0,11,11,0,0
+333234,25,Malmö FF,9375,5,2,AIK,9367,0,5,2002-10-28T19:00+0100,Allsvenskan,5307,,,,0,0,,,,
+333234,25,Malmö FF,9375,5,2,AIK,9367,0,5,2002-10-28T19:00+0100,Allsvenskan,5307,Peter Ijeh,90,home,1,0,11,11,0,0
+333235,25,Örgryte IS,9380,1,3,Landskrona,9388,0,10,2002-10-28T19:00+0100,Allsvenskan,5307,,,,0,0,,,,
+333235,25,Örgryte IS,9380,1,3,Landskrona,9388,0,10,2002-10-28T19:00+0100,Allsvenskan,5307,Markus Johannesson,16,home,1,0,11,11,0,0
+333236,26,AIK,9367,1,5,Helsingborg,9373,1,4,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333236,26,AIK,9367,1,5,Helsingborg,9373,1,4,2002-11-02T13:30+0100,Allsvenskan,5307,Krister Nordin,49,visiting,0,1,11,11,0,0
+333237,26,GIF Sundsvall,9407,1,8,Norrköping,9376,1,13,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333237,26,GIF Sundsvall,9407,1,8,Norrköping,9376,1,13,2002-11-02T13:30+0100,Allsvenskan,5307,Patrik Kieback,39,home,1,0,11,11,0,0
+333238,26,Halmstad,9371,1,6,Malmö FF,9375,0,2,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333238,26,Halmstad,9371,1,6,Malmö FF,9375,0,2,2002-11-02T13:30+0100,Allsvenskan,5307,Sharbel Touma,59,home,1,0,11,11,0,0
+333239,26,Elfsborg,9369,0,10,Djurgården,9368,2,1,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333239,26,Elfsborg,9369,0,10,Djurgården,9368,2,1,2002-11-02T13:30+0100,Allsvenskan,5307,Abgar Barsom,61,visiting,0,1,11,11,0,0
+333240,26,Göteborg,9370,0,12,Kalmar FF,9374,2,14,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333240,26,Göteborg,9370,0,12,Kalmar FF,9374,2,14,2002-11-02T13:30+0100,Allsvenskan,5307,Håkan Lindqvist,90,visiting,0,1,11,11,0,0
+333241,26,Landskrona,9388,2,11,Hammarby,9372,3,9,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333241,26,Landskrona,9388,2,11,Hammarby,9372,3,9,2002-11-02T13:30+0100,Allsvenskan,5307,Daniel Nannskog,64,visiting,0,1,11,11,0,0
+333242,26,Örebro,9379,3,7,Örgryte IS,9380,2,3,2002-11-02T13:30+0100,Allsvenskan,5307,,,,0,0,,,,
+333242,26,Örebro,9379,3,7,Örgryte IS,9380,2,3,2002-11-02T13:30+0100,Allsvenskan,5307,Joachim Karlsson,88,home,1,0,11,11,0,0

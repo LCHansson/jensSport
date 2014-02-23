@@ -1,0 +1,652 @@
+gameId,round,homeTeam,homeTeamId,homeTeamScore,homePos,visitingTeam,visitingTeamId,visitingTeamScore,visitingPos,date,league,leagueId,player,minute,team,homeGoals,visitingGoals,homePlayers,visitingPlayers,homeWarnings,visitingWarnings
+595187,1,Helsingborg,9373,2,2,Halmstad,9371,0,14,2005-04-09T16:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595187,1,Helsingborg,9373,2,2,Halmstad,9371,0,14,2005-04-09T16:00+0200,Allsvenskan,9402,Peter Graulund,46,home,1,0,11,11,0,0
+595187,1,Helsingborg,9373,2,2,Halmstad,9371,0,14,2005-04-09T16:00+0200,Allsvenskan,9402,Peter Graulund,57,home,2,0,11,11,0,0
+595188,1,Kalmar FF,9374,1,7,Gefle,9400,0,12,2005-04-10T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595188,1,Kalmar FF,9374,1,7,Gefle,9400,0,12,2005-04-10T15:00+0200,Allsvenskan,9402,Fabio Augusto,66,home,1,0,11,11,0,0
+595189,1,Malmö FF,9375,1,11,Göteborg,9370,2,5,2005-04-10T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595189,1,Malmö FF,9375,1,11,Göteborg,9370,2,5,2005-04-10T15:00+0200,Allsvenskan,9402,Stefan Selakovic,16,visiting,0,1,11,11,0,0
+595189,1,Malmö FF,9375,1,11,Göteborg,9370,2,5,2005-04-10T15:00+0200,Allsvenskan,9402,Afonso Alves,35,home,1,1,11,11,0,0
+595189,1,Malmö FF,9375,1,11,Göteborg,9370,2,5,2005-04-10T15:00+0200,Allsvenskan,9402,Håkan Mild,58,visiting,1,2,11,11,0,0
+595190,1,Djurgården,9368,2,3,Häcken,19740,1,9,2005-04-11T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595190,1,Djurgården,9368,2,3,Häcken,19740,1,9,2005-04-11T19:00+0200,Allsvenskan,9402,Tobias Hysén,41,home,1,0,11,11,0,0
+595190,1,Djurgården,9368,2,3,Häcken,19740,1,9,2005-04-11T19:00+0200,Allsvenskan,9402,Patric Andersson,67,visiting,1,1,11,11,0,0
+595190,1,Djurgården,9368,2,3,Häcken,19740,1,9,2005-04-11T19:00+0200,Allsvenskan,9402,Fredrik Stenman,86,home,2,1,11,11,0,0
+595191,1,GIF Sundsvall,9407,3,1,Elfsborg,9369,1,13,2005-04-11T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595191,1,GIF Sundsvall,9407,3,1,Elfsborg,9369,1,13,2005-04-11T19:00+0200,Allsvenskan,9402,Peter Olofsson,16,home,1,0,11,11,0,0
+595191,1,GIF Sundsvall,9407,3,1,Elfsborg,9369,1,13,2005-04-11T19:00+0200,Allsvenskan,9402,Jonas Wallerstedt,45,home,2,0,11,11,0,0
+595191,1,GIF Sundsvall,9407,3,1,Elfsborg,9369,1,13,2005-04-11T19:00+0200,Allsvenskan,9402,Mikael Dahlberg,51,home,3,0,11,11,0,0
+595191,1,GIF Sundsvall,9407,3,1,Elfsborg,9369,1,13,2005-04-11T19:00+0200,Allsvenskan,9402,Hasse Berggren,75,visiting,3,1,11,11,0,0
+595192,1,Örgryte IS,9380,2,6,Landskrona,9388,1,10,2005-04-11T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595192,1,Örgryte IS,9380,2,6,Landskrona,9388,1,10,2005-04-11T19:00+0200,Allsvenskan,9402,Magnus Källander,56,home,1,0,11,11,0,0
+595192,1,Örgryte IS,9380,2,6,Landskrona,9388,1,10,2005-04-11T19:00+0200,Allsvenskan,9402,Robin Ganemyr,80,home,2,0,11,11,0,0
+595192,1,Örgryte IS,9380,2,6,Landskrona,9388,1,10,2005-04-11T19:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,89,visiting,2,1,11,11,0,0
+595193,1,Assyriska FF,9395,1,8,Hammarby,9372,2,4,2005-04-12T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595193,1,Assyriska FF,9395,1,8,Hammarby,9372,2,4,2005-04-12T20:00+0200,Allsvenskan,9402,Jeffrey Aubynn,25,visiting,0,1,11,11,0,0
+595193,1,Assyriska FF,9395,1,8,Hammarby,9372,2,4,2005-04-12T20:00+0200,Allsvenskan,9402,Petter Furuseth Olsen,30,visiting,0,2,11,11,0,0
+595193,1,Assyriska FF,9395,1,8,Hammarby,9372,2,4,2005-04-12T20:00+0200,Allsvenskan,9402,Dani Hamzo,52,home,1,2,11,11,0,0
+595194,2,Göteborg,9370,0,12,Assyriska FF,9395,3,4,2005-04-17T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595194,2,Göteborg,9370,0,12,Assyriska FF,9395,3,4,2005-04-17T15:00+0200,Allsvenskan,9402,Andreas Yacob-Haddad,33,visiting,0,1,11,11,0,0
+595194,2,Göteborg,9370,0,12,Assyriska FF,9395,3,4,2005-04-17T15:00+0200,Allsvenskan,9402,Andreas Yacob-Haddad,71,visiting,0,2,11,11,0,0
+595194,2,Göteborg,9370,0,12,Assyriska FF,9395,3,4,2005-04-17T15:00+0200,Allsvenskan,9402,Darko Lukanovic,80,visiting,0,3,11,11,0,0
+595195,2,Landskrona,9388,0,14,Malmö FF,9375,1,8,2005-04-17T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595195,2,Landskrona,9388,0,14,Malmö FF,9375,1,8,2005-04-17T15:00+0200,Allsvenskan,9402,Marcus Rosenberg,10,visiting,0,1,11,11,0,0
+595196,2,Elfsborg,9369,1,11,Örgryte IS,9380,0,9,2005-04-17T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595197,2,Häcken,19740,1,7,GIF Sundsvall,9407,0,5,2005-04-18T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595197,2,Häcken,19740,1,7,GIF Sundsvall,9407,0,5,2005-04-18T19:00+0200,Allsvenskan,9402,Teddy Lucic,45,home,1,0,11,11,0,0
+595198,2,Halmstad,9371,3,6,Djurgården,9368,1,10,2005-04-18T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595198,2,Halmstad,9371,3,6,Djurgården,9368,1,10,2005-04-18T19:00+0200,Allsvenskan,9402,Yaw Preko,1,home,1,0,11,11,0,0
+595198,2,Halmstad,9371,3,6,Djurgården,9368,1,10,2005-04-18T19:00+0200,Allsvenskan,9402,Dusan Djuric,60,home,2,0,11,11,0,0
+595198,2,Halmstad,9371,3,6,Djurgården,9368,1,10,2005-04-18T19:00+0200,Allsvenskan,9402,Patrik Ingelsten,78,home,3,0,11,11,0,0
+595198,2,Halmstad,9371,3,6,Djurgården,9368,1,10,2005-04-18T19:00+0200,Allsvenskan,9402,Sören Larsen,82,visiting,3,1,11,11,0,0
+595200,2,Gefle,9400,1,13,Helsingborg,9373,2,1,2005-04-19T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595892,3,GIF Sundsvall,9407,2,6,Landskrona,9388,2,13,2005-04-24T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595892,3,GIF Sundsvall,9407,2,6,Landskrona,9388,2,13,2005-04-24T15:00+0200,Allsvenskan,9402,Andreas Hermansson,5,home,1,0,11,11,0,0
+595892,3,GIF Sundsvall,9407,2,6,Landskrona,9388,2,13,2005-04-24T15:00+0200,Allsvenskan,9402,Jon Jönsson,15,visiting,1,1,11,11,0,0
+595892,3,GIF Sundsvall,9407,2,6,Landskrona,9388,2,13,2005-04-24T15:00+0200,Allsvenskan,9402,Tommy Bergersen,48,home,2,1,11,11,0,0
+595892,3,GIF Sundsvall,9407,2,6,Landskrona,9388,2,13,2005-04-24T15:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,90,visiting,2,2,11,11,0,0
+595894,3,Malmö FF,9375,3,3,Gefle,9400,0,14,2005-04-24T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595894,3,Malmö FF,9375,3,3,Gefle,9400,0,14,2005-04-24T15:00+0200,Allsvenskan,9402,Jon Inge Höiland,13,home,1,0,11,11,0,0
+595894,3,Malmö FF,9375,3,3,Gefle,9400,0,14,2005-04-24T15:00+0200,Allsvenskan,9402,Niklas Skoog,37,home,2,0,11,11,0,0
+595894,3,Malmö FF,9375,3,3,Gefle,9400,0,14,2005-04-24T15:00+0200,Allsvenskan,9402,Thomas Olsson,90,home,3,0,11,11,0,0
+595893,3,Kalmar FF,9374,2,2,Häcken,19740,0,11,2005-04-25T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595893,3,Kalmar FF,9374,2,2,Häcken,19740,0,11,2005-04-25T19:00+0200,Allsvenskan,9402,Tobias Carlsson,35,home,1,0,11,11,0,0
+595893,3,Kalmar FF,9374,2,2,Häcken,19740,0,11,2005-04-25T19:00+0200,Allsvenskan,9402,Cesar Santin,80,home,2,0,11,11,0,0
+595895,3,Djurgården,9368,2,10,Örgryte IS,9380,2,7,2005-04-25T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595895,3,Djurgården,9368,2,10,Örgryte IS,9380,2,7,2005-04-25T19:00+0200,Allsvenskan,9402,Paulinho Guara,18,visiting,0,1,11,11,0,0
+595895,3,Djurgården,9368,2,10,Örgryte IS,9380,2,7,2005-04-25T19:00+0200,Allsvenskan,9402,Sören Larsen,21,home,1,1,11,11,0,0
+595895,3,Djurgården,9368,2,10,Örgryte IS,9380,2,7,2005-04-25T19:00+0200,Allsvenskan,9402,Johan Arneng,22,home,2,1,11,11,0,0
+595895,3,Djurgården,9368,2,10,Örgryte IS,9380,2,7,2005-04-25T19:00+0200,Allsvenskan,9402,Paulinho Guara,65,visiting,2,2,11,11,0,0
+595896,3,Helsingborg,9373,3,1,Elfsborg,9369,0,12,2005-04-25T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595896,3,Helsingborg,9373,3,1,Elfsborg,9369,0,12,2005-04-25T19:00+0200,Allsvenskan,9402,Babis Stefanidis,23,home,1,0,11,11,0,0
+595896,3,Helsingborg,9373,3,1,Elfsborg,9369,0,12,2005-04-25T19:00+0200,Allsvenskan,9402,Andreas Granqvist,62,home,2,0,11,11,0,0
+595896,3,Helsingborg,9373,3,1,Elfsborg,9369,0,12,2005-04-25T19:00+0200,Allsvenskan,9402,Erik Wahlstedt,82,home,3,0,11,11,0,0
+595897,3,Göteborg,9370,1,4,Hammarby,9372,0,9,2005-04-26T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595897,3,Göteborg,9370,1,4,Hammarby,9372,0,9,2005-04-26T19:00+0200,Allsvenskan,9402,Peter Ijeh,33,home,1,0,11,11,0,0
+595910,4,Gefle,9400,1,12,Assyriska FF,9395,0,9,2005-05-01T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595910,4,Gefle,9400,1,12,Assyriska FF,9395,0,9,2005-05-01T17:00+0200,Allsvenskan,9402,Johan Claesson,42,home,1,0,11,11,0,0
+595911,4,Halmstad,9371,0,10,Kalmar FF,9374,1,1,2005-05-01T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595911,4,Halmstad,9371,0,10,Kalmar FF,9374,1,1,2005-05-01T17:00+0200,Allsvenskan,9402,Tobias Carlsson,27,visiting,0,1,11,11,0,0
+595912,4,Örgryte IS,9380,4,3,GIF Sundsvall,9407,1,11,2005-05-01T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595912,4,Örgryte IS,9380,4,3,GIF Sundsvall,9407,1,11,2005-05-01T17:00+0200,Allsvenskan,9402,Robin Ganemyr,21,home,1,0,11,11,0,0
+595912,4,Örgryte IS,9380,4,3,GIF Sundsvall,9407,1,11,2005-05-01T17:00+0200,Allsvenskan,9402,Magnus Källander,37,home,2,0,11,11,0,0
+595912,4,Örgryte IS,9380,4,3,GIF Sundsvall,9407,1,11,2005-05-01T17:00+0200,Allsvenskan,9402,Fredric Lundqvist,44,visiting,2,1,11,11,0,0
+595912,4,Örgryte IS,9380,4,3,GIF Sundsvall,9407,1,11,2005-05-01T17:00+0200,Allsvenskan,9402,Ailton Almeida,49,home,3,1,11,11,0,0
+595912,4,Örgryte IS,9380,4,3,GIF Sundsvall,9407,1,11,2005-05-01T17:00+0200,Allsvenskan,9402,Ailton Almeida,80,home,4,1,11,11,0,0
+595913,4,Häcken,19740,3,7,Helsingborg,9373,0,2,2005-05-02T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595913,4,Häcken,19740,3,7,Helsingborg,9373,0,2,2005-05-02T19:00+0200,Allsvenskan,9402,David Marek,8,home,1,0,11,11,0,0
+595913,4,Häcken,19740,3,7,Helsingborg,9373,0,2,2005-05-02T19:00+0200,Allsvenskan,9402,Dioh Williams,19,home,2,0,11,11,0,0
+595913,4,Häcken,19740,3,7,Helsingborg,9373,0,2,2005-05-02T19:00+0200,Allsvenskan,9402,Jonas Henriksson,21,home,3,0,11,11,0,0
+595914,4,Elfsborg,9369,1,13,Djurgården,9368,2,5,2005-05-02T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595914,4,Elfsborg,9369,1,13,Djurgården,9368,2,5,2005-05-02T19:00+0200,Allsvenskan,9402,Samuel Holmén,31,home,1,0,11,11,0,0
+595914,4,Elfsborg,9369,1,13,Djurgården,9368,2,5,2005-05-02T19:00+0200,Allsvenskan,9402,Johan Arneng,56,visiting,1,1,11,11,0,0
+595914,4,Elfsborg,9369,1,13,Djurgården,9368,2,5,2005-05-02T19:00+0200,Allsvenskan,9402,Sören Larsen,72,visiting,1,2,11,11,0,0
+595915,4,Landskrona,9388,1,14,Göteborg,9370,1,6,2005-05-02T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595915,4,Landskrona,9388,1,14,Göteborg,9370,1,6,2005-05-02T19:00+0200,Allsvenskan,9402,Niclas Alexandersson,24,visiting,0,1,11,11,0,0
+595915,4,Landskrona,9388,1,14,Göteborg,9370,1,6,2005-05-02T19:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,29,home,1,1,11,11,0,0
+595916,4,Hammarby,9372,1,8,Malmö FF,9375,1,4,2005-05-03T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595916,4,Hammarby,9372,1,8,Malmö FF,9375,1,4,2005-05-03T19:00+0200,Allsvenskan,9402,Yksel Osmanovski,26,visiting,0,1,11,11,0,0
+595916,4,Hammarby,9372,1,8,Malmö FF,9375,1,4,2005-05-03T19:00+0200,Allsvenskan,9402,Jeffrey Aubynn,48,home,1,1,11,11,0,0
+595917,5,Assyriska FF,9395,0,11,Malmö FF,9375,2,3,2005-05-08T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595917,5,Assyriska FF,9395,0,11,Malmö FF,9375,2,3,2005-05-08T17:00+0200,Allsvenskan,9402,Afonso Alves,18,visiting,0,1,11,11,0,0
+595917,5,Assyriska FF,9395,0,11,Malmö FF,9375,2,3,2005-05-08T17:00+0200,Allsvenskan,9402,Afonso Alves,50,visiting,0,2,11,11,0,0
+595918,5,Elfsborg,9369,1,13,Landskrona,9388,2,9,2005-05-08T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595918,5,Elfsborg,9369,1,13,Landskrona,9388,2,9,2005-05-08T17:00+0200,Allsvenskan,9402,Matthias Eklund,17,visiting,0,1,11,11,0,0
+595918,5,Elfsborg,9369,1,13,Landskrona,9388,2,9,2005-05-08T17:00+0200,Allsvenskan,9402,Daniel Alexandersson,29,home,1,1,11,11,0,0
+595918,5,Elfsborg,9369,1,13,Landskrona,9388,2,9,2005-05-08T17:00+0200,Allsvenskan,9402,Pontus Segerström,62,visiting,1,2,11,11,0,0
+595919,5,Örgryte IS,9380,0,8,Häcken,19740,4,5,2005-05-08T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595919,5,Örgryte IS,9380,0,8,Häcken,19740,4,5,2005-05-08T17:00+0200,Allsvenskan,9402,David Marek,30,home,1,0,11,11,0,0
+595919,5,Örgryte IS,9380,0,8,Häcken,19740,4,5,2005-05-08T17:00+0200,Allsvenskan,9402,Dioh Williams,81,visiting,1,1,11,11,0,0
+595919,5,Örgryte IS,9380,0,8,Häcken,19740,4,5,2005-05-08T17:00+0200,Allsvenskan,9402,Dulee Johnson,83,visiting,1,2,11,11,0,0
+595919,5,Örgryte IS,9380,0,8,Häcken,19740,4,5,2005-05-08T17:00+0200,Allsvenskan,9402,Stig Töfting,90,visiting,1,3,11,11,0,0
+595920,5,Djurgården,9368,3,4,Gefle,9400,1,14,2005-05-09T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595920,5,Djurgården,9368,3,4,Gefle,9400,1,14,2005-05-09T19:00+0200,Allsvenskan,9402,Abgar Barsom,53,home,1,0,11,11,0,0
+595920,5,Djurgården,9368,3,4,Gefle,9400,1,14,2005-05-09T19:00+0200,Allsvenskan,9402,Daniel Ytterbom,75,visiting,1,1,11,11,0,0
+595920,5,Djurgården,9368,3,4,Gefle,9400,1,14,2005-05-09T19:00+0200,Allsvenskan,9402,Ibrahim Ba,77,home,2,1,11,11,0,0
+595920,5,Djurgården,9368,3,4,Gefle,9400,1,14,2005-05-09T19:00+0200,Allsvenskan,9402,Sören Larsen,90,home,3,1,11,11,0,0
+595921,5,Helsingborg,9373,2,1,Hammarby,9372,1,10,2005-05-09T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595921,5,Helsingborg,9373,2,1,Hammarby,9372,1,10,2005-05-09T19:00+0200,Allsvenskan,9402,Eldin Karisik,35,home,1,0,11,11,0,0
+595921,5,Helsingborg,9373,2,1,Hammarby,9372,1,10,2005-05-09T19:00+0200,Allsvenskan,9402,Atiba Hutchinson,42,home,2,0,11,11,0,0
+595921,5,Helsingborg,9373,2,1,Hammarby,9372,1,10,2005-05-09T19:00+0200,Allsvenskan,9402,Mikael Andersson,45,visiting,2,1,11,11,0,0
+595923,5,GIF Sundsvall,9407,1,12,Halmstad,9371,3,7,2005-05-10T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595923,5,GIF Sundsvall,9407,1,12,Halmstad,9371,3,7,2005-05-10T19:00+0200,Allsvenskan,9402,Yaw Preko,13,visiting,0,1,11,11,0,0
+595923,5,GIF Sundsvall,9407,1,12,Halmstad,9371,3,7,2005-05-10T19:00+0200,Allsvenskan,9402,självmål,55,home,1,1,11,11,0,0
+595923,5,GIF Sundsvall,9407,1,12,Halmstad,9371,3,7,2005-05-10T19:00+0200,Allsvenskan,9402,Peter Larsson,67,visiting,1,2,11,11,0,0
+595923,5,GIF Sundsvall,9407,1,12,Halmstad,9371,3,7,2005-05-10T19:00+0200,Allsvenskan,9402,Patrik Ingelsten,68,visiting,1,3,11,11,0,0
+595942,6,Häcken,19740,2,4,Elfsborg,9369,2,14,2005-05-15T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595942,6,Häcken,19740,2,4,Elfsborg,9369,2,14,2005-05-15T17:00+0200,Allsvenskan,9402,Daniel Alexandersson,45,visiting,0,1,11,11,0,0
+595942,6,Häcken,19740,2,4,Elfsborg,9369,2,14,2005-05-15T17:00+0200,Allsvenskan,9402,Dioh Williams,51,home,1,1,11,11,0,0
+595942,6,Häcken,19740,2,4,Elfsborg,9369,2,14,2005-05-15T17:00+0200,Allsvenskan,9402,Dioh Williams,65,home,2,1,11,11,0,0
+595942,6,Häcken,19740,2,4,Elfsborg,9369,2,14,2005-05-15T17:00+0200,Allsvenskan,9402,Hasse Berggren,84,visiting,2,2,11,11,0,0
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,Peter Larsson,4,home,1,0,11,11,0,0
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,Emil Jensen,26,home,2,0,11,11,0,0
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,Patrik Ingelsten,28,home,3,0,11,11,0,0
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,Patrik Ingelsten,37,home,4,0,11,11,0,0
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,Tuomas Uusimäki,59,visiting,4,1,11,11,0,0
+595943,6,Halmstad,9371,4,5,Örgryte IS,9380,2,10,2005-05-15T17:00+0200,Allsvenskan,9402,Erik Johannesen,90,visiting,4,2,11,11,0,0
+595944,6,Landskrona,9388,2,8,Assyriska FF,9395,1,12,2005-05-15T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595944,6,Landskrona,9388,2,8,Assyriska FF,9395,1,12,2005-05-15T17:00+0200,Allsvenskan,9402,Andreas Yacob-Haddad,2,visiting,0,1,11,11,0,0
+595944,6,Landskrona,9388,2,8,Assyriska FF,9395,1,12,2005-05-15T17:00+0200,Allsvenskan,9402,Jörgen Pettersson,5,home,1,1,11,11,0,0
+595944,6,Landskrona,9388,2,8,Assyriska FF,9395,1,12,2005-05-15T17:00+0200,Allsvenskan,9402,Pontus Segerström,71,home,2,1,11,11,0,0
+595945,6,Gefle,9400,2,11,GIF Sundsvall,9407,1,13,2005-05-16T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595945,6,Gefle,9400,2,11,GIF Sundsvall,9407,1,13,2005-05-16T19:00+0200,Allsvenskan,9402,Daniel Bernhardsson,9,home,1,0,11,11,0,0
+595945,6,Gefle,9400,2,11,GIF Sundsvall,9407,1,13,2005-05-16T19:00+0200,Allsvenskan,9402,Fredric Lundqvist,13,visiting,1,1,11,11,0,0
+595945,6,Gefle,9400,2,11,GIF Sundsvall,9407,1,13,2005-05-16T19:00+0200,Allsvenskan,9402,Daniel Westlin,58,home,2,1,11,11,0,0
+595947,6,Malmö FF,9375,1,1,Kalmar FF,9374,0,3,2005-05-16T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595947,6,Malmö FF,9375,1,1,Kalmar FF,9374,0,3,2005-05-16T19:00+0200,Allsvenskan,9402,Afonso Alves,37,home,1,0,11,11,0,0
+595948,6,Hammarby,9372,2,9,Djurgården,9368,1,6,2005-05-18T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595948,6,Hammarby,9372,2,9,Djurgården,9368,1,6,2005-05-18T20:00+0200,Allsvenskan,9402,Abgar Barsom,33,visiting,0,1,11,11,0,0
+595948,6,Hammarby,9372,2,9,Djurgården,9368,1,6,2005-05-18T20:00+0200,Allsvenskan,9402,Pétur Marteinsson,60,home,1,1,11,11,0,0
+595948,6,Hammarby,9372,2,9,Djurgården,9368,1,6,2005-05-18T20:00+0200,Allsvenskan,9402,Mikael Andersson,67,home,2,1,11,11,0,0
+595949,7,Häcken,19740,2,3,Gefle,9400,1,13,2005-05-22T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595949,7,Häcken,19740,2,3,Gefle,9400,1,13,2005-05-22T17:00+0200,Allsvenskan,9402,Jonas Henriksson,4,home,1,0,11,11,0,0
+595949,7,Häcken,19740,2,3,Gefle,9400,1,13,2005-05-22T17:00+0200,Allsvenskan,9402,Daniel Westlin,25,visiting,1,1,11,11,0,0
+595949,7,Häcken,19740,2,3,Gefle,9400,1,13,2005-05-22T17:00+0200,Allsvenskan,9402,David Marek,82,home,2,1,11,11,0,0
+595950,7,GIF Sundsvall,9407,2,10,Malmö FF,9375,0,4,2005-05-22T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595950,7,GIF Sundsvall,9407,2,10,Malmö FF,9375,0,4,2005-05-22T17:00+0200,Allsvenskan,9402,Andreas Hermansson,55,home,1,0,11,11,0,0
+595950,7,GIF Sundsvall,9407,2,10,Malmö FF,9375,0,4,2005-05-22T17:00+0200,Allsvenskan,9402,Andreas Hermansson,59,home,2,0,11,11,0,0
+595951,7,Helsingborg,9373,2,1,Kalmar FF,9374,2,6,2005-05-22T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595951,7,Helsingborg,9373,2,1,Kalmar FF,9374,2,6,2005-05-22T17:00+0200,Allsvenskan,9402,Cesar Santin,18,visiting,0,1,11,11,0,0
+595951,7,Helsingborg,9373,2,1,Kalmar FF,9374,2,6,2005-05-22T17:00+0200,Allsvenskan,9402,Cesar Santin,45,visiting,0,2,11,11,0,0
+595951,7,Helsingborg,9373,2,1,Kalmar FF,9374,2,6,2005-05-22T17:00+0200,Allsvenskan,9402,Atiba Hutchinson,49,home,1,2,11,11,0,0
+595951,7,Helsingborg,9373,2,1,Kalmar FF,9374,2,6,2005-05-22T17:00+0200,Allsvenskan,9402,Olivier Karekezi,76,home,2,2,11,11,0,0
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,Jon Jönsson,32,visiting,0,1,11,11,0,0
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,Peter Larsson,67,home,1,1,11,11,0,0
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,69,home,2,1,11,11,0,0
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,83,home,3,1,11,11,0,0
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,87,home,4,1,11,11,0,0
+595952,7,Halmstad,9371,5,2,Landskrona,9388,1,9,2005-05-23T19:00+0200,Allsvenskan,9402,Dusan Djuric,90,home,5,1,11,11,0,0
+595953,7,Elfsborg,9369,4,11,Hammarby,9372,1,8,2005-05-23T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595953,7,Elfsborg,9369,4,11,Hammarby,9372,1,8,2005-05-23T19:00+0200,Allsvenskan,9402,Samuel Holmén,4,home,1,0,11,11,0,0
+595953,7,Elfsborg,9369,4,11,Hammarby,9372,1,8,2005-05-23T19:00+0200,Allsvenskan,9402,Pablo Pinones-Arce,17,visiting,1,1,11,11,0,0
+595953,7,Elfsborg,9369,4,11,Hammarby,9372,1,8,2005-05-23T19:00+0200,Allsvenskan,9402,Hasse Berggren,21,home,2,1,11,11,0,0
+595953,7,Elfsborg,9369,4,11,Hammarby,9372,1,8,2005-05-23T19:00+0200,Allsvenskan,9402,Hasse Berggren,40,home,3,1,11,11,0,0
+595953,7,Elfsborg,9369,4,11,Hammarby,9372,1,8,2005-05-23T19:00+0200,Allsvenskan,9402,Daniel Alexandersson,83,home,4,1,11,11,0,0
+595954,7,Djurgården,9368,3,5,Assyriska FF,9395,1,14,2005-05-23T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595954,7,Djurgården,9368,3,5,Assyriska FF,9395,1,14,2005-05-23T20:00+0200,Allsvenskan,9402,Sören Larsen,41,home,1,0,11,11,0,0
+595954,7,Djurgården,9368,3,5,Assyriska FF,9395,1,14,2005-05-23T20:00+0200,Allsvenskan,9402,Abgar Barsom,62,home,2,0,11,11,0,0
+595954,7,Djurgården,9368,3,5,Assyriska FF,9395,1,14,2005-05-23T20:00+0200,Allsvenskan,9402,Dani Hamzo,70,visiting,2,1,11,11,0,0
+595954,7,Djurgården,9368,3,5,Assyriska FF,9395,1,14,2005-05-23T20:00+0200,Allsvenskan,9402,Sören Larsen,73,home,3,1,11,11,0,0
+595955,7,Göteborg,9370,3,7,Örgryte IS,9380,0,12,2005-05-24T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595955,7,Göteborg,9370,3,7,Örgryte IS,9380,0,12,2005-05-24T19:00+0200,Allsvenskan,9402,Fredrik Risp,11,home,1,0,11,11,0,0
+595955,7,Göteborg,9370,3,7,Örgryte IS,9380,0,12,2005-05-24T19:00+0200,Allsvenskan,9402,Samuel Wowoah,24,home,2,0,11,11,0,0
+595955,7,Göteborg,9370,3,7,Örgryte IS,9380,0,12,2005-05-24T19:00+0200,Allsvenskan,9402,Stefan Selakovic,90,home,3,0,11,11,0,0
+595956,8,Assyriska FF,9395,1,12,GIF Sundsvall,9407,0,13,2005-05-29T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595956,8,Assyriska FF,9395,1,12,GIF Sundsvall,9407,0,13,2005-05-29T17:00+0200,Allsvenskan,9402,Ibrahim Atiku,72,home,1,0,11,11,0,0
+595957,8,Gefle,9400,2,10,Halmstad,9371,0,4,2005-05-29T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595957,8,Gefle,9400,2,10,Halmstad,9371,0,4,2005-05-29T17:00+0200,Allsvenskan,9402,Daniel Bernhardsson,6,home,1,0,11,11,0,0
+595957,8,Gefle,9400,2,10,Halmstad,9371,0,4,2005-05-29T17:00+0200,Allsvenskan,9402,Mathias Woxlin,10,home,2,0,11,11,0,0
+595958,8,Malmö FF,9375,1,2,Örgryte IS,9380,0,14,2005-05-29T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595958,8,Malmö FF,9375,1,2,Örgryte IS,9380,0,14,2005-05-29T17:00+0200,Allsvenskan,9402,Afonso Alves,56,home,1,0,11,11,0,0
+595959,8,Kalmar FF,9374,0,7,Djurgården,9368,2,1,2005-05-29T17:15+0200,Allsvenskan,9402,,,,0,0,,,,
+595959,8,Kalmar FF,9374,0,7,Djurgården,9368,2,1,2005-05-29T17:15+0200,Allsvenskan,9402,Abgar Barsom,65,visiting,0,1,11,11,0,0
+595959,8,Kalmar FF,9374,0,7,Djurgården,9368,2,1,2005-05-29T17:15+0200,Allsvenskan,9402,Abgar Barsom,87,visiting,0,2,11,11,0,0
+595960,8,Hammarby,9372,3,8,Häcken,19740,1,5,2005-05-30T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595960,8,Hammarby,9372,3,8,Häcken,19740,1,5,2005-05-30T19:00+0200,Allsvenskan,9402,Björn Runström,26,home,1,0,11,11,0,0
+595960,8,Hammarby,9372,3,8,Häcken,19740,1,5,2005-05-30T19:00+0200,Allsvenskan,9402,Jonas Henriksson,35,visiting,1,1,11,11,0,0
+595960,8,Hammarby,9372,3,8,Häcken,19740,1,5,2005-05-30T19:00+0200,Allsvenskan,9402,Petter Furuseth Olsen,45,home,2,1,11,11,0,0
+595960,8,Hammarby,9372,3,8,Häcken,19740,1,5,2005-05-30T19:00+0200,Allsvenskan,9402,Mikael Andersson,51,home,3,1,11,11,0,0
+595961,8,Göteborg,9370,1,6,Elfsborg,9369,1,11,2005-05-30T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595961,8,Göteborg,9370,1,6,Elfsborg,9369,1,11,2005-05-30T19:00+0200,Allsvenskan,9402,Daniel Alexandersson,81,visiting,0,1,11,11,0,0
+595961,8,Göteborg,9370,1,6,Elfsborg,9369,1,11,2005-05-30T19:00+0200,Allsvenskan,9402,Peter Ijeh,90,home,1,1,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,1,home,1,0,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Antti Okkonen,18,home,2,0,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Jon Jönsson,52,home,3,0,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Babis Stefanidis,64,visiting,3,1,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Atiba Hutchinson,78,visiting,3,2,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Peter Graulund,81,visiting,3,3,11,11,0,0
+595962,8,Landskrona,9388,4,9,Helsingborg,9373,3,3,2005-05-30T19:00+0200,Allsvenskan,9402,Gustaf Andersson,90,home,4,3,11,11,0,0
+595963,9,Häcken,19740,3,3,Landskrona,9388,0,9,2005-06-12T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595963,9,Häcken,19740,3,3,Landskrona,9388,0,9,2005-06-12T17:00+0200,Allsvenskan,9402,Jonas Henriksson,32,home,1,0,11,11,0,0
+595963,9,Häcken,19740,3,3,Landskrona,9388,0,9,2005-06-12T17:00+0200,Allsvenskan,9402,Dioh Williams,64,home,2,0,11,11,0,0
+595963,9,Häcken,19740,3,3,Landskrona,9388,0,9,2005-06-12T17:00+0200,Allsvenskan,9402,Jonas Henriksson,71,home,3,0,11,11,0,0
+595964,9,GIF Sundsvall,9407,2,10,Hammarby,9372,1,8,2005-06-12T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595964,9,GIF Sundsvall,9407,2,10,Hammarby,9372,1,8,2005-06-12T17:00+0200,Allsvenskan,9402,Jeffrey Aubynn,44,visiting,0,1,11,11,0,0
+595964,9,GIF Sundsvall,9407,2,10,Hammarby,9372,1,8,2005-06-12T17:00+0200,Allsvenskan,9402,Stefan Ålander,66,home,1,1,11,11,0,0
+595964,9,GIF Sundsvall,9407,2,10,Hammarby,9372,1,8,2005-06-12T17:00+0200,Allsvenskan,9402,Mikael Dahlberg,90,home,2,1,11,11,0,0
+595966,9,Örgryte IS,9380,2,11,Gefle,9400,0,13,2005-06-12T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595966,9,Örgryte IS,9380,2,11,Gefle,9400,0,13,2005-06-12T17:00+0200,Allsvenskan,9402,Paulinho Guara,30,home,1,0,11,11,0,0
+595966,9,Örgryte IS,9380,2,11,Gefle,9400,0,13,2005-06-12T17:00+0200,Allsvenskan,9402,Paulinho Guara,48,home,2,0,11,11,0,0
+595965,9,Elfsborg,9369,1,12,Halmstad,9371,1,5,2005-06-12T19:30+0200,Allsvenskan,9402,,,,0,0,,,,
+595965,9,Elfsborg,9369,1,12,Halmstad,9371,1,5,2005-06-12T19:30+0200,Allsvenskan,9402,Hasse Berggren,3,home,1,0,11,11,0,0
+595965,9,Elfsborg,9369,1,12,Halmstad,9371,1,5,2005-06-12T19:30+0200,Allsvenskan,9402,Tommy Jönsson,49,visiting,1,1,11,11,0,0
+595967,9,Djurgården,9368,0,2,Göteborg,9370,0,7,2005-06-13T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595968,9,Kalmar FF,9374,1,4,Assyriska FF,9395,0,14,2005-06-13T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595968,9,Kalmar FF,9374,1,4,Assyriska FF,9395,0,14,2005-06-13T19:00+0200,Allsvenskan,9402,Dedé Andersson,57,home,1,0,11,11,0,0
+595969,9,Helsingborg,9373,0,6,Malmö FF,9375,1,1,2005-06-13T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595969,9,Helsingborg,9373,0,6,Malmö FF,9375,1,1,2005-06-13T20:00+0200,Allsvenskan,9402,Afonso Alves,35,visiting,0,1,11,11,0,0
+595990,10,Gefle,9400,1,13,Elfsborg,9369,2,8,2005-06-15T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595990,10,Gefle,9400,1,13,Elfsborg,9369,2,8,2005-06-15T19:00+0200,Allsvenskan,9402,Daniel Alexandersson,31,visiting,0,1,11,11,0,0
+595990,10,Gefle,9400,1,13,Elfsborg,9369,2,8,2005-06-15T19:00+0200,Allsvenskan,9402,Mathias Woxlin,62,home,1,1,11,11,0,0
+595990,10,Gefle,9400,1,13,Elfsborg,9369,2,8,2005-06-15T19:00+0200,Allsvenskan,9402,Joakim Sjöhage,85,visiting,1,2,11,11,0,0
+595991,10,Halmstad,9371,1,3,Häcken,19740,0,6,2005-06-15T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595991,10,Halmstad,9371,1,3,Häcken,19740,0,6,2005-06-15T19:00+0200,Allsvenskan,9402,Dusan Djuric,65,home,1,0,11,11,0,0
+595992,10,Hammarby,9372,0,9,Örgryte IS,9380,0,11,2005-06-15T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595993,10,Assyriska FF,9395,0,14,Helsingborg,9373,1,5,2005-06-16T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595993,10,Assyriska FF,9395,0,14,Helsingborg,9373,1,5,2005-06-16T19:00+0200,Allsvenskan,9402,Thando Mngomeni,35,visiting,0,1,11,11,0,0
+595994,10,Göteborg,9370,2,4,GIF Sundsvall,9407,0,12,2005-06-16T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595994,10,Göteborg,9370,2,4,GIF Sundsvall,9407,0,12,2005-06-16T19:00+0200,Allsvenskan,9402,Magnus Johansson,23,home,1,0,11,11,0,0
+595994,10,Göteborg,9370,2,4,GIF Sundsvall,9407,0,12,2005-06-16T19:00+0200,Allsvenskan,9402,Karl Svensson,89,home,2,0,11,11,0,0
+595995,10,Landskrona,9388,1,10,Kalmar FF,9374,1,7,2005-06-16T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595995,10,Landskrona,9388,1,10,Kalmar FF,9374,1,7,2005-06-16T19:00+0200,Allsvenskan,9402,Dedé Andersson,31,visiting,0,1,11,11,0,0
+595995,10,Landskrona,9388,1,10,Kalmar FF,9374,1,7,2005-06-16T19:00+0200,Allsvenskan,9402,självmål,47,home,1,1,11,11,0,0
+595996,10,Malmö FF,9375,1,2,Djurgården,9368,3,1,2005-06-16T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595996,10,Malmö FF,9375,1,2,Djurgården,9368,3,1,2005-06-16T20:00+0200,Allsvenskan,9402,Marcus Rosenberg,38,home,1,0,11,11,0,0
+595996,10,Malmö FF,9375,1,2,Djurgården,9368,3,1,2005-06-16T20:00+0200,Allsvenskan,9402,Abgar Barsom,58,visiting,1,1,11,11,0,0
+595996,10,Malmö FF,9375,1,2,Djurgården,9368,3,1,2005-06-16T20:00+0200,Allsvenskan,9402,Sören Larsen,85,visiting,1,2,11,11,0,0
+595996,10,Malmö FF,9375,1,2,Djurgården,9368,3,1,2005-06-16T20:00+0200,Allsvenskan,9402,Daniel Sjölund,94,visiting,1,3,11,11,0,0
+595997,11,Halmstad,9371,1,5,Hammarby,9372,2,9,2005-06-19T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595997,11,Halmstad,9371,1,5,Hammarby,9372,2,9,2005-06-19T17:00+0200,Allsvenskan,9402,Jon Rytterbro,25,visiting,0,1,11,11,0,0
+595997,11,Halmstad,9371,1,5,Hammarby,9372,2,9,2005-06-19T17:00+0200,Allsvenskan,9402,Pablo Pinones-Arce,47,visiting,0,2,11,11,0,0
+595997,11,Halmstad,9371,1,5,Hammarby,9372,2,9,2005-06-19T17:00+0200,Allsvenskan,9402,Emil Jensen,64,home,1,2,11,11,0,0
+595998,11,Örgryte IS,9380,2,10,Assyriska FF,9395,0,14,2005-06-19T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595998,11,Örgryte IS,9380,2,10,Assyriska FF,9395,0,14,2005-06-19T17:00+0200,Allsvenskan,9402,Tuomas Uusimäki,28,home,1,0,11,11,0,0
+595998,11,Örgryte IS,9380,2,10,Assyriska FF,9395,0,14,2005-06-19T17:00+0200,Allsvenskan,9402,Ailton Almeida,56,home,2,0,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Peter Graulund,15,visiting,0,1,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Eldin Karisik,35,visiting,0,2,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Toni Kuivasto,40,home,1,2,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Tobias Hysén,44,home,2,2,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Abgar Barsom,56,home,3,2,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Tobias Hysén,87,home,4,2,11,11,0,0
+595999,11,Djurgården,9368,5,1,Helsingborg,9373,2,7,2005-06-20T19:00+0200,Allsvenskan,9402,Sören Larsen,90,home,5,2,11,11,0,0
+596000,11,Gefle,9400,0,13,Landskrona,9388,0,11,2005-06-20T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596002,11,Elfsborg,9369,3,8,Malmö FF,9375,1,4,2005-06-20T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596002,11,Elfsborg,9369,3,8,Malmö FF,9375,1,4,2005-06-20T19:00+0200,Allsvenskan,9402,Hasse Berggren,5,home,1,0,11,11,0,0
+596002,11,Elfsborg,9369,3,8,Malmö FF,9375,1,4,2005-06-20T19:00+0200,Allsvenskan,9402,Marcus Rosenberg,9,visiting,1,1,11,11,0,0
+596002,11,Elfsborg,9369,3,8,Malmö FF,9375,1,4,2005-06-20T19:00+0200,Allsvenskan,9402,Joakim Sjöhage,63,home,2,1,11,11,0,0
+596002,11,Elfsborg,9369,3,8,Malmö FF,9375,1,4,2005-06-20T19:00+0200,Allsvenskan,9402,Hasse Berggren,89,home,3,1,11,11,0,0
+596001,11,GIF Sundsvall,9407,0,12,Kalmar FF,9374,2,3,2005-06-21T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596001,11,GIF Sundsvall,9407,0,12,Kalmar FF,9374,2,3,2005-06-21T19:00+0200,Allsvenskan,9402,Håkan Lindqvist,80,visiting,0,1,11,11,0,0
+596001,11,GIF Sundsvall,9407,0,12,Kalmar FF,9374,2,3,2005-06-21T19:00+0200,Allsvenskan,9402,Brima Koroma,90,visiting,0,2,11,11,0,0
+596003,11,Häcken,19740,3,2,Göteborg,9370,1,6,2005-06-22T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596003,11,Häcken,19740,3,2,Göteborg,9370,1,6,2005-06-22T20:00+0200,Allsvenskan,9402,Fredrik Risp,12,visiting,0,1,11,11,0,0
+596003,11,Häcken,19740,3,2,Göteborg,9370,1,6,2005-06-22T20:00+0200,Allsvenskan,9402,Eirik Dybendal,55,home,1,1,11,11,0,0
+596003,11,Häcken,19740,3,2,Göteborg,9370,1,6,2005-06-22T20:00+0200,Allsvenskan,9402,Jonas Henriksson,60,home,2,1,11,11,0,0
+596003,11,Häcken,19740,3,2,Göteborg,9370,1,6,2005-06-22T20:00+0200,Allsvenskan,9402,Dulee Johnson,71,home,3,1,11,11,0,0
+596059,12,Assyriska FF,9395,1,14,Elfsborg,9369,2,7,2005-06-26T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596059,12,Assyriska FF,9395,1,14,Elfsborg,9369,2,7,2005-06-26T17:00+0200,Allsvenskan,9402,Joakim Sjöhage,3,visiting,0,1,11,11,0,0
+596059,12,Assyriska FF,9395,1,14,Elfsborg,9369,2,7,2005-06-26T17:00+0200,Allsvenskan,9402,Hasse Berggren,8,visiting,0,2,11,11,0,0
+596059,12,Assyriska FF,9395,1,14,Elfsborg,9369,2,7,2005-06-26T17:00+0200,Allsvenskan,9402,David Nordbeck,61,home,1,2,11,11,0,0
+596060,12,Hammarby,9372,0,9,Gefle,9400,1,11,2005-06-26T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596060,12,Hammarby,9372,0,9,Gefle,9400,1,11,2005-06-26T17:00+0200,Allsvenskan,9402,Benny Mattsson,75,visiting,0,1,11,11,0,0
+596061,12,Kalmar FF,9374,2,2,Örgryte IS,9380,1,10,2005-06-27T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596061,12,Kalmar FF,9374,2,2,Örgryte IS,9380,1,10,2005-06-27T19:00+0200,Allsvenskan,9402,Boyd Mwila,1,visiting,0,1,11,11,0,0
+596061,12,Kalmar FF,9374,2,2,Örgryte IS,9380,1,10,2005-06-27T19:00+0200,Allsvenskan,9402,Håkan Lindqvist,14,home,1,1,11,11,0,0
+596061,12,Kalmar FF,9374,2,2,Örgryte IS,9380,1,10,2005-06-27T19:00+0200,Allsvenskan,9402,Dedé Andersson,15,home,2,1,11,11,0,0
+596062,12,Landskrona,9388,0,12,Djurgården,9368,2,1,2005-06-27T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596062,12,Landskrona,9388,0,12,Djurgården,9368,2,1,2005-06-27T19:00+0200,Allsvenskan,9402,Sören Larsen,72,visiting,0,1,11,11,0,0
+596062,12,Landskrona,9388,0,12,Djurgården,9368,2,1,2005-06-27T19:00+0200,Allsvenskan,9402,Sören Larsen,83,visiting,0,2,11,11,0,0
+596063,12,Malmö FF,9375,2,3,Häcken,19740,1,6,2005-06-27T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596063,12,Malmö FF,9375,2,3,Häcken,19740,1,6,2005-06-27T19:00+0200,Allsvenskan,9402,Marcus Rosenberg,21,home,1,0,11,11,0,0
+596063,12,Malmö FF,9375,2,3,Häcken,19740,1,6,2005-06-27T19:00+0200,Allsvenskan,9402,Afonso Alves,69,home,2,0,11,11,0,0
+596063,12,Malmö FF,9375,2,3,Häcken,19740,1,6,2005-06-27T19:00+0200,Allsvenskan,9402,Jonas Henriksson,90,visiting,2,1,11,11,0,0
+596064,12,Helsingborg,9373,2,5,GIF Sundsvall,9407,1,13,2005-06-28T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596064,12,Helsingborg,9373,2,5,GIF Sundsvall,9407,1,13,2005-06-28T19:00+0200,Allsvenskan,9402,Tobias Eriksson,21,visiting,0,1,11,11,0,0
+596064,12,Helsingborg,9373,2,5,GIF Sundsvall,9407,1,13,2005-06-28T19:00+0200,Allsvenskan,9402,Olivier Karekezi,43,home,1,1,11,11,0,0
+596064,12,Helsingborg,9373,2,5,GIF Sundsvall,9407,1,13,2005-06-28T19:00+0200,Allsvenskan,9402,Eldin Karisik,77,home,2,1,11,11,0,0
+596065,12,Göteborg,9370,4,4,Halmstad,9371,0,8,2005-06-29T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596065,12,Göteborg,9370,4,4,Halmstad,9371,0,8,2005-06-29T20:00+0200,Allsvenskan,9402,Niclas Alexandersson,8,home,1,0,11,11,0,0
+596065,12,Göteborg,9370,4,4,Halmstad,9371,0,8,2005-06-29T20:00+0200,Allsvenskan,9402,Stefan Selakovic,20,home,2,0,11,11,0,0
+596065,12,Göteborg,9370,4,4,Halmstad,9371,0,8,2005-06-29T20:00+0200,Allsvenskan,9402,Håkan Mild,38,home,3,0,11,11,0,0
+596065,12,Göteborg,9370,4,4,Halmstad,9371,0,8,2005-06-29T20:00+0200,Allsvenskan,9402,George Mourad,44,home,4,0,11,11,0,0
+596066,13,Häcken,19740,0,7,Assyriska FF,9395,2,14,2005-07-03T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596066,13,Häcken,19740,0,7,Assyriska FF,9395,2,14,2005-07-03T17:00+0200,Allsvenskan,9402,Kabba Samura,20,visiting,0,1,11,11,0,0
+596066,13,Häcken,19740,0,7,Assyriska FF,9395,2,14,2005-07-03T17:00+0200,Allsvenskan,9402,Stefan Batan,63,visiting,0,2,11,11,0,0
+596067,13,Landskrona,9388,0,12,Hammarby,9372,3,9,2005-07-03T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596067,13,Landskrona,9388,0,12,Hammarby,9372,3,9,2005-07-03T17:00+0200,Allsvenskan,9402,Pablo Pinones-Arce,27,visiting,0,1,11,11,0,0
+596067,13,Landskrona,9388,0,12,Hammarby,9372,3,9,2005-07-03T17:00+0200,Allsvenskan,9402,David Johansson,55,visiting,0,2,11,11,0,0
+596067,13,Landskrona,9388,0,12,Hammarby,9372,3,9,2005-07-03T17:00+0200,Allsvenskan,9402,Björn Runström,87,visiting,0,3,11,11,0,0
+596068,13,Halmstad,9371,0,8,Malmö FF,9375,0,3,2005-07-04T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596070,13,Örgryte IS,9380,1,10,Helsingborg,9373,2,4,2005-07-04T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596070,13,Örgryte IS,9380,1,10,Helsingborg,9373,2,4,2005-07-04T19:00+0200,Allsvenskan,9402,Peter Graulund,23,visiting,0,1,11,11,0,0
+596070,13,Örgryte IS,9380,1,10,Helsingborg,9373,2,4,2005-07-04T19:00+0200,Allsvenskan,9402,Eldin Karisik,30,visiting,0,2,11,11,0,0
+596070,13,Örgryte IS,9380,1,10,Helsingborg,9373,2,4,2005-07-04T19:00+0200,Allsvenskan,9402,Magnus Källander,64,home,1,2,11,11,0,0
+596069,13,Elfsborg,9369,1,6,Kalmar FF,9374,0,5,2005-07-04T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596069,13,Elfsborg,9369,1,6,Kalmar FF,9374,0,5,2005-07-04T20:00+0200,Allsvenskan,9402,Mathias Svensson,45,home,1,0,11,11,0,0
+596071,13,Gefle,9400,0,11,Göteborg,9370,2,2,2005-07-06T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596071,13,Gefle,9400,0,11,Göteborg,9370,2,2,2005-07-06T19:00+0200,Allsvenskan,9402,Peter Ijeh,34,visiting,0,1,11,11,0,0
+596071,13,Gefle,9400,0,11,Göteborg,9370,2,2,2005-07-06T19:00+0200,Allsvenskan,9402,Stefan Selakovic,47,visiting,0,2,11,11,0,0
+596072,13,GIF Sundsvall,9407,1,13,Djurgården,9368,1,1,2005-07-11T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596072,13,GIF Sundsvall,9407,1,13,Djurgården,9368,1,1,2005-07-11T19:00+0200,Allsvenskan,9402,Tobias Eriksson,78,home,1,0,11,11,0,0
+596072,13,GIF Sundsvall,9407,1,13,Djurgården,9368,1,1,2005-07-11T19:00+0200,Allsvenskan,9402,Tobias Hysén,90,visiting,1,1,11,11,0,0
+596102,14,Hammarby,9372,4,8,Landskrona,9388,0,12,2005-07-17T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596102,14,Hammarby,9372,4,8,Landskrona,9388,0,12,2005-07-17T17:00+0200,Allsvenskan,9402,Fredrik Stoor,5,home,1,0,11,11,0,0
+596102,14,Hammarby,9372,4,8,Landskrona,9388,0,12,2005-07-17T17:00+0200,Allsvenskan,9402,Jon Rytterbro,20,home,2,0,11,11,0,0
+596102,14,Hammarby,9372,4,8,Landskrona,9388,0,12,2005-07-17T17:00+0200,Allsvenskan,9402,Jon Rytterbro,44,home,3,0,11,11,0,0
+596102,14,Hammarby,9372,4,8,Landskrona,9388,0,12,2005-07-17T17:00+0200,Allsvenskan,9402,Björn Runström,87,home,4,0,11,11,0,0
+596103,14,Helsingborg,9373,1,3,Örgryte IS,9380,0,11,2005-07-17T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596103,14,Helsingborg,9373,1,3,Örgryte IS,9380,0,11,2005-07-17T17:00+0200,Allsvenskan,9402,Peter Graulund,9,home,1,0,11,11,0,0
+596104,14,Malmö FF,9375,2,2,Halmstad,9371,1,9,2005-07-17T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596104,14,Malmö FF,9375,2,2,Halmstad,9371,1,9,2005-07-17T17:00+0200,Allsvenskan,9402,Hans Mattisson,8,home,1,0,11,11,0,0
+596104,14,Malmö FF,9375,2,2,Halmstad,9371,1,9,2005-07-17T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,46,visiting,1,1,11,11,0,0
+596104,14,Malmö FF,9375,2,2,Halmstad,9371,1,9,2005-07-17T17:00+0200,Allsvenskan,9402,Hans Mattisson,52,home,2,1,11,11,0,0
+596105,14,Assyriska FF,9395,0,14,Häcken,19740,1,6,2005-07-18T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596105,14,Assyriska FF,9395,0,14,Häcken,19740,1,6,2005-07-18T19:00+0200,Allsvenskan,9402,Stig Töfting,90,visiting,0,1,11,11,0,0
+596106,14,Djurgården,9368,4,1,GIF Sundsvall,9407,0,13,2005-07-18T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596106,14,Djurgården,9368,4,1,GIF Sundsvall,9407,0,13,2005-07-18T19:00+0200,Allsvenskan,9402,Daniel Sjölund,1,home,1,0,11,11,0,0
+596106,14,Djurgården,9368,4,1,GIF Sundsvall,9407,0,13,2005-07-18T19:00+0200,Allsvenskan,9402,Daniel Sjölund,46,home,2,0,11,11,0,0
+596106,14,Djurgården,9368,4,1,GIF Sundsvall,9407,0,13,2005-07-18T19:00+0200,Allsvenskan,9402,Feliciano Magro,68,home,3,0,11,11,0,0
+596106,14,Djurgården,9368,4,1,GIF Sundsvall,9407,0,13,2005-07-18T19:00+0200,Allsvenskan,9402,Abgar Barsom,88,home,4,0,11,11,0,0
+596107,14,Kalmar FF,9374,1,5,Elfsborg,9369,1,7,2005-07-18T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596107,14,Kalmar FF,9374,1,5,Elfsborg,9369,1,7,2005-07-18T19:00+0200,Allsvenskan,9402,Anatoli Ponomarev,48,home,1,0,11,11,0,0
+596107,14,Kalmar FF,9374,1,5,Elfsborg,9369,1,7,2005-07-18T19:00+0200,Allsvenskan,9402,Hasse Berggren,84,visiting,1,1,11,11,0,0
+596108,14,Göteborg,9370,0,4,Gefle,9400,1,10,2005-07-20T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596108,14,Göteborg,9370,0,4,Gefle,9400,1,10,2005-07-20T19:00+0200,Allsvenskan,9402,Daniel Bernhardsson,16,visiting,0,1,11,11,0,0
+596109,15,Häcken,19740,1,5,Malmö FF,9375,0,4,2005-07-21T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596109,15,Häcken,19740,1,5,Malmö FF,9375,0,4,2005-07-21T20:00+0200,Allsvenskan,9402,Dioh Williams,84,home,1,0,11,11,0,0
+596110,15,GIF Sundsvall,9407,1,14,Helsingborg,9373,1,2,2005-07-24T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596110,15,GIF Sundsvall,9407,1,14,Helsingborg,9373,1,2,2005-07-24T17:00+0200,Allsvenskan,9402,Tobias Eriksson,3,home,1,0,11,11,0,0
+596110,15,GIF Sundsvall,9407,1,14,Helsingborg,9373,1,2,2005-07-24T17:00+0200,Allsvenskan,9402,Eldin Karisik,66,visiting,1,1,11,11,0,0
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,Jukka Sauso,12,home,1,0,11,11,0,0
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,Paulinho Guara,39,home,2,0,11,11,0,0
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,Tobias Carlsson,57,visiting,2,1,11,11,0,0
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,Ailton Almeida,62,home,3,1,11,11,0,0
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,Cesar Santin,65,visiting,3,2,11,11,0,0
+596112,15,Örgryte IS,9380,3,12,Kalmar FF,9374,3,6,2005-07-25T19:00+0200,Allsvenskan,9402,Dedé Andersson,69,visiting,3,3,11,11,0,0
+596113,15,Gefle,9400,1,10,Hammarby,9372,1,7,2005-07-25T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596113,15,Gefle,9400,1,10,Hammarby,9372,1,7,2005-07-25T19:00+0200,Allsvenskan,9402,Daniel Bernhardsson,7,home,1,0,11,11,0,0
+596113,15,Gefle,9400,1,10,Hammarby,9372,1,7,2005-07-25T19:00+0200,Allsvenskan,9402,Jeffrey Aubynn,9,visiting,1,1,11,11,0,0
+596114,15,Elfsborg,9369,1,8,Assyriska FF,9395,3,13,2005-07-25T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596114,15,Elfsborg,9369,1,8,Assyriska FF,9395,3,13,2005-07-25T19:00+0200,Allsvenskan,9402,Hasan Cetinkaya,33,visiting,0,1,11,11,0,0
+596114,15,Elfsborg,9369,1,8,Assyriska FF,9395,3,13,2005-07-25T19:00+0200,Allsvenskan,9402,Hasan Cetinkaya,57,visiting,0,2,11,11,0,0
+596114,15,Elfsborg,9369,1,8,Assyriska FF,9395,3,13,2005-07-25T19:00+0200,Allsvenskan,9402,Hasse Berggren,59,home,1,2,11,11,0,0
+596114,15,Elfsborg,9369,1,8,Assyriska FF,9395,3,13,2005-07-25T19:00+0200,Allsvenskan,9402,Kabba Samura,62,visiting,1,3,11,11,0,0
+596115,15,Djurgården,9368,0,1,Landskrona,9388,1,11,2005-07-27T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596111,15,Halmstad,9371,0,9,Göteborg,9370,2,3,2005-07-28T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596111,15,Halmstad,9371,0,9,Göteborg,9370,2,3,2005-07-28T20:00+0200,Allsvenskan,9402,självmål,32,visiting,0,1,11,11,0,0
+596111,15,Halmstad,9371,0,9,Göteborg,9370,2,3,2005-07-28T20:00+0200,Allsvenskan,9402,Stefan Selakovic,54,visiting,0,2,11,11,0,0
+596118,16,Malmö FF,9375,1,4,Elfsborg,9369,1,8,2005-07-30T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596118,16,Malmö FF,9375,1,4,Elfsborg,9369,1,8,2005-07-30T17:00+0200,Allsvenskan,9402,Afonso Alves,51,home,1,0,11,11,0,0
+596118,16,Malmö FF,9375,1,4,Elfsborg,9369,1,8,2005-07-30T17:00+0200,Allsvenskan,9402,Andreas Klarström,74,visiting,1,1,11,11,0,0
+596116,16,Assyriska FF,9395,0,13,Örgryte IS,9380,1,11,2005-07-31T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596116,16,Assyriska FF,9395,0,13,Örgryte IS,9380,1,11,2005-07-31T17:00+0200,Allsvenskan,9402,Johan Anegrund,83,visiting,0,1,11,11,0,0
+596119,16,Hammarby,9372,2,6,Halmstad,9371,1,10,2005-08-01T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596119,16,Hammarby,9372,2,6,Halmstad,9371,1,10,2005-08-01T19:00+0200,Allsvenskan,9402,Björn Runström,7,home,1,0,11,11,0,0
+596119,16,Hammarby,9372,2,6,Halmstad,9371,1,10,2005-08-01T19:00+0200,Allsvenskan,9402,Petter Furuseth Olsen,42,home,2,0,11,11,0,0
+596119,16,Hammarby,9372,2,6,Halmstad,9371,1,10,2005-08-01T19:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,45,visiting,2,1,11,11,0,0
+596120,16,Helsingborg,9373,2,2,Djurgården,9368,0,1,2005-08-01T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596120,16,Helsingborg,9373,2,2,Djurgården,9368,0,1,2005-08-01T19:00+0200,Allsvenskan,9402,Eldin Karisik,61,home,1,0,11,11,0,0
+596120,16,Helsingborg,9373,2,2,Djurgården,9368,0,1,2005-08-01T19:00+0200,Allsvenskan,9402,Olivier Karekezi,90,home,2,0,11,11,0,0
+596121,16,Göteborg,9370,1,3,Häcken,19740,0,5,2005-08-01T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596121,16,Göteborg,9370,1,3,Häcken,19740,0,5,2005-08-01T19:00+0200,Allsvenskan,9402,Stefan Selakovic,46,home,1,0,11,11,0,0
+596122,16,Landskrona,9388,0,12,Gefle,9400,1,9,2005-08-02T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596122,16,Landskrona,9388,0,12,Gefle,9400,1,9,2005-08-02T19:00+0200,Allsvenskan,9402,Daniel Bernhardsson,72,visiting,0,1,11,11,0,0
+596143,17,Djurgården,9368,2,2,Hammarby,9372,2,5,2005-08-04T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596143,17,Djurgården,9368,2,2,Hammarby,9372,2,5,2005-08-04T20:00+0200,Allsvenskan,9402,Mikael Andersson,16,visiting,0,1,11,11,0,0
+596143,17,Djurgården,9368,2,2,Hammarby,9372,2,5,2005-08-04T20:00+0200,Allsvenskan,9402,Abgar Barsom,24,home,1,1,11,11,0,0
+596143,17,Djurgården,9368,2,2,Hammarby,9372,2,5,2005-08-04T20:00+0200,Allsvenskan,9402,Fredrik Stenman,30,home,2,1,11,11,0,0
+596143,17,Djurgården,9368,2,2,Hammarby,9372,2,5,2005-08-04T20:00+0200,Allsvenskan,9402,Björn Runström,74,visiting,2,2,11,11,0,0
+596144,17,Kalmar FF,9374,0,8,Malmö FF,9375,2,3,2005-08-06T16:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596144,17,Kalmar FF,9374,0,8,Malmö FF,9375,2,3,2005-08-06T16:00+0200,Allsvenskan,9402,Yksel Osmanovski,50,visiting,0,1,11,11,0,0
+596144,17,Kalmar FF,9374,0,8,Malmö FF,9375,2,3,2005-08-06T16:00+0200,Allsvenskan,9402,Afonso Alves,73,visiting,0,2,11,11,0,0
+596145,17,Assyriska FF,9395,0,14,Landskrona,9388,1,11,2005-08-07T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596145,17,Assyriska FF,9395,0,14,Landskrona,9388,1,11,2005-08-07T17:00+0200,Allsvenskan,9402,Jörgen Pettersson,53,visiting,0,1,11,11,0,0
+596146,17,Örgryte IS,9380,2,9,Halmstad,9371,1,12,2005-08-07T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596147,17,GIF Sundsvall,9407,2,13,Gefle,9400,2,10,2005-08-08T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596147,17,GIF Sundsvall,9407,2,13,Gefle,9400,2,10,2005-08-08T19:00+0200,Allsvenskan,9402,Peter Olofsson,63,home,1,0,11,11,0,0
+596147,17,GIF Sundsvall,9407,2,13,Gefle,9400,2,10,2005-08-08T19:00+0200,Allsvenskan,9402,Mathias Woxlin,74,visiting,1,1,11,11,0,0
+596147,17,GIF Sundsvall,9407,2,13,Gefle,9400,2,10,2005-08-08T19:00+0200,Allsvenskan,9402,Peter Olofsson,86,home,2,1,11,11,0,0
+596147,17,GIF Sundsvall,9407,2,13,Gefle,9400,2,10,2005-08-08T19:00+0200,Allsvenskan,9402,Johannes Ericsson,90,visiting,2,2,11,11,0,0
+596148,17,Helsingborg,9373,0,4,Göteborg,9370,2,1,2005-08-08T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596148,17,Helsingborg,9373,0,4,Göteborg,9370,2,1,2005-08-08T19:00+0200,Allsvenskan,9402,Marcus Berg,41,visiting,0,1,11,11,0,0
+596148,17,Helsingborg,9373,0,4,Göteborg,9370,2,1,2005-08-08T19:00+0200,Allsvenskan,9402,Niclas Alexandersson,46,visiting,0,2,11,11,0,0
+596149,17,Elfsborg,9369,2,6,Häcken,19740,0,7,2005-08-08T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596149,17,Elfsborg,9369,2,6,Häcken,19740,0,7,2005-08-08T19:00+0200,Allsvenskan,9402,Joakim Sjöhage,24,home,1,0,11,11,0,0
+596149,17,Elfsborg,9369,2,6,Häcken,19740,0,7,2005-08-08T19:00+0200,Allsvenskan,9402,Andreas Klarström,90,home,2,0,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Björn Runström,11,home,1,0,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Björn Runström,25,home,2,0,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Jon Rytterbro,46,home,3,0,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Gustaf Andersson,54,visiting,3,1,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Atiba Hutchinson,57,visiting,3,2,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Erkan Zengin,67,home,4,2,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Erik Johansson,84,home,5,2,11,11,0,0
+596150,18,Hammarby,9372,6,5,Helsingborg,9373,2,4,2005-08-13T16:00+0200,Allsvenskan,9402,Erkan Zengin,85,home,6,2,11,11,0,0
+596152,18,Landskrona,9388,4,10,Elfsborg,9369,1,7,2005-08-13T16:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596152,18,Landskrona,9388,4,10,Elfsborg,9369,1,7,2005-08-13T16:00+0200,Allsvenskan,9402,Jörgen Pettersson,41,home,1,0,11,11,0,0
+596152,18,Landskrona,9388,4,10,Elfsborg,9369,1,7,2005-08-13T16:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,58,home,2,0,11,11,0,0
+596152,18,Landskrona,9388,4,10,Elfsborg,9369,1,7,2005-08-13T16:00+0200,Allsvenskan,9402,BoBo Bola,73,home,3,0,11,11,0,0
+596152,18,Landskrona,9388,4,10,Elfsborg,9369,1,7,2005-08-13T16:00+0200,Allsvenskan,9402,Håkan Söderstjerna,79,home,4,0,11,11,0,0
+596152,18,Landskrona,9388,4,10,Elfsborg,9369,1,7,2005-08-13T16:00+0200,Allsvenskan,9402,Andreas Klarström,83,visiting,4,1,11,11,0,0
+596154,18,Gefle,9400,1,12,Djurgården,9368,3,1,2005-08-14T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596154,18,Gefle,9400,1,12,Djurgården,9368,3,1,2005-08-14T17:00+0200,Allsvenskan,9402,Benny Mattsson,18,home,1,0,11,11,0,0
+596154,18,Gefle,9400,1,12,Djurgården,9368,3,1,2005-08-14T17:00+0200,Allsvenskan,9402,Daniel Sjölund,21,visiting,1,1,11,11,0,0
+596154,18,Gefle,9400,1,12,Djurgården,9368,3,1,2005-08-14T17:00+0200,Allsvenskan,9402,Daniel Sjölund,31,visiting,1,2,11,11,0,0
+596154,18,Gefle,9400,1,12,Djurgården,9368,3,1,2005-08-14T17:00+0200,Allsvenskan,9402,Abgar Barsom,73,visiting,1,3,11,11,0,0
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,Andreas Johansson,22,home,1,0,11,11,0,0
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,Yaw Preko,41,home,2,0,11,11,0,0
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,45,home,3,0,11,11,0,0
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,46,home,4,0,11,11,0,0
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,Patrik Ingelsten,77,home,5,0,11,11,0,0
+596155,18,Halmstad,9371,6,11,GIF Sundsvall,9407,0,14,2005-08-14T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,85,home,6,0,11,11,0,0
+596156,18,Malmö FF,9375,2,3,Assyriska FF,9395,2,13,2005-08-14T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596156,18,Malmö FF,9375,2,3,Assyriska FF,9395,2,13,2005-08-14T17:00+0200,Allsvenskan,9402,Kabba Samura,10,visiting,0,1,11,11,0,0
+596156,18,Malmö FF,9375,2,3,Assyriska FF,9395,2,13,2005-08-14T17:00+0200,Allsvenskan,9402,Jari Litmanen,55,home,1,1,11,11,0,0
+596156,18,Malmö FF,9375,2,3,Assyriska FF,9395,2,13,2005-08-14T17:00+0200,Allsvenskan,9402,Afonso Alves,59,home,2,1,11,11,0,0
+596156,18,Malmö FF,9375,2,3,Assyriska FF,9395,2,13,2005-08-14T17:00+0200,Allsvenskan,9402,David Nordbeck,70,visiting,2,2,11,11,0,0
+596153,18,Häcken,19740,1,8,Örgryte IS,9380,2,9,2005-08-14T19:30+0200,Allsvenskan,9402,,,,0,0,,,,
+596153,18,Häcken,19740,1,8,Örgryte IS,9380,2,9,2005-08-14T19:30+0200,Allsvenskan,9402,Paulinho Guara,50,visiting,0,1,11,11,0,0
+596153,18,Häcken,19740,1,8,Örgryte IS,9380,2,9,2005-08-14T19:30+0200,Allsvenskan,9402,Jonas Henriksson,57,home,1,1,11,11,0,0
+596153,18,Häcken,19740,1,8,Örgryte IS,9380,2,9,2005-08-14T19:30+0200,Allsvenskan,9402,Alexander Mellqvist,89,visiting,1,2,11,11,0,0
+596240,19,Örgryte IS,9380,1,9,Malmö FF,9375,1,5,2005-08-20T16:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596240,19,Örgryte IS,9380,1,9,Malmö FF,9375,1,5,2005-08-20T16:00+0200,Allsvenskan,9402,Ailton Almeida,52,home,1,0,11,11,0,0
+596240,19,Örgryte IS,9380,1,9,Malmö FF,9375,1,5,2005-08-20T16:00+0200,Allsvenskan,9402,Yksel Osmanovski,88,visiting,1,1,11,11,0,0
+596241,19,Djurgården,9368,3,1,Kalmar FF,9374,1,6,2005-08-21T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596241,19,Djurgården,9368,3,1,Kalmar FF,9374,1,6,2005-08-21T17:00+0200,Allsvenskan,9402,Toni Kuivasto,30,home,1,0,11,11,0,0
+596241,19,Djurgården,9368,3,1,Kalmar FF,9374,1,6,2005-08-21T17:00+0200,Allsvenskan,9402,Abgar Barsom,35,home,2,0,11,11,0,0
+596241,19,Djurgården,9368,3,1,Kalmar FF,9374,1,6,2005-08-21T17:00+0200,Allsvenskan,9402,Lasse Johansson,53,visiting,2,1,11,11,0,0
+596241,19,Djurgården,9368,3,1,Kalmar FF,9374,1,6,2005-08-21T17:00+0200,Allsvenskan,9402,Toni Kuivasto,87,home,3,1,10,10,0,0
+596242,19,Halmstad,9371,1,12,Gefle,9400,4,10,2005-08-21T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596242,19,Halmstad,9371,1,12,Gefle,9400,4,10,2005-08-21T17:00+0200,Allsvenskan,9402,Rene Muzola Makondele,14,visiting,0,1,11,11,0,0
+596242,19,Halmstad,9371,1,12,Gefle,9400,4,10,2005-08-21T17:00+0200,Allsvenskan,9402,Benny Mattsson,47,visiting,0,2,11,11,0,0
+596242,19,Halmstad,9371,1,12,Gefle,9400,4,10,2005-08-21T17:00+0200,Allsvenskan,9402,Mathias Woxlin,75,visiting,0,3,11,11,0,0
+596242,19,Halmstad,9371,1,12,Gefle,9400,4,10,2005-08-21T17:00+0200,Allsvenskan,9402,Daniel Bernhardsson,80,visiting,0,4,11,11,0,0
+596242,19,Halmstad,9371,1,12,Gefle,9400,4,10,2005-08-21T17:00+0200,Allsvenskan,9402,Yaw Preko,81,home,1,4,11,11,0,0
+596243,19,Häcken,19740,1,8,Hammarby,9372,3,4,2005-08-22T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596243,19,Häcken,19740,1,8,Hammarby,9372,3,4,2005-08-22T19:00+0200,Allsvenskan,9402,David Johansson,17,visiting,0,1,11,11,0,0
+596243,19,Häcken,19740,1,8,Hammarby,9372,3,4,2005-08-22T19:00+0200,Allsvenskan,9402,Jesper Ljung,25,home,1,1,11,11,0,0
+596243,19,Häcken,19740,1,8,Hammarby,9372,3,4,2005-08-22T19:00+0200,Allsvenskan,9402,Björn Runström,49,visiting,1,2,11,11,0,0
+596243,19,Häcken,19740,1,8,Hammarby,9372,3,4,2005-08-22T19:00+0200,Allsvenskan,9402,Eric Fischbein,60,visiting,1,3,11,11,0,0
+596244,19,GIF Sundsvall,9407,5,13,Assyriska FF,9395,0,14,2005-08-22T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596244,19,GIF Sundsvall,9407,5,13,Assyriska FF,9395,0,14,2005-08-22T19:00+0200,Allsvenskan,9402,Patrik Eriksson-Ohlsson,18,home,1,0,11,11,0,0
+596244,19,GIF Sundsvall,9407,5,13,Assyriska FF,9395,0,14,2005-08-22T19:00+0200,Allsvenskan,9402,Peter Olofsson,27,home,2,0,11,11,0,0
+596244,19,GIF Sundsvall,9407,5,13,Assyriska FF,9395,0,14,2005-08-22T19:00+0200,Allsvenskan,9402,Peter Olofsson,60,home,3,0,11,11,0,0
+596244,19,GIF Sundsvall,9407,5,13,Assyriska FF,9395,0,14,2005-08-22T19:00+0200,Allsvenskan,9402,Ali Gerba,72,home,4,0,11,11,0,0
+596244,19,GIF Sundsvall,9407,5,13,Assyriska FF,9395,0,14,2005-08-22T19:00+0200,Allsvenskan,9402,Ali Gerba,90,home,5,0,11,11,0,0
+596245,19,Helsingborg,9373,1,3,Landskrona,9388,0,11,2005-08-22T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596245,19,Helsingborg,9373,1,3,Landskrona,9388,0,11,2005-08-22T19:00+0200,Allsvenskan,9402,Atiba Hutchinson,34,home,1,0,11,11,0,0
+596246,19,Elfsborg,9369,0,7,Göteborg,9370,2,2,2005-08-25T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596246,19,Elfsborg,9369,0,7,Göteborg,9370,2,2,2005-08-25T20:00+0200,Allsvenskan,9402,George Mourad,62,visiting,0,1,11,11,0,0
+596246,19,Elfsborg,9369,0,7,Göteborg,9370,2,2,2005-08-25T20:00+0200,Allsvenskan,9402,Samuel Wowoah,88,visiting,0,2,11,11,0,0
+596247,20,Assyriska FF,9395,0,14,Djurgården,9368,2,1,2005-08-28T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596247,20,Assyriska FF,9395,0,14,Djurgården,9368,2,1,2005-08-28T17:00+0200,Allsvenskan,9402,Tobias Hysén,11,visiting,0,1,11,11,0,0
+596247,20,Assyriska FF,9395,0,14,Djurgården,9368,2,1,2005-08-28T17:00+0200,Allsvenskan,9402,Tobias Hysén,86,visiting,0,2,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Afonso Alves,39,home,1,0,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Peter Olofsson,44,visiting,1,1,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Ali Gerba,50,visiting,1,2,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Afonso Alves,57,home,2,2,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Marcus Pode,68,home,3,2,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Peter Abelsson,73,home,4,2,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Jon Inge Höiland,84,home,5,2,11,11,0,0
+596249,20,Malmö FF,9375,6,3,GIF Sundsvall,9407,2,13,2005-08-28T17:00+0200,Allsvenskan,9402,Daniel Sliper,86,home,6,2,11,11,0,0
+596250,20,Hammarby,9372,0,4,Elfsborg,9369,0,7,2005-08-29T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596251,20,Kalmar FF,9374,2,6,Helsingborg,9373,0,5,2005-08-29T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596251,20,Kalmar FF,9374,2,6,Helsingborg,9373,0,5,2005-08-29T19:00+0200,Allsvenskan,9402,Fredrik Petersson,18,home,1,0,11,11,0,0
+596251,20,Kalmar FF,9374,2,6,Helsingborg,9373,0,5,2005-08-29T19:00+0200,Allsvenskan,9402,Mikael Blomberg,90,home,2,0,11,11,0,0
+596253,20,Örgryte IS,9380,1,9,Göteborg,9370,2,2,2005-08-29T20:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596253,20,Örgryte IS,9380,1,9,Göteborg,9370,2,2,2005-08-29T20:00+0200,Allsvenskan,9402,Magnus Källander,50,home,1,0,10,11,0,0
+596253,20,Örgryte IS,9380,1,9,Göteborg,9370,2,2,2005-08-29T20:00+0200,Allsvenskan,9402,Oscar Wendt,52,visiting,1,1,10,11,0,0
+596253,20,Örgryte IS,9380,1,9,Göteborg,9370,2,2,2005-08-29T20:00+0200,Allsvenskan,9402,George Mourad,60,visiting,1,2,10,11,0,0
+596254,21,Häcken,19740,0,9,Halmstad,9371,1,10,2005-09-11T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596254,21,Häcken,19740,0,9,Halmstad,9371,1,10,2005-09-11T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,70,visiting,0,1,11,11,0,0
+596255,21,Helsingborg,9373,2,3,Assyriska FF,9395,0,14,2005-09-11T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596255,21,Helsingborg,9373,2,3,Assyriska FF,9395,0,14,2005-09-11T17:00+0200,Allsvenskan,9402,Olivier Karekezi,80,home,1,0,11,10,0,0
+596255,21,Helsingborg,9373,2,3,Assyriska FF,9395,0,14,2005-09-11T17:00+0200,Allsvenskan,9402,Imad Khalili,87,home,2,0,11,10,0,0
+596256,21,Kalmar FF,9374,2,6,Landskrona,9388,2,12,2005-09-11T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596256,21,Kalmar FF,9374,2,6,Landskrona,9388,2,12,2005-09-11T17:00+0200,Allsvenskan,9402,Jörgen Pettersson,25,visiting,0,1,11,11,0,0
+596256,21,Kalmar FF,9374,2,6,Landskrona,9388,2,12,2005-09-11T17:00+0200,Allsvenskan,9402,Fredrik Petersson,49,home,1,1,11,11,0,0
+596256,21,Kalmar FF,9374,2,6,Landskrona,9388,2,12,2005-09-11T17:00+0200,Allsvenskan,9402,Mikael Blomberg,51,home,2,1,11,11,0,0
+596256,21,Kalmar FF,9374,2,6,Landskrona,9388,2,12,2005-09-11T17:00+0200,Allsvenskan,9402,Karl Corneliusson,77,visiting,2,2,11,11,0,0
+596257,21,Djurgården,9368,2,1,Malmö FF,9375,0,4,2005-09-12T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596257,21,Djurgården,9368,2,1,Malmö FF,9375,0,4,2005-09-12T19:00+0200,Allsvenskan,9402,Mattias Jonson,11,home,1,0,11,11,0,0
+596257,21,Djurgården,9368,2,1,Malmö FF,9375,0,4,2005-09-12T19:00+0200,Allsvenskan,9402,Fredrik Stenman,29,home,2,0,11,11,0,0
+596258,21,GIF Sundsvall,9407,0,13,Göteborg,9370,0,2,2005-09-12T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596259,21,Elfsborg,9369,1,7,Gefle,9400,0,11,2005-09-12T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596259,21,Elfsborg,9369,1,7,Gefle,9400,0,11,2005-09-12T19:00+0200,Allsvenskan,9402,Hasse Berggren,64,home,1,0,11,11,0,0
+596260,21,Örgryte IS,9380,3,8,Hammarby,9372,2,5,2005-09-12T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596260,21,Örgryte IS,9380,3,8,Hammarby,9372,2,5,2005-09-12T19:00+0200,Allsvenskan,9402,Björn Runström,43,visiting,0,1,11,11,0,0
+596260,21,Örgryte IS,9380,3,8,Hammarby,9372,2,5,2005-09-12T19:00+0200,Allsvenskan,9402,Ailton Almeida,46,home,1,1,11,11,0,0
+596260,21,Örgryte IS,9380,3,8,Hammarby,9372,2,5,2005-09-12T19:00+0200,Allsvenskan,9402,Ailton Almeida,54,home,2,1,11,11,0,0
+596260,21,Örgryte IS,9380,3,8,Hammarby,9372,2,5,2005-09-12T19:00+0200,Allsvenskan,9402,Boyd Mwila,56,home,3,1,11,11,0,0
+596260,21,Örgryte IS,9380,3,8,Hammarby,9372,2,5,2005-09-12T19:00+0200,Allsvenskan,9402,Jon Rytterbro,60,visiting,3,2,11,11,0,0
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,Mikael Blomberg,22,visiting,0,1,11,11,0,0
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,Henrik Rydström,51,visiting,0,2,11,11,0,0
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,Lasse Johansson,79,visiting,0,3,11,11,0,0
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,Anatoli Ponomarev,85,visiting,0,4,11,11,0,0
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,Fabio Augusto,89,visiting,0,5,11,11,0,0
+596261,22,Assyriska FF,9395,0,14,Kalmar FF,9374,7,6,2005-09-18T17:00+0200,Allsvenskan,9402,Håkan Lindqvist,90,visiting,0,6,11,11,0,0
+596262,22,Gefle,9400,0,11,Örgryte IS,9380,2,7,2005-09-18T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596262,22,Gefle,9400,0,11,Örgryte IS,9380,2,7,2005-09-18T17:00+0200,Allsvenskan,9402,Ailton Almeida,26,visiting,0,1,11,11,0,0
+596262,22,Gefle,9400,0,11,Örgryte IS,9380,2,7,2005-09-18T17:00+0200,Allsvenskan,9402,Boyd Mwila,58,visiting,0,2,11,11,0,0
+596263,22,Halmstad,9371,1,10,Elfsborg,9369,1,8,2005-09-19T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596263,22,Halmstad,9371,1,10,Elfsborg,9369,1,8,2005-09-19T19:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,52,home,1,0,11,11,0,0
+596263,22,Halmstad,9371,1,10,Elfsborg,9369,1,8,2005-09-19T19:00+0200,Allsvenskan,9402,Andreas Klarström,54,visiting,1,1,11,11,0,0
+596264,22,Hammarby,9372,0,5,GIF Sundsvall,9407,0,13,2005-09-19T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596265,22,Göteborg,9370,1,2,Djurgården,9368,3,1,2005-09-19T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596265,22,Göteborg,9370,1,2,Djurgården,9368,3,1,2005-09-19T19:00+0200,Allsvenskan,9402,Tobias Hysén,50,visiting,0,1,11,11,0,0
+596265,22,Göteborg,9370,1,2,Djurgården,9368,3,1,2005-09-19T19:00+0200,Allsvenskan,9402,Stefan Selakovic,71,home,1,1,11,11,0,0
+596265,22,Göteborg,9370,1,2,Djurgården,9368,3,1,2005-09-19T19:00+0200,Allsvenskan,9402,Siyabonga Nomvethe,81,visiting,1,2,10,11,0,0
+596265,22,Göteborg,9370,1,2,Djurgården,9368,3,1,2005-09-19T19:00+0200,Allsvenskan,9402,Tobias Hysén,90,visiting,1,3,10,11,0,0
+596266,22,Landskrona,9388,0,12,Häcken,19740,1,9,2005-09-19T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596266,22,Landskrona,9388,0,12,Häcken,19740,1,9,2005-09-19T19:00+0200,Allsvenskan,9402,Dioh Williams,75,visiting,0,1,11,11,0,0
+596267,22,Malmö FF,9375,2,3,Helsingborg,9373,0,4,2005-09-20T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596267,22,Malmö FF,9375,2,3,Helsingborg,9373,0,4,2005-09-20T19:00+0200,Allsvenskan,9402,Daniel Andersson,72,home,1,0,11,11,0,0
+596267,22,Malmö FF,9375,2,3,Helsingborg,9373,0,4,2005-09-20T19:00+0200,Allsvenskan,9402,Yksel Osmanovski,90,home,2,0,11,11,0,0
+596280,23,Häcken,19740,1,8,Djurgården,9368,0,1,2005-09-25T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596280,23,Häcken,19740,1,8,Djurgården,9368,0,1,2005-09-25T17:00+0200,Allsvenskan,9402,Dioh Williams,8,home,1,0,11,11,0,0
+596281,23,Gefle,9400,1,12,Kalmar FF,9374,2,5,2005-09-25T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596281,23,Gefle,9400,1,12,Kalmar FF,9374,2,5,2005-09-25T17:00+0200,Allsvenskan,9402,Fabio Augusto,29,visiting,0,1,11,11,0,0
+596281,23,Gefle,9400,1,12,Kalmar FF,9374,2,5,2005-09-25T17:00+0200,Allsvenskan,9402,Patrik Rosengren,48,visiting,0,2,11,11,0,0
+596281,23,Gefle,9400,1,12,Kalmar FF,9374,2,5,2005-09-25T17:00+0200,Allsvenskan,9402,Mathias Woxlin,75,home,1,2,11,11,0,0
+596282,23,Halmstad,9371,2,10,Helsingborg,9373,0,6,2005-09-25T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596282,23,Halmstad,9371,2,10,Helsingborg,9373,0,6,2005-09-25T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,32,home,1,0,11,11,0,0
+596282,23,Halmstad,9371,2,10,Helsingborg,9373,0,6,2005-09-25T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,66,home,2,0,11,11,0,0
+596283,23,Hammarby,9372,3,4,Assyriska FF,9395,0,14,2005-09-26T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596283,23,Hammarby,9372,3,4,Assyriska FF,9395,0,14,2005-09-26T19:00+0200,Allsvenskan,9402,Paulinho Guará,18,home,1,0,11,11,0,0
+596283,23,Hammarby,9372,3,4,Assyriska FF,9395,0,14,2005-09-26T19:00+0200,Allsvenskan,9402,Paulinho Guará,45,home,2,0,11,11,0,0
+596283,23,Hammarby,9372,3,4,Assyriska FF,9395,0,14,2005-09-26T19:00+0200,Allsvenskan,9402,David Johansson,63,home,3,0,11,11,0,0
+596285,23,Göteborg,9370,2,2,Malmö FF,9375,1,3,2005-09-26T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596285,23,Göteborg,9370,2,2,Malmö FF,9375,1,3,2005-09-26T19:00+0200,Allsvenskan,9402,Marcus Berg,50,home,1,0,11,11,0,0
+596285,23,Göteborg,9370,2,2,Malmö FF,9375,1,3,2005-09-26T19:00+0200,Allsvenskan,9402,Afonso Alves,61,visiting,1,1,11,11,0,0
+596285,23,Göteborg,9370,2,2,Malmö FF,9375,1,3,2005-09-26T19:00+0200,Allsvenskan,9402,Niclas Alexandersson,66,home,2,1,11,11,0,0
+596286,23,Landskrona,9388,1,11,Örgryte IS,9380,0,9,2005-09-26T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596286,23,Landskrona,9388,1,11,Örgryte IS,9380,0,9,2005-09-26T19:00+0200,Allsvenskan,9402,Jörgen Pettersson,81,home,1,0,11,11,0,0
+596284,23,Elfsborg,9369,2,7,GIF Sundsvall,9407,1,13,2005-09-27T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596284,23,Elfsborg,9369,2,7,GIF Sundsvall,9407,1,13,2005-09-27T19:00+0200,Allsvenskan,9402,Ali Gerba,19,visiting,0,1,11,11,0,0
+596284,23,Elfsborg,9369,2,7,GIF Sundsvall,9407,1,13,2005-09-27T19:00+0200,Allsvenskan,9402,Hasse Berggren,23,home,1,1,11,11,0,0
+596284,23,Elfsborg,9369,2,7,GIF Sundsvall,9407,1,13,2005-09-27T19:00+0200,Allsvenskan,9402,Daniel Alexandersson,31,home,2,1,11,11,0,0
+596287,24,Assyriska FF,9395,2,14,Göteborg,9370,3,2,2005-10-02T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596287,24,Assyriska FF,9395,2,14,Göteborg,9370,3,2,2005-10-02T15:00+0200,Allsvenskan,9402,Ivan Isakovic,31,home,1,0,11,11,0,0
+596287,24,Assyriska FF,9395,2,14,Göteborg,9370,3,2,2005-10-02T15:00+0200,Allsvenskan,9402,Stefan Batan,55,home,2,0,11,11,0,0
+596287,24,Assyriska FF,9395,2,14,Göteborg,9370,3,2,2005-10-02T15:00+0200,Allsvenskan,9402,Stefan Selakovic,59,visiting,2,1,11,11,0,0
+596287,24,Assyriska FF,9395,2,14,Göteborg,9370,3,2,2005-10-02T15:00+0200,Allsvenskan,9402,Magnus Johansson,77,visiting,2,2,11,11,0,0
+596287,24,Assyriska FF,9395,2,14,Göteborg,9370,3,2,2005-10-02T15:00+0200,Allsvenskan,9402,Stefan Selakovic,87,visiting,2,3,11,11,0,0
+596288,24,Kalmar FF,9374,3,4,Hammarby,9372,0,6,2005-10-02T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596288,24,Kalmar FF,9374,3,4,Hammarby,9372,0,6,2005-10-02T15:00+0200,Allsvenskan,9402,Mikael Blomberg,56,home,1,0,11,11,0,0
+596288,24,Kalmar FF,9374,3,4,Hammarby,9372,0,6,2005-10-02T15:00+0200,Allsvenskan,9402,Fabio Augusto,74,home,2,0,11,11,0,0
+596288,24,Kalmar FF,9374,3,4,Hammarby,9372,0,6,2005-10-02T15:00+0200,Allsvenskan,9402,Dedé Andersson,90,home,3,0,11,11,0,0
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,Hasse Berggren,33,visiting,0,1,11,11,0,0
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,Daniel Alexandersson,42,visiting,0,2,11,11,0,0
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,Ailton Almeida,43,home,1,2,11,11,0,0
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,Ailton Almeida,54,home,2,2,11,11,0,0
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,Ailton Almeida,56,home,3,2,11,11,0,0
+596289,24,Örgryte IS,9380,4,7,Elfsborg,9369,2,8,2005-10-02T15:00+0200,Allsvenskan,9402,Ailton Almeida,63,home,4,2,11,11,0,0
+596292,24,Helsingborg,9373,2,5,Gefle,9400,1,12,2005-10-02T17:30+0200,Allsvenskan,9402,,,,0,0,,,,
+596292,24,Helsingborg,9373,2,5,Gefle,9400,1,12,2005-10-02T17:30+0200,Allsvenskan,9402,Olivier Karekezi,13,home,1,0,11,11,0,0
+596292,24,Helsingborg,9373,2,5,Gefle,9400,1,12,2005-10-02T17:30+0200,Allsvenskan,9402,Andreas Dahl,40,home,2,0,11,11,0,0
+596292,24,Helsingborg,9373,2,5,Gefle,9400,1,12,2005-10-02T17:30+0200,Allsvenskan,9402,Magnus Wikström,43,visiting,2,1,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Mattias Jonson,9,home,1,0,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,30,visiting,1,1,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Tobias Hysén,31,home,2,1,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Abgar Barsom,35,home,3,1,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Fredrik Stenman,57,home,4,1,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Johan Arneng,73,home,5,1,11,11,0,0
+596290,24,Djurgården,9368,6,1,Halmstad,9371,1,10,2005-10-03T19:00+0200,Allsvenskan,9402,Mattias Jonson,78,home,6,1,11,11,0,0
+596291,24,GIF Sundsvall,9407,3,13,Häcken,19740,0,9,2005-10-03T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596291,24,GIF Sundsvall,9407,3,13,Häcken,19740,0,9,2005-10-03T19:00+0200,Allsvenskan,9402,Ali Gerba,54,home,1,0,11,11,0,0
+596291,24,GIF Sundsvall,9407,3,13,Häcken,19740,0,9,2005-10-03T19:00+0200,Allsvenskan,9402,Mikael Dahlberg,73,home,2,0,11,11,0,0
+596291,24,GIF Sundsvall,9407,3,13,Häcken,19740,0,9,2005-10-03T19:00+0200,Allsvenskan,9402,Mikael Lustig,80,home,3,0,11,11,0,0
+596293,24,Malmö FF,9375,5,3,Landskrona,9388,0,11,2005-10-03T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596293,24,Malmö FF,9375,5,3,Landskrona,9388,0,11,2005-10-03T19:00+0200,Allsvenskan,9402,Daniel Andersson,23,home,1,0,11,11,0,0
+596293,24,Malmö FF,9375,5,3,Landskrona,9388,0,11,2005-10-03T19:00+0200,Allsvenskan,9402,Jesper Bech,50,home,2,0,11,11,0,0
+596293,24,Malmö FF,9375,5,3,Landskrona,9388,0,11,2005-10-03T19:00+0200,Allsvenskan,9402,Daniel Sliper,80,home,3,0,11,11,0,0
+596293,24,Malmö FF,9375,5,3,Landskrona,9388,0,11,2005-10-03T19:00+0200,Allsvenskan,9402,Raoul Kouakou,84,home,4,0,11,11,0,0
+596293,24,Malmö FF,9375,5,3,Landskrona,9388,0,11,2005-10-03T19:00+0200,Allsvenskan,9402,Afonso Alves,90,home,5,0,11,11,0,0
+596294,25,Häcken,19740,1,9,Kalmar FF,9374,1,4,2005-10-16T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596294,25,Häcken,19740,1,9,Kalmar FF,9374,1,4,2005-10-16T17:00+0200,Allsvenskan,9402,Dedé Andersson,54,visiting,0,1,11,11,0,0
+596294,25,Häcken,19740,1,9,Kalmar FF,9374,1,4,2005-10-16T17:00+0200,Allsvenskan,9402,Stig Töfting,66,home,1,1,11,11,0,0
+596295,25,Gefle,9400,2,12,Malmö FF,9375,1,3,2005-10-16T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596295,25,Gefle,9400,2,12,Malmö FF,9375,1,3,2005-10-16T17:00+0200,Allsvenskan,9402,Marcus Pode,13,visiting,0,1,11,11,0,0
+596295,25,Gefle,9400,2,12,Malmö FF,9375,1,3,2005-10-16T17:00+0200,Allsvenskan,9402,Daniel Ytterbom,61,home,1,1,11,11,0,0
+596295,25,Gefle,9400,2,12,Malmö FF,9375,1,3,2005-10-16T17:00+0200,Allsvenskan,9402,Rene Muzola Makondele,65,home,2,1,11,11,0,0
+596296,25,Halmstad,9371,5,10,Assyriska FF,9395,0,14,2005-10-16T17:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596296,25,Halmstad,9371,5,10,Assyriska FF,9395,0,14,2005-10-16T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,31,home,1,0,11,11,0,0
+596296,25,Halmstad,9371,5,10,Assyriska FF,9395,0,14,2005-10-16T17:00+0200,Allsvenskan,9402,Andreas Johansson,33,home,2,0,11,11,0,0
+596296,25,Halmstad,9371,5,10,Assyriska FF,9395,0,14,2005-10-16T17:00+0200,Allsvenskan,9402,Björn Anklev,39,home,3,0,11,11,0,0
+596296,25,Halmstad,9371,5,10,Assyriska FF,9395,0,14,2005-10-16T17:00+0200,Allsvenskan,9402,Eduardo Delani,50,home,4,0,11,11,0,0
+596296,25,Halmstad,9371,5,10,Assyriska FF,9395,0,14,2005-10-16T17:00+0200,Allsvenskan,9402,Gunnar Heidar-Thorvaldsson,67,home,5,0,11,11,0,0
+596297,25,Landskrona,9388,1,11,GIF Sundsvall,9407,0,13,2005-10-17T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596297,25,Landskrona,9388,1,11,GIF Sundsvall,9407,0,13,2005-10-17T19:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,80,home,1,0,11,11,0,0
+596298,25,Hammarby,9372,3,5,Göteborg,9370,2,2,2005-10-17T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596298,25,Hammarby,9372,3,5,Göteborg,9370,2,2,2005-10-17T19:00+0200,Allsvenskan,9402,Max von Schlebrügge,23,home,1,0,11,11,0,0
+596298,25,Hammarby,9372,3,5,Göteborg,9370,2,2,2005-10-17T19:00+0200,Allsvenskan,9402,Niclas Alexandersson,41,visiting,1,1,11,11,0,0
+596298,25,Hammarby,9372,3,5,Göteborg,9370,2,2,2005-10-17T19:00+0200,Allsvenskan,9402,Niclas Alexandersson,76,visiting,1,2,11,11,0,0
+596298,25,Hammarby,9372,3,5,Göteborg,9370,2,2,2005-10-17T19:00+0200,Allsvenskan,9402,Jon Rytterbro,85,home,2,2,11,11,0,0
+596298,25,Hammarby,9372,3,5,Göteborg,9370,2,2,2005-10-17T19:00+0200,Allsvenskan,9402,Petter Furuseth Olsen,90,home,3,2,11,11,0,0
+596299,25,Elfsborg,9369,2,7,Helsingborg,9373,0,6,2005-10-17T19:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596299,25,Elfsborg,9369,2,7,Helsingborg,9373,0,6,2005-10-17T19:00+0200,Allsvenskan,9402,Joakim Sjöhage,10,home,1,0,11,11,0,0
+596299,25,Elfsborg,9369,2,7,Helsingborg,9373,0,6,2005-10-17T19:00+0200,Allsvenskan,9402,Joakim Sjöhage,32,home,2,0,11,11,0,0
+596301,26,Assyriska FF,9395,0,14,Gefle,9400,3,11,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596301,26,Assyriska FF,9395,0,14,Gefle,9400,3,11,2005-10-23T15:00+0200,Allsvenskan,9402,Mathias Woxlin,60,visiting,0,1,11,11,0,0
+596301,26,Assyriska FF,9395,0,14,Gefle,9400,3,11,2005-10-23T15:00+0200,Allsvenskan,9402,Daniel Bernhardsson,80,visiting,0,2,11,11,0,0
+596301,26,Assyriska FF,9395,0,14,Gefle,9400,3,11,2005-10-23T15:00+0200,Allsvenskan,9402,Daniel Bernhardsson,87,visiting,0,3,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Abgar Barsom,22,home,1,0,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Daniel Sjölund,27,home,2,0,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Fredrik Stenman,50,home,3,0,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Abgar Barsom,56,home,4,0,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Daniel Sjölund,64,home,5,0,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Samuel Holmén,75,visiting,5,1,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Pa Dembo Tourray,82,home,6,1,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Mattias Jonson,85,home,7,1,11,11,0,0
+596302,26,Djurgården,9368,8,1,Elfsborg,9369,1,7,2005-10-23T15:00+0200,Allsvenskan,9402,Patrick Amoah,89,home,8,1,11,11,0,0
+596303,26,GIF Sundsvall,9407,3,13,Örgryte IS,9380,2,9,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596303,26,GIF Sundsvall,9407,3,13,Örgryte IS,9380,2,9,2005-10-23T15:00+0200,Allsvenskan,9402,Mikael Dahlberg,16,home,1,0,11,11,0,0
+596303,26,GIF Sundsvall,9407,3,13,Örgryte IS,9380,2,9,2005-10-23T15:00+0200,Allsvenskan,9402,Mikael Lustig,30,home,2,0,11,11,0,0
+596303,26,GIF Sundsvall,9407,3,13,Örgryte IS,9380,2,9,2005-10-23T15:00+0200,Allsvenskan,9402,Tobias Eriksson,52,home,3,0,11,11,0,0
+596303,26,GIF Sundsvall,9407,3,13,Örgryte IS,9380,2,9,2005-10-23T15:00+0200,Allsvenskan,9402,Erik Johannesen,54,visiting,3,1,11,11,0,0
+596303,26,GIF Sundsvall,9407,3,13,Örgryte IS,9380,2,9,2005-10-23T15:00+0200,Allsvenskan,9402,Ailton Almeida,71,visiting,3,2,11,11,0,0
+596304,26,Helsingborg,9373,0,6,Häcken,19740,1,8,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596304,26,Helsingborg,9373,0,6,Häcken,19740,1,8,2005-10-23T15:00+0200,Allsvenskan,9402,Jesper Ljung,60,visiting,0,1,11,11,0,0
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,André Shei Lindbäck,16,visiting,0,1,11,11,0,0
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,Samuel Wowoah,22,home,1,1,11,11,0,0
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,Marcus Berg,39,home,2,1,11,11,0,0
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,Kevin Oneykachi Amuneke,60,visiting,2,2,11,11,0,0
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,Jonathan Berg,89,home,3,2,11,11,0,0
+596305,26,Göteborg,9370,4,2,Landskrona,9388,2,12,2005-10-23T15:00+0200,Allsvenskan,9402,Pontus Wernbloom,90,home,4,2,11,11,0,0
+596306,26,Kalmar FF,9374,2,3,Halmstad,9371,0,10,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596306,26,Kalmar FF,9374,2,3,Halmstad,9371,0,10,2005-10-23T15:00+0200,Allsvenskan,9402,Patrik Rosengren,7,home,1,0,11,11,0,0
+596306,26,Kalmar FF,9374,2,3,Halmstad,9371,0,10,2005-10-23T15:00+0200,Allsvenskan,9402,Anatoli Ponomarev,90,home,2,0,11,11,0,0
+596307,26,Malmö FF,9375,0,5,Hammarby,9372,1,4,2005-10-23T15:00+0200,Allsvenskan,9402,,,,0,0,,,,
+596307,26,Malmö FF,9375,0,5,Hammarby,9372,1,4,2005-10-23T15:00+0200,Allsvenskan,9402,Petter Furuseth Olsen,26,visiting,0,1,11,11,0,0
