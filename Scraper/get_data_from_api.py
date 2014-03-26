@@ -98,7 +98,7 @@ def writeListToFile(data, outputFile):
 
         # Write rows
         dict_writer.writerows(data)
-        print "Write to file"
+        print "Write to file: %s" % outputFile
 
     if os.path.isfile(outputFile):
         ask = raw_input("File %s already exist. Do you want to overwrite? [y/n]" % outputFile)
@@ -112,21 +112,23 @@ def writeListToFile(data, outputFile):
 # If folder is defined it writes a csv file for every season
 def getHistoricalPositions(leagueIds, folder):
     data = {}
+    # Iterate leagues
     for leagueId in leagueIds:
         data[leagueId] = []
         r = 1
+        # Get the standing of the next round, if no next round (= season has ended) getStandingInRound() returns False
         nextRound = getStandingInRound(leagueId, r)
         while nextRound:
-#            print "Get standing in round %s in league %s" % (r, leagueId)
             data[leagueId].append(nextRound)
             r = r + 1
             nextRound = getStandingInRound(leagueId, r)
 
+    # Iterate collected data and write to file
     if (folder):
         for leagueId in data.keys():
             fileName = "%s/%s.csv" % (folder, leagueId)
             writeListToFile(data[leagueId], fileName)
-    
+
     return data
 
 
@@ -137,7 +139,9 @@ def getHistoricalPositions(leagueIds, folder):
 # To get data from one or more specific leagues you need the league ids in a list
 # Eg. getDataFromLeague([57973]) returns a list of all the games in Allsvenskan 2013
 
+'''
 getHistoricalPositions([57973,51603,44165,38686,32911,27773], "../Our data/Historical standings")
+'''
 
 '''
 writeListToFile(
@@ -145,3 +149,10 @@ writeListToFile(
     "../Our data/matchdata - allsvenskan 2008-2013.csv"
 )
 '''
+
+
+# ==========================================
+#                  TO DO
+# ==========================================
+
+# - Check if data exist before scraper is initiated
