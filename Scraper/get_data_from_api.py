@@ -3,6 +3,8 @@
 
 import everysport
 import csv
+import os.path
+import sys
 
 # TODO: Store the API key in an environment variable
 APIKEY = "e293caf28745f51e6c38e2eb30cb489d" 
@@ -27,13 +29,19 @@ standings = {}
 def getStandingInRound(leagueId, r):
     print "Get standing for round %s in league %s" % (r, leagueId)
     standing = {}
+    standing['round'] = r
     pos = 1
-    for d in es.get_standings(leagueId, r=r)[0]['standings']:
-        teamId = d['team']['id']
-        standing[teamId] = pos
-        pos = pos + 1
-        # For more detailed data (eg. goals, wins, loss, ties) we could parse the stats dict in d
-    return standing
+    resp = es.get_standings(leagueId, r=r)
+    if len(resp) > 0:
+        for d in resp[0]['standings']:
+            teamId = d['team']['name'].encode("utf-8")
+            standing[teamId] = pos
+            pos = pos + 1
+            # For more detailed data (eg. goals, wins, loss, ties) we could parse the stats dict in d
+        return standing
+    else:
+        # Return false if there is no data for the given round
+        return False
 
 
 # Returns a dictionary with game data
@@ -57,8 +65,8 @@ def getDataFromGame(game):
 
     # Get position in league unless first round
     if row['omgang'] is not 1:
-        row['hl_pos'] = standings[roundId][row['hl_id']]
-        row['bl_pos'] = standings[roundId][row['bl_id']]
+        row['hl_pos'] = standings[roundId][row['hl_name']]
+        row['bl_pos'] = standings[roundId][row['bl_name']]
     else:
         row['hl_pos'] = 0
         row['bl_pos'] = 0
@@ -80,16 +88,46 @@ def getDataFromLeagues(leagueIds):
 
 # Takes a list of dictionaries
 def writeListToFile(data, outputFile):
-    cols = data[0].keys()
-    f = open(outputFile, 'wb')
-    dict_writer = csv.DictWriter(f, cols)
+    def writeToFile():
+        cols = data[0].keys()
+        f = open(outputFile, 'wb')
+        dict_writer = csv.DictWriter(f, cols)
 
-    # Write column names
-    dict_writer.writer.writerow(cols)
+        # Write column names
+        dict_writer.writer.writerow(cols)
 
-    # Write rows
-    dict_writer.writerows(data)
-    print "Write to file"
+        # Write rows
+        dict_writer.writerows(data)
+        print "Write to file"
+
+    if os.path.isfile(outputFile):
+        ask = raw_input("File %s already exist. Do you want to overwrite? [y/n]" % outputFile)
+        if ask == "y":
+            writeToFile()
+    else:
+        writeToFile()
+
+
+# Takes a list of leagues and returns the positions round by round for every team
+# If folder is defined it writes a csv file for every season
+def getHistoricalPositions(leagueIds, folder):
+    data = {}
+    for leagueId in leagueIds:
+        data[leagueId] = []
+        r = 1
+        nextRound = getStandingInRound(leagueId, r)
+        while nextRound:
+#            print "Get standing in round %s in league %s" % (r, leagueId)
+            data[leagueId].append(nextRound)
+            r = r + 1
+            nextRound = getStandingInRound(leagueId, r)
+
+    if (folder):
+        for leagueId in data.keys():
+            fileName = "%s/%s.csv" % (folder, leagueId)
+            writeListToFile(data[leagueId], fileName)
+    
+    return data
 
 
 # ==========================================
@@ -99,7 +137,11 @@ def writeListToFile(data, outputFile):
 # To get data from one or more specific leagues you need the league ids in a list
 # Eg. getDataFromLeague([57973]) returns a list of all the games in Allsvenskan 2013
 
+getHistoricalPositions([57973,51603,44165,38686,32911,27773], "../Our data/Historical standings")
+
+'''
 writeListToFile(
     getDataFromLeagues(leagues["Allsvenskan - herr 2008-2013"]), 
     "../Our data/matchdata - allsvenskan 2008-2013.csv"
 )
+'''
