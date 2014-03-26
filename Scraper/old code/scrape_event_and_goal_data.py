@@ -69,7 +69,8 @@ colsEvents = [
 
 # League id's
 leagues = {
-    "Allsvenskan - herr": [57973,51603,44165,38686,32911,27773,21511,10581,9402,8051,6469,5307,3863,2752,1719,44254,44255]
+#    "Allsvenskan - herr": [57973,51603,44165,38686,32911,27773,21511,10581,9402,8051,6469,5307,3863,2752,1719,44254,44255]
+    "Allsvenskan - herr 2008-2013": [57973,51603,44165,38686,32911,27773]
 }
 
 # Get existing leagues to check if data is already collected
