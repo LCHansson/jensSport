@@ -28,7 +28,10 @@
 require(dplyr)
 require(rjags)
 require(lubridate)
-reqior
+require(mcmcplots)
+require(coda)
+require(ggplot2)
+require(stringr)
 
 set.seed(12345)  # for reproducibility
 
@@ -211,8 +214,57 @@ team_skill <- exp(team_skill)
 colnames(team_skill) <- teams
 team_skill <- team_skill[, order(colMeans(team_skill), decreasing = T)]
 par(mar = c(2, 0.7, 0.7, 0.7), xaxs = "i")
+# Plot the rankings. The differences to top-notch leagues like la liga is
+# astonishing: no small group of teams clearly singles out from the rest.
+# This small difference in skill between teams probably puts an upper constraint
+# on the predictive strength of this current model.
 caterplot(team_skill, labels.loc = "above", val.lim = c(0.7, 3.8))
 
-
+# Jämför skill mellan två av de topprankade lagen
 plotPost(team_skill[, "Elfsborg"] - team_skill[, "Malmö FF"], compVal = 0,
 		 xlab = "← Elfsborg    vs     Malmö FF →")
+
+
+# Model assessment
+n <- nrow(ms3)
+m3_pred <- sapply(1:nrow(matchdata), function(i) {
+	home_team <- which(teams == matchdata$hl_namn[i])
+	away_team <- which(teams == matchdata$bl_namn[i])
+	season <- which(seasons == matchdata$sasong[i])
+	home_skill <- ms3[, col_name("skill", season, home_team)]
+	away_skill <- ms3[, col_name("skill", season, away_team)]
+	home_baseline <- ms3[, col_name("home_baseline", season)]
+	away_baseline <- ms3[, col_name("away_baseline", season)]
+	
+	home_goals <- rpois(n, exp(home_baseline + home_skill - away_skill))
+	away_goals <- rpois(n, exp(away_baseline + away_skill - home_skill))
+	home_goals_table <- table(home_goals)
+	away_goals_table <- table(away_goals)
+	match_results <- sign(home_goals - away_goals)
+	match_results_table <- table(match_results)
+	
+	mode_home_goal <- as.numeric(names(home_goals_table)[ which.max(home_goals_table)])
+	mode_away_goal <- as.numeric(names(away_goals_table)[ which.max(away_goals_table)])
+	match_result <-  as.numeric(names(match_results_table)[which.max(match_results_table)])
+	rand_i <- sample(seq_along(home_goals), 1)
+	
+	c(mode_home_goal = mode_home_goal, mode_away_goal = mode_away_goal, match_result = match_result,
+	  mean_home_goal = mean(home_goals), mean_away_goal = mean(away_goals),
+	  rand_home_goal = home_goals[rand_i], rand_away_goal = away_goals[rand_i],
+	  rand_match_result = match_results[rand_i])
+})
+m3_pred <- t(m3_pred)
+
+
+# How often does the model predict the right number of home goals?
+mean(matchdata$hl_slutmal == m3_pred[, "mode_home_goal"], na.rm = T)
+# The mean squared error of predicted number of home goals
+mean((matchdata$hl_slutmal - m3_pred[, "mean_home_goal"])^2, na.rm = T)
+
+# How often does the model predict the correct outcome (home win/draw/away win)?
+mean(matchdata$resultat == m3_pred[, "match_result"], na.rm = T)
+
+
+# Results:
+# Right number of home goals: ~32.6%
+# Correct outcome: ~51% of games (random would have been approx. 33%?)
