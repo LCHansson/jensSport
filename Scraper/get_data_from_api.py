@@ -86,9 +86,9 @@ def getDataFromLeagues(leagueIds):
             data.append(gameData)
     return data
 
-# Takes a list of dictionaries
-def writeListToFile(data, outputFile):
-    def writeToFile():
+# Takes a list of dictionaries and writes to a given csv file
+def writeListToCsv(data, outputFile):
+    def writeToCsv():
         cols = data[0].keys()
         f = open(outputFile, 'wb')
         dict_writer = csv.DictWriter(f, cols)
@@ -103,9 +103,9 @@ def writeListToFile(data, outputFile):
     if os.path.isfile(outputFile):
         ask = raw_input("File %s already exist. Do you want to overwrite? [y/n]" % outputFile)
         if ask == "y":
-            writeToFile()
+            writeToCsv()
     else:
-        writeToFile()
+        writeToCsv()
 
 
 # Takes a list of leagues and returns the positions round by round for every team
@@ -127,9 +127,69 @@ def getHistoricalPositions(leagueIds, folder):
     if (folder):
         for leagueId in data.keys():
             fileName = "%s/%s.csv" % (folder, leagueId)
-            writeListToFile(data[leagueId], fileName)
+            writeListToCsv(data[leagueId], fileName)
 
     return data
+
+
+def getDictFromCsv(fileName):
+    data = []
+    for row in csv.DictReader(open(fileName)):
+        data.append(row)
+    return data
+
+
+def getTeamForm(data):
+    pointsInRound = {}
+
+    def getForm(r, team, season):
+        form5 = 0
+        form10 = 0
+        _r = r - 1
+        while (_r > r - 10 and _r > 0):
+            points = pointsInRound[season][_r][team]
+            if r - _r <= 5:
+                form5 = form5 + points
+            form10 = form10 + points
+            _r = _r - 1
+
+        return {"form5": form5, "form10": form10}
+
+    for game in data:
+        hl = game['hl_namn']  # Home team
+        bl = game['bl_namn']  # Visiting team
+        r = int(float(game['omgang']))  # Round
+        season = game['sasong'][0:4]  # Season
+        if season not in pointsInRound:
+            pointsInRound[season] = {}
+        if r not in pointsInRound[season]:
+            pointsInRound[season][r] = {}
+        if game['hl_slutmal'] == game['bl_slutmal']:
+            pointsInRound[season][r][hl] = 1
+            pointsInRound[season][r][bl] = 1
+        elif game['hl_slutmal'] > game['bl_slutmal']:
+            pointsInRound[season][r][hl] = 2
+            pointsInRound[season][r][bl] = 0
+        else:
+            pointsInRound[season][r][hl] = 0
+            pointsInRound[season][r][bl] = 2
+
+    for i, game in enumerate(data):
+        r = int(float(game['omgang']))
+        season = game['sasong'][0:4]  # Season
+        hl_form = getForm(r, game['hl_namn'], season)
+        bl_form = getForm(r, game['bl_namn'], season)
+        data[i]['hl_form5'] = hl_form['form5']
+        data[i]['hl_form10'] = hl_form['form10']
+        data[i]['bl_form5'] = bl_form['form5']
+        data[i]['bl_form10'] = bl_form['form10']
+
+    return data
+
+
+
+
+
 
 
 # ==========================================
@@ -144,11 +204,19 @@ getHistoricalPositions([57973,51603,44165,38686,32911,27773], "../Our data/Histo
 '''
 
 '''
-writeListToFile(
+writeListToCsv(
     getDataFromLeagues(leagues["Allsvenskan - herr 2008-2013"]), 
     "../Our data/matchdata - allsvenskan 2008-2013.csv"
 )
 '''
+
+data = getDictFromCsv("../Our data/matchdata - allsvenskan 2008-2013.csv")
+dataWithForm = getTeamForm(data)
+
+writeListToCsv(
+    dataWithForm,
+    "../Our data/matchdata - allsvenskan 2008-2013 + form.csv"
+)
 
 
 # ==========================================
@@ -156,3 +224,5 @@ writeListToFile(
 # ==========================================
 
 # - Check if data exist before scraper is initiated
+# - Define leagues in a more accessible way for our own use
+# - Improve commenting on form function
