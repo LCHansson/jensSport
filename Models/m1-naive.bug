@@ -1,0 +1,53 @@
+## Model 1: Incredibly naïve basline model ----
+#' The first model is a simple model in which we simply feed the model with
+#' previous game results.
+#' 
+#' The outcome of the model is defined as the number of goals scored for the home and
+#' visiting teams, respectively.
+#' 
+#' The model starts by making the following assumptions about the priors:
+#' - The number of goals in a match for both teams is Poisson distributed.
+#' - The lambda parameter to the Poisson distribution is equal to the exponential
+#'   of some baseline plus some skill parameter of the scoring team, minus the skill
+#'   parameter of the defending team.
+#' - The baseline is the log average number of goals when both teams are equally good.
+#'   It is assumed to be normally distributed with an expected value of 0 and 
+#'   a standard deviation of 4. NOTE that since the lambda parameter measures things
+#'   on the log scale, this actually covers a goal range from 0 to 54.6 goals!
+#' - The skill parameter is normally distributed with an expected value of some mew
+#'   parameter and a standard deviation of some sigma parameter.
+#' - The mew parameter is assumed to be normally distributed among the teams with
+#'   an expected value of 0 and a standard deviation of 4. 
+#' - The sigma parameter is assumed to be uniformly distributed among the teams with
+#'   min=0 and max=3.
+#' 
+#' Due to the way JAGS is constructed, the sigma parameter has to be translated to a
+#' tau parameter in order to be usable in the model. tau is set to 1/(sigma^2).
+#' 
+#' These parameters and the assumptions underlying them are described in a slightly
+#' more thorough fashion at:
+#' http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-one/
+
+model {
+	for (i in 1:n_games) {
+		HomeGoals[i] ~ dpois(lambda_home[HomeTeam[i],AwayTeam[i]])
+		AwayGoals[i] ~ dpois(lambda_away[HomeTeam[i],AwayTeam[i]])
+	}
+	
+	for (home_i in 1:n_teams) {
+		for(away_i in 1:n_teams) {
+			lambda_home[home_i, away_i] <- exp(baseline + skill[home_i] - skill[away_i])
+			lambda_away[home_i, away_i] <- exp(baseline + skill[away_i] - skill[home_i])
+		}
+	}
+	
+	skill[1] <- 0
+	for (j in 2:n_teams) {
+		skill[j] ~ dnorm(group_skill, group_tau)
+	}
+	
+	group_skill ~ dnorm(0, 0.0625)
+	group_tau <- 1 / pow(group_sigma, 2)
+	group_sigma ~ dunif(0, 3)
+	baseline ~ dnorm(0, 0.0625)
+}

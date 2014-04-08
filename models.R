@@ -1,26 +1,51 @@
-## Modell efter Baio och Blangiardo, ch.2 (se 'Theory'-mappen)
-## samt Bååth (se: http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-one/)
+## PREDICTION OF FOOTBALL RESULTS IN SWEDISH LEAGUE 'ALLSVENSKAN'
+#' This is the main script for initializing and running basic predictive modelling
+#' of football results in Allsvenskan, based on a data set containing all games
+#' during the six seasons of 2008 to 2013.
+#' 
+#' The goal is to build a Bayesian model for predicting the number of goals made by
+#' the home and visiting teams in an arbitrary football game. This also implies
+#' determining the winner and loser of the game.
+#' 
+#' The script is structured in the following way:
+#' - Libraries and initialization
+#' - Data loading and basic munging
+#' - Convenience functions needed to plot and evaluate models
+#' - Models
+#' 	- Model 1. Incredibly naïve baseline model
+#' 	- Model 2. Consider home advantage
+#' 	- Model 3. Consider between-season differences
+#'
+#' 
+#' Copyleft by Love Hansson and Jens Finnäs, 2014.
+#' 
+#' Based on a model inspired by Baio och Blangiardo, ch.2 (cf. the 'Theory' folder)
+#' and Bååth (cf. http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-one/)
 
-# Libraries
+
+
+## Libraries and initialization ----
 require(dplyr)
 require(rjags)
 require(lubridate)
 
-# Data
+set.seed(12345)  # for reproducibility
+
+
+
+## Data ----
 matchdata <- tbl_df(read.csv("Our data//matchdata - allsvenskan 2008-2013.csv")) 
 matchdata <- matchdata %.%
 	mutate(
 		resultat = sign(hl_slutmal - bl_slutmal),
 		sasong = year(sasong)
 	)
-	
 
 # Initial values
 T = 16 # Antal lag i Allsvenskan (sedan säsongen 2008/2009 är det 16 lag i Allsvenskan per säsong)
 gps = 240 # Antal matcher per säsong = sum(1:15*2)
 teams <- levels(matchdata$hl_namn)
 seasons = unique(matchdata$sasong)
-
 
 # A list for JAGS with the data from matchdata where the strings are coded as
 # integers
@@ -35,12 +60,6 @@ data_list <- list(
 	n_seasons = length(seasons)
 )
 
-# Convenience function to generate the type of column names Jags outputs.
-col_name <- function(name, ...) {
-	paste0(name, "[", paste(..., sep = ","), "]")
-}
-
-
 # Explore the data
 par(mfcol = c(2, 1), mar = rep(2.2, 4))
 hist(c(data_list$AwayGoals, data_list$HomeGoals), xlim = c(-0.5, 8), breaks = -1:9 + 0.5, main = "Distribution of the number of goals\nscored by a team in a match.")
@@ -49,44 +68,15 @@ hist(rpois(9999, mean_goals), xlim = c(-0.5, 8), breaks = -1:9 + 0.5, main = "Ra
 
 
 
+## Functions ----
 
-# Model
-m1_txt <-
-	"model {
-		for(i in 1:n_games) {
-			HomeGoals[i] ~ dpois(lambda_home[HomeTeam[i],AwayTeam[i]])
-			AwayGoals[i] ~ dpois(lambda_away[HomeTeam[i],AwayTeam[i]])
-		}
-		
-		for(home_i in 1:n_teams) {
-			for(away_i in 1:n_teams) {
-				lambda_home[home_i, away_i] <- exp(baseline + skill[home_i] - skill[away_i])
-				lambda_away[home_i, away_i] <- exp(baseline + skill[away_i] - skill[home_i])
-			}
-		}
-		
-		skill[1] <- 0
-		for(j in 2:n_teams) {
-			skill[j] ~ dnorm(group_skill, group_tau)
-		}  
-		
-		group_skill ~ dnorm(0, 0.0625)
-		group_tau <- 1 / pow(group_sigma, 2)
-		group_sigma ~ dunif(0, 3)
-		baseline ~ dnorm(0, 0.0625)
-	}"
+# PlotPost by John Kruschke
+source("ProgramsDoingBayesianDataAnalysis/plotPost.R")
 
-# Compiling model 1
-m1 <- jags.model(textConnection(m1_txt), data = data_list, n.chains = 3,
-				 n.adapt = 5000)
-# Burning some samples on the altar of the MCMC god
-update(m1, 5000)
-# Generating MCMC samples
-s1 <- coda.samples(m1, variable.names = c("baseline", "skill", "group_skill",
-										  "group_sigma"), n.iter = 10000, thin = 2)
-# Merging the three MCMC chains into one matrix
-ms1 <- as.matrix(s1)
-
+# Convenience function to generate the type of column names Jags outputs.
+col_name <- function(name, ...) {
+	paste0(name, "[", paste(..., sep = ","), "]")
+}
 
 # Plots histograms over home_goals, away_goals, the difference in goals
 # and a barplot over match results.
@@ -100,7 +90,6 @@ plot_goals <- function(home_goals, away_goals) {
 	hist(goal_diff, xlim = c(-6, 6), breaks = (-100:100) - 0.5)
 	barplot(table(match_result)/n_matches, ylim = c(0, 1))
 }
-
 
 plot_pred_comp1 <- function(home_team, away_team, ms) {
 	# Simulates and plots game goals scores using the MCMC samples from the m1
@@ -118,5 +107,74 @@ plot_pred_comp1 <- function(home_team, away_team, ms) {
 	plot_goals(home_goals, away_goals)
 }
 
+
+## MODEL EVALUATION ----
+
+# Compiling model 1
+m1 <- jags.model("Models/m1-naive.bug", data = data_list, n.chains = 3,
+				 n.adapt = 5000)
+# Burning some samples on the altar of the MCMC god
+update(m1, 5000)
+# Generating MCMC samples
+s1 <- coda.samples(m1, variable.names = c("baseline", "skill", "group_skill",
+										  "group_sigma"), n.iter = 10000, thin = 2)
+# Merging the three MCMC chains into one matrix
+ms1 <- as.matrix(s1)
+
+
+# Simulate 15000 matches with AIK as home team and Göteborg as away team
 plot_pred_comp1("AIK", "IFK Göteborg", ms1)
+# Simulate 15000 matches with Göteborg as home team and AIK as away team.
+# Note that in the naïve model, predicted results are exactly the inverse
+# for this simulation whereas the real results differ markedly.
 plot_pred_comp1("IFK Göteborg", "AIK", ms1)
+
+
+
+## Model 2: Consider home team advantage ----
+
+# Compile and run the model
+m2 <- jags.model("Models/m2-home_adv.bug", data = data_list, n.chains = 3,
+				 n.adapt = 5000)
+update(m2, 5000)
+s2 <- coda.samples(m2, variable.names = c(
+	"home_baseline", "away_baseline",
+	"skill", "group_sigma", "group_skill"),
+	n.iter = 10000, thin = 2)
+ms2 <- as.matrix(s2)
+
+# Plot home and away baseline to illustrate home advantage
+plot(s2[, "home_baseline"])
+plot(s2[, "away_baseline"])
+plotPost(exp(ms2[, "home_baseline"]) - exp(ms2[, "away_baseline"]), compVal = 0,
+		 xlab = "Home advantage in number of goals")
+
+
+# Compare the DIC of the baseline model (m1) with the home/away model (m2)
+dic_m1 <- dic.samples(m1, 10000, "pD")
+dic_m2 <- dic.samples(m2, 10000, "pD")
+diffdic(dic_m1, dic_m2)
+
+# Plot function for the second model
+plot_pred_comp2 <- function(home_team, away_team, ms) {
+	par(mfrow = c(2, 4))
+	home_baseline <- ms[, "home_baseline"]
+	away_baseline <- ms[, "away_baseline"]
+	home_skill <- ms[, col_name("skill", which(teams == home_team))]
+	away_skill <- ms[, col_name("skill", which(teams == away_team))]
+	home_goals <- rpois(nrow(ms), exp(home_baseline + home_skill - away_skill))
+	away_goals <- rpois(nrow(ms), exp(away_baseline + away_skill - home_skill))
+	plot_goals(home_goals, away_goals)
+	home_goals <- matchdata$hl_slutmal[matchdata$hl_namn == home_team & matchdata$bl_namn == away_team]
+	away_goals <- matchdata$bl_slutmal[matchdata$hl_namn == home_team & matchdata$bl_namn == away_team]
+	plot_goals(home_goals, away_goals)
+}
+
+# Compare home/away matches for AIK and Göteborg
+# (note the significant difference from plots from the first model)
+plot_pred_comp2("AIK", "IFK Göteborg", ms2)
+plot_pred_comp2("IFK Göteborg", "AIK", ms2)
+
+
+
+
