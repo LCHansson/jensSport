@@ -28,6 +28,7 @@
 require(dplyr)
 require(rjags)
 require(lubridate)
+reqior
 
 set.seed(12345)  # for reproducibility
 
@@ -54,7 +55,7 @@ data_list <- list(
 	AwayGoals = matchdata$bl_slutmal,
 	HomeTeam = as.integer(matchdata$hl_namn),
 	AwayTeam = as.integer(matchdata$bl_namn),
-	Season = matchdata$sasong,
+	Season = as.factor(matchdata$sasong),
 	n_teams = length(teams),
 	n_games = nrow(matchdata),
 	n_seasons = length(seasons)
@@ -91,6 +92,7 @@ plot_goals <- function(home_goals, away_goals) {
 	barplot(table(match_result)/n_matches, ylim = c(0, 1))
 }
 
+# Plot function for the first model
 plot_pred_comp1 <- function(home_team, away_team, ms) {
 	# Simulates and plots game goals scores using the MCMC samples from the m1
 	# model.
@@ -107,6 +109,20 @@ plot_pred_comp1 <- function(home_team, away_team, ms) {
 	plot_goals(home_goals, away_goals)
 }
 
+# Plot function for the second model
+plot_pred_comp2 <- function(home_team, away_team, ms) {
+	par(mfrow = c(2, 4))
+	home_baseline <- ms[, "home_baseline"]
+	away_baseline <- ms[, "away_baseline"]
+	home_skill <- ms[, col_name("skill", which(teams == home_team))]
+	away_skill <- ms[, col_name("skill", which(teams == away_team))]
+	home_goals <- rpois(nrow(ms), exp(home_baseline + home_skill - away_skill))
+	away_goals <- rpois(nrow(ms), exp(away_baseline + away_skill - home_skill))
+	plot_goals(home_goals, away_goals)
+	home_goals <- matchdata$hl_slutmal[matchdata$hl_namn == home_team & matchdata$bl_namn == away_team]
+	away_goals <- matchdata$bl_slutmal[matchdata$hl_namn == home_team & matchdata$bl_namn == away_team]
+	plot_goals(home_goals, away_goals)
+}
 
 ## MODEL EVALUATION ----
 
@@ -155,21 +171,6 @@ dic_m1 <- dic.samples(m1, 10000, "pD")
 dic_m2 <- dic.samples(m2, 10000, "pD")
 diffdic(dic_m1, dic_m2)
 
-# Plot function for the second model
-plot_pred_comp2 <- function(home_team, away_team, ms) {
-	par(mfrow = c(2, 4))
-	home_baseline <- ms[, "home_baseline"]
-	away_baseline <- ms[, "away_baseline"]
-	home_skill <- ms[, col_name("skill", which(teams == home_team))]
-	away_skill <- ms[, col_name("skill", which(teams == away_team))]
-	home_goals <- rpois(nrow(ms), exp(home_baseline + home_skill - away_skill))
-	away_goals <- rpois(nrow(ms), exp(away_baseline + away_skill - home_skill))
-	plot_goals(home_goals, away_goals)
-	home_goals <- matchdata$hl_slutmal[matchdata$hl_namn == home_team & matchdata$bl_namn == away_team]
-	away_goals <- matchdata$bl_slutmal[matchdata$hl_namn == home_team & matchdata$bl_namn == away_team]
-	plot_goals(home_goals, away_goals)
-}
-
 # Compare home/away matches for AIK and Göteborg
 # (note the significant difference from plots from the first model)
 plot_pred_comp2("AIK", "IFK Göteborg", ms2)
@@ -177,4 +178,41 @@ plot_pred_comp2("IFK Göteborg", "AIK", ms2)
 
 
 
+## Model 3: Consider inter-seasonal skill differences ----
+# Not all 23 teams are in Allsvenskan at once (d'oh!).
+# The following plot illustrates which teams were in the league nay given season
+qplot(sasong, hl_namn, data = matchdata, ylab = "Team", xlab = "Particicipation by Season")
 
+# Compile and run the model (we need to increase the amount of samples and the amount of
+# thinning to handle increased autocorrelation)
+m3 <- jags.model("Models/m3-seasonal_diff.bug", data = data_list, n.chains = 3,
+				 n.adapt = 10000)
+update(m3, 10000)
+s3 <- coda.samples(m3, variable.names = c(
+	"home_baseline", "away_baseline",
+	"skill", "season_sigma", "group_sigma", "group_skill"),
+	n.iter = 40000,
+	thin = 8)
+ms3 <- as.matrix(s3)
+
+# Look into the newly introduced season_sigma parameter
+plot(s3[, "season_sigma"])
+
+# Examine whether Model 3 predicts better than Model 2
+dic_m3 <- dic.samples(m3, 40000, "pD")
+diffdic(dic_m2, dic_m3)
+
+
+## Ranking teams and making predictions ----
+# The ranking of the teams for the 2012/13 season.
+team_skill <- ms3[, str_detect(string = colnames(ms3), "skill\\[5,")]
+team_skill <- (team_skill - rowMeans(team_skill)) + ms3[, "home_baseline[5]"]
+team_skill <- exp(team_skill)
+colnames(team_skill) <- teams
+team_skill <- team_skill[, order(colMeans(team_skill), decreasing = T)]
+par(mar = c(2, 0.7, 0.7, 0.7), xaxs = "i")
+caterplot(team_skill, labels.loc = "above", val.lim = c(0.7, 3.8))
+
+
+plotPost(team_skill[, "Elfsborg"] - team_skill[, "Malmö FF"], compVal = 0,
+		 xlab = "← Elfsborg    vs     Malmö FF →")
