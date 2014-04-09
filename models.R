@@ -38,7 +38,7 @@ set.seed(12345)  # for reproducibility
 
 
 ## Data ----
-matchdata <- tbl_df(read.csv("Our data//matchdata - allsvenskan 2008-2013.csv", fileEncoding = "UTF-8")) 
+matchdata <- tbl_df(read.csv("Our data//matchdata - allsvenskan 2008-2013 + form.csv", fileEncoding = "UTF-8")) 
 matchdata <- matchdata %.%
 	mutate(
 		resultat = sign(hl_slutmal - bl_slutmal),
@@ -58,6 +58,8 @@ data_list <- list(
 	AwayGoals = matchdata$bl_slutmal,
 	HomeTeam = as.integer(matchdata$hl_namn),
 	AwayTeam = as.integer(matchdata$bl_namn),
+	HomeForm5 = matchdata$hl_form5,
+	AwayForm5 = matchdata$bl_form5,
 	Season = as.factor(matchdata$sasong),
 	n_teams = length(teams),
 	n_games = nrow(matchdata),
@@ -296,3 +298,17 @@ for (i in 1:m) {
 	result <- result + sign(home_goals[i]-away_goals[i])
 }
 cat("Sum of Result:", result, "\n")
+
+
+## Model 4: Consider team form ----
+# Compile and run the model (we need to increase the amount of samples and the amount of
+# thinning to handle increased autocorrelation)
+m4 <- jags.model("Models/m4-team_form.bug", data = data_list, n.chains = 3,
+				 n.adapt = 10000)
+update(m3, 10000)
+s3 <- coda.samples(m3, variable.names = c(
+	"home_baseline", "away_baseline",
+	"skill", "season_sigma", "group_sigma", "group_skill"),
+	n.iter = 40000,
+	thin = 8)
+ms3 <- as.matrix(s3)
