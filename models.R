@@ -38,7 +38,7 @@ set.seed(12345)  # for reproducibility
 
 
 ## Data ----
-matchdata <- tbl_df(read.csv("Our data//matchdata - allsvenskan 2008-2013.csv")) 
+matchdata <- tbl_df(read.csv("Our data//matchdata - allsvenskan 2008-2013.csv", fileEncoding = "UTF-8")) 
 matchdata <- matchdata %.%
 	mutate(
 		resultat = sign(hl_slutmal - bl_slutmal),
@@ -129,6 +129,8 @@ plot_pred_comp2 <- function(home_team, away_team, ms) {
 
 ## MODEL EVALUATION ----
 
+## Model 1: Incredibly naïve model ----
+
 # Compiling model 1
 m1 <- jags.model("Models/m1-naive.bug", data = data_list, n.chains = 3,
 				 n.adapt = 5000)
@@ -214,6 +216,7 @@ team_skill <- exp(team_skill)
 colnames(team_skill) <- teams
 team_skill <- team_skill[, order(colMeans(team_skill), decreasing = T)]
 par(mar = c(2, 0.7, 0.7, 0.7), xaxs = "i")
+
 # Plot the rankings. The differences to top-notch leagues like la liga is
 # astonishing: no small group of teams clearly singles out from the rest.
 # This small difference in skill between teams probably puts an upper constraint
@@ -221,8 +224,8 @@ par(mar = c(2, 0.7, 0.7, 0.7), xaxs = "i")
 caterplot(team_skill, labels.loc = "above", val.lim = c(0.7, 3.8))
 
 # Jämför skill mellan två av de topprankade lagen
-plotPost(team_skill[, "Elfsborg"] - team_skill[, "Malmö FF"], compVal = 0,
-		 xlab = "← Elfsborg    vs     Malmö FF →")
+plotPost(team_skill[, "Gais"] - team_skill[, "Helsingborg"], compVal = 0,
+		 xlab = "← Gais    vs     Helsingborg →")
 
 
 # Model assessment
@@ -264,7 +267,32 @@ mean((matchdata$hl_slutmal - m3_pred[, "mean_home_goal"])^2, na.rm = T)
 # How often does the model predict the correct outcome (home win/draw/away win)?
 mean(matchdata$resultat == m3_pred[, "match_result"], na.rm = T)
 
-
 # Results:
 # Right number of home goals: ~32.6%
 # Correct outcome: ~51% of games (random would have been approx. 33%?)
+
+
+# Simulate n games between AIK (home) and Gais (away) in the season of 2013
+n <- nrow(ms3)
+home_team <- which(teams == "Gais")
+away_team <- which(teams == "AIK")
+season <- which(seasons == "2013")
+home_skill <- ms3[, col_name("skill", season, home_team)]
+away_skill <- ms3[, col_name("skill", season, away_team)]
+home_baseline <- ms3[, col_name("home_baseline", season)]
+away_baseline <- ms3[, col_name("away_baseline", season)]
+home_goals <- rpois(n, exp(home_baseline + home_skill - away_skill))
+away_goals <- rpois(n, exp(away_baseline + away_skill - home_skill))
+
+# Plot the results
+par(mfrow = c(2, 2), mar = rep(2.2, 4))
+plot_goals(home_goals, away_goals)
+
+# Look at the results of the m first matches
+m <- 100; result <- 0
+for (i in 1:m) {
+	cat("Game:\t\tHome:\t\tAway:\t\tResult:\n")
+	cat("\t", i, "\t\t\t", home_goals[i], "\t\t\t\t", away_goals[i], "\t\t\t\t", sign(home_goals[i]-away_goals[i]), "\n")
+	result <- result + sign(home_goals[i]-away_goals[i])
+}
+cat("Sum of Result:", result, "\n")
