@@ -35,8 +35,8 @@
 
 model {
 	for(i in 1:n_games) {
-		HomeGoals[i] ~ dpois(lambda_home[Season[i], HomeTeam[i],AwayTeam[i]])
-		AwayGoals[i] ~ dpois(lambda_away[Season[i], HomeTeam[i],AwayTeam[i]])
+		HomeGoals[i] ~ dpois(lambda_home[Season[i], HomeTeam[i], AwayTeam[i]])
+		AwayGoals[i] ~ dpois(lambda_away[Season[i], HomeTeam[i], AwayTeam[i]])
 	}
 	
 	for(season_i in 1:n_seasons) {
