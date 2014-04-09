@@ -9,8 +9,9 @@
 #' - The number of goals in a match for both teams is Poisson distributed.
 #' - The lambda parameter to the Poisson distribution is equal to the exponential
 #'   of some baseline plus some skill parameter of the scoring team, minus the skill
-#'   parameter of the defending team.
-#' - The baseline measures the same thing as in model 1; however, it is divided into a
+#'   parameter of the defending team, plus the form parameter of the scoring team, minus
+#'   the form parameter of the defending team.
+#' - The baseline measures the same thing as in Model 1; however, it is divided into a
 #'   home baseline and an away baseline to account for home team advantage.
 #'   Both baselines are assumed to be normally distributed with an expected value of 0 and 
 #'   a standard deviation of 4. NOTE that since the lambda parameter measures things
@@ -33,27 +34,31 @@
 #' http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-two/
 
 model {
-	for(i in 1:n_games) {
+	for (i in 1:n_games) {
 		HomeGoals[i] ~ dpois(lambda_home[Season[i], HomeTeam[i], AwayTeam[i], HomeForm5[i], AwayForm5[i]])
 		AwayGoals[i] ~ dpois(lambda_away[Season[i], HomeTeam[i], AwayTeam[i], HomeForm5[i], AwayForm5[i]])
 	}
 	
-	for(season_i in 1:n_seasons) {
-		for(home_i in 1:n_teams) {
-			for(away_i in 1:n_teams) {
-				lambda_home[season_i, home_i, away_i, homeform5_i, awayform5_i] <- exp( home_baseline[season_i] + skill[season_i, home_i] - skill[season_i, away_i] + homeform[homeform5_i] - awayform[awayform5_i])
-				lambda_away[season_i, home_i, away_i, homeform5_i, awayform5_i] <- exp( away_baseline[season_i] + skill[season_i, away_i] - skill[season_i, home_i] + awayform[awayform5_i] - homeform[homeform5_i])
+	for (season_i in 1:n_seasons) {
+		for (home_i in 1:n_teams) {
+			for (away_i in 1:n_teams) {
+				lambda_home[season_i, home_i, away_i, homeform_i, awayform_i] <- exp(
+					home_baseline[season_i] + skill[season_i, home_i] - skill[season_i, away_i] + homeform[season_i, homeform_i, awayform_i] - awayform[season_i, awayform_i, homeform_i]
+				)
+				lambda_away[season_i, home_i, away_i, homeform_i, awayform_i] <- exp(
+					away_baseline[season_i] + skill[season_i, away_i] - skill[season_i, home_i] + awayform[season_i, awayform_i, homeform_i] - homeform[season_i, homeform_i, awayform_i]
+				)
 			}
 		}
 	}
 	
-	
-	homeform[1] ~ dnorm(0, 0.0625)
-	awayform[1] ~ dnorm(0, 0.0625)
-	
-	for(i in 2:n_games) {
-		homeform[i] ~ dnorm(0, 1/0.0625)
-		awayform[i] ~ dnorm(0, 1/0.0625)
+	for(season in 1:n_seasons) {
+		for (home in 1:n_teams) {
+			for (away in 1:n_teams) {
+				homeform[season, home, away] ~ dnorm(0, 0.0625)
+				awayform[season, away, home] ~ dnorm(0, 0.0625)
+			}
+		}
 	}
 	
 	skill[1, 1] <- 0 
