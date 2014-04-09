@@ -1,0 +1,852 @@
+gameId,round,homeTeam,homeTeamId,homeTeamScore,homePos,visitingTeam,visitingTeamId,visitingTeamScore,visitingPos,date,league,leagueId,player,minute,team,homeGoals,visitingGoals,homePlayers,visitingPlayers,homeWarnings,visitingWarnings
+1588740,1,Halmstad,9371,0,10,Kalmar FF,9374,0,11,2011-04-02T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588741,1,Norrköping,9376,2,2,Gais,9382,0,16,2011-04-03T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588741,1,Norrköping,9376,2,2,Gais,9382,0,16,2011-04-03T14:00+0200,Allsvenskan,44165,Imad Khalili,60,home,1,0,11,11,0,0
+1588741,1,Norrköping,9376,2,2,Gais,9382,0,16,2011-04-03T14:00+0200,Allsvenskan,44165,Sphetim Hasani,67,home,2,0,11,11,0,0
+1588742,1,Syrianska,23026,1,7,Gefle,9400,1,6,2011-04-03T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588742,1,Syrianska,23026,1,7,Gefle,9400,1,6,2011-04-03T16:30+0200,Allsvenskan,44165,Peter Ijeh,4,home,1,0,11,11,0,0
+1588742,1,Syrianska,23026,1,7,Gefle,9400,1,6,2011-04-03T16:30+0200,Allsvenskan,44165,Jakob Orlov,58,visiting,1,1,11,11,0,0
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,Wilton Figueiredo,8,visiting,0,1,11,11,0,0
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,Daniel Larsson,24,visiting,0,2,11,11,0,0
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,Magnus Andersson,29,home,1,2,11,11,0,0
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,Daniel Larsson,52,visiting,1,3,11,11,0,0
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,Agon Mehmeti,56,visiting,1,4,11,11,0,0
+1588743,1,Trelleborgs FF,9377,2,15,Malmö FF,9375,4,1,2011-04-03T16:30+0200,Allsvenskan,44165,Kristian Haynes,63,home,2,4,11,11,0,0
+1588744,1,Mjällby,9389,0,14,Helsingborg,9373,1,4,2011-04-03T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588744,1,Mjällby,9389,0,14,Helsingborg,9373,1,4,2011-04-03T16:30+0200,Allsvenskan,44165,Erik Sundin,41,visiting,0,1,11,11,0,0
+1588745,1,Göteborg,9370,0,13,Örebro,9379,1,5,2011-04-04T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588745,1,Göteborg,9370,0,13,Örebro,9379,1,5,2011-04-04T19:00+0200,Allsvenskan,44165,Andreas Haddad,75,visiting,0,1,10,11,1,0
+1588746,1,Elfsborg,9369,2,3,Häcken,19740,1,12,2011-04-04T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588746,1,Elfsborg,9369,2,3,Häcken,19740,1,12,2011-04-04T19:00+0200,Allsvenskan,44165,Rene Makondele,3,visiting,0,1,11,11,0,0
+1588746,1,Elfsborg,9369,2,3,Häcken,19740,1,12,2011-04-04T19:00+0200,Allsvenskan,44165,Johan Larsson,23,home,1,1,11,11,0,0
+1588746,1,Elfsborg,9369,2,3,Häcken,19740,1,12,2011-04-04T19:00+0200,Allsvenskan,44165,Lasse Nilsson,93,home,2,1,11,11,1,1
+1588747,1,Djurgården,9368,0,9,AIK,9367,0,8,2011-04-04T20:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588748,2,Örebro,9379,1,3,Syrianska,23026,0,12,2011-04-08T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588748,2,Örebro,9379,1,3,Syrianska,23026,0,12,2011-04-08T19:00+0200,Allsvenskan,44165,Alejandro Bedoya,62,home,1,0,11,11,0,0
+1588749,2,Gefle,9400,2,5,Norrköping,9376,0,10,2011-04-09T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588749,2,Gefle,9400,2,5,Norrköping,9376,0,10,2011-04-09T14:00+0200,Allsvenskan,44165,Daniel Theorin,11,home,1,0,11,11,0,0
+1588749,2,Gefle,9400,2,5,Norrköping,9376,0,10,2011-04-09T14:00+0200,Allsvenskan,44165,Hans Berggren,88,home,2,0,11,11,0,0
+1588750,2,Gais,9382,4,7,Trelleborgs FF,9377,0,16,2011-04-09T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588750,2,Gais,9382,4,7,Trelleborgs FF,9377,0,16,2011-04-09T16:00+0200,Allsvenskan,44165,Alvaro Santos,15,home,1,0,11,11,0,0
+1588750,2,Gais,9382,4,7,Trelleborgs FF,9377,0,16,2011-04-09T16:00+0200,Allsvenskan,44165,Alvaro Santos,29,home,2,0,11,11,0,0
+1588750,2,Gais,9382,4,7,Trelleborgs FF,9377,0,16,2011-04-09T16:00+0200,Allsvenskan,44165,Mervan Celik,59,home,3,0,11,11,0,0
+1588750,2,Gais,9382,4,7,Trelleborgs FF,9377,0,16,2011-04-09T16:00+0200,Allsvenskan,44165,Wanderson do Carmo,90,home,4,0,11,11,0,0
+1588751,2,AIK,9367,3,4,Mjällby,9389,0,15,2011-04-10T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588751,2,AIK,9367,3,4,Mjällby,9389,0,15,2011-04-10T14:00+0200,Allsvenskan,44165,Viktor Lundberg,40,home,1,0,11,11,0,0
+1588751,2,AIK,9367,3,4,Mjällby,9389,0,15,2011-04-10T14:00+0200,Allsvenskan,44165,Teteh Bangura,41,home,2,0,11,11,0,0
+1588751,2,AIK,9367,3,4,Mjällby,9389,0,15,2011-04-10T14:00+0200,Allsvenskan,44165,Teteh Bangura,62,home,3,0,11,11,0,0
+1588752,2,Häcken,19740,3,8,Göteborg,9370,1,14,2011-04-10T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588752,2,Häcken,19740,3,8,Göteborg,9370,1,14,2011-04-10T16:30+0200,Allsvenskan,44165,Tobias Hysén,31,visiting,0,1,11,11,0,0
+1588752,2,Häcken,19740,3,8,Göteborg,9370,1,14,2011-04-10T16:30+0200,Allsvenskan,44165,Jonas Bjurström,48,home,1,1,11,11,0,0
+1588752,2,Häcken,19740,3,8,Göteborg,9370,1,14,2011-04-10T16:30+0200,Allsvenskan,44165,Rene Makondele,55,home,2,1,11,11,0,0
+1588752,2,Häcken,19740,3,8,Göteborg,9370,1,14,2011-04-10T16:30+0200,Allsvenskan,44165,Mathias Ranégie,64,home,3,1,11,11,0,0
+1588753,2,Helsingborg,9373,1,2,Elfsborg,9369,0,9,2011-04-10T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588753,2,Helsingborg,9373,1,2,Elfsborg,9369,0,9,2011-04-10T16:30+0200,Allsvenskan,44165,Självmål,64,home,1,0,11,11,0,0
+1588754,2,Kalmar FF,9374,3,6,Djurgården,9368,2,11,2011-04-11T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588754,2,Kalmar FF,9374,3,6,Djurgården,9368,2,11,2011-04-11T19:00+0200,Allsvenskan,44165,Joona Toivio,22,visiting,0,1,11,11,0,0
+1588754,2,Kalmar FF,9374,3,6,Djurgården,9368,2,11,2011-04-11T19:00+0200,Allsvenskan,44165,Kristoffer Fagercrantz,29,home,1,1,11,11,0,0
+1588754,2,Kalmar FF,9374,3,6,Djurgården,9368,2,11,2011-04-11T19:00+0200,Allsvenskan,44165,Daniel Sobralense,59,home,2,1,11,11,0,0
+1588754,2,Kalmar FF,9374,3,6,Djurgården,9368,2,11,2011-04-11T19:00+0200,Allsvenskan,44165,Ricardo Santos,84,home,3,1,11,11,0,0
+1588754,2,Kalmar FF,9374,3,6,Djurgården,9368,2,11,2011-04-11T19:00+0200,Allsvenskan,44165,Carl Björk,88,visiting,3,2,11,11,0,0
+1588755,2,Malmö FF,9375,3,1,Halmstad,9371,1,13,2011-04-11T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588755,2,Malmö FF,9375,3,1,Halmstad,9371,1,13,2011-04-11T19:00+0200,Allsvenskan,44165,Jonas Gudni Saevarsson,45,visiting,0,1,11,11,0,0
+1588755,2,Malmö FF,9375,3,1,Halmstad,9371,1,13,2011-04-11T19:00+0200,Allsvenskan,44165,Agon Mehmeti,59,home,1,1,11,11,0,0
+1588755,2,Malmö FF,9375,3,1,Halmstad,9371,1,13,2011-04-11T19:00+0200,Allsvenskan,44165,Jeffrey Aubynn,62,home,2,1,11,11,0,0
+1588755,2,Malmö FF,9375,3,1,Halmstad,9371,1,13,2011-04-11T19:00+0200,Allsvenskan,44165,Miljan Mutavdzic,84,home,3,1,11,11,0,0
+1588756,3,Djurgården,9368,0,12,Malmö FF,9375,1,1,2011-04-15T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588756,3,Djurgården,9368,0,12,Malmö FF,9375,1,1,2011-04-15T19:00+0200,Allsvenskan,44165,Jimmy Durmaz,90,visiting,0,1,10,11,0,0
+1588757,3,Halmstad,9371,0,13,Gais,9382,2,5,2011-04-16T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588757,3,Halmstad,9371,0,13,Gais,9382,2,5,2011-04-16T14:00+0200,Allsvenskan,44165,Wanderson do Carmo,78,visiting,0,1,10,11,0,0
+1588757,3,Halmstad,9371,0,13,Gais,9382,2,5,2011-04-16T14:00+0200,Allsvenskan,44165,Wanderson do Carmo,89,visiting,0,2,9,11,0,0
+1588758,3,Mjällby,9389,1,11,Kalmar FF,9374,0,10,2011-04-16T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588758,3,Mjällby,9389,1,11,Kalmar FF,9374,0,10,2011-04-16T16:00+0200,Allsvenskan,44165,Mostapha El Kabir,73,home,1,0,11,11,0,0
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,Kari Arkivuo,10,visiting,0,1,11,11,0,0
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,Mathias Ranégie,16,visiting,0,2,11,11,0,0
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,Mathias Ranégie,41,visiting,0,3,11,11,0,0
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,Mathias Ranégie,47,visiting,0,4,11,11,0,0
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,Peter Ijeh,60,home,1,4,11,11,0,0
+1588759,3,Syrianska,23026,1,14,Häcken,19740,5,4,2011-04-17T14:00+0200,Allsvenskan,44165,John Chibuike,73,visiting,1,5,11,11,0,0
+1588760,3,Elfsborg,9369,2,9,AIK,9367,2,8,2011-04-17T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588760,3,Elfsborg,9369,2,9,AIK,9367,2,8,2011-04-17T16:30+0200,Allsvenskan,44165,Mohamed Bangura,24,visiting,0,1,11,11,0,0
+1588760,3,Elfsborg,9369,2,9,AIK,9367,2,8,2011-04-17T16:30+0200,Allsvenskan,44165,Mohamed Bangura,31,visiting,0,2,11,11,0,0
+1588760,3,Elfsborg,9369,2,9,AIK,9367,2,8,2011-04-17T16:30+0200,Allsvenskan,44165,Niklas Hult,32,home,1,2,11,11,0,0
+1588760,3,Elfsborg,9369,2,9,AIK,9367,2,8,2011-04-17T16:30+0200,Allsvenskan,44165,David Elm,64,home,2,2,11,11,0,0
+1588761,3,Trelleborgs FF,9377,1,16,Norrköping,9376,2,6,2011-04-17T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588761,3,Trelleborgs FF,9377,1,16,Norrköping,9376,2,6,2011-04-17T16:30+0200,Allsvenskan,44165,Bobbie Friberg Da Cruz,54,visiting,0,1,11,11,0,0
+1588761,3,Trelleborgs FF,9377,1,16,Norrköping,9376,2,6,2011-04-17T16:30+0200,Allsvenskan,44165,Marcus Pode,55,home,1,1,11,11,0,0
+1588761,3,Trelleborgs FF,9377,1,16,Norrköping,9376,2,6,2011-04-17T16:30+0200,Allsvenskan,44165,Marcus Falk-Olander,84,visiting,1,2,11,11,0,0
+1588762,3,Göteborg,9370,1,15,Helsingborg,9373,2,2,2011-04-18T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588762,3,Göteborg,9370,1,15,Helsingborg,9373,2,2,2011-04-18T19:00+0200,Allsvenskan,44165,Andreas Drugge,23,home,1,0,11,11,0,0
+1588762,3,Göteborg,9370,1,15,Helsingborg,9373,2,2,2011-04-18T19:00+0200,Allsvenskan,44165,Peter Larsson,73,visiting,1,1,11,11,0,0
+1588762,3,Göteborg,9370,1,15,Helsingborg,9373,2,2,2011-04-18T19:00+0200,Allsvenskan,44165,Alexander Gerndt,90,visiting,1,2,11,11,0,0
+1588763,3,Örebro,9379,2,7,Gefle,9400,3,3,2011-04-18T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588763,3,Örebro,9379,2,7,Gefle,9400,3,3,2011-04-18T19:00+0200,Allsvenskan,44165,Andreas Haddad,51,home,1,0,11,11,0,0
+1588763,3,Örebro,9379,2,7,Gefle,9400,3,3,2011-04-18T19:00+0200,Allsvenskan,44165,Dragan Kapcevic,62,visiting,1,1,11,11,0,0
+1588763,3,Örebro,9379,2,7,Gefle,9400,3,3,2011-04-18T19:00+0200,Allsvenskan,44165,Alejandro Bedoya,74,home,2,1,11,11,0,0
+1588763,3,Örebro,9379,2,7,Gefle,9400,3,3,2011-04-18T19:00+0200,Allsvenskan,44165,Jonas Lantto,79,visiting,2,2,11,11,0,0
+1588763,3,Örebro,9379,2,7,Gefle,9400,3,3,2011-04-18T19:00+0200,Allsvenskan,44165,Jonas Lantto,87,visiting,2,3,11,11,0,0
+1588764,4,Gais,9382,2,3,Djurgården,9368,1,13,2011-04-19T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588764,4,Gais,9382,2,3,Djurgården,9368,1,13,2011-04-19T19:00+0200,Allsvenskan,44165,Kennedy Igboananike,33,visiting,0,1,11,11,0,0
+1588764,4,Gais,9382,2,3,Djurgården,9368,1,13,2011-04-19T19:00+0200,Allsvenskan,44165,Eric Magloire Bassombeng,45,home,1,1,11,11,1,0
+1588764,4,Gais,9382,2,3,Djurgården,9368,1,13,2011-04-19T19:00+0200,Allsvenskan,44165,Mervan Celik,62,home,2,1,11,11,1,0
+1588765,4,Norrköping,9376,2,4,Halmstad,9371,0,15,2011-04-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588765,4,Norrköping,9376,2,4,Halmstad,9371,0,15,2011-04-20T19:00+0200,Allsvenskan,44165,Bobbie Friberg Da Cruz,14,home,1,0,11,11,0,0
+1588765,4,Norrköping,9376,2,4,Halmstad,9371,0,15,2011-04-20T19:00+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,85,home,2,0,11,11,0,0
+1588766,4,Kalmar FF,9374,2,8,Elfsborg,9369,1,10,2011-04-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588766,4,Kalmar FF,9374,2,8,Elfsborg,9369,1,10,2011-04-20T19:00+0200,Allsvenskan,44165,David Elm,5,visiting,0,1,11,11,0,0
+1588766,4,Kalmar FF,9374,2,8,Elfsborg,9369,1,10,2011-04-20T19:00+0200,Allsvenskan,44165,Erik Israelsson,33,home,1,1,11,11,0,0
+1588766,4,Kalmar FF,9374,2,8,Elfsborg,9369,1,10,2011-04-20T19:00+0200,Allsvenskan,44165,Daniel Sobralense,67,home,2,1,11,11,0,0
+1588767,4,Malmö FF,9375,1,1,Mjällby,9389,0,11,2011-04-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588767,4,Malmö FF,9375,1,1,Mjällby,9389,0,11,2011-04-20T19:00+0200,Allsvenskan,44165,Guillermo Molins,75,home,1,0,11,11,0,0
+1588768,4,Gefle,9400,1,7,Trelleborgs FF,9377,2,12,2011-04-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588768,4,Gefle,9400,1,7,Trelleborgs FF,9377,2,12,2011-04-21T19:00+0200,Allsvenskan,44165,Marcus Pode,38,visiting,0,1,11,11,0,0
+1588768,4,Gefle,9400,1,7,Trelleborgs FF,9377,2,12,2011-04-21T19:00+0200,Allsvenskan,44165,Dragan Kapcevic,39,home,1,1,11,11,0,0
+1588769,4,Häcken,19740,1,9,Örebro,9379,2,5,2011-04-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588769,4,Häcken,19740,1,9,Örebro,9379,2,5,2011-04-21T19:00+0200,Allsvenskan,44165,Andreas Haddad,31,visiting,0,1,11,11,0,0
+1588769,4,Häcken,19740,1,9,Örebro,9379,2,5,2011-04-21T19:00+0200,Allsvenskan,44165,Mathias Ranégie,45,home,1,1,11,11,0,0
+1588769,4,Häcken,19740,1,9,Örebro,9379,2,5,2011-04-21T19:00+0200,Allsvenskan,44165,Marcus Astvald,68,visiting,1,2,11,11,0,0
+1588770,4,AIK,9367,2,6,Göteborg,9370,0,16,2011-04-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588770,4,AIK,9367,2,6,Göteborg,9370,0,16,2011-04-21T19:00+0200,Allsvenskan,44165,Nils-Eric Johansson,17,home,1,0,11,11,0,0
+1588770,4,AIK,9367,2,6,Göteborg,9370,0,16,2011-04-21T19:00+0200,Allsvenskan,44165,Teteh Bangura,57,home,2,0,11,11,0,0
+1588771,4,Helsingborg,9373,1,2,Syrianska,23026,0,14,2011-04-22T15:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588771,4,Helsingborg,9373,1,2,Syrianska,23026,0,14,2011-04-22T15:00+0200,Allsvenskan,44165,Rasmus Jönsson,81,home,1,0,11,11,0,0
+1588772,5,Djurgården,9368,1,16,Norrköping,9376,3,2,2011-04-24T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588772,5,Djurgården,9368,1,16,Norrköping,9376,3,2,2011-04-24T14:00+0200,Allsvenskan,44165,Anders Wikström,46,visiting,0,1,11,11,0,0
+1588772,5,Djurgården,9368,1,16,Norrköping,9376,3,2,2011-04-24T14:00+0200,Allsvenskan,44165,Christopher Telo,53,visiting,0,2,11,11,0,0
+1588772,5,Djurgården,9368,1,16,Norrköping,9376,3,2,2011-04-24T14:00+0200,Allsvenskan,44165,Sebastian Rajalakso,63,home,1,2,11,11,0,0
+1588772,5,Djurgården,9368,1,16,Norrköping,9376,3,2,2011-04-24T14:00+0200,Allsvenskan,44165,Christopher Telo,66,visiting,1,3,11,11,0,0
+1588773,5,Mjällby,9389,1,12,Gais,9382,1,4,2011-04-24T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588773,5,Mjällby,9389,1,12,Gais,9382,1,4,2011-04-24T14:00+0200,Allsvenskan,44165,Marcus Ekenberg,6,home,1,0,11,11,0,0
+1588773,5,Mjällby,9389,1,12,Gais,9382,1,4,2011-04-24T14:00+0200,Allsvenskan,44165,Amadaiya Rennie,58,visiting,1,1,11,11,0,0
+1588774,5,Elfsborg,9369,3,9,Malmö FF,9375,0,3,2011-04-24T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588774,5,Elfsborg,9369,3,9,Malmö FF,9375,0,3,2011-04-24T16:30+0200,Allsvenskan,44165,Andreas Augustsson,65,home,1,0,11,11,0,0
+1588774,5,Elfsborg,9369,3,9,Malmö FF,9375,0,3,2011-04-24T16:30+0200,Allsvenskan,44165,Johan Larsson,86,home,2,0,11,11,0,0
+1588774,5,Elfsborg,9369,3,9,Malmö FF,9375,0,3,2011-04-24T16:30+0200,Allsvenskan,44165,Amadou Jawo,90,home,3,0,11,11,0,0
+1588775,5,Halmstad,9371,1,15,Trelleborgs FF,9377,1,13,2011-04-24T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588775,5,Halmstad,9371,1,15,Trelleborgs FF,9377,1,13,2011-04-24T16:30+0200,Allsvenskan,44165,Thommie Persson,49,visiting,0,1,11,11,0,0
+1588775,5,Halmstad,9371,1,15,Trelleborgs FF,9377,1,13,2011-04-24T16:30+0200,Allsvenskan,44165,Emil Salomonsson,74,home,1,1,11,11,0,0
+1588778,5,Göteborg,9370,2,14,Kalmar FF,9374,0,10,2011-04-25T15:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588778,5,Göteborg,9370,2,14,Kalmar FF,9374,0,10,2011-04-25T15:00+0200,Allsvenskan,44165,Tobias Hysén,41,home,1,0,11,11,0,0
+1588778,5,Göteborg,9370,2,14,Kalmar FF,9374,0,10,2011-04-25T15:00+0200,Allsvenskan,44165,Nicklas Bärkroth,90,home,2,0,11,11,0,0
+1588779,5,Örebro,9379,1,5,Helsingborg,9373,1,1,2011-04-25T15:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588779,5,Örebro,9379,1,5,Helsingborg,9373,1,1,2011-04-25T15:00+0200,Allsvenskan,44165,Valdet Rama,52,home,1,0,11,11,0,0
+1588779,5,Örebro,9379,1,5,Helsingborg,9373,1,1,2011-04-25T15:00+0200,Allsvenskan,44165,May Mahlangu,71,visiting,1,1,11,11,0,0
+1588780,6,Gais,9382,0,7,Elfsborg,9369,2,6,2011-04-29T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588780,6,Gais,9382,0,7,Elfsborg,9369,2,6,2011-04-29T19:00+0200,Allsvenskan,44165,Lasse Nilsson,5,visiting,0,1,11,11,0,0
+1588780,6,Gais,9382,0,7,Elfsborg,9369,2,6,2011-04-29T19:00+0200,Allsvenskan,44165,Lasse Nilsson,39,visiting,0,2,11,11,0,0
+1588781,6,Norrköping,9376,0,2,Mjällby,9389,3,11,2011-04-30T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588781,6,Norrköping,9376,0,2,Mjällby,9389,3,11,2011-04-30T16:00+0200,Allsvenskan,44165,Mostapha El Kabir,22,visiting,0,1,11,11,0,0
+1588781,6,Norrköping,9376,0,2,Mjällby,9389,3,11,2011-04-30T16:00+0200,Allsvenskan,44165,Daniel Nicklasson,38,visiting,0,2,11,11,0,0
+1588781,6,Norrköping,9376,0,2,Mjällby,9389,3,11,2011-04-30T16:00+0200,Allsvenskan,44165,Mostapha El Kabir,63,visiting,0,3,11,11,0,0
+1588782,6,Trelleborgs FF,9377,3,12,Djurgården,9368,2,16,2011-05-01T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588782,6,Trelleborgs FF,9377,3,12,Djurgården,9368,2,16,2011-05-01T14:00+0200,Allsvenskan,44165,Fredrik Jensen,47,home,1,0,11,11,0,0
+1588782,6,Trelleborgs FF,9377,3,12,Djurgården,9368,2,16,2011-05-01T14:00+0200,Allsvenskan,44165,Fredrik Jensen,49,home,2,0,11,11,0,0
+1588782,6,Trelleborgs FF,9377,3,12,Djurgården,9368,2,16,2011-05-01T14:00+0200,Allsvenskan,44165,Marcus Pode,54,home,3,0,11,11,0,0
+1588782,6,Trelleborgs FF,9377,3,12,Djurgården,9368,2,16,2011-05-01T14:00+0200,Allsvenskan,44165,Philip Hellquist,65,visiting,3,1,11,11,0,0
+1588782,6,Trelleborgs FF,9377,3,12,Djurgården,9368,2,16,2011-05-01T14:00+0200,Allsvenskan,44165,Philip Hellquist,87,visiting,3,2,11,11,0,0
+1588783,6,Kalmar FF,9374,2,8,Syrianska,23026,0,14,2011-05-01T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588783,6,Kalmar FF,9374,2,8,Syrianska,23026,0,14,2011-05-01T16:30+0200,Allsvenskan,44165,Daniel Mendes,83,home,1,0,11,11,0,0
+1588783,6,Kalmar FF,9374,2,8,Syrianska,23026,0,14,2011-05-01T16:30+0200,Allsvenskan,44165,Ricardo Santos,90,home,2,0,11,11,0,0
+1588784,6,Helsingborg,9373,1,1,Häcken,19740,1,10,2011-05-01T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588784,6,Helsingborg,9373,1,1,Häcken,19740,1,10,2011-05-01T16:30+0200,Allsvenskan,44165,Mathias Ranégie,61,visiting,0,1,11,11,0,0
+1588784,6,Helsingborg,9373,1,1,Häcken,19740,1,10,2011-05-01T16:30+0200,Allsvenskan,44165,Alexander Gerndt,64,home,1,1,11,11,0,0
+1588785,6,Gefle,9400,2,4,Halmstad,9371,1,15,2011-05-02T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588785,6,Gefle,9400,2,4,Halmstad,9371,1,15,2011-05-02T19:00+0200,Allsvenskan,44165,Jakob Orlov,1,home,1,0,11,11,0,0
+1588785,6,Gefle,9400,2,4,Halmstad,9371,1,15,2011-05-02T19:00+0200,Allsvenskan,44165,Raúl Ruiz,63,visiting,1,1,11,11,0,0
+1588785,6,Gefle,9400,2,4,Halmstad,9371,1,15,2011-05-02T19:00+0200,Allsvenskan,44165,Jakob Orlov,73,home,2,1,11,11,0,0
+1588786,6,AIK,9367,1,5,Örebro,9379,0,9,2011-05-02T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588786,6,AIK,9367,1,5,Örebro,9379,0,9,2011-05-02T19:00+0200,Allsvenskan,44165,Kenny Pavey,90,home,1,0,11,11,0,0
+1588787,6,Malmö FF,9375,0,3,Göteborg,9370,2,13,2011-05-02T20:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588787,6,Malmö FF,9375,0,3,Göteborg,9370,2,13,2011-05-02T20:00+0200,Allsvenskan,44165,Tobias Hysén,31,visiting,0,1,11,11,0,0
+1588787,6,Malmö FF,9375,0,3,Göteborg,9370,2,13,2011-05-02T20:00+0200,Allsvenskan,44165,Tobias Hysén,66,visiting,0,2,11,11,0,0
+1588788,7,Örebro,9379,1,10,Kalmar FF,9374,2,3,2011-05-06T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588788,7,Örebro,9379,1,10,Kalmar FF,9374,2,3,2011-05-06T19:00+0200,Allsvenskan,44165,Daniel Mendes,7,visiting,0,1,11,11,0,0
+1588788,7,Örebro,9379,1,10,Kalmar FF,9374,2,3,2011-05-06T19:00+0200,Allsvenskan,44165,Alejandro Bedoya,24,home,1,1,11,11,0,0
+1588788,7,Örebro,9379,1,10,Kalmar FF,9374,2,3,2011-05-06T19:00+0200,Allsvenskan,44165,Erik Israelsson,59,visiting,1,2,11,11,0,0
+1588789,7,Häcken,19740,3,6,AIK,9367,1,7,2011-05-07T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588789,7,Häcken,19740,3,6,AIK,9367,1,7,2011-05-07T14:00+0200,Allsvenskan,44165,Rene Makondele,31,home,1,0,11,11,0,0
+1588789,7,Häcken,19740,3,6,AIK,9367,1,7,2011-05-07T14:00+0200,Allsvenskan,44165,Emil Wahlström,74,home,2,0,11,11,0,0
+1588789,7,Häcken,19740,3,6,AIK,9367,1,7,2011-05-07T14:00+0200,Allsvenskan,44165,Waris Majeed,83,home,3,0,11,11,0,0
+1588789,7,Häcken,19740,3,6,AIK,9367,1,7,2011-05-07T14:00+0200,Allsvenskan,44165,självmål,87,visiting,3,1,11,11,0,0
+1588790,7,Djurgården,9368,2,15,Halmstad,9371,0,16,2011-05-07T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588790,7,Djurgården,9368,2,15,Halmstad,9371,0,16,2011-05-07T16:00+0200,Allsvenskan,44165,Kennedy Igboananike,39,home,1,0,11,10,0,0
+1588790,7,Djurgården,9368,2,15,Halmstad,9371,0,16,2011-05-07T16:00+0200,Allsvenskan,44165,Sebastian Rajalakso,47,home,2,0,11,10,0,0
+1588791,7,Mjällby,9389,0,13,Trelleborgs FF,9377,1,11,2011-05-08T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588791,7,Mjällby,9389,0,13,Trelleborgs FF,9377,1,11,2011-05-08T14:00+0200,Allsvenskan,44165,Joakim Nilsson,57,visiting,0,1,11,11,0,0
+1588792,7,Syrianska,23026,0,14,Malmö FF,9375,0,4,2011-05-08T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588793,7,Göteborg,9370,2,12,Gais,9382,1,9,2011-05-09T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588793,7,Göteborg,9370,2,12,Gais,9382,1,9,2011-05-09T19:00+0200,Allsvenskan,44165,Mervan Celik,9,visiting,0,1,11,11,0,0
+1588793,7,Göteborg,9370,2,12,Gais,9382,1,9,2011-05-09T19:00+0200,Allsvenskan,44165,Jakob Johansson,21,home,1,1,11,11,0,0
+1588793,7,Göteborg,9370,2,12,Gais,9382,1,9,2011-05-09T19:00+0200,Allsvenskan,44165,Tobias Hysén,51,home,2,1,11,11,0,0
+1588794,7,Elfsborg,9369,2,2,Norrköping,9376,1,5,2011-05-09T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588794,7,Elfsborg,9369,2,2,Norrköping,9376,1,5,2011-05-09T19:00+0200,Allsvenskan,44165,David Wiklander,58,visiting,0,1,11,11,0,0
+1588794,7,Elfsborg,9369,2,2,Norrköping,9376,1,5,2011-05-09T19:00+0200,Allsvenskan,44165,Lasse Nilsson,71,home,1,1,11,11,0,0
+1588794,7,Elfsborg,9369,2,2,Norrköping,9376,1,5,2011-05-09T19:00+0200,Allsvenskan,44165,Niklas Hult,85,home,2,1,11,11,0,0
+1588795,7,Helsingborg,9373,3,1,Gefle,9400,0,8,2011-05-09T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588795,7,Helsingborg,9373,3,1,Gefle,9400,0,8,2011-05-09T19:00+0200,Allsvenskan,44165,Markus Holgersson,5,home,1,0,11,11,0,0
+1588795,7,Helsingborg,9373,3,1,Gefle,9400,0,8,2011-05-09T19:00+0200,Allsvenskan,44165,Alexander Gerndt,64,home,2,0,11,11,0,0
+1588795,7,Helsingborg,9373,3,1,Gefle,9400,0,8,2011-05-09T19:00+0200,Allsvenskan,44165,Simon Thern,71,home,3,0,11,11,0,0
+1588796,8,Halmstad,9371,1,16,Mjällby,9389,0,13,2011-05-14T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588796,8,Halmstad,9371,1,16,Mjällby,9389,0,13,2011-05-14T14:00+0200,Allsvenskan,44165,självmål,16,home,1,0,11,11,0,0
+1588797,8,Kalmar FF,9374,2,2,Häcken,19740,0,10,2011-05-14T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588798,8,Gefle,9400,0,9,Djurgården,9368,0,14,2011-05-15T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588799,8,Malmö FF,9375,2,3,Örebro,9379,1,12,2011-05-15T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588799,8,Malmö FF,9375,2,3,Örebro,9379,1,12,2011-05-15T14:00+0200,Allsvenskan,44165,Valdet Rama,37,visiting,0,1,11,11,0,0
+1588799,8,Malmö FF,9375,2,3,Örebro,9379,1,12,2011-05-15T14:00+0200,Allsvenskan,44165,Guillermo Molins,62,home,1,1,11,11,0,0
+1588799,8,Malmö FF,9375,2,3,Örebro,9379,1,12,2011-05-15T14:00+0200,Allsvenskan,44165,Guillermo Molins,80,home,2,1,11,11,0,0
+1588800,8,Norrköping,9376,2,7,Göteborg,9370,2,11,2011-05-15T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588800,8,Norrköping,9376,2,7,Göteborg,9370,2,11,2011-05-15T16:30+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,1,home,1,0,11,11,0,0
+1588800,8,Norrköping,9376,2,7,Göteborg,9370,2,11,2011-05-15T16:30+0200,Allsvenskan,44165,Tobias Hysén,14,visiting,1,1,11,11,0,0
+1588800,8,Norrköping,9376,2,7,Göteborg,9370,2,11,2011-05-15T16:30+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,20,home,2,1,11,11,0,0
+1588800,8,Norrköping,9376,2,7,Göteborg,9370,2,11,2011-05-15T16:30+0200,Allsvenskan,44165,Ragnar Sigurdsson,42,visiting,2,2,11,11,0,0
+1588801,8,Gais,9382,1,5,Syrianska,23026,0,15,2011-05-15T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588801,8,Gais,9382,1,5,Syrianska,23026,0,15,2011-05-15T16:30+0200,Allsvenskan,44165,Calum Angus,87,home,1,0,11,11,0,0
+1588802,8,Trelleborgs FF,9377,3,8,Elfsborg,9369,0,6,2011-05-16T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588802,8,Trelleborgs FF,9377,3,8,Elfsborg,9369,0,6,2011-05-16T19:00+0200,Allsvenskan,44165,Marcus Pode,51,home,1,0,11,11,0,0
+1588802,8,Trelleborgs FF,9377,3,8,Elfsborg,9369,0,6,2011-05-16T19:00+0200,Allsvenskan,44165,Fredrik Jensen,56,home,2,0,11,11,0,0
+1588802,8,Trelleborgs FF,9377,3,8,Elfsborg,9369,0,6,2011-05-16T19:00+0200,Allsvenskan,44165,Kristian Haynes,58,home,3,0,11,11,0,0
+1588803,8,AIK,9367,2,4,Helsingborg,9373,1,1,2011-05-16T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588803,8,AIK,9367,2,4,Helsingborg,9373,1,1,2011-05-16T19:00+0200,Allsvenskan,44165,Christoffer Andersson,19,visiting,0,1,11,11,0,0
+1588803,8,AIK,9367,2,4,Helsingborg,9373,1,1,2011-05-16T19:00+0200,Allsvenskan,44165,Teteh Bangura,24,home,1,1,11,11,0,0
+1588803,8,AIK,9367,2,4,Helsingborg,9373,1,1,2011-05-16T19:00+0200,Allsvenskan,44165,Robert Åhman-Persson,39,home,2,1,10,11,0,0
+1588804,9,Helsingborg,9373,1,1,Kalmar FF,9374,0,4,2011-05-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588804,9,Helsingborg,9373,1,1,Kalmar FF,9374,0,4,2011-05-20T19:00+0200,Allsvenskan,44165,Erik Sundin,29,home,1,0,11,11,0,0
+1588805,9,Häcken,19740,1,11,Malmö FF,9375,1,2,2011-05-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588805,9,Häcken,19740,1,11,Malmö FF,9375,1,2,2011-05-20T19:00+0200,Allsvenskan,44165,Mathias Ranégie,35,home,1,0,11,11,0,0
+1588805,9,Häcken,19740,1,11,Malmö FF,9375,1,2,2011-05-20T19:00+0200,Allsvenskan,44165,Ivo Pekalski,42,visiting,1,1,11,11,0,0
+1588807,9,AIK,9367,0,6,Gefle,9400,2,5,2011-05-21T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588807,9,AIK,9367,0,6,Gefle,9400,2,5,2011-05-21T16:00+0200,Allsvenskan,44165,Mikael Dahlberg,11,visiting,0,1,11,11,0,0
+1588807,9,AIK,9367,0,6,Gefle,9400,2,5,2011-05-21T16:00+0200,Allsvenskan,44165,Mikael Dahlberg,41,visiting,0,2,11,11,0,0
+1588806,9,Göteborg,9370,1,12,Trelleborgs FF,9377,1,7,2011-05-22T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588806,9,Göteborg,9370,1,12,Trelleborgs FF,9377,1,7,2011-05-22T14:00+0200,Allsvenskan,44165,Mattias Adelstam,47,visiting,0,1,11,11,0,0
+1588806,9,Göteborg,9370,1,12,Trelleborgs FF,9377,1,7,2011-05-22T14:00+0200,Allsvenskan,44165,Ragnar Sigurdsson,84,home,1,1,11,11,0,0
+1588808,9,Syrianska,23026,3,14,Norrköping,9376,0,10,2011-05-22T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588808,9,Syrianska,23026,3,14,Norrköping,9376,0,10,2011-05-22T16:30+0200,Allsvenskan,44165,Sharbel Touma,55,home,1,0,11,11,0,0
+1588808,9,Syrianska,23026,3,14,Norrköping,9376,0,10,2011-05-22T16:30+0200,Allsvenskan,44165,Yussuf Saleh,66,home,2,0,11,11,0,0
+1588808,9,Syrianska,23026,3,14,Norrköping,9376,0,10,2011-05-22T16:30+0200,Allsvenskan,44165,Imad Zatara,72,home,3,0,11,11,0,0
+1588809,9,Örebro,9379,3,9,Gais,9382,1,8,2011-05-22T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588809,9,Örebro,9379,3,9,Gais,9382,1,8,2011-05-22T16:30+0200,Allsvenskan,44165,Patrik Haginge,36,home,1,0,11,11,0,0
+1588809,9,Örebro,9379,3,9,Gais,9382,1,8,2011-05-22T16:30+0200,Allsvenskan,44165,Mervan Celik,52,visiting,1,1,11,11,0,0
+1588809,9,Örebro,9379,3,9,Gais,9382,1,8,2011-05-22T16:30+0200,Allsvenskan,44165,Fredrik Nordback,59,home,2,1,11,11,0,0
+1588809,9,Örebro,9379,3,9,Gais,9382,1,8,2011-05-22T16:30+0200,Allsvenskan,44165,Alejandro Bedoya,68,home,3,1,11,11,0,0
+1588810,9,Elfsborg,9369,3,3,Halmstad,9371,2,16,2011-05-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588810,9,Elfsborg,9369,3,3,Halmstad,9371,2,16,2011-05-23T19:00+0200,Allsvenskan,44165,Martin Ericsson,2,home,1,0,11,11,0,0
+1588810,9,Elfsborg,9369,3,3,Halmstad,9371,2,16,2011-05-23T19:00+0200,Allsvenskan,44165,Niklas Hult,9,home,2,0,11,11,0,0
+1588810,9,Elfsborg,9369,3,3,Halmstad,9371,2,16,2011-05-23T19:00+0200,Allsvenskan,44165,Marcus Olsson,47,visiting,2,1,11,11,0,0
+1588810,9,Elfsborg,9369,3,3,Halmstad,9371,2,16,2011-05-23T19:00+0200,Allsvenskan,44165,Javi Hernandez,73,visiting,2,2,11,11,0,0
+1588810,9,Elfsborg,9369,3,3,Halmstad,9371,2,16,2011-05-23T19:00+0200,Allsvenskan,44165,Lasse Nilsson,88,home,3,2,11,11,0,0
+1588811,9,Mjällby,9389,3,13,Djurgården,9368,0,15,2011-05-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588811,9,Mjällby,9389,3,13,Djurgården,9368,0,15,2011-05-23T19:00+0200,Allsvenskan,44165,Pavel Zavadil,9,home,1,0,11,11,0,0
+1588811,9,Mjällby,9389,3,13,Djurgården,9368,0,15,2011-05-23T19:00+0200,Allsvenskan,44165,Mostapha El Kabir,45,home,2,0,11,11,0,0
+1588811,9,Mjällby,9389,3,13,Djurgården,9368,0,15,2011-05-23T19:00+0200,Allsvenskan,44165,Mostapha El Kabir,61,home,3,0,11,11,0,0
+1588814,10,Norrköping,9376,0,11,Örebro,9379,2,5,2011-05-25T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588814,10,Norrköping,9376,0,11,Örebro,9379,2,5,2011-05-25T19:00+0200,Allsvenskan,44165,Valdet Rama,44,visiting,0,1,11,11,0,0
+1588814,10,Norrköping,9376,0,11,Örebro,9379,2,5,2011-05-25T19:00+0200,Allsvenskan,44165,Patrik Anttonen,84,visiting,0,2,11,11,0,0
+1588815,10,Kalmar FF,9374,1,3,AIK,9367,0,9,2011-05-25T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588815,10,Kalmar FF,9374,1,3,AIK,9367,0,9,2011-05-25T19:00+0200,Allsvenskan,44165,Kristoffer Fagercrantz,44,home,1,0,11,11,0,0
+1588813,10,Trelleborgs FF,9377,0,10,Syrianska,23026,1,14,2011-05-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588813,10,Trelleborgs FF,9377,0,10,Syrianska,23026,1,14,2011-05-26T19:00+0200,Allsvenskan,44165,Dinko Felic,21,visiting,0,1,11,11,0,0
+1588816,10,Djurgården,9368,0,15,Elfsborg,9369,1,2,2011-05-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588816,10,Djurgården,9368,0,15,Elfsborg,9369,1,2,2011-05-26T19:00+0200,Allsvenskan,44165,Lasse Nilsson,79,visiting,0,1,11,11,0,0
+1588817,10,Halmstad,9371,1,16,Göteborg,9370,2,8,2011-05-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588817,10,Halmstad,9371,1,16,Göteborg,9370,2,8,2011-05-26T19:00+0200,Allsvenskan,44165,Tobias Hysén,7,visiting,0,1,11,11,0,0
+1588817,10,Halmstad,9371,1,16,Göteborg,9370,2,8,2011-05-26T19:00+0200,Allsvenskan,44165,Michael Görlitz,61,home,1,1,11,11,0,0
+1588817,10,Halmstad,9371,1,16,Göteborg,9370,2,8,2011-05-26T19:00+0200,Allsvenskan,44165,Tobias Hysén,80,visiting,1,2,11,11,0,0
+1588818,10,Gefle,9400,0,7,Mjällby,9389,0,13,2011-05-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588819,10,Gais,9382,1,6,Häcken,19740,0,12,2011-05-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588819,10,Gais,9382,1,6,Häcken,19740,0,12,2011-05-26T19:00+0200,Allsvenskan,44165,Eric Magloire Bassombeng,14,home,1,0,11,11,0,0
+1588821,11,Häcken,19740,2,12,Norrköping,9376,2,10,2011-06-11T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588821,11,Häcken,19740,2,12,Norrköping,9376,2,10,2011-06-11T16:00+0200,Allsvenskan,44165,Rene Makondele,25,home,1,0,11,11,0,0
+1588821,11,Häcken,19740,2,12,Norrköping,9376,2,10,2011-06-11T16:00+0200,Allsvenskan,44165,Astrit Ajdarevic,45,visiting,1,1,11,11,0,0
+1588821,11,Häcken,19740,2,12,Norrköping,9376,2,10,2011-06-11T16:00+0200,Allsvenskan,44165,Mathias Ranégie,90,home,2,1,11,11,0,0
+1588821,11,Häcken,19740,2,12,Norrköping,9376,2,10,2011-06-11T16:00+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,90,visiting,2,2,11,11,0,0
+1588822,11,Syrianska,23026,0,13,Halmstad,9371,0,16,2011-06-11T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588827,11,Elfsborg,9369,4,2,Mjällby,9389,0,14,2011-06-12T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588827,11,Elfsborg,9369,4,2,Mjällby,9389,0,14,2011-06-12T16:30+0200,Allsvenskan,44165,Stefan Ishizaki,25,home,1,0,11,11,0,0
+1588827,11,Elfsborg,9369,4,2,Mjällby,9389,0,14,2011-06-12T16:30+0200,Allsvenskan,44165,Daniel Nordmark,56,home,2,0,11,11,0,0
+1588827,11,Elfsborg,9369,4,2,Mjällby,9389,0,14,2011-06-12T16:30+0200,Allsvenskan,44165,Daniel Nordmark,67,home,3,0,11,11,0,0
+1588827,11,Elfsborg,9369,4,2,Mjällby,9389,0,14,2011-06-12T16:30+0200,Allsvenskan,44165,James Keene,88,home,4,0,11,11,0,0
+1588825,11,AIK,9367,2,7,Malmö FF,9375,0,8,2011-06-12T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588825,11,AIK,9367,2,7,Malmö FF,9375,0,8,2011-06-12T19:00+0200,Allsvenskan,44165,Mohamed Bangura,17,home,1,0,11,11,0,0
+1588825,11,AIK,9367,2,7,Malmö FF,9375,0,8,2011-06-12T19:00+0200,Allsvenskan,44165,Teteh Bangura,46,home,2,0,11,11,0,0
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,William Atashkadeh,18,home,1,0,11,11,0,0
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,Marcus Astvald,35,home,2,0,11,11,0,0
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,Magnus Andersson,47,visiting,2,1,11,11,0,0
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,Ibrahim Koroma,62,visiting,2,2,11,11,0,0
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,Magnus Wikström,90,home,3,2,11,11,0,0
+1588820,11,Örebro,9379,4,4,Trelleborgs FF,9377,2,9,2011-06-13T19:00+0200,Allsvenskan,44165,Kushtrim Lushtaku,90,home,4,2,11,11,0,0
+1588824,11,Helsingborg,9373,1,1,Gais,9382,1,5,2011-06-13T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588824,11,Helsingborg,9373,1,1,Gais,9382,1,5,2011-06-13T19:00+0200,Allsvenskan,44165,Mervan Celik,18,visiting,0,1,11,11,0,0
+1588824,11,Helsingborg,9373,1,1,Gais,9382,1,5,2011-06-13T19:00+0200,Allsvenskan,44165,Rasmus Jönsson,42,home,1,1,11,11,0,0
+1588826,11,Göteborg,9370,0,11,Djurgården,9368,4,15,2011-06-13T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588826,11,Göteborg,9370,0,11,Djurgården,9368,4,15,2011-06-13T19:00+0200,Allsvenskan,44165,Christer Youssef,25,visiting,0,1,11,11,0,0
+1588826,11,Göteborg,9370,0,11,Djurgården,9368,4,15,2011-06-13T19:00+0200,Allsvenskan,44165,Mattias Jonson,42,visiting,0,2,11,11,0,0
+1588826,11,Göteborg,9370,0,11,Djurgården,9368,4,15,2011-06-13T19:00+0200,Allsvenskan,44165,Kasper Hämäläinen,59,visiting,0,3,11,11,0,0
+1588826,11,Göteborg,9370,0,11,Djurgården,9368,4,15,2011-06-13T19:00+0200,Allsvenskan,44165,Philip Hellquist,87,visiting,0,4,11,11,0,0
+1588828,12,Halmstad,9371,0,16,Örebro,9379,0,3,2011-06-18T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588829,12,Gefle,9400,1,5,Elfsborg,9369,0,2,2011-06-18T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588829,12,Gefle,9400,1,5,Elfsborg,9369,0,2,2011-06-18T16:00+0200,Allsvenskan,44165,Jakob Orlov,59,home,1,0,11,11,0,0
+1588830,12,Trelleborgs FF,9377,1,12,Häcken,19740,4,10,2011-06-18T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588830,12,Trelleborgs FF,9377,1,12,Häcken,19740,4,10,2011-06-18T18:00+0200,Allsvenskan,44165,Mathias Ranégie,9,visiting,0,1,11,11,0,0
+1588830,12,Trelleborgs FF,9377,1,12,Häcken,19740,4,10,2011-06-18T18:00+0200,Allsvenskan,44165,Mathias Ranégie,23,visiting,0,2,11,11,0,0
+1588830,12,Trelleborgs FF,9377,1,12,Häcken,19740,4,10,2011-06-18T18:00+0200,Allsvenskan,44165,Joakim Nilsson,64,home,1,2,11,11,0,0
+1588830,12,Trelleborgs FF,9377,1,12,Häcken,19740,4,10,2011-06-18T18:00+0200,Allsvenskan,44165,Björn Anklev,65,visiting,1,3,11,11,0,0
+1588830,12,Trelleborgs FF,9377,1,12,Häcken,19740,4,10,2011-06-18T18:00+0200,Allsvenskan,44165,Mathias Ranégie,87,visiting,1,4,11,11,0,0
+1588831,12,Mjällby,9389,0,15,Göteborg,9370,2,9,2011-06-18T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588831,12,Mjällby,9389,0,15,Göteborg,9370,2,9,2011-06-18T18:00+0200,Allsvenskan,44165,Ragnar Sigurdsson,7,visiting,0,1,11,11,0,0
+1588831,12,Mjällby,9389,0,15,Göteborg,9370,2,9,2011-06-18T18:00+0200,Allsvenskan,44165,Tobias Hysén,10,visiting,0,2,11,11,0,0
+1588832,12,Norrköping,9376,0,11,Helsingborg,9373,0,1,2011-06-19T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588833,12,Gais,9382,2,4,AIK,9367,0,8,2011-06-19T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588833,12,Gais,9382,2,4,AIK,9367,0,8,2011-06-19T19:00+0200,Allsvenskan,44165,Alvaro Santos,68,home,1,0,11,11,0,0
+1588833,12,Gais,9382,2,4,AIK,9367,0,8,2011-06-19T19:00+0200,Allsvenskan,44165,Alvaro Santos,82,home,2,0,11,11,0,0
+1588834,12,Djurgården,9368,3,14,Syrianska,23026,0,13,2011-06-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588834,12,Djurgården,9368,3,14,Syrianska,23026,0,13,2011-06-20T19:00+0200,Allsvenskan,44165,Christer Youssef,13,home,1,0,11,11,0,0
+1588834,12,Djurgården,9368,3,14,Syrianska,23026,0,13,2011-06-20T19:00+0200,Allsvenskan,44165,Joona Toivio,70,home,2,0,11,10,0,0
+1588834,12,Djurgården,9368,3,14,Syrianska,23026,0,13,2011-06-20T19:00+0200,Allsvenskan,44165,Petter Gustafsson,74,home,3,0,11,10,0,0
+1588835,12,Malmö FF,9375,2,7,Kalmar FF,9374,0,6,2011-06-20T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588835,12,Malmö FF,9375,2,7,Kalmar FF,9374,0,6,2011-06-20T19:00+0200,Allsvenskan,44165,Daniel Larsson,12,home,1,0,11,11,0,0
+1588835,12,Malmö FF,9375,2,7,Kalmar FF,9374,0,6,2011-06-20T19:00+0200,Allsvenskan,44165,Pontus Jansson,58,home,2,0,11,11,0,0
+1588836,13,Häcken,19740,3,9,Halmstad,9371,1,16,2011-06-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588836,13,Häcken,19740,3,9,Halmstad,9371,1,16,2011-06-21T19:00+0200,Allsvenskan,44165,Kujtim Bala,34,visiting,0,1,11,11,0,0
+1588836,13,Häcken,19740,3,9,Halmstad,9371,1,16,2011-06-21T19:00+0200,Allsvenskan,44165,Josef Elvby,37,home,1,1,11,11,0,0
+1588836,13,Häcken,19740,3,9,Halmstad,9371,1,16,2011-06-21T19:00+0200,Allsvenskan,44165,,72,home,2,1,11,11,0,0
+1588836,13,Häcken,19740,3,9,Halmstad,9371,1,16,2011-06-21T19:00+0200,Allsvenskan,44165,Mathias Ranégie,74,home,3,1,11,11,0,0
+1588837,13,Göteborg,9370,1,10,Elfsborg,9369,1,2,2011-06-22T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588837,13,Göteborg,9370,1,10,Elfsborg,9369,1,2,2011-06-22T19:00+0200,Allsvenskan,44165,Amadou Jawo,29,visiting,0,1,11,11,0,0
+1588837,13,Göteborg,9370,1,10,Elfsborg,9369,1,2,2011-06-22T19:00+0200,Allsvenskan,44165,Hannes Stiller,70,home,1,1,11,11,0,0
+1588838,13,AIK,9367,3,8,Norrköping,9376,0,12,2011-06-22T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588838,13,AIK,9367,3,8,Norrköping,9376,0,12,2011-06-22T19:00+0200,Allsvenskan,44165,Teteh Bangura,29,home,1,0,11,11,0,0
+1588838,13,AIK,9367,3,8,Norrköping,9376,0,12,2011-06-22T19:00+0200,Allsvenskan,44165,Teteh Bangura,35,home,2,0,11,11,0,0
+1588838,13,AIK,9367,3,8,Norrköping,9376,0,12,2011-06-22T19:00+0200,Allsvenskan,44165,Mohamed Bangura,37,home,3,0,11,11,0,0
+1588839,13,Syrianska,23026,3,11,Mjällby,9389,1,15,2011-06-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588839,13,Syrianska,23026,3,11,Mjällby,9389,1,15,2011-06-23T19:00+0200,Allsvenskan,44165,David Löfquist,7,visiting,0,1,11,11,0,0
+1588839,13,Syrianska,23026,3,11,Mjällby,9389,1,15,2011-06-23T19:00+0200,Allsvenskan,44165,Imad Zatara,45,home,1,1,11,11,0,0
+1588839,13,Syrianska,23026,3,11,Mjällby,9389,1,15,2011-06-23T19:00+0200,Allsvenskan,44165,Peter Ijeh,60,home,2,1,11,11,0,0
+1588839,13,Syrianska,23026,3,11,Mjällby,9389,1,15,2011-06-23T19:00+0200,Allsvenskan,44165,Erkan Saglik,87,home,3,1,11,11,0,0
+1588840,13,Örebro,9379,1,6,Djurgården,9368,2,13,2011-06-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588840,13,Örebro,9379,1,6,Djurgården,9368,2,13,2011-06-23T19:00+0200,Allsvenskan,44165,Paulo de Oliveira,28,home,1,0,11,11,0,0
+1588840,13,Örebro,9379,1,6,Djurgården,9368,2,13,2011-06-23T19:00+0200,Allsvenskan,44165,Joona Toivio,34,visiting,1,1,11,11,0,0
+1588840,13,Örebro,9379,1,6,Djurgården,9368,2,13,2011-06-23T19:00+0200,Allsvenskan,44165,Kasper Hämäläinen,51,visiting,1,2,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Magnus Andersson,12,visiting,0,1,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Rasmus Jönsson,21,home,1,1,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,May Mahlangu,22,home,2,1,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Marcus Pode,24,visiting,2,2,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Alexander Gerndt,32,home,3,2,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Alexander Gerndt,35,home,4,2,11,11,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Rasmus Jönsson,53,home,5,2,11,10,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Mattias Adelstam,69,visiting,5,3,11,10,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Erik Sundin,82,home,6,3,11,10,0,0
+1588841,13,Helsingborg,9373,7,1,Trelleborgs FF,9377,3,14,2011-06-23T19:00+0200,Allsvenskan,44165,Erik Sundin,86,home,7,3,11,10,0,0
+1588842,13,Kalmar FF,9374,2,3,Gais,9382,1,7,2011-06-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588842,13,Kalmar FF,9374,2,3,Gais,9382,1,7,2011-06-23T19:00+0200,Allsvenskan,44165,Paulus Arajuuri,8,home,1,0,11,11,0,0
+1588842,13,Kalmar FF,9374,2,3,Gais,9382,1,7,2011-06-23T19:00+0200,Allsvenskan,44165,Mervan Celik,51,visiting,1,1,11,11,0,0
+1588842,13,Kalmar FF,9374,2,3,Gais,9382,1,7,2011-06-23T19:00+0200,Allsvenskan,44165,Paulus Arajuuri,89,home,2,1,11,11,0,0
+1588843,13,Malmö FF,9375,0,5,Gefle,9400,0,4,2011-06-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588844,14,Mjällby,9389,2,14,Örebro,9379,1,8,2011-06-26T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588844,14,Mjällby,9389,2,14,Örebro,9379,1,8,2011-06-26T16:30+0200,Allsvenskan,44165,Marcus Ekenberg,31,home,1,0,11,11,0,0
+1588844,14,Mjällby,9389,2,14,Örebro,9379,1,8,2011-06-26T16:30+0200,Allsvenskan,44165,Daniel Nilsson,59,home,2,0,11,11,0,0
+1588844,14,Mjällby,9389,2,14,Örebro,9379,1,8,2011-06-26T16:30+0200,Allsvenskan,44165,Valdet Rama,65,visiting,2,1,11,11,0,0
+1588845,14,Gais,9382,2,5,Malmö FF,9375,0,7,2011-06-26T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588845,14,Gais,9382,2,5,Malmö FF,9375,0,7,2011-06-26T16:30+0200,Allsvenskan,44165,Mervan Celik,2,home,1,0,11,11,0,0
+1588845,14,Gais,9382,2,5,Malmö FF,9375,0,7,2011-06-26T16:30+0200,Allsvenskan,44165,Alvaro Santos,75,home,2,0,11,10,0,0
+1588846,14,Trelleborgs FF,9377,1,15,AIK,9367,2,6,2011-06-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588846,14,Trelleborgs FF,9377,1,15,AIK,9367,2,6,2011-06-26T19:00+0200,Allsvenskan,44165,Ibrahim Koroma,24,home,1,0,11,11,0,0
+1588846,14,Trelleborgs FF,9377,1,15,AIK,9367,2,6,2011-06-26T19:00+0200,Allsvenskan,44165,Martin Lorentzson,50,visiting,1,1,11,11,0,0
+1588846,14,Trelleborgs FF,9377,1,15,AIK,9367,2,6,2011-06-26T19:00+0200,Allsvenskan,44165,Teteh Bangura,76,visiting,1,2,11,11,0,0
+1588847,14,Gefle,9400,1,4,Göteborg,9370,0,10,2011-06-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588847,14,Gefle,9400,1,4,Göteborg,9370,0,10,2011-06-26T19:00+0200,Allsvenskan,44165,Mikael Dahlberg,26,home,1,0,11,11,0,0
+1588849,14,Djurgården,9368,1,11,Häcken,19740,0,9,2011-06-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588849,14,Djurgården,9368,1,11,Häcken,19740,0,9,2011-06-26T19:00+0200,Allsvenskan,44165,Daniel Sjölund,79,home,1,0,11,11,0,0
+1588848,14,Elfsborg,9369,2,2,Syrianska,23026,1,12,2011-06-27T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588848,14,Elfsborg,9369,2,2,Syrianska,23026,1,12,2011-06-27T19:00+0200,Allsvenskan,44165,Lasse Nilsson,30,home,1,0,11,11,0,0
+1588848,14,Elfsborg,9369,2,2,Syrianska,23026,1,12,2011-06-27T19:00+0200,Allsvenskan,44165,Rabi Elia,35,visiting,1,1,11,11,0,0
+1588848,14,Elfsborg,9369,2,2,Syrianska,23026,1,12,2011-06-27T19:00+0200,Allsvenskan,44165,Oscar Hiljemark,45,home,2,1,11,11,0,0
+1588850,14,Halmstad,9371,1,16,Helsingborg,9373,2,1,2011-06-27T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588850,14,Halmstad,9371,1,16,Helsingborg,9373,2,1,2011-06-27T19:00+0200,Allsvenskan,44165,Peter Larsson,22,visiting,0,1,11,11,0,0
+1588850,14,Halmstad,9371,1,16,Helsingborg,9373,2,1,2011-06-27T19:00+0200,Allsvenskan,44165,Peter Larsson,67,visiting,0,2,11,11,0,0
+1588850,14,Halmstad,9371,1,16,Helsingborg,9373,2,1,2011-06-27T19:00+0200,Allsvenskan,44165,Emil Salomonsson,90,home,1,2,11,11,0,0
+1588851,14,Norrköping,9376,1,13,Kalmar FF,9374,2,3,2011-06-27T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588851,14,Norrköping,9376,1,13,Kalmar FF,9374,2,3,2011-06-27T19:00+0200,Allsvenskan,44165,Astrit Ajdarevic,15,home,1,0,11,11,0,0
+1588851,14,Norrköping,9376,1,13,Kalmar FF,9374,2,3,2011-06-27T19:00+0200,Allsvenskan,44165,Kristoffer Fagercrantz,39,visiting,1,1,11,11,0,0
+1588851,14,Norrköping,9376,1,13,Kalmar FF,9374,2,3,2011-06-27T19:00+0200,Allsvenskan,44165,Ricardo Santos,65,visiting,1,2,11,11,0,0
+1588852,15,Syrianska,23026,1,12,Göteborg,9370,2,9,2011-07-02T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588852,15,Syrianska,23026,1,12,Göteborg,9370,2,9,2011-07-02T16:00+0200,Allsvenskan,44165,Mikael Dyrestam,30,visiting,0,1,11,11,0,0
+1588852,15,Syrianska,23026,1,12,Göteborg,9370,2,9,2011-07-02T16:00+0200,Allsvenskan,44165,Sharbel Touma,54,home,1,1,11,11,0,0
+1588852,15,Syrianska,23026,1,12,Göteborg,9370,2,9,2011-07-02T16:00+0200,Allsvenskan,44165,Hannes Stiller,70,visiting,1,2,11,11,0,0
+1588853,15,Kalmar FF,9374,3,3,Trelleborgs FF,9377,2,14,2011-07-02T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588853,15,Kalmar FF,9374,3,3,Trelleborgs FF,9377,2,14,2011-07-02T16:00+0200,Allsvenskan,44165,Daniel Mendes,2,home,1,0,11,11,0,0
+1588853,15,Kalmar FF,9374,3,3,Trelleborgs FF,9377,2,14,2011-07-02T16:00+0200,Allsvenskan,44165,Daniel Sobralense,26,home,2,0,11,11,0,0
+1588853,15,Kalmar FF,9374,3,3,Trelleborgs FF,9377,2,14,2011-07-02T16:00+0200,Allsvenskan,44165,Tobias Eriksson,45,home,3,0,11,11,0,0
+1588853,15,Kalmar FF,9374,3,3,Trelleborgs FF,9377,2,14,2011-07-02T16:00+0200,Allsvenskan,44165,Kristian Haynes,87,visiting,3,1,10,11,0,0
+1588853,15,Kalmar FF,9374,3,3,Trelleborgs FF,9377,2,14,2011-07-02T16:00+0200,Allsvenskan,44165,Andreas Grahm,90,visiting,3,2,10,11,0,0
+1588854,15,Gais,9382,2,7,Gefle,9400,3,4,2011-07-02T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588854,15,Gais,9382,2,7,Gefle,9400,3,4,2011-07-02T18:00+0200,Allsvenskan,44165,Mikael Dahlberg,5,visiting,0,1,11,11,0,0
+1588854,15,Gais,9382,2,7,Gefle,9400,3,4,2011-07-02T18:00+0200,Allsvenskan,44165,Mikael Dahlberg,14,visiting,0,2,11,11,0,0
+1588854,15,Gais,9382,2,7,Gefle,9400,3,4,2011-07-02T18:00+0200,Allsvenskan,44165,Jakob Orlov,20,visiting,0,3,11,11,0,0
+1588854,15,Gais,9382,2,7,Gefle,9400,3,4,2011-07-02T18:00+0200,Allsvenskan,44165,Romário Pereira Sipiäo,50,home,1,3,11,11,0,0
+1588854,15,Gais,9382,2,7,Gefle,9400,3,4,2011-07-02T18:00+0200,Allsvenskan,44165,Wanderson do Carmo,90,home,2,3,11,11,1,1
+1588855,15,Örebro,9379,0,10,Elfsborg,9369,3,2,2011-07-03T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588855,15,Örebro,9379,0,10,Elfsborg,9369,3,2,2011-07-03T16:30+0200,Allsvenskan,44165,Stefan Ishizaki,10,visiting,0,1,11,11,0,0
+1588855,15,Örebro,9379,0,10,Elfsborg,9369,3,2,2011-07-03T16:30+0200,Allsvenskan,44165,Amadou Jawo,89,visiting,0,2,10,11,0,0
+1588855,15,Örebro,9379,0,10,Elfsborg,9369,3,2,2011-07-03T16:30+0200,Allsvenskan,44165,Johan Larsson,90,visiting,0,3,10,11,0,0
+1588858,15,Malmö FF,9375,2,6,Norrköping,9376,1,13,2011-07-03T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588858,15,Malmö FF,9375,2,6,Norrköping,9376,1,13,2011-07-03T16:30+0200,Allsvenskan,44165,Jimmy Durmaz,4,home,1,0,11,11,0,0
+1588858,15,Malmö FF,9375,2,6,Norrköping,9376,1,13,2011-07-03T16:30+0200,Allsvenskan,44165,Daniel Larsson,45,home,2,0,11,11,0,0
+1588858,15,Malmö FF,9375,2,6,Norrköping,9376,1,13,2011-07-03T16:30+0200,Allsvenskan,44165,Imad Khalili,78,visiting,2,1,11,11,0,0
+1588856,15,Halmstad,9371,1,16,AIK,9367,3,5,2011-07-03T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588856,15,Halmstad,9371,1,16,AIK,9367,3,5,2011-07-03T19:00+0200,Allsvenskan,44165,Joe Sise,17,home,1,0,11,11,0,0
+1588856,15,Halmstad,9371,1,16,AIK,9367,3,5,2011-07-03T19:00+0200,Allsvenskan,44165,Mohamed Bangura,33,visiting,1,1,11,11,0,0
+1588856,15,Halmstad,9371,1,16,AIK,9367,3,5,2011-07-03T19:00+0200,Allsvenskan,44165,Teteh Bangura,48,visiting,1,2,11,11,0,0
+1588856,15,Halmstad,9371,1,16,AIK,9367,3,5,2011-07-03T19:00+0200,Allsvenskan,44165,Teteh Bangura,86,visiting,1,3,11,11,0,0
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,John Chibuike,7,home,1,0,11,11,0,0
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,Rene Makondele,19,home,2,0,11,11,0,0
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,Kari Arkivuo,39,home,3,0,11,11,0,0
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,Mathias Ranégie,59,home,4,0,11,11,0,0
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,John Chibuike,72,home,5,0,11,11,0,0
+1588857,15,Häcken,19740,6,8,Mjällby,9389,0,15,2011-07-03T19:00+0200,Allsvenskan,44165,Peter Nyström,77,home,6,0,11,11,0,0
+1588859,15,Djurgården,9368,1,11,Helsingborg,9373,1,1,2011-07-04T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588859,15,Djurgården,9368,1,11,Helsingborg,9373,1,1,2011-07-04T19:00+0200,Allsvenskan,44165,Philip Hellquist,37,home,1,0,11,11,0,0
+1588859,15,Djurgården,9368,1,11,Helsingborg,9373,1,1,2011-07-04T19:00+0200,Allsvenskan,44165,Alexander Gerndt,69,visiting,1,1,11,11,0,0
+1588860,16,Gefle,9400,1,5,Gais,9382,3,6,2011-07-09T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588860,16,Gefle,9400,1,5,Gais,9382,3,6,2011-07-09T16:00+0200,Allsvenskan,44165,Eric Magloire Bassombeng,22,visiting,0,1,11,11,0,0
+1588860,16,Gefle,9400,1,5,Gais,9382,3,6,2011-07-09T16:00+0200,Allsvenskan,44165,Mikael Dahlberg,56,home,1,1,10,11,0,0
+1588860,16,Gefle,9400,1,5,Gais,9382,3,6,2011-07-09T16:00+0200,Allsvenskan,44165,Mervan Celik,79,visiting,1,2,10,11,0,0
+1588860,16,Gefle,9400,1,5,Gais,9382,3,6,2011-07-09T16:00+0200,Allsvenskan,44165,Razak Omotoyossi,87,visiting,1,3,10,11,0,0
+1588861,16,Trelleborgs FF,9377,3,12,Kalmar FF,9374,2,4,2011-07-09T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588861,16,Trelleborgs FF,9377,3,12,Kalmar FF,9374,2,4,2011-07-09T18:00+0200,Allsvenskan,44165,Erik Israelsson,7,visiting,0,1,11,11,0,0
+1588861,16,Trelleborgs FF,9377,3,12,Kalmar FF,9374,2,4,2011-07-09T18:00+0200,Allsvenskan,44165,Marcus Pode,56,home,1,1,11,11,0,0
+1588861,16,Trelleborgs FF,9377,3,12,Kalmar FF,9374,2,4,2011-07-09T18:00+0200,Allsvenskan,44165,Kristian Haynes,81,home,2,1,11,10,0,0
+1588861,16,Trelleborgs FF,9377,3,12,Kalmar FF,9374,2,4,2011-07-09T18:00+0200,Allsvenskan,44165,Henrik Rydström,88,visiting,2,2,11,10,0,0
+1588861,16,Trelleborgs FF,9377,3,12,Kalmar FF,9374,2,4,2011-07-09T18:00+0200,Allsvenskan,44165,Fredrik Jensen,90,home,3,2,11,10,0,0
+1588863,16,Norrköping,9376,0,13,Malmö FF,9375,0,8,2011-07-09T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588862,16,Mjällby,9389,1,15,Häcken,19740,2,7,2011-07-10T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588862,16,Mjällby,9389,1,15,Häcken,19740,2,7,2011-07-10T16:30+0200,Allsvenskan,44165,Mathias Ranégie,22,visiting,0,1,11,11,0,0
+1588862,16,Mjällby,9389,1,15,Häcken,19740,2,7,2011-07-10T16:30+0200,Allsvenskan,44165,självmål,67,home,1,1,11,11,0,0
+1588862,16,Mjällby,9389,1,15,Häcken,19740,2,7,2011-07-10T16:30+0200,Allsvenskan,44165,Peter Nyström,85,visiting,1,2,11,11,0,0
+1588864,16,Göteborg,9370,3,9,Syrianska,23026,0,14,2011-07-10T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588864,16,Göteborg,9370,3,9,Syrianska,23026,0,14,2011-07-10T16:30+0200,Allsvenskan,44165,Stefan Selakovic,72,home,1,0,11,10,0,0
+1588864,16,Göteborg,9370,3,9,Syrianska,23026,0,14,2011-07-10T16:30+0200,Allsvenskan,44165,Stefan Selakovic,87,home,2,0,11,10,0,0
+1588864,16,Göteborg,9370,3,9,Syrianska,23026,0,14,2011-07-10T16:30+0200,Allsvenskan,44165,Stefan Selakovic,90,home,3,0,11,10,0,0
+1588865,16,Elfsborg,9369,3,2,Örebro,9379,0,10,2011-07-10T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588865,16,Elfsborg,9369,3,2,Örebro,9379,0,10,2011-07-10T19:00+0200,Allsvenskan,44165,Stefan Ishizaki,25,home,1,0,11,11,0,0
+1588865,16,Elfsborg,9369,3,2,Örebro,9379,0,10,2011-07-10T19:00+0200,Allsvenskan,44165,Oscar Hiljemark,84,home,2,0,11,11,0,0
+1588865,16,Elfsborg,9369,3,2,Örebro,9379,0,10,2011-07-10T19:00+0200,Allsvenskan,44165,Anders Svensson,90,home,3,0,11,11,0,0
+1588866,16,Helsingborg,9373,3,1,Djurgården,9368,0,11,2011-07-11T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588866,16,Helsingborg,9373,3,1,Djurgården,9368,0,11,2011-07-11T19:00+0200,Allsvenskan,44165,Alexander Gerndt,49,home,1,0,11,11,0,0
+1588866,16,Helsingborg,9373,3,1,Djurgården,9368,0,11,2011-07-11T19:00+0200,Allsvenskan,44165,Ardian Gashi,54,home,2,0,11,11,0,0
+1588866,16,Helsingborg,9373,3,1,Djurgården,9368,0,11,2011-07-11T19:00+0200,Allsvenskan,44165,Christoffer Andersson,84,home,3,0,11,11,0,0
+1588867,16,AIK,9367,4,3,Halmstad,9371,0,16,2011-07-11T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588867,16,AIK,9367,4,3,Halmstad,9371,0,16,2011-07-11T19:00+0200,Allsvenskan,44165,Teteh Bangura,13,home,1,0,11,11,0,0
+1588867,16,AIK,9367,4,3,Halmstad,9371,0,16,2011-07-11T19:00+0200,Allsvenskan,44165,Teteh Bangura,15,home,2,0,11,11,0,0
+1588867,16,AIK,9367,4,3,Halmstad,9371,0,16,2011-07-11T19:00+0200,Allsvenskan,44165,Teteh Bangura,44,home,3,0,11,11,0,0
+1588867,16,AIK,9367,4,3,Halmstad,9371,0,16,2011-07-11T19:00+0200,Allsvenskan,44165,Teteh Bangura,57,home,4,0,11,11,0,0
+1588870,17,Norrköping,9376,2,13,Syrianska,23026,1,14,2011-07-16T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588870,17,Norrköping,9376,2,13,Syrianska,23026,1,14,2011-07-16T16:00+0200,Allsvenskan,44165,Peter Ijeh,20,visiting,0,1,11,11,0,0
+1588870,17,Norrköping,9376,2,13,Syrianska,23026,1,14,2011-07-16T16:00+0200,Allsvenskan,44165,Martin Smedberg Dalence,56,home,1,1,11,11,0,0
+1588870,17,Norrköping,9376,2,13,Syrianska,23026,1,14,2011-07-16T16:00+0200,Allsvenskan,44165,Sphetim Hasani,62,home,2,1,11,11,0,0
+1588869,17,Djurgården,9368,1,10,Mjällby,9389,0,15,2011-07-16T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588869,17,Djurgården,9368,1,10,Mjällby,9389,0,15,2011-07-16T18:00+0200,Allsvenskan,44165,Johan Oremo,80,home,1,0,11,11,0,0
+1588871,17,Gefle,9400,0,7,AIK,9367,3,3,2011-07-17T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588871,17,Gefle,9400,0,7,AIK,9367,3,3,2011-07-17T16:30+0200,Allsvenskan,44165,Robert Åhman-Persson,57,visiting,0,1,11,11,0,0
+1588871,17,Gefle,9400,0,7,AIK,9367,3,3,2011-07-17T16:30+0200,Allsvenskan,44165,Martin Kayongo-Mutumba,68,visiting,0,2,11,11,0,0
+1588871,17,Gefle,9400,0,7,AIK,9367,3,3,2011-07-17T16:30+0200,Allsvenskan,44165,Teteh Bangura,71,visiting,0,3,11,11,0,0
+1588872,17,Gais,9382,4,4,Örebro,9379,1,11,2011-07-17T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588872,17,Gais,9382,4,4,Örebro,9379,1,11,2011-07-17T16:30+0200,Allsvenskan,44165,Robin Staaf,29,visiting,0,1,11,11,0,0
+1588872,17,Gais,9382,4,4,Örebro,9379,1,11,2011-07-17T16:30+0200,Allsvenskan,44165,Eric Magloire Bassombeng,33,home,1,1,11,11,0,0
+1588872,17,Gais,9382,4,4,Örebro,9379,1,11,2011-07-17T16:30+0200,Allsvenskan,44165,Wanderson do Carmo,48,home,2,1,11,11,0,0
+1588872,17,Gais,9382,4,4,Örebro,9379,1,11,2011-07-17T16:30+0200,Allsvenskan,44165,Alvaro Santos,71,home,3,1,11,11,0,0
+1588872,17,Gais,9382,4,4,Örebro,9379,1,11,2011-07-17T16:30+0200,Allsvenskan,44165,Razak Omotoyossi,77,home,4,1,11,11,0,0
+1588873,17,Halmstad,9371,1,16,Elfsborg,9369,2,2,2011-07-17T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588873,17,Halmstad,9371,1,16,Elfsborg,9369,2,2,2011-07-17T19:00+0200,Allsvenskan,44165,Joe Sise,17,home,1,0,11,11,0,0
+1588873,17,Halmstad,9371,1,16,Elfsborg,9369,2,2,2011-07-17T19:00+0200,Allsvenskan,44165,David Elm,47,visiting,1,1,11,11,0,0
+1588873,17,Halmstad,9371,1,16,Elfsborg,9369,2,2,2011-07-17T19:00+0200,Allsvenskan,44165,David Elm,90,visiting,1,2,11,11,0,0
+1588874,17,Trelleborgs FF,9377,2,12,Göteborg,9370,0,9,2011-07-18T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588874,17,Trelleborgs FF,9377,2,12,Göteborg,9370,0,9,2011-07-18T19:00+0200,Allsvenskan,44165,Mattias Adelstam,19,home,1,0,11,11,0,0
+1588874,17,Trelleborgs FF,9377,2,12,Göteborg,9370,0,9,2011-07-18T19:00+0200,Allsvenskan,44165,Marcus Pode,47,home,2,0,11,11,0,0
+1588875,17,Kalmar FF,9374,1,5,Helsingborg,9373,2,1,2011-07-18T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588875,17,Kalmar FF,9374,1,5,Helsingborg,9373,2,1,2011-07-18T19:00+0200,Allsvenskan,44165,Daniel Sobralense,13,home,1,0,11,11,0,0
+1588875,17,Kalmar FF,9374,1,5,Helsingborg,9373,2,1,2011-07-18T19:00+0200,Allsvenskan,44165,Rasmus Jönsson,16,visiting,1,1,11,11,0,0
+1588875,17,Kalmar FF,9374,1,5,Helsingborg,9373,2,1,2011-07-18T19:00+0200,Allsvenskan,44165,Rasmus Jönsson,58,visiting,1,2,11,11,0,0
+1588876,18,Helsingborg,9373,2,1,Malmö FF,9375,2,6,2011-07-23T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588876,18,Helsingborg,9373,2,1,Malmö FF,9375,2,6,2011-07-23T16:00+0200,Allsvenskan,44165,Erik Sundin,25,home,1,0,11,11,0,0
+1588876,18,Helsingborg,9373,2,1,Malmö FF,9375,2,6,2011-07-23T16:00+0200,Allsvenskan,44165,Markus Halsti,36,visiting,1,1,11,11,0,0
+1588876,18,Helsingborg,9373,2,1,Malmö FF,9375,2,6,2011-07-23T16:00+0200,Allsvenskan,44165,Dardan Rexhepi,45,visiting,1,2,11,11,0,0
+1588876,18,Helsingborg,9373,2,1,Malmö FF,9375,2,6,2011-07-23T16:00+0200,Allsvenskan,44165,Rasmus Jönsson,54,home,2,2,11,11,0,0
+1588877,18,Syrianska,23026,4,14,Trelleborgs FF,9377,1,12,2011-07-23T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588877,18,Syrianska,23026,4,14,Trelleborgs FF,9377,1,12,2011-07-23T18:00+0200,Allsvenskan,44165,Nahir Oyal,7,home,1,0,11,11,0,0
+1588877,18,Syrianska,23026,4,14,Trelleborgs FF,9377,1,12,2011-07-23T18:00+0200,Allsvenskan,44165,Rabi Elia,10,home,2,0,11,11,0,0
+1588877,18,Syrianska,23026,4,14,Trelleborgs FF,9377,1,12,2011-07-23T18:00+0200,Allsvenskan,44165,Thommie Persson,18,visiting,2,1,11,11,0,0
+1588877,18,Syrianska,23026,4,14,Trelleborgs FF,9377,1,12,2011-07-23T18:00+0200,Allsvenskan,44165,Peter Ijeh,26,home,3,1,11,11,0,0
+1588877,18,Syrianska,23026,4,14,Trelleborgs FF,9377,1,12,2011-07-23T18:00+0200,Allsvenskan,44165,Imad Zatara,54,home,4,1,11,11,0,0
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,David Löfquist,13,home,1,0,11,11,0,0
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,David Löfquist,15,home,2,0,11,11,0,0
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,Jakob Orlov,54,visiting,2,1,11,11,0,0
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,Marcus Ekenberg,57,home,3,1,11,11,0,0
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,Marcus Ekenberg,67,home,4,1,11,11,0,0
+1588878,18,Mjällby,9389,5,15,Gefle,9400,1,9,2011-07-23T18:00+0200,Allsvenskan,44165,Anton Dalström,89,home,5,1,11,11,0,0
+1588879,18,Häcken,19740,2,7,Gais,9382,0,4,2011-07-24T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588879,18,Häcken,19740,2,7,Gais,9382,0,4,2011-07-24T16:30+0200,Allsvenskan,44165,John Chibuike,53,home,1,0,11,11,0,0
+1588879,18,Häcken,19740,2,7,Gais,9382,0,4,2011-07-24T16:30+0200,Allsvenskan,44165,Rene Makondele,77,home,2,0,11,11,0,0
+1588880,18,AIK,9367,2,3,Kalmar FF,9374,1,5,2011-07-24T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588880,18,AIK,9367,2,3,Kalmar FF,9374,1,5,2011-07-24T16:30+0200,Allsvenskan,44165,Robert Åhman-Persson,3,home,1,0,11,11,0,0
+1588880,18,AIK,9367,2,3,Kalmar FF,9374,1,5,2011-07-24T16:30+0200,Allsvenskan,44165,Mohamed Bangura,35,home,2,0,11,11,0,0
+1588880,18,AIK,9367,2,3,Kalmar FF,9374,1,5,2011-07-24T16:30+0200,Allsvenskan,44165,Daniel Sobralense,80,visiting,2,1,11,11,0,0
+1588881,18,Örebro,9379,2,10,Norrköping,9376,0,13,2011-07-24T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588881,18,Örebro,9379,2,10,Norrköping,9376,0,13,2011-07-24T19:00+0200,Allsvenskan,44165,Kushtrim Lushtaku,16,home,1,0,11,11,0,0
+1588881,18,Örebro,9379,2,10,Norrköping,9376,0,13,2011-07-24T19:00+0200,Allsvenskan,44165,Robin Staaf,24,home,2,0,11,11,0,0
+1588882,18,Göteborg,9370,3,8,Halmstad,9371,1,16,2011-07-25T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588882,18,Göteborg,9370,3,8,Halmstad,9371,1,16,2011-07-25T19:00+0200,Allsvenskan,44165,Tobias Hysén,16,home,1,0,11,11,0,0
+1588882,18,Göteborg,9370,3,8,Halmstad,9371,1,16,2011-07-25T19:00+0200,Allsvenskan,44165,Tobias Hysén,38,home,2,0,11,11,0,0
+1588882,18,Göteborg,9370,3,8,Halmstad,9371,1,16,2011-07-25T19:00+0200,Allsvenskan,44165,Tobias Hysén,56,home,3,0,11,11,0,0
+1588882,18,Göteborg,9370,3,8,Halmstad,9371,1,16,2011-07-25T19:00+0200,Allsvenskan,44165,Emil Salomonsson,61,visiting,3,1,11,11,0,0
+1588883,18,Elfsborg,9369,2,2,Djurgården,9368,1,11,2011-07-25T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588883,18,Elfsborg,9369,2,2,Djurgården,9368,1,11,2011-07-25T19:00+0200,Allsvenskan,44165,Joona Toivio,18,visiting,0,1,11,11,0,0
+1588883,18,Elfsborg,9369,2,2,Djurgården,9368,1,11,2011-07-25T19:00+0200,Allsvenskan,44165,Daniel Mobaeck,34,home,1,1,11,11,0,0
+1588883,18,Elfsborg,9369,2,2,Djurgården,9368,1,11,2011-07-25T19:00+0200,Allsvenskan,44165,Stefan Ishizaki,86,home,2,1,11,11,0,0
+1588886,19,Norrköping,9376,2,11,Trelleborgs FF,9377,1,14,2011-07-30T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588886,19,Norrköping,9376,2,11,Trelleborgs FF,9377,1,14,2011-07-30T18:00+0200,Allsvenskan,44165,Astrit Ajdarevic,16,home,1,0,11,11,0,0
+1588886,19,Norrköping,9376,2,11,Trelleborgs FF,9377,1,14,2011-07-30T18:00+0200,Allsvenskan,44165,Kristian Haynes,44,visiting,1,1,11,11,0,0
+1588886,19,Norrköping,9376,2,11,Trelleborgs FF,9377,1,14,2011-07-30T18:00+0200,Allsvenskan,44165,Sphetim Hasani,79,home,2,1,11,11,0,0
+1588887,19,Helsingborg,9373,2,1,Göteborg,9370,1,8,2011-07-31T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588887,19,Helsingborg,9373,2,1,Göteborg,9370,1,8,2011-07-31T16:30+0200,Allsvenskan,44165,Christoffer Andersson,70,home,1,0,11,11,0,0
+1588887,19,Helsingborg,9373,2,1,Göteborg,9370,1,8,2011-07-31T16:30+0200,Allsvenskan,44165,May Mahlangu,75,home,2,0,11,11,0,0
+1588887,19,Helsingborg,9373,2,1,Göteborg,9370,1,8,2011-07-31T16:30+0200,Allsvenskan,44165,Tobias Hysén,90,visiting,2,1,11,11,0,0
+1588888,19,Gefle,9400,0,9,Örebro,9379,1,10,2011-07-31T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588888,19,Gefle,9400,0,9,Örebro,9379,1,10,2011-07-31T16:30+0200,Allsvenskan,44165,Paulo de Oliveira,28,visiting,0,1,11,11,0,0
+1588884,19,Häcken,19740,4,6,Syrianska,23026,0,15,2011-07-31T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588884,19,Häcken,19740,4,6,Syrianska,23026,0,15,2011-07-31T19:00+0200,Allsvenskan,44165,Mathias Ranégie,50,home,1,0,11,11,0,0
+1588884,19,Häcken,19740,4,6,Syrianska,23026,0,15,2011-07-31T19:00+0200,Allsvenskan,44165,John Chibuike,55,home,2,0,11,11,0,0
+1588884,19,Häcken,19740,4,6,Syrianska,23026,0,15,2011-07-31T19:00+0200,Allsvenskan,44165,John Chibuike,63,home,3,0,11,11,0,0
+1588884,19,Häcken,19740,4,6,Syrianska,23026,0,15,2011-07-31T19:00+0200,Allsvenskan,44165,Jonas Henriksson,70,home,4,0,11,11,0,0
+1588889,19,AIK,9367,0,3,Elfsborg,9369,1,2,2011-07-31T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588889,19,AIK,9367,0,3,Elfsborg,9369,1,2,2011-07-31T19:00+0200,Allsvenskan,44165,Lasse Nilsson,4,visiting,0,1,11,11,0,0
+1588890,19,Kalmar FF,9374,0,7,Mjällby,9389,3,13,2011-08-01T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588890,19,Kalmar FF,9374,0,7,Mjällby,9389,3,13,2011-08-01T19:00+0200,Allsvenskan,44165,David Löfquist,84,visiting,0,1,11,11,0,0
+1588890,19,Kalmar FF,9374,0,7,Mjällby,9389,3,13,2011-08-01T19:00+0200,Allsvenskan,44165,Patrick Osiako,86,visiting,0,2,11,11,0,0
+1588890,19,Kalmar FF,9374,0,7,Mjällby,9389,3,13,2011-08-01T19:00+0200,Allsvenskan,44165,Pär Ericsson,87,visiting,0,3,11,11,0,0
+1588891,19,Gais,9382,2,4,Halmstad,9371,1,16,2011-08-01T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588891,19,Gais,9382,2,4,Halmstad,9371,1,16,2011-08-01T19:00+0200,Allsvenskan,44165,Michael Görlitz,5,visiting,0,1,11,11,0,0
+1588891,19,Gais,9382,2,4,Halmstad,9371,1,16,2011-08-01T19:00+0200,Allsvenskan,44165,Mervan Celik,14,home,1,1,11,11,0,0
+1588891,19,Gais,9382,2,4,Halmstad,9371,1,16,2011-08-01T19:00+0200,Allsvenskan,44165,Mervan Celik,83,home,2,1,11,11,0,0
+1588893,20,Göteborg,9370,3,7,AIK,9367,1,3,2011-08-04T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588893,20,Göteborg,9370,3,7,AIK,9367,1,3,2011-08-04T19:00+0200,Allsvenskan,44165,Mohamed Bangura,2,visiting,0,1,11,11,0,0
+1588893,20,Göteborg,9370,3,7,AIK,9367,1,3,2011-08-04T19:00+0200,Allsvenskan,44165,Stefan Selakovic,5,home,1,1,11,11,0,0
+1588893,20,Göteborg,9370,3,7,AIK,9367,1,3,2011-08-04T19:00+0200,Allsvenskan,44165,Sebastian Eriksson,20,home,2,1,11,11,0,0
+1588893,20,Göteborg,9370,3,7,AIK,9367,1,3,2011-08-04T19:00+0200,Allsvenskan,44165,Tobias Hysén,52,home,3,1,11,11,0,0
+1588898,20,Mjällby,9389,1,14,Malmö FF,9375,1,5,2011-08-06T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588898,20,Mjällby,9389,1,14,Malmö FF,9375,1,5,2011-08-06T16:00+0200,Allsvenskan,44165,Jiloan Hamad,57,visiting,0,1,11,11,0,2
+1588898,20,Mjällby,9389,1,14,Malmö FF,9375,1,5,2011-08-06T16:00+0200,Allsvenskan,44165,Pär Ericsson,65,home,1,1,11,11,0,2
+1588897,20,Trelleborgs FF,9377,2,11,Gefle,9400,0,10,2011-08-06T18:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588897,20,Trelleborgs FF,9377,2,11,Gefle,9400,0,10,2011-08-06T18:00+0200,Allsvenskan,44165,Fredrik Jensen,51,home,1,0,11,11,0,1
+1588897,20,Trelleborgs FF,9377,2,11,Gefle,9400,0,10,2011-08-06T18:00+0200,Allsvenskan,44165,Marcus Pode,90,home,2,0,11,11,0,2
+1588892,20,Syrianska,23026,1,15,Helsingborg,9373,2,1,2011-08-07T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588892,20,Syrianska,23026,1,15,Helsingborg,9373,2,1,2011-08-07T16:30+0200,Allsvenskan,44165,Nahir Oyal,47,home,1,0,11,11,0,0
+1588892,20,Syrianska,23026,1,15,Helsingborg,9373,2,1,2011-08-07T16:30+0200,Allsvenskan,44165,Joseph Baffo,78,visiting,1,1,11,11,0,0
+1588892,20,Syrianska,23026,1,15,Helsingborg,9373,2,1,2011-08-07T16:30+0200,Allsvenskan,44165,Peter Larsson,90,visiting,1,2,9,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Emil Salomonsson,8,home,1,0,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Sphetim Hasani,45,visiting,1,1,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,51,visiting,1,2,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Christopher Telo,60,visiting,1,3,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Joe Sise,67,home,2,3,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Joel Johansson,70,home,3,3,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Astrit Ajdarevic,73,visiting,3,4,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Marcus Olsson,77,home,4,4,11,11,0,0
+1588896,20,Halmstad,9371,5,16,Norrköping,9376,4,13,2011-08-07T16:30+0200,Allsvenskan,44165,Joe Sise,89,home,5,4,11,11,0,0
+1588899,20,Örebro,9379,4,9,Häcken,19740,0,6,2011-08-07T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588899,20,Örebro,9379,4,9,Häcken,19740,0,6,2011-08-07T16:30+0200,Allsvenskan,44165,Robin Staaf,34,home,1,0,11,11,0,0
+1588899,20,Örebro,9379,4,9,Häcken,19740,0,6,2011-08-07T16:30+0200,Allsvenskan,44165,Valdet Rama,61,home,2,0,11,11,0,0
+1588899,20,Örebro,9379,4,9,Häcken,19740,0,6,2011-08-07T16:30+0200,Allsvenskan,44165,Kushtrim Lushtaku,82,home,3,0,11,11,0,0
+1588899,20,Örebro,9379,4,9,Häcken,19740,0,6,2011-08-07T16:30+0200,Allsvenskan,44165,Magnus Kihlberg,90,home,4,0,11,11,0,0
+1588895,20,Djurgården,9368,2,12,Gais,9382,2,4,2011-08-07T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588895,20,Djurgården,9368,2,12,Gais,9382,2,4,2011-08-07T19:00+0200,Allsvenskan,44165,Markus Gustafsson,2,visiting,0,1,11,11,0,0
+1588895,20,Djurgården,9368,2,12,Gais,9382,2,4,2011-08-07T19:00+0200,Allsvenskan,44165,Peter Nymann,57,home,1,1,11,11,0,0
+1588895,20,Djurgården,9368,2,12,Gais,9382,2,4,2011-08-07T19:00+0200,Allsvenskan,44165,Eric Magloire Bassombeng,64,visiting,1,2,11,11,0,0
+1588895,20,Djurgården,9368,2,12,Gais,9382,2,4,2011-08-07T19:00+0200,Allsvenskan,44165,Petter Gustafsson,90,home,2,2,11,11,0,0
+1588902,21,Halmstad,9371,0,16,Häcken,19740,1,5,2011-08-13T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588902,21,Halmstad,9371,0,16,Häcken,19740,1,5,2011-08-13T16:00+0200,Allsvenskan,44165,John Chibuike,31,visiting,0,1,11,11,0,0
+1588905,21,Mjällby,9389,3,11,Syrianska,23026,0,15,2011-08-13T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588905,21,Mjällby,9389,3,11,Syrianska,23026,0,15,2011-08-13T16:00+0200,Allsvenskan,44165,Marcus Ekenberg,11,home,1,0,11,11,0,0
+1588905,21,Mjällby,9389,3,11,Syrianska,23026,0,15,2011-08-13T16:00+0200,Allsvenskan,44165,Marcus Ekenberg,40,home,2,0,11,11,0,0
+1588905,21,Mjällby,9389,3,11,Syrianska,23026,0,15,2011-08-13T16:00+0200,Allsvenskan,44165,David Löfquist,62,home,3,0,11,11,0,0
+1588903,21,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,1,2011-08-14T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588903,21,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,1,2011-08-14T16:30+0200,Allsvenskan,44165,Rasmus Jönsson,10,visiting,0,1,11,11,0,0
+1588903,21,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,1,2011-08-14T16:30+0200,Allsvenskan,44165,Rasmus Jönsson,45,visiting,0,2,11,11,0,0
+1588903,21,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,1,2011-08-14T16:30+0200,Allsvenskan,44165,Jörgen Skjelvik,81,visiting,0,3,11,11,0,0
+1588903,21,Trelleborgs FF,9377,1,12,Helsingborg,9373,3,1,2011-08-14T16:30+0200,Allsvenskan,44165,Kristian Haynes,90,home,1,3,11,11,0,0
+1588907,21,Gais,9382,1,4,Kalmar FF,9374,0,9,2011-08-14T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588907,21,Gais,9382,1,4,Kalmar FF,9374,0,9,2011-08-14T16:30+0200,Allsvenskan,44165,Wanderson do Carmo,10,home,1,0,11,11,0,0
+1588901,21,Djurgården,9368,0,13,Örebro,9379,2,7,2011-08-14T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588901,21,Djurgården,9368,0,13,Örebro,9379,2,7,2011-08-14T19:00+0200,Allsvenskan,44165,Paulo de Oliveira,24,visiting,0,1,11,11,0,0
+1588901,21,Djurgården,9368,0,13,Örebro,9379,2,7,2011-08-14T19:00+0200,Allsvenskan,44165,Valdet Rama,29,visiting,0,2,11,11,0,0
+1588904,21,Norrköping,9376,0,14,AIK,9367,1,3,2011-08-15T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588904,21,Norrköping,9376,0,14,AIK,9367,1,3,2011-08-15T19:00+0200,Allsvenskan,44165,Kwame Karikari,38,visiting,0,1,11,11,0,0
+1588900,21,Elfsborg,9369,3,2,Göteborg,9370,2,8,2011-08-15T19:15+0200,Allsvenskan,44165,,,,0,0,,,,
+1588900,21,Elfsborg,9369,3,2,Göteborg,9370,2,8,2011-08-15T19:15+0200,Allsvenskan,44165,Lasse Nilsson,2,home,1,0,11,11,0,0
+1588900,21,Elfsborg,9369,3,2,Göteborg,9370,2,8,2011-08-15T19:15+0200,Allsvenskan,44165,Sebastian Eriksson,37,visiting,1,1,11,11,0,1
+1588900,21,Elfsborg,9369,3,2,Göteborg,9370,2,8,2011-08-15T19:15+0200,Allsvenskan,44165,Anders Svensson,68,home,2,1,11,11,0,1
+1588900,21,Elfsborg,9369,3,2,Göteborg,9370,2,8,2011-08-15T19:15+0200,Allsvenskan,44165,Jakob Johansson,86,visiting,2,2,11,11,1,1
+1588900,21,Elfsborg,9369,3,2,Göteborg,9370,2,8,2011-08-15T19:15+0200,Allsvenskan,44165,David Elm,90,home,3,2,11,11,1,1
+1588913,22,Kalmar FF,9374,5,8,Norrköping,9376,0,14,2011-08-19T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588913,22,Kalmar FF,9374,5,8,Norrköping,9376,0,14,2011-08-19T19:00+0200,Allsvenskan,44165,Tobias Carlsson,8,home,1,0,11,11,0,0
+1588913,22,Kalmar FF,9374,5,8,Norrköping,9376,0,14,2011-08-19T19:00+0200,Allsvenskan,44165,Tobias Carlsson,59,home,2,0,11,11,0,0
+1588913,22,Kalmar FF,9374,5,8,Norrköping,9376,0,14,2011-08-19T19:00+0200,Allsvenskan,44165,Ricardo Santos,83,home,3,0,11,11,0,0
+1588913,22,Kalmar FF,9374,5,8,Norrköping,9376,0,14,2011-08-19T19:00+0200,Allsvenskan,44165,Erik Israelsson,90,home,4,0,11,11,0,0
+1588913,22,Kalmar FF,9374,5,8,Norrköping,9376,0,14,2011-08-19T19:00+0200,Allsvenskan,44165,Abiola Dauda,90,home,5,0,11,11,0,0
+1588914,22,Malmö FF,9375,2,6,Gais,9382,1,5,2011-08-20T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588914,22,Malmö FF,9375,2,6,Gais,9382,1,5,2011-08-20T16:00+0200,Allsvenskan,44165,Ivo Pekalski,4,home,1,0,11,11,0,0
+1588914,22,Malmö FF,9375,2,6,Gais,9382,1,5,2011-08-20T16:00+0200,Allsvenskan,44165,Wanderson do Carmo,64,visiting,1,1,10,11,0,0
+1588914,22,Malmö FF,9375,2,6,Gais,9382,1,5,2011-08-20T16:00+0200,Allsvenskan,44165,Yago Fernandez,88,home,2,1,10,11,0,0
+1588908,22,Syrianska,23026,0,15,Elfsborg,9369,2,2,2011-08-21T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588908,22,Syrianska,23026,0,15,Elfsborg,9369,2,2,2011-08-21T14:00+0200,Allsvenskan,44165,David Elm,15,visiting,0,1,11,11,0,0
+1588908,22,Syrianska,23026,0,15,Elfsborg,9369,2,2,2011-08-21T14:00+0200,Allsvenskan,44165,Stefan Ishizaki,35,visiting,0,2,11,11,0,0
+1588911,22,Häcken,19740,2,4,Djurgården,9368,0,13,2011-08-21T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588911,22,Häcken,19740,2,4,Djurgården,9368,0,13,2011-08-21T14:00+0200,Allsvenskan,44165,Mathias Ranégie,18,home,1,0,11,11,0,0
+1588911,22,Häcken,19740,2,4,Djurgården,9368,0,13,2011-08-21T14:00+0200,Allsvenskan,44165,Mathias Ranégie,68,home,2,0,11,11,0,0
+1588912,22,AIK,9367,3,3,Trelleborgs FF,9377,0,12,2011-08-21T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588912,22,AIK,9367,3,3,Trelleborgs FF,9377,0,12,2011-08-21T16:30+0200,Allsvenskan,44165,Nils-Eric Johansson,29,home,1,0,11,11,0,0
+1588912,22,AIK,9367,3,3,Trelleborgs FF,9377,0,12,2011-08-21T16:30+0200,Allsvenskan,44165,Robert Åhman-Persson,59,home,2,0,11,11,0,0
+1588912,22,AIK,9367,3,3,Trelleborgs FF,9377,0,12,2011-08-21T16:30+0200,Allsvenskan,44165,Gabriel Özkan,89,home,3,0,11,11,0,0
+1588915,22,Helsingborg,9373,2,1,Halmstad,9371,1,16,2011-08-21T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588915,22,Helsingborg,9373,2,1,Halmstad,9371,1,16,2011-08-21T16:30+0200,Allsvenskan,44165,Markus Holgersson,75,home,1,0,11,11,0,0
+1588915,22,Helsingborg,9373,2,1,Halmstad,9371,1,16,2011-08-21T16:30+0200,Allsvenskan,44165,Christoffer Andersson,79,home,2,0,11,11,0,0
+1588915,22,Helsingborg,9373,2,1,Halmstad,9371,1,16,2011-08-21T16:30+0200,Allsvenskan,44165,Mikael Rosén,90,visiting,2,1,11,11,0,0
+1588909,22,Göteborg,9370,3,7,Gefle,9400,0,10,2011-08-22T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588909,22,Göteborg,9370,3,7,Gefle,9400,0,10,2011-08-22T19:00+0200,Allsvenskan,44165,Hannes Stiller,17,home,1,0,11,11,0,0
+1588909,22,Göteborg,9370,3,7,Gefle,9400,0,10,2011-08-22T19:00+0200,Allsvenskan,44165,Tobias Hysén,52,home,2,0,11,11,0,0
+1588909,22,Göteborg,9370,3,7,Gefle,9400,0,10,2011-08-22T19:00+0200,Allsvenskan,44165,Hannes Stiller,67,home,3,0,11,11,0,0
+1588910,22,Örebro,9379,0,9,Mjällby,9389,2,11,2011-08-22T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588910,22,Örebro,9379,0,9,Mjällby,9389,2,11,2011-08-22T19:00+0200,Allsvenskan,44165,Pär Ericsson,38,visiting,0,1,11,11,0,0
+1588910,22,Örebro,9379,0,9,Mjällby,9389,2,11,2011-08-22T19:00+0200,Allsvenskan,44165,Pär Ericsson,84,visiting,0,2,11,11,0,0
+1588965,23,Norrköping,9376,2,12,Djurgården,9368,1,14,2011-08-25T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588965,23,Norrköping,9376,2,12,Djurgården,9368,1,14,2011-08-25T19:00+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,6,home,1,0,11,11,0,0
+1588965,23,Norrköping,9376,2,12,Djurgården,9368,1,14,2011-08-25T19:00+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,11,home,2,0,11,11,0,0
+1588965,23,Norrköping,9376,2,12,Djurgården,9368,1,14,2011-08-25T19:00+0200,Allsvenskan,44165,Christer Youssef,17,visiting,2,1,11,11,0,0
+1588964,23,Trelleborgs FF,9377,0,13,Halmstad,9371,1,16,2011-08-27T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588964,23,Trelleborgs FF,9377,0,13,Halmstad,9371,1,16,2011-08-27T14:00+0200,Allsvenskan,44165,Joel Johansson,76,visiting,0,1,11,11,0,0
+1588968,23,Kalmar FF,9374,0,8,Göteborg,9370,0,7,2011-08-27T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588966,23,Gefle,9400,2,10,Häcken,19740,2,6,2011-08-28T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588966,23,Gefle,9400,2,10,Häcken,19740,2,6,2011-08-28T14:00+0200,Allsvenskan,44165,Rene Makondele,27,visiting,0,1,11,11,0,0
+1588966,23,Gefle,9400,2,10,Häcken,19740,2,6,2011-08-28T14:00+0200,Allsvenskan,44165,Mikael Dahlberg,29,home,1,1,11,11,0,0
+1588966,23,Gefle,9400,2,10,Häcken,19740,2,6,2011-08-28T14:00+0200,Allsvenskan,44165,Mathias Ranégie,73,visiting,1,2,11,11,0,0
+1588966,23,Gefle,9400,2,10,Häcken,19740,2,6,2011-08-28T14:00+0200,Allsvenskan,44165,Daniel Bernhardsson,89,home,2,2,11,11,0,0
+1588971,23,Helsingborg,9373,2,1,Örebro,9379,0,9,2011-08-28T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588971,23,Helsingborg,9373,2,1,Örebro,9379,0,9,2011-08-28T14:00+0200,Allsvenskan,44165,Hannu Patronen,71,home,1,0,11,10,0,0
+1588971,23,Helsingborg,9373,2,1,Örebro,9379,0,9,2011-08-28T14:00+0200,Allsvenskan,44165,May Mahlangu,85,home,2,0,11,10,0,0
+1588967,23,AIK,9367,1,3,Syrianska,23026,0,15,2011-08-28T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588967,23,AIK,9367,1,3,Syrianska,23026,0,15,2011-08-28T16:30+0200,Allsvenskan,44165,Robert Åhman-Persson,90,home,1,0,11,10,0,0
+1588969,23,Malmö FF,9375,2,5,Elfsborg,9369,1,2,2011-08-28T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588969,23,Malmö FF,9375,2,5,Elfsborg,9369,1,2,2011-08-28T16:30+0200,Allsvenskan,44165,Wilton Figueiredo,32,home,1,0,11,11,0,0
+1588969,23,Malmö FF,9375,2,5,Elfsborg,9369,1,2,2011-08-28T16:30+0200,Allsvenskan,44165,Lasse Nilsson,53,visiting,1,1,11,11,0,0
+1588969,23,Malmö FF,9375,2,5,Elfsborg,9369,1,2,2011-08-28T16:30+0200,Allsvenskan,44165,Wilton Figueiredo,68,home,2,1,11,11,0,0
+1588970,23,Gais,9382,3,4,Mjällby,9389,0,11,2011-08-28T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588970,23,Gais,9382,3,4,Mjällby,9389,0,11,2011-08-28T16:30+0200,Allsvenskan,44165,Wanderson do Carmo,2,home,1,0,11,11,0,0
+1588970,23,Gais,9382,3,4,Mjällby,9389,0,11,2011-08-28T16:30+0200,Allsvenskan,44165,Mervan Celik,9,home,2,0,11,11,0,0
+1588970,23,Gais,9382,3,4,Mjällby,9389,0,11,2011-08-28T16:30+0200,Allsvenskan,44165,Mervan Celik,75,home,3,0,11,10,0,0
+1588906,21,Gefle,9400,2,10,Malmö FF,9375,0,6,2011-09-08T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588906,21,Gefle,9400,2,10,Malmö FF,9375,0,6,2011-09-08T19:00+0200,Allsvenskan,44165,Daniel Theorin,24,home,1,0,11,11,0,0
+1588906,21,Gefle,9400,2,10,Malmö FF,9375,0,6,2011-09-08T19:00+0200,Allsvenskan,44165,Mikael Dahlberg,79,home,2,0,11,11,0,0
+1588979,24,Häcken,19740,1,6,Helsingborg,9373,1,1,2011-09-09T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588979,24,Häcken,19740,1,6,Helsingborg,9373,1,1,2011-09-09T19:00+0200,Allsvenskan,44165,Waris Majeed,9,home,1,0,11,11,0,0
+1588979,24,Häcken,19740,1,6,Helsingborg,9373,1,1,2011-09-09T19:00+0200,Allsvenskan,44165,Mattias Lindström,71,visiting,1,1,11,11,0,0
+1588972,24,Syrianska,23026,2,15,Kalmar FF,9374,1,8,2011-09-11T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588972,24,Syrianska,23026,2,15,Kalmar FF,9374,1,8,2011-09-11T14:00+0200,Allsvenskan,44165,Razak Omotoyossi,33,home,1,0,11,11,0,0
+1588972,24,Syrianska,23026,2,15,Kalmar FF,9374,1,8,2011-09-11T14:00+0200,Allsvenskan,44165,Sharbel Touma,59,home,2,0,11,11,0,0
+1588972,24,Syrianska,23026,2,15,Kalmar FF,9374,1,8,2011-09-11T14:00+0200,Allsvenskan,44165,Erik Israelsson,69,visiting,2,1,11,11,0,1
+1588973,24,Göteborg,9370,0,7,Malmö FF,9375,0,5,2011-09-11T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Fredrik Jensen,24,visiting,0,1,11,11,0,0
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Nicolaj Agger,31,home,1,1,11,11,0,0
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Kennedy Igboananike,49,home,2,1,11,11,0,0
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Fredrik Jensen,74,visiting,2,2,11,11,0,0
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Kennedy Igboananike,76,home,3,2,11,11,0,0
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Kristian Haynes,77,visiting,3,3,11,11,0,0
+1588975,24,Djurgården,9368,4,13,Trelleborgs FF,9377,3,14,2011-09-11T16:30+0200,Allsvenskan,44165,Kennedy Igboananike,81,home,4,3,11,11,0,0
+1588974,24,Elfsborg,9369,1,2,Gais,9382,3,4,2011-09-12T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588974,24,Elfsborg,9369,1,2,Gais,9382,3,4,2011-09-12T19:00+0200,Allsvenskan,44165,Jesper Florén,49,visiting,0,1,11,11,0,0
+1588974,24,Elfsborg,9369,1,2,Gais,9382,3,4,2011-09-12T19:00+0200,Allsvenskan,44165,Eric Magloire Bassombeng,54,visiting,0,2,11,11,0,0
+1588974,24,Elfsborg,9369,1,2,Gais,9382,3,4,2011-09-12T19:00+0200,Allsvenskan,44165,Wanderson do Carmo,65,visiting,0,3,11,11,0,0
+1588974,24,Elfsborg,9369,1,2,Gais,9382,3,4,2011-09-12T19:00+0200,Allsvenskan,44165,Niklas Hult,72,home,1,3,11,11,0,0
+1588976,24,Halmstad,9371,2,16,Gefle,9400,2,10,2011-09-12T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588976,24,Halmstad,9371,2,16,Gefle,9400,2,10,2011-09-12T19:00+0200,Allsvenskan,44165,Jakob Orlov,25,visiting,0,1,11,11,0,0
+1588976,24,Halmstad,9371,2,16,Gefle,9400,2,10,2011-09-12T19:00+0200,Allsvenskan,44165,Michael Görlitz,34,home,1,1,11,11,0,0
+1588976,24,Halmstad,9371,2,16,Gefle,9400,2,10,2011-09-12T19:00+0200,Allsvenskan,44165,Mikael Dahlberg,36,visiting,1,2,11,11,0,0
+1588976,24,Halmstad,9371,2,16,Gefle,9400,2,10,2011-09-12T19:00+0200,Allsvenskan,44165,Joe Sise,72,home,2,2,11,11,0,0
+1588978,24,Örebro,9379,1,9,AIK,9367,2,3,2011-09-12T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588978,24,Örebro,9379,1,9,AIK,9367,2,3,2011-09-12T19:00+0200,Allsvenskan,44165,Riku Riski,48,home,1,0,11,11,0,0
+1588978,24,Örebro,9379,1,9,AIK,9367,2,3,2011-09-12T19:00+0200,Allsvenskan,44165,Viktor Lundberg,58,visiting,1,1,11,11,0,0
+1588978,24,Örebro,9379,1,9,AIK,9367,2,3,2011-09-12T19:00+0200,Allsvenskan,44165,Admir Catovic,74,visiting,1,2,11,11,0,0
+1588947,26,Mjällby,9389,0,13,AIK,9367,2,3,2011-09-15T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588947,26,Mjällby,9389,0,13,AIK,9367,2,3,2011-09-15T19:00+0200,Allsvenskan,44165,självmål,54,visiting,0,1,11,11,0,0
+1588947,26,Mjällby,9389,0,13,AIK,9367,2,3,2011-09-15T19:00+0200,Allsvenskan,44165,Martin Kayongo-Mutumba,89,visiting,0,2,11,11,0,0
+1588939,25,Gais,9382,1,5,Norrköping,9376,2,11,2011-09-16T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588939,25,Gais,9382,1,5,Norrköping,9376,2,11,2011-09-16T19:00+0200,Allsvenskan,44165,Mervan Celik,19,home,1,0,11,11,0,0
+1588939,25,Gais,9382,1,5,Norrköping,9376,2,11,2011-09-16T19:00+0200,Allsvenskan,44165,Sphetim Hasani,32,visiting,1,1,11,11,0,0
+1588939,25,Gais,9382,1,5,Norrköping,9376,2,11,2011-09-16T19:00+0200,Allsvenskan,44165,Sphetim Hasani,74,visiting,1,2,11,11,0,0
+1588937,25,Kalmar FF,9374,1,8,Halmstad,9371,0,16,2011-09-17T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588937,25,Kalmar FF,9374,1,8,Halmstad,9371,0,16,2011-09-17T16:00+0200,Allsvenskan,44165,Erik Israelsson,22,home,1,0,11,11,0,0
+1588932,25,Gefle,9400,2,9,Syrianska,23026,1,15,2011-09-18T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588932,25,Gefle,9400,2,9,Syrianska,23026,1,15,2011-09-18T14:00+0200,Allsvenskan,44165,Olof Mård,2,home,1,0,11,11,0,0
+1588932,25,Gefle,9400,2,9,Syrianska,23026,1,15,2011-09-18T14:00+0200,Allsvenskan,44165,Isa Demir,67,visiting,1,1,11,11,0,2
+1588932,25,Gefle,9400,2,9,Syrianska,23026,1,15,2011-09-18T14:00+0200,Allsvenskan,44165,Mikael Dahlberg,70,home,2,1,11,11,0,2
+1588935,25,Helsingborg,9373,3,1,Mjällby,9389,0,13,2011-09-18T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588935,25,Helsingborg,9373,3,1,Mjällby,9389,0,13,2011-09-18T14:00+0200,Allsvenskan,44165,Thomas Sörum,11,home,1,0,11,11,0,0
+1588935,25,Helsingborg,9373,3,1,Mjällby,9389,0,13,2011-09-18T14:00+0200,Allsvenskan,44165,Simon Thern,17,home,2,0,11,11,0,0
+1588935,25,Helsingborg,9373,3,1,Mjällby,9389,0,13,2011-09-18T14:00+0200,Allsvenskan,44165,Erik Sundin,39,home,3,0,11,11,0,1
+1588933,25,Örebro,9379,0,10,Göteborg,9370,2,7,2011-09-18T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588933,25,Örebro,9379,0,10,Göteborg,9370,2,7,2011-09-18T16:30+0200,Allsvenskan,44165,Philip Haglund,4,visiting,0,1,11,11,0,0
+1588933,25,Örebro,9379,0,10,Göteborg,9370,2,7,2011-09-18T16:30+0200,Allsvenskan,44165,Hannes Stiller,36,visiting,0,2,11,11,0,0
+1588934,25,Häcken,19740,2,4,Elfsborg,9369,0,2,2011-09-18T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588938,25,Malmö FF,9375,1,6,Trelleborgs FF,9377,1,14,2011-09-18T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588938,25,Malmö FF,9375,1,6,Trelleborgs FF,9377,1,14,2011-09-18T16:30+0200,Allsvenskan,44165,Daniel Larsson,4,home,1,0,11,11,0,0
+1588938,25,Malmö FF,9375,1,6,Trelleborgs FF,9377,1,14,2011-09-18T16:30+0200,Allsvenskan,44165,Kristian Haynes,55,visiting,1,1,11,11,0,0
+1588936,25,AIK,9367,0,3,Djurgården,9368,1,12,2011-09-19T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588936,25,AIK,9367,0,3,Djurgården,9368,1,12,2011-09-19T19:00+0200,Allsvenskan,44165,Kennedy Igboananike,20,visiting,0,1,11,11,0,0
+1588940,26,Syrianska,23026,3,14,Örebro,9379,1,10,2011-09-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588940,26,Syrianska,23026,3,14,Örebro,9379,1,10,2011-09-21T19:00+0200,Allsvenskan,44165,Nahir Oyal,23,home,1,0,11,11,0,0
+1588940,26,Syrianska,23026,3,14,Örebro,9379,1,10,2011-09-21T19:00+0200,Allsvenskan,44165,Fredrik Nordback,38,visiting,1,1,11,11,0,0
+1588940,26,Syrianska,23026,3,14,Örebro,9379,1,10,2011-09-21T19:00+0200,Allsvenskan,44165,Sharbel Touma,50,home,2,1,11,11,0,0
+1588940,26,Syrianska,23026,3,14,Örebro,9379,1,10,2011-09-21T19:00+0200,Allsvenskan,44165,Sharbel Touma,90,home,3,1,11,11,0,0
+1588942,26,Elfsborg,9369,3,2,Helsingborg,9373,2,1,2011-09-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588942,26,Elfsborg,9369,3,2,Helsingborg,9373,2,1,2011-09-21T19:00+0200,Allsvenskan,44165,Erik Sundin,8,visiting,0,1,11,11,0,0
+1588942,26,Elfsborg,9369,3,2,Helsingborg,9373,2,1,2011-09-21T19:00+0200,Allsvenskan,44165,Niklas Hult,14,home,1,1,11,11,0,0
+1588942,26,Elfsborg,9369,3,2,Helsingborg,9373,2,1,2011-09-21T19:00+0200,Allsvenskan,44165,Anders Svensson,56,home,2,1,11,11,0,0
+1588942,26,Elfsborg,9369,3,2,Helsingborg,9373,2,1,2011-09-21T19:00+0200,Allsvenskan,44165,Mattias Lindström,61,visiting,2,2,11,11,0,0
+1588942,26,Elfsborg,9369,3,2,Helsingborg,9373,2,1,2011-09-21T19:00+0200,Allsvenskan,44165,Daniel Mobaeck,68,home,3,2,11,11,0,0
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,Mathias Ranégie,28,visiting,0,1,11,11,0,0
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,Jiloan Hamad,39,visiting,0,2,11,11,0,0
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,Jimmy Durmaz,53,visiting,0,3,11,11,0,0
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,Joel Johansson,67,home,1,3,11,11,0,0
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,Wilton Figueiredo,80,visiting,1,4,11,11,0,0
+1588944,26,Halmstad,9371,1,16,Malmö FF,9375,5,5,2011-09-21T19:00+0200,Allsvenskan,44165,Mathias Ranégie,88,visiting,1,5,11,11,0,0
+1588945,26,Trelleborgs FF,9377,0,15,Gais,9382,1,4,2011-09-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588945,26,Trelleborgs FF,9377,0,15,Gais,9382,1,4,2011-09-21T19:00+0200,Allsvenskan,44165,Markus Gustafsson,86,visiting,0,1,11,11,0,0
+1588946,26,Norrköping,9376,1,12,Gefle,9400,1,9,2011-09-21T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588946,26,Norrköping,9376,1,12,Gefle,9400,1,9,2011-09-21T19:00+0200,Allsvenskan,44165,Christopher Telo,19,home,1,0,11,11,0,0
+1588946,26,Norrköping,9376,1,12,Gefle,9400,1,9,2011-09-21T19:00+0200,Allsvenskan,44165,Daniel Theorin,62,visiting,1,1,10,11,0,0
+1588941,26,Göteborg,9370,2,7,Häcken,19740,2,6,2011-09-22T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588941,26,Göteborg,9370,2,7,Häcken,19740,2,6,2011-09-22T19:00+0200,Allsvenskan,44165,Stefan Selakovic,32,home,1,0,11,11,1,0
+1588941,26,Göteborg,9370,2,7,Häcken,19740,2,6,2011-09-22T19:00+0200,Allsvenskan,44165,Jonas Bjurström,45,visiting,1,1,11,11,2,1
+1588941,26,Göteborg,9370,2,7,Häcken,19740,2,6,2011-09-22T19:00+0200,Allsvenskan,44165,Jonas Bjurström,71,visiting,1,2,11,11,2,2
+1588941,26,Göteborg,9370,2,7,Häcken,19740,2,6,2011-09-22T19:00+0200,Allsvenskan,44165,Stefan Selakovic,77,home,2,2,11,11,2,2
+1588943,26,Djurgården,9368,2,11,Kalmar FF,9374,1,8,2011-09-23T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588943,26,Djurgården,9368,2,11,Kalmar FF,9374,1,8,2011-09-23T19:00+0200,Allsvenskan,44165,Sebastian Rajalakso,26,home,1,0,11,11,0,0
+1588943,26,Djurgården,9368,2,11,Kalmar FF,9374,1,8,2011-09-23T19:00+0200,Allsvenskan,44165,Johan Bertilsson,54,visiting,1,1,11,11,0,0
+1588943,26,Djurgården,9368,2,11,Kalmar FF,9374,1,8,2011-09-23T19:00+0200,Allsvenskan,44165,Sebastian Rajalakso,63,home,2,1,10,11,0,0
+1588952,27,Mjällby,9389,2,12,Elfsborg,9369,1,3,2011-09-24T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588952,27,Mjällby,9389,2,12,Elfsborg,9369,1,3,2011-09-24T14:00+0200,Allsvenskan,44165,Daniel Nilsson,23,home,1,0,11,11,0,0
+1588952,27,Mjällby,9389,2,12,Elfsborg,9369,1,3,2011-09-24T14:00+0200,Allsvenskan,44165,Marcus Ekenberg,61,home,2,0,11,11,0,0
+1588952,27,Mjällby,9389,2,12,Elfsborg,9369,1,3,2011-09-24T14:00+0200,Allsvenskan,44165,Stefan Ishizaki,76,visiting,2,1,11,11,0,0
+1588949,27,Halmstad,9371,0,16,Syrianska,23026,1,14,2011-09-24T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588949,27,Halmstad,9371,0,16,Syrianska,23026,1,14,2011-09-24T16:00+0200,Allsvenskan,44165,Abgar Barsom,40,visiting,0,1,11,11,0,0
+1588951,27,Norrköping,9376,0,13,Häcken,19740,1,4,2011-09-25T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588951,27,Norrköping,9376,0,13,Häcken,19740,1,4,2011-09-25T14:00+0200,Allsvenskan,44165,Rene Makondele,9,visiting,0,1,11,11,0,0
+1588955,27,Gais,9382,1,5,Helsingborg,9373,3,1,2011-09-25T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588955,27,Gais,9382,1,5,Helsingborg,9373,3,1,2011-09-25T14:00+0200,Allsvenskan,44165,Erlend Hanstveit,27,visiting,0,1,11,11,0,0
+1588955,27,Gais,9382,1,5,Helsingborg,9373,3,1,2011-09-25T14:00+0200,Allsvenskan,44165,Wanderson do Carmo,48,home,1,1,11,11,0,0
+1588955,27,Gais,9382,1,5,Helsingborg,9373,3,1,2011-09-25T14:00+0200,Allsvenskan,44165,Erik Sundin,68,visiting,1,2,11,11,0,0
+1588955,27,Gais,9382,1,5,Helsingborg,9373,3,1,2011-09-25T14:00+0200,Allsvenskan,44165,Rachid Bouaouzan,87,visiting,1,3,11,11,0,0
+1588950,27,Trelleborgs FF,9377,1,15,Örebro,9379,1,10,2011-09-25T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588950,27,Trelleborgs FF,9377,1,15,Örebro,9379,1,10,2011-09-25T16:30+0200,Allsvenskan,44165,Emil Berger,6,visiting,0,1,11,11,0,0
+1588950,27,Trelleborgs FF,9377,1,15,Örebro,9379,1,10,2011-09-25T16:30+0200,Allsvenskan,44165,Peter Abelsson,90,home,1,1,11,11,0,0
+1588954,27,Malmö FF,9375,1,6,AIK,9367,1,2,2011-09-25T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588954,27,Malmö FF,9375,1,6,AIK,9367,1,2,2011-09-25T16:30+0200,Allsvenskan,44165,Niklas Backman,84,visiting,0,1,11,11,0,0
+1588954,27,Malmö FF,9375,1,6,AIK,9367,1,2,2011-09-25T16:30+0200,Allsvenskan,44165,Mathias Ranégie,90,home,1,1,11,11,0,0
+1588948,27,Djurgården,9368,1,11,Göteborg,9370,2,7,2011-09-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588948,27,Djurgården,9368,1,11,Göteborg,9370,2,7,2011-09-26T19:00+0200,Allsvenskan,44165,Joona Toivio,2,home,1,0,11,11,0,0
+1588948,27,Djurgården,9368,1,11,Göteborg,9370,2,7,2011-09-26T19:00+0200,Allsvenskan,44165,Stefan Selakovic,52,visiting,1,1,10,11,0,0
+1588948,27,Djurgården,9368,1,11,Göteborg,9370,2,7,2011-09-26T19:00+0200,Allsvenskan,44165,Hannes Stiller,73,visiting,1,2,10,11,0,0
+1588953,27,Gefle,9400,1,9,Kalmar FF,9374,1,8,2011-09-26T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588953,27,Gefle,9400,1,9,Kalmar FF,9374,1,8,2011-09-26T19:00+0200,Allsvenskan,44165,Abiola Dauda,29,visiting,0,1,11,11,0,0
+1588953,27,Gefle,9400,1,9,Kalmar FF,9374,1,8,2011-09-26T19:00+0200,Allsvenskan,44165,Dragan Kapcevic,89,home,1,1,11,11,0,0
+1588956,28,Syrianska,23026,0,14,Djurgården,9368,0,12,2011-09-30T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588957,28,Göteborg,9370,0,7,Mjällby,9389,1,11,2011-10-01T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588957,28,Göteborg,9370,0,7,Mjällby,9389,1,11,2011-10-01T14:00+0200,Allsvenskan,44165,David Löfquist,87,visiting,0,1,11,11,2,3
+1588961,28,AIK,9367,2,3,Gais,9382,1,6,2011-10-01T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588961,28,AIK,9367,2,3,Gais,9382,1,6,2011-10-01T16:00+0200,Allsvenskan,44165,Lalawélé Akakora,9,home,1,0,11,11,0,0
+1588961,28,AIK,9367,2,3,Gais,9382,1,6,2011-10-01T16:00+0200,Allsvenskan,44165,Gabriel Özkan,63,home,2,0,11,11,0,0
+1588961,28,AIK,9367,2,3,Gais,9382,1,6,2011-10-01T16:00+0200,Allsvenskan,44165,Mervan Celik,83,visiting,2,1,11,11,1,0
+1588958,28,Elfsborg,9369,3,2,Gefle,9400,0,9,2011-10-02T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588958,28,Elfsborg,9369,3,2,Gefle,9400,0,9,2011-10-02T14:00+0200,Allsvenskan,44165,Niklas Hult,21,home,1,0,11,11,0,0
+1588958,28,Elfsborg,9369,3,2,Gefle,9400,0,9,2011-10-02T14:00+0200,Allsvenskan,44165,David Elm,26,home,2,0,11,11,0,0
+1588958,28,Elfsborg,9369,3,2,Gefle,9400,0,9,2011-10-02T14:00+0200,Allsvenskan,44165,Oscar Hiljemark,57,home,3,0,11,11,0,0
+1588963,28,Helsingborg,9373,1,1,Norrköping,9376,1,13,2011-10-02T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588963,28,Helsingborg,9373,1,1,Norrköping,9376,1,13,2011-10-02T14:00+0200,Allsvenskan,44165,Mattias Lindström,38,home,1,0,11,11,0,0
+1588963,28,Helsingborg,9373,1,1,Norrköping,9376,1,13,2011-10-02T14:00+0200,Allsvenskan,44165,Sphetim Hasani,76,visiting,1,1,11,11,0,0
+1588959,28,Örebro,9379,1,10,Halmstad,9371,0,16,2011-10-02T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588959,28,Örebro,9379,1,10,Halmstad,9371,0,16,2011-10-02T16:30+0200,Allsvenskan,44165,Valdet Rama,18,home,1,0,11,11,0,0
+1588960,28,Häcken,19740,1,4,Trelleborgs FF,9377,0,15,2011-10-02T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588960,28,Häcken,19740,1,4,Trelleborgs FF,9377,0,15,2011-10-02T16:30+0200,Allsvenskan,44165,Mattias Östberg,69,home,1,0,11,11,0,1
+1588962,28,Kalmar FF,9374,1,8,Malmö FF,9375,2,5,2011-10-02T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588962,28,Kalmar FF,9374,1,8,Malmö FF,9375,2,5,2011-10-02T16:30+0200,Allsvenskan,44165,Ricardo Santos,66,home,1,0,11,11,0,1
+1588962,28,Kalmar FF,9374,1,8,Malmö FF,9375,2,5,2011-10-02T16:30+0200,Allsvenskan,44165,Jiloan Hamad,68,visiting,1,1,11,11,0,1
+1588962,28,Kalmar FF,9374,1,8,Malmö FF,9375,2,5,2011-10-02T16:30+0200,Allsvenskan,44165,Jimmy Durmaz,83,visiting,1,2,11,11,1,3
+1588868,17,Malmö FF,9375,1,6,Häcken,19740,0,8,2011-10-13T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588868,17,Malmö FF,9375,1,6,Häcken,19740,0,8,2011-10-13T19:00+0200,Allsvenskan,44165,Agon Mehmeti,60,home,1,0,11,11,0,0
+1588885,19,Malmö FF,9375,1,5,Djurgården,9368,0,12,2011-10-15T11:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588885,19,Malmö FF,9375,1,5,Djurgården,9368,0,12,2011-10-15T11:00+0200,Allsvenskan,44165,Wilton Figueiredo,45,home,1,0,11,11,0,0
+1588921,29,Kalmar FF,9374,4,8,Örebro,9379,1,11,2011-10-15T16:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588921,29,Kalmar FF,9374,4,8,Örebro,9379,1,11,2011-10-15T16:00+0200,Allsvenskan,44165,Valdet Rama,8,visiting,0,1,11,11,0,0
+1588921,29,Kalmar FF,9374,4,8,Örebro,9379,1,11,2011-10-15T16:00+0200,Allsvenskan,44165,Tobias Eriksson,12,home,1,1,11,11,0,0
+1588921,29,Kalmar FF,9374,4,8,Örebro,9379,1,11,2011-10-15T16:00+0200,Allsvenskan,44165,Erik Israelsson,25,home,2,1,11,11,0,0
+1588921,29,Kalmar FF,9374,4,8,Örebro,9379,1,11,2011-10-15T16:00+0200,Allsvenskan,44165,Stefan Larsson,41,home,3,1,11,11,0,0
+1588921,29,Kalmar FF,9374,4,8,Örebro,9379,1,11,2011-10-15T16:00+0200,Allsvenskan,44165,Tobias Eriksson,64,home,4,1,11,11,0,0
+1588917,29,Trelleborgs FF,9377,1,15,Mjällby,9389,2,10,2011-10-16T14:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588917,29,Trelleborgs FF,9377,1,15,Mjällby,9389,2,10,2011-10-16T14:00+0200,Allsvenskan,44165,Kristian Haynes,3,home,1,0,11,11,0,0
+1588917,29,Trelleborgs FF,9377,1,15,Mjällby,9389,2,10,2011-10-16T14:00+0200,Allsvenskan,44165,David Löfquist,34,visiting,1,1,11,11,0,0
+1588917,29,Trelleborgs FF,9377,1,15,Mjällby,9389,2,10,2011-10-16T14:00+0200,Allsvenskan,44165,Marcus Ekenberg,37,visiting,1,2,11,11,0,0
+1588918,29,Norrköping,9376,2,13,Elfsborg,9369,1,3,2011-10-16T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588918,29,Norrköping,9376,2,13,Elfsborg,9369,1,3,2011-10-16T16:30+0200,Allsvenskan,44165,Christopher Telo,32,home,1,0,11,11,0,0
+1588918,29,Norrköping,9376,2,13,Elfsborg,9369,1,3,2011-10-16T16:30+0200,Allsvenskan,44165,Gunnar Heidar Thorvaldsson,36,home,2,0,11,11,0,0
+1588918,29,Norrköping,9376,2,13,Elfsborg,9369,1,3,2011-10-16T16:30+0200,Allsvenskan,44165,Stefan Ishizaki,58,visiting,2,1,11,11,0,0
+1588920,29,AIK,9367,2,2,Häcken,19740,1,5,2011-10-16T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588920,29,AIK,9367,2,2,Häcken,19740,1,5,2011-10-16T16:30+0200,Allsvenskan,44165,Martin Kayongo-Mutumba,14,home,1,0,11,11,0,0
+1588920,29,AIK,9367,2,2,Häcken,19740,1,5,2011-10-16T16:30+0200,Allsvenskan,44165,Kwame Karikari,32,home,2,0,11,10,0,0
+1588920,29,AIK,9367,2,2,Häcken,19740,1,5,2011-10-16T16:30+0200,Allsvenskan,44165,Dioh Williams,46,visiting,2,1,11,10,0,0
+1588916,29,Halmstad,9371,1,16,Djurgården,9368,3,12,2011-10-17T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588916,29,Halmstad,9371,1,16,Djurgården,9368,3,12,2011-10-17T19:00+0200,Allsvenskan,44165,Michael Görlitz,24,home,1,0,11,11,0,0
+1588916,29,Halmstad,9371,1,16,Djurgården,9368,3,12,2011-10-17T19:00+0200,Allsvenskan,44165,Daniel Sjölund,26,visiting,1,1,11,11,0,0
+1588916,29,Halmstad,9371,1,16,Djurgården,9368,3,12,2011-10-17T19:00+0200,Allsvenskan,44165,Joona Toivio,35,visiting,1,2,11,11,0,0
+1588916,29,Halmstad,9371,1,16,Djurgården,9368,3,12,2011-10-17T19:00+0200,Allsvenskan,44165,Mattias Jonson,85,visiting,1,3,11,11,0,0
+1588919,29,Gefle,9400,2,9,Helsingborg,9373,0,1,2011-10-17T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588919,29,Gefle,9400,2,9,Helsingborg,9373,0,1,2011-10-17T19:00+0200,Allsvenskan,44165,Jakob Orlov,45,home,1,0,11,11,0,0
+1588919,29,Gefle,9400,2,9,Helsingborg,9373,0,1,2011-10-17T19:00+0200,Allsvenskan,44165,Daniel Theorin,60,home,2,0,11,10,0,0
+1588922,29,Malmö FF,9375,1,4,Syrianska,23026,0,14,2011-10-17T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588922,29,Malmö FF,9375,1,4,Syrianska,23026,0,14,2011-10-17T19:00+0200,Allsvenskan,44165,Agon Mehmeti,51,home,1,0,11,11,0,0
+1588923,29,Gais,9382,1,6,Göteborg,9370,0,7,2011-10-17T19:00+0200,Allsvenskan,44165,,,,0,0,,,,
+1588923,29,Gais,9382,1,6,Göteborg,9370,0,7,2011-10-17T19:00+0200,Allsvenskan,44165,Erik Johansson,79,home,1,0,11,11,0,0
+1588924,30,Syrianska,23026,0,14,Gais,9382,2,5,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588924,30,Syrianska,23026,0,14,Gais,9382,2,5,2011-10-23T16:30+0200,Allsvenskan,44165,Romário Pereira Sipiäo,4,visiting,0,1,11,11,0,0
+1588924,30,Syrianska,23026,0,14,Gais,9382,2,5,2011-10-23T16:30+0200,Allsvenskan,44165,Calum Angus,53,visiting,0,2,11,11,0,0
+1588925,30,Göteborg,9370,3,7,Norrköping,9376,0,13,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588925,30,Göteborg,9370,3,7,Norrköping,9376,0,13,2011-10-23T16:30+0200,Allsvenskan,44165,Emil Salomonsson,22,home,1,0,11,11,0,0
+1588925,30,Göteborg,9370,3,7,Norrköping,9376,0,13,2011-10-23T16:30+0200,Allsvenskan,44165,Tobias Hysén,57,home,2,0,11,11,0,0
+1588925,30,Göteborg,9370,3,7,Norrköping,9376,0,13,2011-10-23T16:30+0200,Allsvenskan,44165,Hannes Stiller,70,home,3,0,11,11,0,0
+1588926,30,Elfsborg,9369,3,3,Trelleborgs FF,9377,0,15,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588926,30,Elfsborg,9369,3,3,Trelleborgs FF,9377,0,15,2011-10-23T16:30+0200,Allsvenskan,44165,Johan Karlsson,30,home,1,0,11,11,0,0
+1588926,30,Elfsborg,9369,3,3,Trelleborgs FF,9377,0,15,2011-10-23T16:30+0200,Allsvenskan,44165,Johan Larsson,69,home,2,0,11,11,0,0
+1588926,30,Elfsborg,9369,3,3,Trelleborgs FF,9377,0,15,2011-10-23T16:30+0200,Allsvenskan,44165,Daniel Mobaeck,76,home,3,0,11,11,0,0
+1588927,30,Djurgården,9368,1,11,Gefle,9400,1,9,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588927,30,Djurgården,9368,1,11,Gefle,9400,1,9,2011-10-23T16:30+0200,Allsvenskan,44165,Sebastian Rajalakso,36,home,1,0,11,11,1,0
+1588927,30,Djurgården,9368,1,11,Gefle,9400,1,9,2011-10-23T16:30+0200,Allsvenskan,44165,Marcus Hansson,46,visiting,1,1,11,11,1,0
+1588928,30,Mjällby,9389,2,10,Halmstad,9371,0,16,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588928,30,Mjällby,9389,2,10,Halmstad,9371,0,16,2011-10-23T16:30+0200,Allsvenskan,44165,Marcus Ekenberg,7,home,1,0,11,11,0,0
+1588928,30,Mjällby,9389,2,10,Halmstad,9371,0,16,2011-10-23T16:30+0200,Allsvenskan,44165,David Löfquist,22,home,2,0,11,11,0,0
+1588929,30,Örebro,9379,1,12,Malmö FF,9375,2,4,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588929,30,Örebro,9379,1,12,Malmö FF,9375,2,4,2011-10-23T16:30+0200,Allsvenskan,44165,Paulo de Oliveira,48,home,1,0,11,11,2,0
+1588929,30,Örebro,9379,1,12,Malmö FF,9375,2,4,2011-10-23T16:30+0200,Allsvenskan,44165,Pontus Jansson,82,visiting,1,1,10,11,3,2
+1588929,30,Örebro,9379,1,12,Malmö FF,9375,2,4,2011-10-23T16:30+0200,Allsvenskan,44165,Daniel Larsson,94,visiting,1,2,10,11,3,2
+1588930,30,Helsingborg,9373,1,1,AIK,9367,1,2,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588930,30,Helsingborg,9373,1,1,AIK,9367,1,2,2011-10-23T16:30+0200,Allsvenskan,44165,Helgi Daníelsson,3,visiting,0,1,11,11,0,0
+1588930,30,Helsingborg,9373,1,1,AIK,9367,1,2,2011-10-23T16:30+0200,Allsvenskan,44165,Alvaro Santos,42,home,1,1,11,11,0,1
+1588931,30,Häcken,19740,1,6,Kalmar FF,9374,2,8,2011-10-23T16:30+0200,Allsvenskan,44165,,,,0,0,,,,
+1588931,30,Häcken,19740,1,6,Kalmar FF,9374,2,8,2011-10-23T16:30+0200,Allsvenskan,44165,Henrik Rydström,8,visiting,0,1,11,11,0,0
+1588931,30,Häcken,19740,1,6,Kalmar FF,9374,2,8,2011-10-23T16:30+0200,Allsvenskan,44165,Daniel Sobralense,21,visiting,0,2,11,11,0,0
+1588931,30,Häcken,19740,1,6,Kalmar FF,9374,2,8,2011-10-23T16:30+0200,Allsvenskan,44165,Dioh Williams,45,home,1,2,11,11,0,0

@@ -1,0 +1,650 @@
+gameId,round,homeTeam,homeTeamId,homeTeamScore,homePos,visitingTeam,visitingTeamId,visitingTeamScore,visitingPos,date,league,leagueId,player,minute,team,homeGoals,visitingGoals,homePlayers,visitingPlayers,homeWarnings,visitingWarnings
+708969,1,Gais,9382,2,1,Örgryte IS,9380,0,14,2006-04-01T13:30+0200,Allsvenskan,10581,,,,0,0,,,,
+708969,1,Gais,9382,2,1,Örgryte IS,9380,0,14,2006-04-01T13:30+0200,Allsvenskan,10581,James Keene,26,home,1,0,11,11,0,0
+708969,1,Gais,9382,2,1,Örgryte IS,9380,0,14,2006-04-01T13:30+0200,Allsvenskan,10581,Anton Holmberg,89,home,2,0,11,11,2,0
+708970,1,AIK,9367,2,4,Gefle,9400,2,5,2006-04-02T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708970,1,AIK,9367,2,4,Gefle,9400,2,5,2006-04-02T15:00+0200,Allsvenskan,10581,Daniel Ytterbom,16,visiting,0,1,11,11,0,0
+708970,1,AIK,9367,2,4,Gefle,9400,2,5,2006-04-02T15:00+0200,Allsvenskan,10581,Markus Jonsson,31,home,1,1,11,11,1,0
+708970,1,AIK,9367,2,4,Gefle,9400,2,5,2006-04-02T15:00+0200,Allsvenskan,10581,Bernt Hulsker,49,home,2,1,11,11,1,0
+708970,1,AIK,9367,2,4,Gefle,9400,2,5,2006-04-02T15:00+0200,Allsvenskan,10581,Kristen Viikmäe,61,visiting,2,2,11,11,1,0
+708972,1,Göteborg,9370,0,8,Öster,9394,0,9,2006-04-03T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708974,1,Malmö FF,9375,1,7,Häcken,19740,1,6,2006-04-03T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708974,1,Malmö FF,9375,1,7,Häcken,19740,1,6,2006-04-03T19:00+0200,Allsvenskan,10581,Teddy Lucic,6,visiting,0,1,11,11,0,1
+708974,1,Malmö FF,9375,1,7,Häcken,19740,1,6,2006-04-03T19:00+0200,Allsvenskan,10581,Afonso Alves,59,home,1,1,11,11,1,1
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,Paulinho Guará,19,home,1,0,11,11,0,1
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,Paulinho Guará,32,home,2,0,11,11,0,1
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,Björn Runström,35,home,3,0,11,11,0,1
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,Gustaf Andersson,68,visiting,3,1,11,11,0,3
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,Max von Schlebrügge,84,home,4,1,11,11,0,3
+708975,1,Hammarby,9372,4,10,Helsingborg,9373,2,13,2006-04-04T19:00+0200,Allsvenskan,10581,McDonald Mariga,89,visiting,4,2,11,11,0,3
+708976,2,Helsingborg,9373,1,6,Gais,9382,0,5,2006-04-08T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708976,2,Helsingborg,9373,1,6,Gais,9382,0,5,2006-04-08T16:00+0200,Allsvenskan,10581,Olivier Karekezi,24,home,1,0,11,11,0,0
+708977,2,Häcken,19740,0,8,Halmstad,9371,0,12,2006-04-09T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708978,2,Gefle,9400,2,7,Kalmar FF,9374,2,11,2006-04-09T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708978,2,Gefle,9400,2,7,Kalmar FF,9374,2,11,2006-04-09T15:00+0200,Allsvenskan,10581,Daniel Ytterbom,9,home,1,0,11,11,0,0
+708978,2,Gefle,9400,2,7,Kalmar FF,9374,2,11,2006-04-09T15:00+0200,Allsvenskan,10581,Rene Muzola Makondele,24,home,2,0,11,11,0,0
+708978,2,Gefle,9400,2,7,Kalmar FF,9374,2,11,2006-04-09T15:00+0200,Allsvenskan,10581,Mikael Blomberg,30,visiting,2,1,11,11,0,0
+708978,2,Gefle,9400,2,7,Kalmar FF,9374,2,11,2006-04-09T15:00+0200,Allsvenskan,10581,Fredrik Petersson,82,visiting,2,2,11,11,0,0
+708980,2,Elfsborg,9369,1,3,Göteborg,9370,1,9,2006-04-10T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708980,2,Elfsborg,9369,1,3,Göteborg,9370,1,9,2006-04-10T19:00+0200,Allsvenskan,10581,Samuel Holmén,39,home,1,0,11,11,0,0
+708980,2,Elfsborg,9369,1,3,Göteborg,9370,1,9,2006-04-10T19:00+0200,Allsvenskan,10581,Karl Svensson,90,visiting,1,1,11,11,0,2
+708981,2,Örgryte IS,9380,1,14,Malmö FF,9375,2,2,2006-04-10T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708981,2,Örgryte IS,9380,1,14,Malmö FF,9375,2,2,2006-04-10T19:00+0200,Allsvenskan,10581,Ola Toivonen,6,home,1,0,11,11,0,0
+708981,2,Örgryte IS,9380,1,14,Malmö FF,9375,2,2,2006-04-10T19:00+0200,Allsvenskan,10581,Afonso Alves,9,visiting,1,1,11,11,0,0
+708981,2,Örgryte IS,9380,1,14,Malmö FF,9375,2,2,2006-04-10T19:00+0200,Allsvenskan,10581,Behrang Safari,44,visiting,1,2,11,11,0,1
+708982,2,Öster,9394,0,13,AIK,9367,4,1,2006-04-10T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708982,2,Öster,9394,0,13,AIK,9367,4,1,2006-04-10T19:00+0200,Allsvenskan,10581,Wilton Figueiredo,4,visiting,0,1,11,11,0,0
+708982,2,Öster,9394,0,13,AIK,9367,4,1,2006-04-10T19:00+0200,Allsvenskan,10581,Nicklas Carlsson,34,visiting,0,2,11,11,0,0
+708982,2,Öster,9394,0,13,AIK,9367,4,1,2006-04-10T19:00+0200,Allsvenskan,10581,Kenny Pavey,53,visiting,0,3,11,11,0,1
+708982,2,Öster,9394,0,13,AIK,9367,4,1,2006-04-10T19:00+0200,Allsvenskan,10581,Markus Jonsson,90,visiting,0,4,11,11,3,2
+708979,2,Djurgården,9368,0,4,Hammarby,9372,0,10,2006-04-10T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708991,3,Göteborg,9370,2,9,Helsingborg,9373,2,8,2006-04-14T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708991,3,Göteborg,9370,2,9,Helsingborg,9373,2,8,2006-04-14T15:00+0200,Allsvenskan,10581,Olivier Karekezi,15,visiting,0,1,11,11,0,0
+708991,3,Göteborg,9370,2,9,Helsingborg,9373,2,8,2006-04-14T15:00+0200,Allsvenskan,10581,McDonald Mariga,18,visiting,0,2,11,11,0,0
+708991,3,Göteborg,9370,2,9,Helsingborg,9373,2,8,2006-04-14T15:00+0200,Allsvenskan,10581,Thomas Olsson,25,home,1,2,11,11,0,0
+708991,3,Göteborg,9370,2,9,Helsingborg,9373,2,8,2006-04-14T15:00+0200,Allsvenskan,10581,Jonas Wallerstedt,47,home,2,2,11,11,0,1
+708992,3,Kalmar FF,9374,1,12,Gais,9382,2,3,2006-04-14T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708992,3,Kalmar FF,9374,1,12,Gais,9382,2,3,2006-04-14T15:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,15,home,1,0,11,11,0,0
+708992,3,Kalmar FF,9374,1,12,Gais,9382,2,3,2006-04-14T15:00+0200,Allsvenskan,10581,James Keene,35,visiting,1,1,11,11,0,1
+708992,3,Kalmar FF,9374,1,12,Gais,9382,2,3,2006-04-14T15:00+0200,Allsvenskan,10581,Anders Holmberg,51,visiting,1,2,11,11,0,1
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Stefan Ishizaki,6,visiting,0,1,11,11,0,0
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Helgi Danielsson,36,home,1,1,11,11,0,0
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Mathias Svensson,52,visiting,1,2,11,11,0,0
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Marco Da Silva,68,home,2,2,11,11,1,0
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Samuel Holmén,75,visiting,2,3,11,11,1,0
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Tomas Backman,79,home,3,3,11,11,1,0
+708993,3,Öster,9394,3,13,Elfsborg,9369,4,2,2006-04-14T15:00+0200,Allsvenskan,10581,Anders Svensson,84,visiting,3,4,11,11,1,0
+708994,3,AIK,9367,2,1,Örgryte IS,9380,1,14,2006-04-17T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708994,3,AIK,9367,2,1,Örgryte IS,9380,1,14,2006-04-17T15:00+0200,Allsvenskan,10581,Wilton Figueiredo,11,home,1,0,11,11,0,0
+708994,3,AIK,9367,2,1,Örgryte IS,9380,1,14,2006-04-17T15:00+0200,Allsvenskan,10581,Johan Anegrund,38,visiting,1,1,11,11,0,2
+708994,3,AIK,9367,2,1,Örgryte IS,9380,1,14,2006-04-17T15:00+0200,Allsvenskan,10581,Niklas Sandberg,77,home,2,1,11,11,0,5
+708995,3,Gefle,9400,0,11,Häcken,19740,4,4,2006-04-17T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708995,3,Gefle,9400,0,11,Häcken,19740,4,4,2006-04-17T15:00+0200,Allsvenskan,10581,Jonas Henriksson,49,visiting,0,1,11,11,1,0
+708995,3,Gefle,9400,0,11,Häcken,19740,4,4,2006-04-17T15:00+0200,Allsvenskan,10581,Dioh Williams,63,visiting,0,2,11,11,1,0
+708995,3,Gefle,9400,0,11,Häcken,19740,4,4,2006-04-17T15:00+0200,Allsvenskan,10581,Hans Berggren,83,visiting,0,3,11,11,1,1
+708995,3,Gefle,9400,0,11,Häcken,19740,4,4,2006-04-17T15:00+0200,Allsvenskan,10581,Hans Berggren,88,visiting,0,4,11,11,1,1
+708996,3,Halmstad,9371,0,10,Djurgården,9368,0,5,2006-04-17T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708997,3,Malmö FF,9375,1,7,Hammarby,9372,2,6,2006-04-17T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708997,3,Malmö FF,9375,1,7,Hammarby,9372,2,6,2006-04-17T15:00+0200,Allsvenskan,10581,självmål,24,visiting,0,1,11,11,0,0
+708997,3,Malmö FF,9375,1,7,Hammarby,9372,2,6,2006-04-17T15:00+0200,Allsvenskan,10581,Paulinho Guará,62,visiting,0,2,11,11,0,0
+708997,3,Malmö FF,9375,1,7,Hammarby,9372,2,6,2006-04-17T15:00+0200,Allsvenskan,10581,Edward Ofere,72,home,1,2,11,11,0,0
+708971,1,Halmstad,9371,0,11,Elfsborg,9369,1,3,2006-04-20T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708971,1,Halmstad,9371,0,11,Elfsborg,9369,1,3,2006-04-20T19:00+0200,Allsvenskan,10581,Andreas Augustsson,30,visiting,0,1,11,11,1,0
+708973,1,Kalmar FF,9374,0,12,Djurgården,9368,1,2,2006-04-20T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708973,1,Kalmar FF,9374,0,12,Djurgården,9368,1,2,2006-04-20T19:00+0200,Allsvenskan,10581,Stefan Batan,90,visiting,0,1,10,11,1,3
+708998,4,Häcken,19740,0,6,Öster,9394,1,9,2006-04-22T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+708998,4,Häcken,19740,0,6,Öster,9394,1,9,2006-04-22T16:00+0200,Allsvenskan,10581,Marco Da Silva,70,visiting,0,1,11,11,0,0
+708999,4,Gais,9382,0,4,Malmö FF,9375,0,7,2006-04-23T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709000,4,Hammarby,9372,0,5,Halmstad,9371,0,11,2006-04-23T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709001,4,Elfsborg,9369,1,1,Kalmar FF,9374,0,13,2006-04-23T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709001,4,Elfsborg,9369,1,1,Kalmar FF,9374,0,13,2006-04-23T15:00+0200,Allsvenskan,10581,Stefan Ishizaki,39,home,1,0,11,11,1,0
+709002,4,Djurgården,9368,1,3,Göteborg,9370,0,10,2006-04-24T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709002,4,Djurgården,9368,1,3,Göteborg,9370,0,10,2006-04-24T19:00+0200,Allsvenskan,10581,Mattias Jonson,81,home,1,0,11,11,0,0
+709003,4,Helsingborg,9373,1,8,AIK,9367,1,2,2006-04-24T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709003,4,Helsingborg,9373,1,8,AIK,9367,1,2,2006-04-24T19:00+0200,Allsvenskan,10581,Wilton Figueiredo,25,visiting,0,1,11,11,1,0
+709003,4,Helsingborg,9373,1,8,AIK,9367,1,2,2006-04-24T19:00+0200,Allsvenskan,10581,Babis Stefanidis,81,home,1,1,11,11,2,2
+709004,4,Örgryte IS,9380,1,14,Gefle,9400,1,12,2006-04-24T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709004,4,Örgryte IS,9380,1,14,Gefle,9400,1,12,2006-04-24T19:00+0200,Allsvenskan,10581,Boyd Mwila,8,home,1,0,11,11,0,1
+709004,4,Örgryte IS,9380,1,14,Gefle,9400,1,12,2006-04-24T19:00+0200,Allsvenskan,10581,Yannick Bapupa,77,visiting,1,1,11,11,1,1
+709028,5,Halmstad,9371,0,11,Gais,9382,0,4,2006-04-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709029,5,Kalmar FF,9374,0,13,Malmö FF,9375,0,7,2006-04-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709031,5,Elfsborg,9369,2,2,Häcken,19740,2,6,2006-04-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709031,5,Elfsborg,9369,2,2,Häcken,19740,2,6,2006-04-26T19:00+0200,Allsvenskan,10581,Hans Berggren,38,visiting,0,1,11,11,0,0
+709031,5,Elfsborg,9369,2,2,Häcken,19740,2,6,2006-04-26T19:00+0200,Allsvenskan,10581,Anders Svensson,53,home,1,1,11,11,0,0
+709031,5,Elfsborg,9369,2,2,Häcken,19740,2,6,2006-04-26T19:00+0200,Allsvenskan,10581,Hans Berggren,59,visiting,1,2,11,11,0,0
+709031,5,Elfsborg,9369,2,2,Häcken,19740,2,6,2006-04-26T19:00+0200,Allsvenskan,10581,Mathias Svensson,78,home,2,2,11,11,0,0
+709030,5,Gefle,9400,1,8,Helsingborg,9373,0,9,2006-04-27T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709030,5,Gefle,9400,1,8,Helsingborg,9373,0,9,2006-04-27T19:00+0200,Allsvenskan,10581,Kristen Viikmäe,55,home,1,0,11,11,0,0
+709032,5,Göteborg,9370,1,12,Hammarby,9372,2,3,2006-04-27T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709032,5,Göteborg,9370,1,12,Hammarby,9372,2,3,2006-04-27T19:00+0200,Allsvenskan,10581,Björn Runström,8,visiting,0,1,11,11,0,0
+709032,5,Göteborg,9370,1,12,Hammarby,9372,2,3,2006-04-27T19:00+0200,Allsvenskan,10581,Björn Runström,69,visiting,0,2,11,10,0,2
+709032,5,Göteborg,9370,1,12,Hammarby,9372,2,3,2006-04-27T19:00+0200,Allsvenskan,10581,Karl Svensson,78,home,1,2,10,10,0,2
+709033,5,Öster,9394,0,10,Örgryte IS,9380,0,14,2006-04-27T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709034,5,AIK,9367,3,1,Djurgården,9368,1,5,2006-04-27T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709034,5,AIK,9367,3,1,Djurgården,9368,1,5,2006-04-27T20:00+0200,Allsvenskan,10581,Markus Jonsson,35,home,1,0,11,11,0,1
+709034,5,AIK,9367,3,1,Djurgården,9368,1,5,2006-04-27T20:00+0200,Allsvenskan,10581,Derek Boateng,54,home,2,0,11,11,0,1
+709034,5,AIK,9367,3,1,Djurgården,9368,1,5,2006-04-27T20:00+0200,Allsvenskan,10581,Kristian Haynes,91,home,3,0,10,11,2,2
+709034,5,AIK,9367,3,1,Djurgården,9368,1,5,2006-04-27T20:00+0200,Allsvenskan,10581,Tobias Hysén,91,visiting,3,1,10,11,2,2
+709043,6,Häcken,19740,0,8,Kalmar FF,9374,2,11,2006-05-01T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709043,6,Häcken,19740,0,8,Kalmar FF,9374,2,11,2006-05-01T17:00+0200,Allsvenskan,10581,Cesar Santin,30,visiting,0,1,11,11,0,0
+709043,6,Häcken,19740,0,8,Kalmar FF,9374,2,11,2006-05-01T17:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,70,visiting,0,2,10,11,0,0
+709044,6,Djurgården,9368,1,4,Gefle,9400,0,10,2006-05-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709044,6,Djurgården,9368,1,4,Gefle,9400,0,10,2006-05-02T19:00+0200,Allsvenskan,10581,Thiago Quirino da Silva,63,home,1,0,11,11,0,0
+709045,6,Gais,9382,1,7,Göteborg,9370,2,9,2006-05-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709045,6,Gais,9382,1,7,Göteborg,9370,2,9,2006-05-02T19:00+0200,Allsvenskan,10581,Karl Svensson,32,visiting,0,1,11,11,0,0
+709045,6,Gais,9382,1,7,Göteborg,9370,2,9,2006-05-02T19:00+0200,Allsvenskan,10581,Pontus Wernbloom,41,visiting,0,2,11,11,0,0
+709045,6,Gais,9382,1,7,Göteborg,9370,2,9,2006-05-02T19:00+0200,Allsvenskan,10581,Anders Holmberg,52,home,1,2,11,11,0,0
+709046,6,Helsingborg,9373,4,6,Öster,9394,0,12,2006-05-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709046,6,Helsingborg,9373,4,6,Öster,9394,0,12,2006-05-02T19:00+0200,Allsvenskan,10581,Babis Stefanidis,43,home,1,0,11,11,0,0
+709046,6,Helsingborg,9373,4,6,Öster,9394,0,12,2006-05-02T19:00+0200,Allsvenskan,10581,Olivier Karekezi,45,home,2,0,11,11,0,0
+709046,6,Helsingborg,9373,4,6,Öster,9394,0,12,2006-05-02T19:00+0200,Allsvenskan,10581,Olivier Karekezi,63,home,3,0,11,11,0,0
+709046,6,Helsingborg,9373,4,6,Öster,9394,0,12,2006-05-02T19:00+0200,Allsvenskan,10581,Babis Stefanidis,74,home,4,0,11,11,0,0
+709047,6,Malmö FF,9375,1,5,Halmstad,9371,0,13,2006-05-03T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709047,6,Malmö FF,9375,1,5,Halmstad,9371,0,13,2006-05-03T19:00+0200,Allsvenskan,10581,Jari Litmanen,90,home,1,0,11,11,2,2
+709048,6,Örgryte IS,9380,0,14,Elfsborg,9369,2,1,2006-05-03T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709048,6,Örgryte IS,9380,0,14,Elfsborg,9369,2,1,2006-05-03T19:00+0200,Allsvenskan,10581,Joakim Sjöhage,32,visiting,0,1,11,11,0,0
+709048,6,Örgryte IS,9380,0,14,Elfsborg,9369,2,1,2006-05-03T19:00+0200,Allsvenskan,10581,Joakim Sjöhage,55,visiting,0,2,11,11,1,0
+709049,6,Hammarby,9372,2,2,AIK,9367,0,3,2006-05-03T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709049,6,Hammarby,9372,2,2,AIK,9367,0,3,2006-05-03T20:00+0200,Allsvenskan,10581,Mikkel Jensen,32,home,1,0,11,11,0,1
+709049,6,Hammarby,9372,2,2,AIK,9367,0,3,2006-05-03T20:00+0200,Allsvenskan,10581,Paulinho Guará,89,home,2,0,11,11,2,2
+709058,7,Göteborg,9370,3,6,Häcken,19740,0,12,2006-05-06T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709058,7,Göteborg,9370,3,6,Häcken,19740,0,12,2006-05-06T20:00+0200,Allsvenskan,10581,Dennis Jonsson,3,home,1,0,11,11,0,0
+709058,7,Göteborg,9370,3,6,Häcken,19740,0,12,2006-05-06T20:00+0200,Allsvenskan,10581,Stefan Selakovic,12,home,2,0,11,11,0,0
+709058,7,Göteborg,9370,3,6,Häcken,19740,0,12,2006-05-06T20:00+0200,Allsvenskan,10581,Pontus Wernbloom,38,home,3,0,11,11,0,0
+709059,7,Gais,9382,1,7,Djurgården,9368,1,4,2006-05-07T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709059,7,Gais,9382,1,7,Djurgården,9368,1,4,2006-05-07T17:00+0200,Allsvenskan,10581,Stefan Batan,39,visiting,0,1,11,11,0,0
+709059,7,Gais,9382,1,7,Djurgården,9368,1,4,2006-05-07T17:00+0200,Allsvenskan,10581,Fredrik Lundgren,52,home,1,1,11,11,0,0
+709060,7,Gefle,9400,1,8,Öster,9394,0,13,2006-05-07T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709060,7,Gefle,9400,1,8,Öster,9394,0,13,2006-05-07T17:00+0200,Allsvenskan,10581,Yannick Bapupa,2,home,1,0,11,11,0,0
+709061,7,Halmstad,9371,1,11,Örgryte IS,9380,0,14,2006-05-07T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709061,7,Halmstad,9371,1,11,Örgryte IS,9380,0,14,2006-05-07T17:00+0200,Allsvenskan,10581,Per Johansson,53,home,1,0,11,11,0,0
+709062,7,Kalmar FF,9374,4,9,Hammarby,9372,1,5,2006-05-07T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709062,7,Kalmar FF,9374,4,9,Hammarby,9372,1,5,2006-05-07T17:00+0200,Allsvenskan,10581,självmål,7,visiting,0,1,11,11,0,0
+709062,7,Kalmar FF,9374,4,9,Hammarby,9372,1,5,2006-05-07T17:00+0200,Allsvenskan,10581,Viktor Elm,13,home,1,1,11,11,0,0
+709062,7,Kalmar FF,9374,4,9,Hammarby,9372,1,5,2006-05-07T17:00+0200,Allsvenskan,10581,Mikael Blomberg,14,home,2,1,11,11,0,0
+709062,7,Kalmar FF,9374,4,9,Hammarby,9372,1,5,2006-05-07T17:00+0200,Allsvenskan,10581,Lasse Johansson,51,home,3,1,11,11,0,0
+709062,7,Kalmar FF,9374,4,9,Hammarby,9372,1,5,2006-05-07T17:00+0200,Allsvenskan,10581,Mikael Blomberg,71,home,4,1,11,11,0,0
+709063,7,AIK,9367,2,2,Elfsborg,9369,2,1,2006-05-08T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709063,7,AIK,9367,2,2,Elfsborg,9369,2,1,2006-05-08T19:00+0200,Allsvenskan,10581,Markus Jonsson,75,home,1,0,11,11,0,0
+709063,7,AIK,9367,2,2,Elfsborg,9369,2,1,2006-05-08T19:00+0200,Allsvenskan,10581,Wilton Figueiredo,83,home,2,0,11,11,0,0
+709063,7,AIK,9367,2,2,Elfsborg,9369,2,1,2006-05-08T19:00+0200,Allsvenskan,10581,Anders Svensson,89,visiting,2,1,11,11,0,0
+709063,7,AIK,9367,2,2,Elfsborg,9369,2,1,2006-05-08T19:00+0200,Allsvenskan,10581,Daniel Alexandersson,90,visiting,2,2,11,11,0,0
+709064,7,Malmö FF,9375,3,3,Helsingborg,9373,1,10,2006-05-08T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709064,7,Malmö FF,9375,3,3,Helsingborg,9373,1,10,2006-05-08T19:00+0200,Allsvenskan,10581,Edward Ofere,19,home,1,0,11,11,0,0
+709064,7,Malmö FF,9375,3,3,Helsingborg,9373,1,10,2006-05-08T19:00+0200,Allsvenskan,10581,Babis Stefanidis,52,visiting,1,1,11,11,0,0
+709064,7,Malmö FF,9375,3,3,Helsingborg,9373,1,10,2006-05-08T19:00+0200,Allsvenskan,10581,Afonso Alves,78,home,2,1,11,11,0,0
+709064,7,Malmö FF,9375,3,3,Helsingborg,9373,1,10,2006-05-08T19:00+0200,Allsvenskan,10581,Marcus Pode,88,home,3,1,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Petter Furuseth Olsen,26,home,1,0,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Daniel Nicklasson,30,visiting,1,1,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Paulinho Guará,30,home,2,1,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Petter Andersson,45,home,3,1,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Paulinho Guará,51,home,4,1,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Björn Runström,54,home,5,1,11,11,0,0
+709065,8,Hammarby,9372,5,4,Gais,9382,2,10,2006-05-10T19:00+0200,Allsvenskan,10581,Martin Dohlsten,60,visiting,5,2,11,11,0,0
+709066,8,Göteborg,9370,2,5,Örgryte IS,9380,1,14,2006-05-10T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709066,8,Göteborg,9370,2,5,Örgryte IS,9380,1,14,2006-05-10T19:00+0200,Allsvenskan,10581,Magnus Kihlberg,9,home,1,0,11,11,0,0
+709066,8,Göteborg,9370,2,5,Örgryte IS,9380,1,14,2006-05-10T19:00+0200,Allsvenskan,10581,Ola Toivonen,31,visiting,1,1,11,11,0,0
+709066,8,Göteborg,9370,2,5,Örgryte IS,9380,1,14,2006-05-10T19:00+0200,Allsvenskan,10581,Stefan Selakovic,60,home,2,1,11,11,0,0
+709067,8,Öster,9394,0,13,Kalmar FF,9374,1,8,2006-05-10T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709067,8,Öster,9394,0,13,Kalmar FF,9374,1,8,2006-05-10T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,49,visiting,0,1,11,11,0,0
+709068,8,Häcken,19740,0,12,AIK,9367,1,1,2006-05-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709068,8,Häcken,19740,0,12,AIK,9367,1,1,2006-05-11T19:00+0200,Allsvenskan,10581,Wilton Figueiredo,6,visiting,0,1,11,11,0,0
+709069,8,Djurgården,9368,2,6,Malmö FF,9375,3,3,2006-05-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709069,8,Djurgården,9368,2,6,Malmö FF,9375,3,3,2006-05-11T19:00+0200,Allsvenskan,10581,Matias Concha,5,home,1,0,11,11,0,0
+709069,8,Djurgården,9368,2,6,Malmö FF,9375,3,3,2006-05-11T19:00+0200,Allsvenskan,10581,Daniel Andersson,44,visiting,1,1,11,11,0,0
+709069,8,Djurgården,9368,2,6,Malmö FF,9375,3,3,2006-05-11T19:00+0200,Allsvenskan,10581,Behrang Safari,59,visiting,1,2,11,11,0,0
+709069,8,Djurgården,9368,2,6,Malmö FF,9375,3,3,2006-05-11T19:00+0200,Allsvenskan,10581,Jari Litmanen,64,visiting,1,3,11,11,0,0
+709069,8,Djurgården,9368,2,6,Malmö FF,9375,3,3,2006-05-11T19:00+0200,Allsvenskan,10581,Tobias Hysén,85,home,2,3,11,11,0,0
+709070,8,Helsingborg,9373,1,9,Halmstad,9371,1,11,2006-05-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709070,8,Helsingborg,9373,1,9,Halmstad,9371,1,11,2006-05-11T19:00+0200,Allsvenskan,10581,Babis Stefanidis,3,home,1,0,11,11,0,0
+709070,8,Helsingborg,9373,1,9,Halmstad,9371,1,11,2006-05-11T19:00+0200,Allsvenskan,10581,Dusan Djuric,8,visiting,1,1,11,11,0,0
+709071,8,Elfsborg,9369,0,2,Gefle,9400,1,7,2006-05-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709071,8,Elfsborg,9369,0,2,Gefle,9400,1,7,2006-05-11T19:00+0200,Allsvenskan,10581,Yannick Bapupa,52,visiting,0,1,11,10,0,0
+709072,9,AIK,9367,2,1,Gais,9382,0,10,2006-05-14T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709072,9,AIK,9367,2,1,Gais,9382,0,10,2006-05-14T17:00+0200,Allsvenskan,10581,Wilton Figueiredo,60,home,1,0,11,11,0,0
+709072,9,AIK,9367,2,1,Gais,9382,0,10,2006-05-14T17:00+0200,Allsvenskan,10581,Markus Jonsson,80,home,2,0,11,11,0,0
+709073,9,Göteborg,9370,1,4,Malmö FF,9375,0,5,2006-05-14T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709073,9,Göteborg,9370,1,4,Malmö FF,9375,0,5,2006-05-14T17:00+0200,Allsvenskan,10581,Thomas Olsson,56,home,1,0,11,11,0,0
+709074,9,Öster,9394,0,13,Djurgården,9368,3,6,2006-05-14T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709074,9,Öster,9394,0,13,Djurgården,9368,3,6,2006-05-14T17:00+0200,Allsvenskan,10581,Tobias Hysén,9,visiting,0,1,11,11,0,0
+709074,9,Öster,9394,0,13,Djurgården,9368,3,6,2006-05-14T17:00+0200,Allsvenskan,10581,Jones Kusi-Asare,13,visiting,0,2,11,11,0,0
+709074,9,Öster,9394,0,13,Djurgården,9368,3,6,2006-05-14T17:00+0200,Allsvenskan,10581,Jones Kusi-Asare,37,visiting,0,3,11,11,0,0
+709075,9,Häcken,19740,2,12,Örgryte IS,9380,2,14,2006-05-14T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709075,9,Häcken,19740,2,12,Örgryte IS,9380,2,14,2006-05-14T17:00+0200,Allsvenskan,10581,Jonas Henriksson,44,home,1,0,11,11,0,0
+709075,9,Häcken,19740,2,12,Örgryte IS,9380,2,14,2006-05-14T17:00+0200,Allsvenskan,10581,Ola Toivonen,57,visiting,1,1,11,11,0,0
+709075,9,Häcken,19740,2,12,Örgryte IS,9380,2,14,2006-05-14T17:00+0200,Allsvenskan,10581,Anders Prytz,63,visiting,1,2,11,11,0,0
+709075,9,Häcken,19740,2,12,Örgryte IS,9380,2,14,2006-05-14T17:00+0200,Allsvenskan,10581,Jonas Henriksson,87,home,2,2,11,11,0,0
+709076,9,Gefle,9400,0,8,Hammarby,9372,1,2,2006-05-14T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709076,9,Gefle,9400,0,8,Hammarby,9372,1,2,2006-05-14T17:00+0200,Allsvenskan,10581,Paulinho Guará,39,visiting,0,1,11,11,0,0
+709077,9,Elfsborg,9369,0,3,Helsingborg,9373,0,9,2006-05-14T17:15+0200,Allsvenskan,10581,,,,0,0,,,,
+709078,9,Kalmar FF,9374,2,7,Halmstad,9371,1,11,2006-05-15T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+709078,9,Kalmar FF,9374,2,7,Halmstad,9371,1,11,2006-05-15T19:00+0200,Allsvenskan,10581,Per Johansson,32,visiting,0,1,11,11,0,1
+709078,9,Kalmar FF,9374,2,7,Halmstad,9371,1,11,2006-05-15T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,37,home,1,1,11,11,0,1
+709078,9,Kalmar FF,9374,2,7,Halmstad,9371,1,11,2006-05-15T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,89,home,2,1,11,11,1,3
+782975,10,Malmö FF,9375,3,4,AIK,9367,1,3,2006-07-15T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782975,10,Malmö FF,9375,3,4,AIK,9367,1,3,2006-07-15T16:00+0200,Allsvenskan,10581,Jonatan Johansson,31,home,1,0,11,11,0,1
+782975,10,Malmö FF,9375,3,4,AIK,9367,1,3,2006-07-15T16:00+0200,Allsvenskan,10581,Jonatan Johansson,82,home,2,0,11,10,3,1
+782975,10,Malmö FF,9375,3,4,AIK,9367,1,3,2006-07-15T16:00+0200,Allsvenskan,10581,Junior,86,home,3,0,11,10,3,1
+782975,10,Malmö FF,9375,3,4,AIK,9367,1,3,2006-07-15T16:00+0200,Allsvenskan,10581,Gabriel Özkan,90,visiting,3,1,11,10,3,1
+782972,10,Djurgården,9368,1,7,Elfsborg,9369,1,6,2006-07-16T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782972,10,Djurgården,9368,1,7,Elfsborg,9369,1,6,2006-07-16T17:00+0200,Allsvenskan,10581,Abgar Barsom,38,home,1,0,11,11,0,0
+782972,10,Djurgården,9368,1,7,Elfsborg,9369,1,6,2006-07-16T17:00+0200,Allsvenskan,10581,Andreas Augustsson,90,visiting,1,1,11,11,0,0
+782973,10,Halmstad,9371,1,12,Göteborg,9370,4,2,2006-07-16T18:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782973,10,Halmstad,9371,1,12,Göteborg,9370,4,2,2006-07-16T18:00+0200,Allsvenskan,10581,George Mourad,5,visiting,0,1,11,11,0,0
+782973,10,Halmstad,9371,1,12,Göteborg,9370,4,2,2006-07-16T18:00+0200,Allsvenskan,10581,Magnus Arvidsson,11,home,1,1,11,11,0,0
+782973,10,Halmstad,9371,1,12,Göteborg,9370,4,2,2006-07-16T18:00+0200,Allsvenskan,10581,Hjalmar Jonsson,40,visiting,1,2,11,11,0,0
+782973,10,Halmstad,9371,1,12,Göteborg,9370,4,2,2006-07-16T18:00+0200,Allsvenskan,10581,Pontus Wernbloom,56,visiting,1,3,11,11,0,0
+782973,10,Halmstad,9371,1,12,Göteborg,9370,4,2,2006-07-16T18:00+0200,Allsvenskan,10581,George Mourad,82,visiting,1,4,10,11,0,0
+782974,10,Hammarby,9372,2,1,Öster,9394,0,13,2006-07-17T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782974,10,Hammarby,9372,2,1,Öster,9394,0,13,2006-07-17T19:00+0200,Allsvenskan,10581,Jeffrey Aubynn,27,home,1,0,11,11,0,0
+782974,10,Hammarby,9372,2,1,Öster,9394,0,13,2006-07-17T19:00+0200,Allsvenskan,10581,Max von Schlebrügge,58,home,2,0,11,11,0,0
+782976,10,Helsingborg,9373,1,11,Häcken,19740,3,10,2006-07-17T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782976,10,Helsingborg,9373,1,11,Häcken,19740,3,10,2006-07-17T20:00+0200,Allsvenskan,10581,Hans Berggren,17,visiting,0,1,11,11,0,0
+782976,10,Helsingborg,9373,1,11,Häcken,19740,3,10,2006-07-17T20:00+0200,Allsvenskan,10581,Olivier Karekezi,45,home,1,1,11,11,0,0
+782976,10,Helsingborg,9373,1,11,Häcken,19740,3,10,2006-07-17T20:00+0200,Allsvenskan,10581,Robert Mambo Mumba,72,visiting,1,2,11,11,0,0
+782976,10,Helsingborg,9373,1,11,Häcken,19740,3,10,2006-07-17T20:00+0200,Allsvenskan,10581,Daniel Larsson,90,visiting,1,3,11,11,0,0
+782977,10,Gais,9382,1,8,Gefle,9400,0,9,2006-07-18T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782977,10,Gais,9382,1,8,Gefle,9400,0,9,2006-07-18T19:00+0200,Allsvenskan,10581,Khari Stephenson,13,home,1,0,11,11,0,0
+782978,10,Örgryte IS,9380,1,14,Kalmar FF,9374,3,5,2006-07-19T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+782978,10,Örgryte IS,9380,1,14,Kalmar FF,9374,3,5,2006-07-19T19:00+0200,Allsvenskan,10581,Mikael Blomberg,11,visiting,0,1,11,11,0,0
+782978,10,Örgryte IS,9380,1,14,Kalmar FF,9374,3,5,2006-07-19T19:00+0200,Allsvenskan,10581,Shpetim Hasani,22,visiting,0,2,11,11,0,0
+782978,10,Örgryte IS,9380,1,14,Kalmar FF,9374,3,5,2006-07-19T19:00+0200,Allsvenskan,10581,Cesar Santin,28,visiting,0,3,11,11,0,0
+782978,10,Örgryte IS,9380,1,14,Kalmar FF,9374,3,5,2006-07-19T19:00+0200,Allsvenskan,10581,Boyd Mwila,74,home,1,3,11,11,1,1
+783669,11,Häcken,19740,0,11,Djurgården,9368,2,5,2006-07-20T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783669,11,Häcken,19740,0,11,Djurgården,9368,2,5,2006-07-20T20:00+0200,Allsvenskan,10581,Jones Kusi-Asare,59,visiting,0,1,11,11,0,2
+783669,11,Häcken,19740,0,11,Djurgården,9368,2,5,2006-07-20T20:00+0200,Allsvenskan,10581,Jones Kusi-Asare,90,visiting,0,2,10,11,0,3
+783670,11,Örgryte IS,9380,1,14,Helsingborg,9373,1,10,2006-07-22T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783670,11,Örgryte IS,9380,1,14,Helsingborg,9373,1,10,2006-07-22T16:00+0200,Allsvenskan,10581,Ailton Almeida,77,home,1,0,11,11,0,0
+783670,11,Örgryte IS,9380,1,14,Helsingborg,9373,1,10,2006-07-22T16:00+0200,Allsvenskan,10581,Gustaf Andersson,87,visiting,1,1,11,11,0,0
+783671,11,AIK,9367,3,1,Halmstad,9371,0,12,2006-07-23T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783671,11,AIK,9367,3,1,Halmstad,9371,0,12,2006-07-23T17:00+0200,Allsvenskan,10581,Kenny Pavey,47,home,1,0,11,11,0,0
+783671,11,AIK,9367,3,1,Halmstad,9371,0,12,2006-07-23T17:00+0200,Allsvenskan,10581,Gabriel Özkan,84,home,2,0,11,11,0,0
+783671,11,AIK,9367,3,1,Halmstad,9371,0,12,2006-07-23T17:00+0200,Allsvenskan,10581,Mats Rubarth,87,home,3,0,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Jonatan Johansson,7,visiting,0,1,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Emil Hallfredsson,8,visiting,0,2,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Daniel Andersson,42,visiting,0,3,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Mathias Woxlin,50,home,1,3,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Mathias Woxlin,52,home,2,3,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Daniel Westlin,69,home,3,3,11,11,0,0
+783672,11,Gefle,9400,4,8,Malmö FF,9375,3,6,2006-07-23T17:00+0200,Allsvenskan,10581,Mathias Woxlin,82,home,4,3,11,11,0,0
+783673,11,Öster,9394,2,13,Gais,9382,2,9,2006-07-24T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783673,11,Öster,9394,2,13,Gais,9382,2,9,2006-07-24T19:00+0200,Allsvenskan,10581,James Keene,19,visiting,0,1,11,11,0,0
+783673,11,Öster,9394,2,13,Gais,9382,2,9,2006-07-24T19:00+0200,Allsvenskan,10581,James Keene,29,visiting,0,2,11,11,0,0
+783673,11,Öster,9394,2,13,Gais,9382,2,9,2006-07-24T19:00+0200,Allsvenskan,10581,Mario Vasilij,51,home,1,2,11,11,0,0
+783673,11,Öster,9394,2,13,Gais,9382,2,9,2006-07-24T19:00+0200,Allsvenskan,10581,Pär Cederqvist,58,home,2,2,11,11,0,0
+783674,11,Elfsborg,9369,3,3,Hammarby,9372,0,4,2006-07-25T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783674,11,Elfsborg,9369,3,3,Hammarby,9372,0,4,2006-07-25T20:00+0200,Allsvenskan,10581,Samuel Holmén,78,home,1,0,11,11,0,0
+783674,11,Elfsborg,9369,3,3,Hammarby,9372,0,4,2006-07-25T20:00+0200,Allsvenskan,10581,Samuel Holmén,82,home,2,0,11,11,0,0
+783674,11,Elfsborg,9369,3,3,Hammarby,9372,0,4,2006-07-25T20:00+0200,Allsvenskan,10581,Leandre Griffit,83,home,3,0,11,11,0,0
+783676,12,Djurgården,9368,2,6,Örgryte IS,9380,2,14,2006-07-29T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783676,12,Djurgården,9368,2,6,Örgryte IS,9380,2,14,2006-07-29T16:00+0200,Allsvenskan,10581,Andrej Komac,35,home,1,0,11,11,0,0
+783676,12,Djurgården,9368,2,6,Örgryte IS,9380,2,14,2006-07-29T16:00+0200,Allsvenskan,10581,Boyd Mwila,58,visiting,1,1,11,11,0,0
+783676,12,Djurgården,9368,2,6,Örgryte IS,9380,2,14,2006-07-29T16:00+0200,Allsvenskan,10581,Tobias Hysén,78,home,2,1,11,11,0,0
+783676,12,Djurgården,9368,2,6,Örgryte IS,9380,2,14,2006-07-29T16:00+0200,Allsvenskan,10581,Ailton Almeida,82,visiting,2,2,11,11,0,0
+783677,12,Gais,9382,0,10,Elfsborg,9369,3,1,2006-07-30T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783677,12,Gais,9382,0,10,Elfsborg,9369,3,1,2006-07-30T17:00+0200,Allsvenskan,10581,Samuel Holmén,24,visiting,0,1,11,11,0,0
+783677,12,Gais,9382,0,10,Elfsborg,9369,3,1,2006-07-30T17:00+0200,Allsvenskan,10581,Jon Jönsson,41,visiting,0,2,11,11,0,0
+783677,12,Gais,9382,0,10,Elfsborg,9369,3,1,2006-07-30T17:00+0200,Allsvenskan,10581,Joakim Sjöhage,77,visiting,0,3,11,11,0,0
+783678,12,Hammarby,9372,3,2,Häcken,19740,0,12,2006-07-30T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783678,12,Hammarby,9372,3,2,Häcken,19740,0,12,2006-07-30T17:00+0200,Allsvenskan,10581,Paulinho Guará,3,home,1,0,11,11,0,0
+783678,12,Hammarby,9372,3,2,Häcken,19740,0,12,2006-07-30T17:00+0200,Allsvenskan,10581,Pablo Pinones-Arce,29,home,2,0,11,11,0,0
+783678,12,Hammarby,9372,3,2,Häcken,19740,0,12,2006-07-30T17:00+0200,Allsvenskan,10581,Erkan Zengin,75,home,3,0,11,11,0,0
+783679,12,Halmstad,9371,3,11,Gefle,9400,0,8,2006-07-31T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783679,12,Halmstad,9371,3,11,Gefle,9400,0,8,2006-07-31T19:00+0200,Allsvenskan,10581,Martin Fribrock,9,home,1,0,11,11,0,0
+783679,12,Halmstad,9371,3,11,Gefle,9400,0,8,2006-07-31T19:00+0200,Allsvenskan,10581,Emra Tahirovic,13,home,2,0,11,11,0,0
+783679,12,Halmstad,9371,3,11,Gefle,9400,0,8,2006-07-31T19:00+0200,Allsvenskan,10581,Dusan Djuric,47,home,3,0,11,11,0,0
+783680,12,Helsingborg,9373,2,9,Kalmar FF,9374,1,7,2006-07-31T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783680,12,Helsingborg,9373,2,9,Kalmar FF,9374,1,7,2006-07-31T19:00+0200,Allsvenskan,10581,Viktor Elm,58,visiting,0,1,11,11,0,0
+783680,12,Helsingborg,9373,2,9,Kalmar FF,9374,1,7,2006-07-31T19:00+0200,Allsvenskan,10581,Henrik Larsson,69,home,1,1,11,11,0,0
+783680,12,Helsingborg,9373,2,9,Kalmar FF,9374,1,7,2006-07-31T19:00+0200,Allsvenskan,10581,Babis Stefanidis,89,home,2,1,11,11,0,0
+783681,12,Malmö FF,9375,2,5,Öster,9394,0,13,2006-07-31T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783681,12,Malmö FF,9375,2,5,Öster,9394,0,13,2006-07-31T19:00+0200,Allsvenskan,10581,Junior,52,home,1,0,11,11,0,0
+783681,12,Malmö FF,9375,2,5,Öster,9394,0,13,2006-07-31T19:00+0200,Allsvenskan,10581,Jonatan Johansson,90,home,2,0,11,11,0,0
+783682,12,Göteborg,9370,1,4,AIK,9367,1,3,2006-07-31T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783682,12,Göteborg,9370,1,4,AIK,9367,1,3,2006-07-31T20:00+0200,Allsvenskan,10581,Alejandro Lago,27,home,1,0,11,11,0,0
+783682,12,Göteborg,9370,1,4,AIK,9367,1,3,2006-07-31T20:00+0200,Allsvenskan,10581,Daniel Mendes,77,visiting,1,1,11,11,0,0
+783683,13,Häcken,19740,0,12,Gais,9382,2,8,2006-08-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783683,13,Häcken,19740,0,12,Gais,9382,2,8,2006-08-02T19:00+0200,Allsvenskan,10581,James Keene,87,visiting,0,1,11,11,0,0
+783683,13,Häcken,19740,0,12,Gais,9382,2,8,2006-08-02T19:00+0200,Allsvenskan,10581,Martin Dohlsten,90,visiting,0,2,11,11,0,0
+783675,11,Kalmar FF,9374,1,7,Göteborg,9370,2,2,2006-08-03T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783675,11,Kalmar FF,9374,1,7,Göteborg,9370,2,2,2006-08-03T19:00+0200,Allsvenskan,10581,Pontus Wernbloom,24,visiting,0,1,11,11,0,0
+783675,11,Kalmar FF,9374,1,7,Göteborg,9370,2,2,2006-08-03T19:00+0200,Allsvenskan,10581,Viktor Elm,52,home,1,1,11,11,0,0
+783675,11,Kalmar FF,9374,1,7,Göteborg,9370,2,2,2006-08-03T19:00+0200,Allsvenskan,10581,Pontus Wernbloom,89,visiting,1,2,11,11,0,0
+783684,13,Örgryte IS,9380,1,14,Hammarby,9372,3,2,2006-08-03T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783684,13,Örgryte IS,9380,1,14,Hammarby,9372,3,2,2006-08-03T19:00+0200,Allsvenskan,10581,Ailton Almeida,7,home,1,0,11,11,0,0
+783684,13,Örgryte IS,9380,1,14,Hammarby,9372,3,2,2006-08-03T19:00+0200,Allsvenskan,10581,Sebastian Eguren,51,visiting,1,1,11,11,0,0
+783684,13,Örgryte IS,9380,1,14,Hammarby,9372,3,2,2006-08-03T19:00+0200,Allsvenskan,10581,Paulinho Guará,66,visiting,1,2,11,11,0,0
+783684,13,Örgryte IS,9380,1,14,Hammarby,9372,3,2,2006-08-03T19:00+0200,Allsvenskan,10581,Petter Furuseth Olsen,73,visiting,1,3,11,11,0,0
+783685,13,Djurgården,9368,2,5,Helsingborg,9373,1,10,2006-08-05T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783685,13,Djurgården,9368,2,5,Helsingborg,9373,1,10,2006-08-05T16:00+0200,Allsvenskan,10581,Matias Concha,40,home,1,0,11,11,0,0
+783685,13,Djurgården,9368,2,5,Helsingborg,9373,1,10,2006-08-05T16:00+0200,Allsvenskan,10581,Babis Stefanidis,70,visiting,1,1,11,11,0,0
+783685,13,Djurgården,9368,2,5,Helsingborg,9373,1,10,2006-08-05T16:00+0200,Allsvenskan,10581,Tobias Hysén,74,home,2,1,11,11,0,0
+783686,13,AIK,9367,1,3,Kalmar FF,9374,0,7,2006-08-06T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783686,13,AIK,9367,1,3,Kalmar FF,9374,0,7,2006-08-06T17:00+0200,Allsvenskan,10581,Wilton Figueiredo,11,home,1,0,11,11,0,0
+783687,13,Göteborg,9370,3,4,Gefle,9400,1,9,2006-08-06T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783687,13,Göteborg,9370,3,4,Gefle,9400,1,9,2006-08-06T17:00+0200,Allsvenskan,10581,George Mourad,9,home,1,0,11,11,0,0
+783687,13,Göteborg,9370,3,4,Gefle,9400,1,9,2006-08-06T17:00+0200,Allsvenskan,10581,Rene Muzola Makondele,16,visiting,1,1,11,11,0,0
+783687,13,Göteborg,9370,3,4,Gefle,9400,1,9,2006-08-06T17:00+0200,Allsvenskan,10581,George Mourad,32,home,2,1,11,11,0,0
+783687,13,Göteborg,9370,3,4,Gefle,9400,1,9,2006-08-06T17:00+0200,Allsvenskan,10581,Alejandro Lago,84,home,3,1,11,11,0,0
+783688,13,Öster,9394,3,13,Halmstad,9371,1,11,2006-08-07T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783688,13,Öster,9394,3,13,Halmstad,9371,1,11,2006-08-07T19:00+0200,Allsvenskan,10581,Teafore Bennett,21,home,1,0,11,11,0,0
+783688,13,Öster,9394,3,13,Halmstad,9371,1,11,2006-08-07T19:00+0200,Allsvenskan,10581,Paulo Figueiredo,29,home,2,0,11,11,0,0
+783688,13,Öster,9394,3,13,Halmstad,9371,1,11,2006-08-07T19:00+0200,Allsvenskan,10581,Teafore Bennett,45,home,3,0,11,11,0,0
+783688,13,Öster,9394,3,13,Halmstad,9371,1,11,2006-08-07T19:00+0200,Allsvenskan,10581,Tommy Jönsson,53,visiting,3,1,11,11,0,0
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,Junior,13,visiting,0,1,11,11,0,0
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,Anders Svensson,17,home,1,1,11,11,0,0
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,Junior,39,visiting,1,2,11,11,0,0
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,Anders Svensson,54,home,2,2,11,11,0,0
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,Daniel Alexandersson,62,home,3,2,11,11,0,0
+783689,13,Elfsborg,9369,4,1,Malmö FF,9375,2,6,2006-08-08T20:00+0200,Allsvenskan,10581,Samuel Holmén,90,home,4,2,11,11,0,0
+783690,14,Gais,9382,2,9,Häcken,19740,2,12,2006-08-09T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783690,14,Gais,9382,2,9,Häcken,19740,2,12,2006-08-09T19:00+0200,Allsvenskan,10581,James Keene,5,home,1,0,11,11,0,0
+783690,14,Gais,9382,2,9,Häcken,19740,2,12,2006-08-09T19:00+0200,Allsvenskan,10581,Teddy Lucic,35,visiting,1,1,11,11,0,0
+783690,14,Gais,9382,2,9,Häcken,19740,2,12,2006-08-09T19:00+0200,Allsvenskan,10581,Robert Mambo Mumba,37,visiting,1,2,11,11,0,0
+783690,14,Gais,9382,2,9,Häcken,19740,2,12,2006-08-09T19:00+0200,Allsvenskan,10581,Jonathan Berg,72,home,2,2,11,11,0,0
+783691,14,Hammarby,9372,0,3,Örgryte IS,9380,1,14,2006-08-12T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783691,14,Hammarby,9372,0,3,Örgryte IS,9380,1,14,2006-08-12T16:00+0200,Allsvenskan,10581,Ailton Almeida,89,visiting,0,1,11,11,0,0
+783692,14,Kalmar FF,9374,1,8,AIK,9367,3,1,2006-08-12T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783692,14,Kalmar FF,9374,1,8,AIK,9367,3,1,2006-08-12T16:00+0200,Allsvenskan,10581,Daniel Petersson,4,home,1,0,11,11,0,0
+783692,14,Kalmar FF,9374,1,8,AIK,9367,3,1,2006-08-12T16:00+0200,Allsvenskan,10581,Daniel Tjernström,17,visiting,1,1,11,11,0,0
+783692,14,Kalmar FF,9374,1,8,AIK,9367,3,1,2006-08-12T16:00+0200,Allsvenskan,10581,Kenny Pavey,29,visiting,1,2,11,11,0,0
+783692,14,Kalmar FF,9374,1,8,AIK,9367,3,1,2006-08-12T16:00+0200,Allsvenskan,10581,Daniel Mendes,90,visiting,1,3,11,11,0,0
+783693,14,Gefle,9400,1,7,Göteborg,9370,0,4,2006-08-13T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783693,14,Gefle,9400,1,7,Göteborg,9370,0,4,2006-08-13T17:00+0200,Allsvenskan,10581,Rene Muzola Makondele,70,home,1,0,11,11,0,0
+783694,14,Halmstad,9371,1,11,Öster,9394,0,13,2006-08-13T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783694,14,Halmstad,9371,1,11,Öster,9394,0,13,2006-08-13T17:00+0200,Allsvenskan,10581,Emra Tahirovic,1,home,1,0,11,11,0,0
+783695,14,Malmö FF,9375,1,6,Elfsborg,9369,1,2,2006-08-13T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783695,14,Malmö FF,9375,1,6,Elfsborg,9369,1,2,2006-08-13T17:00+0200,Allsvenskan,10581,Daniel Andersson,5,home,1,0,11,11,0,0
+783695,14,Malmö FF,9375,1,6,Elfsborg,9369,1,2,2006-08-13T17:00+0200,Allsvenskan,10581,Anders Svensson,55,visiting,1,1,11,11,0,0
+783696,14,Helsingborg,9373,1,10,Djurgården,9368,1,5,2006-08-13T18:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783696,14,Helsingborg,9373,1,10,Djurgården,9368,1,5,2006-08-13T18:00+0200,Allsvenskan,10581,Babis Stefanidis,14,home,1,0,10,11,0,0
+783696,14,Helsingborg,9373,1,10,Djurgården,9368,1,5,2006-08-13T18:00+0200,Allsvenskan,10581,Mattias Jonson,25,visiting,1,1,10,11,0,0
+783697,15,Djurgården,9368,0,6,Kalmar FF,9374,1,7,2006-08-19T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783697,15,Djurgården,9368,0,6,Kalmar FF,9374,1,7,2006-08-19T16:00+0200,Allsvenskan,10581,Mikael Blomberg,32,visiting,0,1,11,11,0,0
+783698,15,Häcken,19740,1,12,Malmö FF,9375,3,5,2006-08-20T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783698,15,Häcken,19740,1,12,Malmö FF,9375,3,5,2006-08-20T17:00+0200,Allsvenskan,10581,Junior,11,visiting,0,1,11,11,0,0
+783698,15,Häcken,19740,1,12,Malmö FF,9375,3,5,2006-08-20T17:00+0200,Allsvenskan,10581,Jonatan Johansson,38,visiting,0,2,11,11,0,0
+783698,15,Häcken,19740,1,12,Malmö FF,9375,3,5,2006-08-20T17:00+0200,Allsvenskan,10581,Jonatan Johansson,56,visiting,0,3,11,11,0,0
+783698,15,Häcken,19740,1,12,Malmö FF,9375,3,5,2006-08-20T17:00+0200,Allsvenskan,10581,Peter Olofsson,71,home,1,3,11,11,0,0
+783699,15,Gefle,9400,1,8,AIK,9367,1,2,2006-08-21T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783699,15,Gefle,9400,1,8,AIK,9367,1,2,2006-08-21T19:00+0200,Allsvenskan,10581,Bernt Hulsker,9,visiting,0,1,11,11,0,0
+783699,15,Gefle,9400,1,8,AIK,9367,1,2,2006-08-21T19:00+0200,Allsvenskan,10581,Rene Muzola Makondele,39,home,1,1,11,11,0,0
+783700,15,Örgryte IS,9380,1,13,Gais,9382,0,10,2006-08-21T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783700,15,Örgryte IS,9380,1,13,Gais,9382,0,10,2006-08-21T19:00+0200,Allsvenskan,10581,Boyd Mwila,75,home,1,0,11,11,0,0
+783701,15,Öster,9394,1,14,Göteborg,9370,1,3,2006-08-21T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783701,15,Öster,9394,1,14,Göteborg,9370,1,3,2006-08-21T19:00+0200,Allsvenskan,10581,Ingemar Teever,64,home,1,0,11,11,0,0
+783701,15,Öster,9394,1,14,Göteborg,9370,1,3,2006-08-21T19:00+0200,Allsvenskan,10581,Magnus Kihlberg,84,visiting,1,1,11,11,0,0
+783702,15,Elfsborg,9369,3,1,Halmstad,9371,0,11,2006-08-22T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783702,15,Elfsborg,9369,3,1,Halmstad,9371,0,11,2006-08-22T19:00+0200,Allsvenskan,10581,Jon Jönsson,14,home,1,0,11,11,0,0
+783702,15,Elfsborg,9369,3,1,Halmstad,9371,0,11,2006-08-22T19:00+0200,Allsvenskan,10581,Daniel Alexandersson,26,home,2,0,11,11,0,0
+783702,15,Elfsborg,9369,3,1,Halmstad,9371,0,11,2006-08-22T19:00+0200,Allsvenskan,10581,Mathias Svensson,38,home,3,0,11,11,0,0
+783703,15,Helsingborg,9373,3,9,Hammarby,9372,1,4,2006-08-22T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783703,15,Helsingborg,9373,3,9,Hammarby,9372,1,4,2006-08-22T20:00+0200,Allsvenskan,10581,Max von Schlebrügge,18,visiting,0,1,11,11,0,0
+783703,15,Helsingborg,9373,3,9,Hammarby,9372,1,4,2006-08-22T20:00+0200,Allsvenskan,10581,Henrik Larsson,45,home,1,1,11,11,0,0
+783703,15,Helsingborg,9373,3,9,Hammarby,9372,1,4,2006-08-22T20:00+0200,Allsvenskan,10581,Henrik Larsson,47,home,2,1,11,11,0,0
+783703,15,Helsingborg,9373,3,9,Hammarby,9372,1,4,2006-08-22T20:00+0200,Allsvenskan,10581,Fredrik Svanbäck,69,home,3,1,11,11,0,0
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,Miran Burgic,9,home,1,0,11,11,0,0
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,Miran Burgic,16,home,2,0,11,11,0,0
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,Wilton Figueiredo,33,home,3,0,11,11,0,0
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,Pavel Zavadil,55,visiting,3,1,11,11,0,0
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,Wilton Figueiredo,62,home,4,1,11,11,0,0
+783704,16,AIK,9367,5,1,Öster,9394,1,14,2006-08-27T17:00+0200,Allsvenskan,10581,Daniel Mendes,89,home,5,1,11,11,0,0
+783706,16,Halmstad,9371,2,11,Häcken,19740,2,12,2006-08-27T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783706,16,Halmstad,9371,2,11,Häcken,19740,2,12,2006-08-27T17:00+0200,Allsvenskan,10581,Magnus Arvidsson,4,home,1,0,11,11,0,0
+783706,16,Halmstad,9371,2,11,Häcken,19740,2,12,2006-08-27T17:00+0200,Allsvenskan,10581,Ajsel Kujovic,18,home,2,0,11,11,0,0
+783706,16,Halmstad,9371,2,11,Häcken,19740,2,12,2006-08-27T17:00+0200,Allsvenskan,10581,Peter Olofsson,39,visiting,2,1,11,11,0,0
+783706,16,Halmstad,9371,2,11,Häcken,19740,2,12,2006-08-27T17:00+0200,Allsvenskan,10581,Robert Mambo Mumba,84,visiting,2,2,11,11,0,0
+783707,16,Göteborg,9370,1,4,Elfsborg,9369,1,2,2006-08-28T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783707,16,Göteborg,9370,1,4,Elfsborg,9369,1,2,2006-08-28T19:00+0200,Allsvenskan,10581,Stefan Ishizaki,38,visiting,0,1,11,11,0,0
+783707,16,Göteborg,9370,1,4,Elfsborg,9369,1,2,2006-08-28T19:00+0200,Allsvenskan,10581,Gustav Svensson,83,home,1,1,11,11,0,0
+783708,16,Kalmar FF,9374,2,7,Gefle,9400,1,9,2006-08-28T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783708,16,Kalmar FF,9374,2,7,Gefle,9400,1,9,2006-08-28T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,15,home,1,0,11,11,0,0
+783708,16,Kalmar FF,9374,2,7,Gefle,9400,1,9,2006-08-28T19:00+0200,Allsvenskan,10581,Mathias Woxlin,30,visiting,1,1,11,11,0,0
+783708,16,Kalmar FF,9374,2,7,Gefle,9400,1,9,2006-08-28T19:00+0200,Allsvenskan,10581,Mikael Blomberg,49,home,2,1,11,11,0,0
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,Emil Hallfredsson,19,home,1,0,11,11,0,0
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,Boyd Mwila,30,visiting,1,1,11,11,0,0
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,Jonatan Johansson,46,home,2,1,11,11,0,0
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,självmål,52,visiting,2,2,11,11,0,0
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,Jonatan Johansson,53,home,3,2,11,11,0,0
+783709,16,Malmö FF,9375,4,3,Örgryte IS,9380,2,13,2006-08-28T19:00+0200,Allsvenskan,10581,Marcus Pode,58,home,4,2,11,11,0,0
+783710,16,Hammarby,9372,0,6,Djurgården,9368,3,5,2006-08-28T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783710,16,Hammarby,9372,0,6,Djurgården,9368,3,5,2006-08-28T20:00+0200,Allsvenskan,10581,Lance Davids,13,visiting,0,1,11,11,0,0
+783710,16,Hammarby,9372,0,6,Djurgården,9368,3,5,2006-08-28T20:00+0200,Allsvenskan,10581,Mattias Jonson,18,visiting,0,2,11,11,0,0
+783710,16,Hammarby,9372,0,6,Djurgården,9368,3,5,2006-08-28T20:00+0200,Allsvenskan,10581,Jones Kusi-Asare,47,visiting,0,3,11,11,0,0
+783705,16,Gais,9382,0,10,Helsingborg,9373,2,8,2006-09-08T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783705,16,Gais,9382,0,10,Helsingborg,9373,2,8,2006-09-08T19:00+0200,Allsvenskan,10581,McDonald Mariga,69,visiting,0,1,10,11,0,0
+783705,16,Gais,9382,0,10,Helsingborg,9373,2,8,2006-09-08T19:00+0200,Allsvenskan,10581,Olivier Karekezi,75,visiting,0,2,10,11,0,0
+783715,17,Elfsborg,9369,1,2,AIK,9367,1,1,2006-09-09T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783715,17,Elfsborg,9369,1,2,AIK,9367,1,1,2006-09-09T16:00+0200,Allsvenskan,10581,Andreas Augustsson,50,home,1,0,11,11,0,0
+783715,17,Elfsborg,9369,1,2,AIK,9367,1,1,2006-09-09T16:00+0200,Allsvenskan,10581,Daniel Mendes,66,visiting,1,1,10,11,0,0
+783712,17,Hammarby,9372,1,6,Kalmar FF,9374,2,7,2006-09-10T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783712,17,Hammarby,9372,1,6,Kalmar FF,9374,2,7,2006-09-10T17:00+0200,Allsvenskan,10581,Patrik Rosengren,14,visiting,0,1,11,11,0,0
+783712,17,Hammarby,9372,1,6,Kalmar FF,9374,2,7,2006-09-10T17:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,33,visiting,0,2,11,11,0,0
+783712,17,Hammarby,9372,1,6,Kalmar FF,9374,2,7,2006-09-10T17:00+0200,Allsvenskan,10581,Sebastian Eguren,35,home,1,2,11,11,0,0
+783713,17,Djurgården,9368,0,5,Gais,9382,2,10,2006-09-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783713,17,Djurgården,9368,0,5,Gais,9382,2,10,2006-09-11T19:00+0200,Allsvenskan,10581,James Keene,40,visiting,0,1,11,11,0,0
+783713,17,Djurgården,9368,0,5,Gais,9382,2,10,2006-09-11T19:00+0200,Allsvenskan,10581,Khari Stephenson,51,visiting,0,2,11,11,0,0
+783716,17,Örgryte IS,9380,1,13,Halmstad,9371,2,11,2006-09-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783716,17,Örgryte IS,9380,1,13,Halmstad,9371,2,11,2006-09-11T19:00+0200,Allsvenskan,10581,Ola Toivonen,16,home,1,0,11,11,0,0
+783716,17,Örgryte IS,9380,1,13,Halmstad,9371,2,11,2006-09-11T19:00+0200,Allsvenskan,10581,Magnus Arvidsson,56,visiting,1,1,11,11,0,0
+783716,17,Örgryte IS,9380,1,13,Halmstad,9371,2,11,2006-09-11T19:00+0200,Allsvenskan,10581,Ajsel Kujovic,89,visiting,1,2,11,11,0,0
+783717,17,Öster,9394,1,14,Gefle,9400,2,9,2006-09-11T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783717,17,Öster,9394,1,14,Gefle,9400,2,9,2006-09-11T19:00+0200,Allsvenskan,10581,Daniel Bernhardsson,15,visiting,0,1,11,11,0,0
+783717,17,Öster,9394,1,14,Gefle,9400,2,9,2006-09-11T19:00+0200,Allsvenskan,10581,Patrik Karlsson,33,visiting,0,2,11,11,0,0
+783717,17,Öster,9394,1,14,Gefle,9400,2,9,2006-09-11T19:00+0200,Allsvenskan,10581,Ingemar Teever,50,home,1,2,11,11,0,0
+783711,17,Häcken,19740,1,12,Göteborg,9370,4,3,2006-09-12T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783711,17,Häcken,19740,1,12,Göteborg,9370,4,3,2006-09-12T19:00+0200,Allsvenskan,10581,Marcus Berg,18,visiting,0,1,11,11,0,0
+783711,17,Häcken,19740,1,12,Göteborg,9370,4,3,2006-09-12T19:00+0200,Allsvenskan,10581,Stefan Selakovic,30,visiting,0,2,11,11,0,0
+783711,17,Häcken,19740,1,12,Göteborg,9370,4,3,2006-09-12T19:00+0200,Allsvenskan,10581,Jonas Wallerstedt,65,visiting,0,3,11,11,0,0
+783711,17,Häcken,19740,1,12,Göteborg,9370,4,3,2006-09-12T19:00+0200,Allsvenskan,10581,Stefan Selakovic,72,visiting,0,4,11,11,0,0
+783711,17,Häcken,19740,1,12,Göteborg,9370,4,3,2006-09-12T19:00+0200,Allsvenskan,10581,Daniel Larsson,89,home,1,4,11,11,0,0
+783714,17,Helsingborg,9373,3,8,Malmö FF,9375,1,4,2006-09-12T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783714,17,Helsingborg,9373,3,8,Malmö FF,9375,1,4,2006-09-12T19:00+0200,Allsvenskan,10581,Jonatan Johansson,23,visiting,0,1,11,11,0,0
+783714,17,Helsingborg,9373,3,8,Malmö FF,9375,1,4,2006-09-12T19:00+0200,Allsvenskan,10581,Babis Stefanidis,53,home,1,1,11,11,0,0
+783714,17,Helsingborg,9373,3,8,Malmö FF,9375,1,4,2006-09-12T19:00+0200,Allsvenskan,10581,Babis Stefanidis,66,home,2,1,11,11,0,0
+783714,17,Helsingborg,9373,3,8,Malmö FF,9375,1,4,2006-09-12T19:00+0200,Allsvenskan,10581,Gustaf Andersson,90,home,3,1,11,11,0,0
+783719,18,Gais,9382,2,10,Hammarby,9372,2,7,2006-09-16T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783719,18,Gais,9382,2,10,Hammarby,9372,2,7,2006-09-16T15:00+0200,Allsvenskan,10581,James Keene,54,home,1,0,11,11,0,0
+783719,18,Gais,9382,2,10,Hammarby,9372,2,7,2006-09-16T15:00+0200,Allsvenskan,10581,James Keene,71,home,2,0,11,11,0,0
+783719,18,Gais,9382,2,10,Hammarby,9372,2,7,2006-09-16T15:00+0200,Allsvenskan,10581,Paulinho Guará,82,visiting,2,1,11,11,0,0
+783719,18,Gais,9382,2,10,Hammarby,9372,2,7,2006-09-16T15:00+0200,Allsvenskan,10581,Paulinho Guará,90,visiting,2,2,11,11,0,0
+783720,18,Gefle,9400,1,9,Elfsborg,9369,1,2,2006-09-16T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783720,18,Gefle,9400,1,9,Elfsborg,9369,1,2,2006-09-16T16:00+0200,Allsvenskan,10581,Anders Svensson,50,visiting,0,1,11,11,0,0
+783720,18,Gefle,9400,1,9,Elfsborg,9369,1,2,2006-09-16T16:00+0200,Allsvenskan,10581,Johan Claesson,74,home,1,1,11,11,0,0
+783722,18,Malmö FF,9375,0,6,Djurgården,9368,1,4,2006-09-16T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783722,18,Malmö FF,9375,0,6,Djurgården,9368,1,4,2006-09-16T16:00+0200,Allsvenskan,10581,Daniel Sjölund,72,visiting,0,1,11,10,0,0
+783718,18,AIK,9367,1,1,Häcken,19740,0,13,2006-09-17T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783718,18,AIK,9367,1,1,Häcken,19740,0,13,2006-09-17T17:00+0200,Allsvenskan,10581,Markus Jonsson,58,home,1,0,11,11,0,0
+783721,18,Halmstad,9371,1,11,Helsingborg,9373,1,8,2006-09-17T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783721,18,Halmstad,9371,1,11,Helsingborg,9373,1,8,2006-09-17T17:00+0200,Allsvenskan,10581,Henrik Larsson,20,visiting,0,1,11,11,0,0
+783721,18,Halmstad,9371,1,11,Helsingborg,9373,1,8,2006-09-17T17:00+0200,Allsvenskan,10581,Magnus Arvidsson,64,home,1,1,11,11,0,0
+783723,18,Kalmar FF,9374,3,5,Öster,9394,0,14,2006-09-18T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783723,18,Kalmar FF,9374,3,5,Öster,9394,0,14,2006-09-18T19:00+0200,Allsvenskan,10581,Patrik Rosengren,28,home,1,0,11,11,0,0
+783723,18,Kalmar FF,9374,3,5,Öster,9394,0,14,2006-09-18T19:00+0200,Allsvenskan,10581,Lasse Johansson,48,home,2,0,11,11,0,0
+783723,18,Kalmar FF,9374,3,5,Öster,9394,0,14,2006-09-18T19:00+0200,Allsvenskan,10581,Mikael Blomberg,62,home,3,0,11,11,0,0
+783724,18,Örgryte IS,9380,3,12,Göteborg,9370,2,3,2006-09-18T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783724,18,Örgryte IS,9380,3,12,Göteborg,9370,2,3,2006-09-18T19:00+0200,Allsvenskan,10581,Ola Toivonen,23,home,1,0,11,11,0,0
+783724,18,Örgryte IS,9380,3,12,Göteborg,9370,2,3,2006-09-18T19:00+0200,Allsvenskan,10581,Marcus Berg,31,visiting,1,1,11,11,0,0
+783724,18,Örgryte IS,9380,3,12,Göteborg,9370,2,3,2006-09-18T19:00+0200,Allsvenskan,10581,Ailton Almeida,47,home,2,1,11,11,0,0
+783724,18,Örgryte IS,9380,3,12,Göteborg,9370,2,3,2006-09-18T19:00+0200,Allsvenskan,10581,Magnus Källander,50,home,3,1,11,11,0,0
+783724,18,Örgryte IS,9380,3,12,Göteborg,9370,2,3,2006-09-18T19:00+0200,Allsvenskan,10581,Marcus Berg,64,visiting,3,2,11,11,0,0
+783725,19,Gais,9382,1,10,Halmstad,9371,1,11,2006-09-20T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783725,19,Gais,9382,1,10,Halmstad,9371,1,11,2006-09-20T19:00+0200,Allsvenskan,10581,Magnus Arvidsson,37,visiting,0,1,11,11,0,0
+783725,19,Gais,9382,1,10,Halmstad,9371,1,11,2006-09-20T19:00+0200,Allsvenskan,10581,Bobbie Friberg da Cruz,66,home,1,1,11,11,0,0
+783726,19,Helsingborg,9373,2,7,Gefle,9400,0,9,2006-09-20T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783726,19,Helsingborg,9373,2,7,Gefle,9400,0,9,2006-09-20T19:00+0200,Allsvenskan,10581,Babis Stefanidis,28,home,1,0,11,11,0,0
+783726,19,Helsingborg,9373,2,7,Gefle,9400,0,9,2006-09-20T19:00+0200,Allsvenskan,10581,Olivier Karekezi,75,home,2,0,11,11,0,0
+783728,19,Häcken,19740,1,14,Elfsborg,9369,4,2,2006-09-20T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783728,19,Häcken,19740,1,14,Elfsborg,9369,4,2,2006-09-20T19:00+0200,Allsvenskan,10581,Mathias Svensson,19,visiting,0,1,11,11,0,0
+783728,19,Häcken,19740,1,14,Elfsborg,9369,4,2,2006-09-20T19:00+0200,Allsvenskan,10581,Dioh Williams,31,home,1,1,11,11,0,0
+783728,19,Häcken,19740,1,14,Elfsborg,9369,4,2,2006-09-20T19:00+0200,Allsvenskan,10581,Mathias Svensson,43,visiting,1,2,11,11,0,0
+783728,19,Häcken,19740,1,14,Elfsborg,9369,4,2,2006-09-20T19:00+0200,Allsvenskan,10581,Jon Jönsson,49,visiting,1,3,11,11,0,0
+783728,19,Häcken,19740,1,14,Elfsborg,9369,4,2,2006-09-20T19:00+0200,Allsvenskan,10581,självmål,90,visiting,1,4,11,11,0,0
+783727,19,Djurgården,9368,0,5,AIK,9367,1,1,2006-09-20T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783727,19,Djurgården,9368,0,5,AIK,9367,1,1,2006-09-20T20:00+0200,Allsvenskan,10581,Daniel Tjernström,5,visiting,0,1,11,11,0,0
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,Marcus Berg,26,visiting,0,1,11,11,0,0
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,Fredrik Stoor,36,home,1,1,11,11,0,0
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,Pablo Pinones-Arce,41,home,2,1,11,11,0,0
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,Thomas Olsson,54,visiting,2,2,11,11,0,0
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,Pablo Pinones-Arce,63,home,3,2,11,11,0,0
+783729,19,Hammarby,9372,3,8,Göteborg,9370,3,3,2006-09-21T19:00+0200,Allsvenskan,10581,Thomas Olsson,87,visiting,3,3,11,11,0,0
+783730,19,Malmö FF,9375,2,6,Kalmar FF,9374,2,4,2006-09-21T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783730,19,Malmö FF,9375,2,6,Kalmar FF,9374,2,4,2006-09-21T19:00+0200,Allsvenskan,10581,Viktor Elm,3,visiting,0,1,11,11,0,0
+783730,19,Malmö FF,9375,2,6,Kalmar FF,9374,2,4,2006-09-21T19:00+0200,Allsvenskan,10581,Marcus Pode,44,home,1,1,11,11,0,0
+783730,19,Malmö FF,9375,2,6,Kalmar FF,9374,2,4,2006-09-21T19:00+0200,Allsvenskan,10581,Jonatan Johansson,52,home,2,1,11,11,0,0
+783730,19,Malmö FF,9375,2,6,Kalmar FF,9374,2,4,2006-09-21T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,73,visiting,2,2,11,11,0,0
+783731,19,Örgryte IS,9380,0,12,Öster,9394,2,13,2006-09-21T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783731,19,Örgryte IS,9380,0,12,Öster,9394,2,13,2006-09-21T19:00+0200,Allsvenskan,10581,Teafore Bennett,16,visiting,0,1,11,11,0,0
+783731,19,Örgryte IS,9380,0,12,Öster,9394,2,13,2006-09-21T19:00+0200,Allsvenskan,10581,Freddy Borg,83,visiting,0,2,11,11,0,0
+783732,20,Halmstad,9371,2,11,Malmö FF,9375,2,7,2006-09-24T17:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783732,20,Halmstad,9371,2,11,Malmö FF,9375,2,7,2006-09-24T17:00+0200,Allsvenskan,10581,Marcus Pode,14,visiting,0,1,11,11,0,0
+783732,20,Halmstad,9371,2,11,Malmö FF,9375,2,7,2006-09-24T17:00+0200,Allsvenskan,10581,Dusan Djuric,23,home,1,1,11,11,0,0
+783732,20,Halmstad,9371,2,11,Malmö FF,9375,2,7,2006-09-24T17:00+0200,Allsvenskan,10581,Patrik Ingelsten,77,home,2,1,11,11,0,0
+783732,20,Halmstad,9371,2,11,Malmö FF,9375,2,7,2006-09-24T17:00+0200,Allsvenskan,10581,Emil Hallfredsson,87,visiting,2,2,11,11,0,0
+783733,20,Gefle,9400,2,9,Djurgården,9368,0,8,2006-09-25T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783733,20,Gefle,9400,2,9,Djurgården,9368,0,8,2006-09-25T19:00+0200,Allsvenskan,10581,Rene Muzola Makondele,9,home,1,0,11,11,0,0
+783733,20,Gefle,9400,2,9,Djurgården,9368,0,8,2006-09-25T19:00+0200,Allsvenskan,10581,Yannick Bapupa,77,home,2,0,11,11,0,0
+783734,20,Elfsborg,9369,2,1,Örgryte IS,9380,0,12,2006-09-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783734,20,Elfsborg,9369,2,1,Örgryte IS,9380,0,12,2006-09-26T19:00+0200,Allsvenskan,10581,Stefan Ishizaki,54,home,1,0,11,11,0,0
+783734,20,Elfsborg,9369,2,1,Örgryte IS,9380,0,12,2006-09-26T19:00+0200,Allsvenskan,10581,Daniel Alexandersson,87,home,2,0,11,11,0,0
+783738,20,Öster,9394,0,14,Helsingborg,9373,3,4,2006-09-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783738,20,Öster,9394,0,14,Helsingborg,9373,3,4,2006-09-26T19:00+0200,Allsvenskan,10581,Olivier Karekezi,7,visiting,0,1,11,11,0,0
+783738,20,Öster,9394,0,14,Helsingborg,9373,3,4,2006-09-26T19:00+0200,Allsvenskan,10581,Henrik Larsson,20,visiting,0,2,11,11,0,0
+783738,20,Öster,9394,0,14,Helsingborg,9373,3,4,2006-09-26T19:00+0200,Allsvenskan,10581,McDonald Mariga,83,visiting,0,3,11,11,0,0
+783737,20,AIK,9367,0,2,Hammarby,9372,2,6,2006-09-26T20:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783737,20,AIK,9367,0,2,Hammarby,9372,2,6,2006-09-26T20:00+0200,Allsvenskan,10581,Sebastian Eguren,4,visiting,0,1,11,11,0,0
+783737,20,AIK,9367,0,2,Hammarby,9372,2,6,2006-09-26T20:00+0200,Allsvenskan,10581,Sebastian Eguren,33,visiting,0,2,11,11,0,0
+783739,21,Gais,9382,2,10,Kalmar FF,9374,2,6,2006-09-30T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783739,21,Gais,9382,2,10,Kalmar FF,9374,2,6,2006-09-30T16:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,31,visiting,0,1,11,11,0,0
+783739,21,Gais,9382,2,10,Kalmar FF,9374,2,6,2006-09-30T16:00+0200,Allsvenskan,10581,Khari Stephenson,45,home,1,1,11,11,0,0
+783739,21,Gais,9382,2,10,Kalmar FF,9374,2,6,2006-09-30T16:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,54,visiting,1,2,11,11,0,0
+783739,21,Gais,9382,2,10,Kalmar FF,9374,2,6,2006-09-30T16:00+0200,Allsvenskan,10581,Fredrik Lundgren,66,home,2,2,11,11,0,0
+783743,21,Helsingborg,9373,3,3,Göteborg,9370,2,5,2006-09-30T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783743,21,Helsingborg,9373,3,3,Göteborg,9370,2,5,2006-09-30T16:00+0200,Allsvenskan,10581,Fredrik Svanbäck,13,home,1,0,11,11,0,0
+783743,21,Helsingborg,9373,3,3,Göteborg,9370,2,5,2006-09-30T16:00+0200,Allsvenskan,10581,Babis Stefanidis,32,home,2,0,11,11,0,0
+783743,21,Helsingborg,9373,3,3,Göteborg,9370,2,5,2006-09-30T16:00+0200,Allsvenskan,10581,Henrik Larsson,40,home,3,0,11,11,0,0
+783743,21,Helsingborg,9373,3,3,Göteborg,9370,2,5,2006-09-30T16:00+0200,Allsvenskan,10581,Stefan Selakovic,89,visiting,3,1,10,11,0,0
+783743,21,Helsingborg,9373,3,3,Göteborg,9370,2,5,2006-09-30T16:00+0200,Allsvenskan,10581,Pontus Wernbloom,90,visiting,3,2,10,11,0,0
+783740,21,Häcken,19740,4,12,Gefle,9400,1,9,2006-10-01T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783740,21,Häcken,19740,4,12,Gefle,9400,1,9,2006-10-01T15:00+0200,Allsvenskan,10581,Hans Berggren,36,home,1,0,11,11,0,0
+783740,21,Häcken,19740,4,12,Gefle,9400,1,9,2006-10-01T15:00+0200,Allsvenskan,10581,Teddy Lucic,49,home,2,0,11,11,0,0
+783740,21,Häcken,19740,4,12,Gefle,9400,1,9,2006-10-01T15:00+0200,Allsvenskan,10581,Rene Muzola Makondele,60,visiting,2,1,11,11,0,0
+783740,21,Häcken,19740,4,12,Gefle,9400,1,9,2006-10-01T15:00+0200,Allsvenskan,10581,Teddy Lucic,61,home,3,1,11,11,0,0
+783740,21,Häcken,19740,4,12,Gefle,9400,1,9,2006-10-01T15:00+0200,Allsvenskan,10581,Jonas Henriksson,77,home,4,1,11,11,0,0
+783741,21,Djurgården,9368,2,4,Halmstad,9371,1,11,2006-10-01T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783741,21,Djurgården,9368,2,4,Halmstad,9371,1,11,2006-10-01T15:00+0200,Allsvenskan,10581,Jones Kusi-Asare,60,home,1,0,11,11,0,0
+783741,21,Djurgården,9368,2,4,Halmstad,9371,1,11,2006-10-01T15:00+0200,Allsvenskan,10581,Lance Davids,78,home,2,0,11,11,0,0
+783741,21,Djurgården,9368,2,4,Halmstad,9371,1,11,2006-10-01T15:00+0200,Allsvenskan,10581,Emra Tahirovic,82,visiting,2,1,11,11,0,0
+783742,21,Hammarby,9372,2,7,Malmö FF,9375,2,8,2006-10-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783742,21,Hammarby,9372,2,7,Malmö FF,9375,2,8,2006-10-02T19:00+0200,Allsvenskan,10581,Paulinho Guará,19,home,1,0,11,11,0,0
+783742,21,Hammarby,9372,2,7,Malmö FF,9375,2,8,2006-10-02T19:00+0200,Allsvenskan,10581,Junior,39,visiting,1,1,11,11,0,0
+783742,21,Hammarby,9372,2,7,Malmö FF,9375,2,8,2006-10-02T19:00+0200,Allsvenskan,10581,Jonatan Johansson,49,visiting,1,2,11,11,0,0
+783742,21,Hammarby,9372,2,7,Malmö FF,9375,2,8,2006-10-02T19:00+0200,Allsvenskan,10581,Sebastian Eguren,61,home,2,2,11,11,0,0
+783744,21,Elfsborg,9369,0,1,Öster,9394,0,14,2006-10-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783745,21,Örgryte IS,9380,0,13,AIK,9367,0,2,2006-10-02T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783747,22,AIK,9367,2,2,Helsingborg,9373,2,4,2006-10-14T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783747,22,AIK,9367,2,2,Helsingborg,9373,2,4,2006-10-14T16:00+0200,Allsvenskan,10581,Babis Stefanidis,39,visiting,0,1,11,11,0,0
+783747,22,AIK,9367,2,2,Helsingborg,9373,2,4,2006-10-14T16:00+0200,Allsvenskan,10581,Miran Burgic,47,home,1,1,11,11,0,0
+783747,22,AIK,9367,2,2,Helsingborg,9373,2,4,2006-10-14T16:00+0200,Allsvenskan,10581,Nicklas Carlsson,60,home,2,1,11,11,0,0
+783747,22,AIK,9367,2,2,Helsingborg,9373,2,4,2006-10-14T16:00+0200,Allsvenskan,10581,Babis Stefanidis,90,visiting,2,2,11,11,0,0
+783748,22,Gefle,9400,2,9,Örgryte IS,9380,0,13,2006-10-15T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783748,22,Gefle,9400,2,9,Örgryte IS,9380,0,13,2006-10-15T15:00+0200,Allsvenskan,10581,Johan Claesson,30,home,1,0,11,11,0,0
+783748,22,Gefle,9400,2,9,Örgryte IS,9380,0,13,2006-10-15T15:00+0200,Allsvenskan,10581,Daniel Westlin,31,home,2,0,11,11,0,0
+783749,22,Öster,9394,1,14,Häcken,19740,1,12,2006-10-15T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783749,22,Öster,9394,1,14,Häcken,19740,1,12,2006-10-15T15:00+0200,Allsvenskan,10581,Teddy Lucic,51,visiting,0,1,11,11,1,0
+783749,22,Öster,9394,1,14,Häcken,19740,1,12,2006-10-15T15:00+0200,Allsvenskan,10581,Teafore Bennett,65,home,1,1,10,11,2,0
+783750,22,Halmstad,9371,0,11,Hammarby,9372,0,6,2006-10-16T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783751,22,Kalmar FF,9374,0,8,Elfsborg,9369,1,1,2006-10-16T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783751,22,Kalmar FF,9374,0,8,Elfsborg,9369,1,1,2006-10-16T19:00+0200,Allsvenskan,10581,Jon Jönsson,8,visiting,0,1,11,11,0,0
+783752,22,Malmö FF,9375,2,5,Gais,9382,0,10,2006-10-16T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783752,22,Malmö FF,9375,2,5,Gais,9382,0,10,2006-10-16T19:00+0200,Allsvenskan,10581,Yksel Osmanovski,23,home,1,0,11,11,0,0
+783752,22,Malmö FF,9375,2,5,Gais,9382,0,10,2006-10-16T19:00+0200,Allsvenskan,10581,Emil Hallfredsson,27,home,2,0,11,11,0,0
+783746,22,Göteborg,9370,3,3,Djurgården,9368,2,7,2006-10-17T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783746,22,Göteborg,9370,3,3,Djurgården,9368,2,7,2006-10-17T19:00+0200,Allsvenskan,10581,Stefan Selakovic,12,home,1,0,11,11,0,0
+783746,22,Göteborg,9370,3,3,Djurgården,9368,2,7,2006-10-17T19:00+0200,Allsvenskan,10581,Mattias Jonson,29,visiting,1,1,11,11,0,0
+783746,22,Göteborg,9370,3,3,Djurgården,9368,2,7,2006-10-17T19:00+0200,Allsvenskan,10581,Lance Davids,36,visiting,1,2,11,11,0,0
+783746,22,Göteborg,9370,3,3,Djurgården,9368,2,7,2006-10-17T19:00+0200,Allsvenskan,10581,Jonas Wallerstedt,70,home,2,2,11,11,0,0
+783746,22,Göteborg,9370,3,3,Djurgården,9368,2,7,2006-10-17T19:00+0200,Allsvenskan,10581,Thomas Olsson,90,home,3,2,11,11,0,0
+783757,23,Halmstad,9371,2,11,AIK,9367,2,2,2006-10-21T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783757,23,Halmstad,9371,2,11,AIK,9367,2,2,2006-10-21T16:00+0200,Allsvenskan,10581,Hans Mattisson,18,home,1,0,11,11,0,0
+783757,23,Halmstad,9371,2,11,AIK,9367,2,2,2006-10-21T16:00+0200,Allsvenskan,10581,Martin Fribrock,41,home,2,0,11,11,0,0
+783757,23,Halmstad,9371,2,11,AIK,9367,2,2,2006-10-21T16:00+0200,Allsvenskan,10581,Miran Burgic,74,visiting,2,1,11,11,0,0
+783757,23,Halmstad,9371,2,11,AIK,9367,2,2,2006-10-21T16:00+0200,Allsvenskan,10581,Nicklas Carlsson,86,visiting,2,2,11,11,0,0
+783756,23,Malmö FF,9375,2,8,Gefle,9400,2,9,2006-10-22T13:30+0200,Allsvenskan,10581,,,,0,0,,,,
+783756,23,Malmö FF,9375,2,8,Gefle,9400,2,9,2006-10-22T13:30+0200,Allsvenskan,10581,Marcus Pode,1,home,1,0,11,11,0,0
+783756,23,Malmö FF,9375,2,8,Gefle,9400,2,9,2006-10-22T13:30+0200,Allsvenskan,10581,Marcus Pode,23,home,2,0,11,11,0,0
+783756,23,Malmö FF,9375,2,8,Gefle,9400,2,9,2006-10-22T13:30+0200,Allsvenskan,10581,Johannes Ericsson,64,visiting,2,1,11,11,0,0
+783756,23,Malmö FF,9375,2,8,Gefle,9400,2,9,2006-10-22T13:30+0200,Allsvenskan,10581,Johannes Ericsson,71,visiting,2,2,11,11,0,0
+783755,23,Helsingborg,9373,2,3,Örgryte IS,9380,1,14,2006-10-22T15:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783755,23,Helsingborg,9373,2,3,Örgryte IS,9380,1,14,2006-10-22T15:00+0200,Allsvenskan,10581,Olivier Karekezi,3,home,1,0,11,11,0,0
+783755,23,Helsingborg,9373,2,3,Örgryte IS,9380,1,14,2006-10-22T15:00+0200,Allsvenskan,10581,Ola Toivonen,6,visiting,1,1,11,11,0,0
+783755,23,Helsingborg,9373,2,3,Örgryte IS,9380,1,14,2006-10-22T15:00+0200,Allsvenskan,10581,Olivier Karekezi,82,home,2,1,11,11,0,0
+783753,23,Djurgården,9368,2,5,Häcken,19740,1,12,2006-10-22T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783753,23,Djurgården,9368,2,5,Häcken,19740,1,12,2006-10-22T16:00+0200,Allsvenskan,10581,Daniel Sjölund,46,home,1,0,11,11,0,0
+783753,23,Djurgården,9368,2,5,Häcken,19740,1,12,2006-10-22T16:00+0200,Allsvenskan,10581,Lance Davids,78,home,2,0,11,11,0,0
+783753,23,Djurgården,9368,2,5,Häcken,19740,1,12,2006-10-22T16:00+0200,Allsvenskan,10581,Dioh Williams,85,visiting,2,1,11,11,0,0
+783754,23,Gais,9382,1,10,Öster,9394,1,13,2006-10-22T16:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783754,23,Gais,9382,1,10,Öster,9394,1,13,2006-10-22T16:00+0200,Allsvenskan,10581,Daniel Blomgren,21,home,1,0,11,11,0,0
+783754,23,Gais,9382,1,10,Öster,9394,1,13,2006-10-22T16:00+0200,Allsvenskan,10581,Pavel Zavadil,58,visiting,1,1,11,11,0,0
+783758,23,Hammarby,9372,1,4,Elfsborg,9369,0,1,2006-10-23T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783758,23,Hammarby,9372,1,4,Elfsborg,9369,0,1,2006-10-23T19:00+0200,Allsvenskan,10581,Pablo Pinones-Arce,84,home,1,0,11,11,0,0
+783759,23,Göteborg,9370,0,7,Kalmar FF,9374,3,6,2006-10-23T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783759,23,Göteborg,9370,0,7,Kalmar FF,9374,3,6,2006-10-23T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,28,visiting,0,1,11,11,0,0
+783759,23,Göteborg,9370,0,7,Kalmar FF,9374,3,6,2006-10-23T19:00+0200,Allsvenskan,10581,Cesar Santin,50,visiting,0,2,11,11,0,0
+783759,23,Göteborg,9370,0,7,Kalmar FF,9374,3,6,2006-10-23T19:00+0200,Allsvenskan,10581,Viktor Elm,72,visiting,0,3,11,11,0,0
+783760,24,Örgryte IS,9380,1,14,Djurgården,9368,1,5,2006-10-25T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783760,24,Örgryte IS,9380,1,14,Djurgården,9368,1,5,2006-10-25T19:00+0200,Allsvenskan,10581,Boyd Mwila,79,home,1,0,11,11,0,0
+783760,24,Örgryte IS,9380,1,14,Djurgården,9368,1,5,2006-10-25T19:00+0200,Allsvenskan,10581,Mattias Jonson,88,visiting,1,1,11,11,0,0
+783761,24,Öster,9394,2,12,Malmö FF,9375,1,7,2006-10-25T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783761,24,Öster,9394,2,12,Malmö FF,9375,1,7,2006-10-25T19:00+0200,Allsvenskan,10581,Ingemar Teever,2,home,1,0,11,11,0,0
+783761,24,Öster,9394,2,12,Malmö FF,9375,1,7,2006-10-25T19:00+0200,Allsvenskan,10581,Emil Hallfredsson,43,visiting,1,1,11,11,0,0
+783761,24,Öster,9394,2,12,Malmö FF,9375,1,7,2006-10-25T19:00+0200,Allsvenskan,10581,Daniel Svensson,82,home,2,1,11,11,0,0
+783762,24,AIK,9367,4,2,Göteborg,9370,0,8,2006-10-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783762,24,AIK,9367,4,2,Göteborg,9370,0,8,2006-10-26T19:00+0200,Allsvenskan,10581,Mats Rubarth,6,home,1,0,11,11,0,0
+783762,24,AIK,9367,4,2,Göteborg,9370,0,8,2006-10-26T19:00+0200,Allsvenskan,10581,Markus Jonsson,33,home,2,0,11,11,0,0
+783762,24,AIK,9367,4,2,Göteborg,9370,0,8,2006-10-26T19:00+0200,Allsvenskan,10581,Daniel Tjernström,65,home,3,0,11,10,0,0
+783762,24,AIK,9367,4,2,Göteborg,9370,0,8,2006-10-26T19:00+0200,Allsvenskan,10581,Wilton Figueiredo,78,home,4,0,11,10,0,0
+783763,24,Häcken,19740,0,13,Hammarby,9372,0,4,2006-10-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783764,24,Gefle,9400,0,9,Halmstad,9371,2,10,2006-10-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783764,24,Gefle,9400,0,9,Halmstad,9371,2,10,2006-10-26T19:00+0200,Allsvenskan,10581,Magnus Arvidsson,54,visiting,0,1,11,11,0,0
+783765,24,Elfsborg,9369,1,1,Gais,9382,0,11,2006-10-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783765,24,Elfsborg,9369,1,1,Gais,9382,0,11,2006-10-26T19:00+0200,Allsvenskan,10581,Samuel Holmén,48,home,1,0,11,11,0,0
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,,,,0,0,,,,
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,9,home,1,0,11,11,0,0
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,Babis Stefanidis,11,visiting,1,1,11,11,0,0
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,Babis Stefanidis,25,visiting,1,2,11,11,0,0
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,Henrik Larsson,61,visiting,1,3,11,11,0,0
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,Ari da Silva Ferreira,72,home,2,3,11,11,0,0
+783766,24,Kalmar FF,9374,2,6,Helsingborg,9373,4,3,2006-10-26T19:00+0200,Allsvenskan,10581,Henrik Larsson,83,visiting,2,4,11,11,0,0
+783767,25,Halmstad,9371,0,11,Kalmar FF,9374,1,6,2006-10-29T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783767,25,Halmstad,9371,0,11,Kalmar FF,9374,1,6,2006-10-29T15:00+0100,Allsvenskan,10581,Tobias Carlsson,57,visiting,0,1,11,11,0,0
+783768,25,Helsingborg,9373,1,3,Elfsborg,9369,1,1,2006-10-29T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783768,25,Helsingborg,9373,1,3,Elfsborg,9369,1,1,2006-10-29T15:00+0100,Allsvenskan,10581,Mathias Svensson,62,visiting,0,1,11,11,0,0
+783768,25,Helsingborg,9373,1,3,Elfsborg,9369,1,1,2006-10-29T15:00+0100,Allsvenskan,10581,Olivier Karekezi,64,home,1,1,11,11,0,0
+783769,25,Örgryte IS,9380,1,14,Häcken,19740,1,12,2006-10-29T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783769,25,Örgryte IS,9380,1,14,Häcken,19740,1,12,2006-10-29T15:00+0100,Allsvenskan,10581,Elias Storm,42,home,1,0,11,11,0,0
+783769,25,Örgryte IS,9380,1,14,Häcken,19740,1,12,2006-10-29T15:00+0100,Allsvenskan,10581,Robert Mambo Mumba,90,visiting,1,1,11,11,0,0
+783770,25,Djurgården,9368,2,5,Öster,9394,0,13,2006-10-30T19:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783770,25,Djurgården,9368,2,5,Öster,9394,0,13,2006-10-30T19:00+0100,Allsvenskan,10581,Lance Davids,73,home,1,0,11,11,0,0
+783770,25,Djurgården,9368,2,5,Öster,9394,0,13,2006-10-30T19:00+0100,Allsvenskan,10581,Mattias Jonson,83,home,2,0,11,11,0,0
+783771,25,Gais,9382,0,10,AIK,9367,0,2,2006-10-30T19:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783772,25,Malmö FF,9375,2,7,Göteborg,9370,1,8,2006-10-30T19:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783772,25,Malmö FF,9375,2,7,Göteborg,9370,1,8,2006-10-30T19:00+0100,Allsvenskan,10581,Junior,72,home,1,0,11,11,0,0
+783772,25,Malmö FF,9375,2,7,Göteborg,9370,1,8,2006-10-30T19:00+0100,Allsvenskan,10581,Junior,76,home,2,0,11,11,0,0
+783772,25,Malmö FF,9375,2,7,Göteborg,9370,1,8,2006-10-30T19:00+0100,Allsvenskan,10581,Samuel Wowoah,81,visiting,2,1,11,11,0,0
+783773,25,Hammarby,9372,1,4,Gefle,9400,0,9,2006-10-31T19:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783773,25,Hammarby,9372,1,4,Gefle,9400,0,9,2006-10-31T19:00+0100,Allsvenskan,10581,Pablo Pinones-Arce,76,home,1,0,11,11,0,0
+783774,26,AIK,9367,3,2,Malmö FF,9375,0,7,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783774,26,AIK,9367,3,2,Malmö FF,9375,0,7,2006-11-05T15:00+0100,Allsvenskan,10581,Wilton Figueiredo,43,home,1,0,11,11,0,0
+783774,26,AIK,9367,3,2,Malmö FF,9375,0,7,2006-11-05T15:00+0100,Allsvenskan,10581,Miran Burgic,48,home,2,0,11,11,0,0
+783774,26,AIK,9367,3,2,Malmö FF,9375,0,7,2006-11-05T15:00+0100,Allsvenskan,10581,Markus Jonsson,65,home,3,0,11,11,0,0
+783775,26,Häcken,19740,3,12,Helsingborg,9373,0,4,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783775,26,Häcken,19740,3,12,Helsingborg,9373,0,4,2006-11-05T15:00+0100,Allsvenskan,10581,Dioh Williams,34,home,1,0,11,11,0,0
+783775,26,Häcken,19740,3,12,Helsingborg,9373,0,4,2006-11-05T15:00+0100,Allsvenskan,10581,Teddy Lucic,46,home,2,0,11,11,0,0
+783775,26,Häcken,19740,3,12,Helsingborg,9373,0,4,2006-11-05T15:00+0100,Allsvenskan,10581,Jonas Henriksson,65,home,3,0,11,11,0,0
+783776,26,Gefle,9400,2,9,Gais,9382,2,10,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783776,26,Gefle,9400,2,9,Gais,9382,2,10,2006-11-05T15:00+0100,Allsvenskan,10581,Bobbie Friberg da Cruz,3,visiting,0,1,11,11,0,0
+783776,26,Gefle,9400,2,9,Gais,9382,2,10,2006-11-05T15:00+0100,Allsvenskan,10581,Rene Muzola Makondele,4,home,1,1,11,11,0,0
+783776,26,Gefle,9400,2,9,Gais,9382,2,10,2006-11-05T15:00+0100,Allsvenskan,10581,Rene Muzola Makondele,75,home,2,1,11,11,0,0
+783776,26,Gefle,9400,2,9,Gais,9382,2,10,2006-11-05T15:00+0100,Allsvenskan,10581,James Keene,90,visiting,2,2,11,11,0,0
+783777,26,Elfsborg,9369,1,1,Djurgården,9368,0,6,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783777,26,Elfsborg,9369,1,1,Djurgården,9368,0,6,2006-11-05T15:00+0100,Allsvenskan,10581,Joakim Sjöhage,39,home,1,0,11,11,0,0
+783778,26,Göteborg,9370,0,8,Halmstad,9371,0,11,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783779,26,Kalmar FF,9374,3,5,Örgryte IS,9380,2,14,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783779,26,Kalmar FF,9374,3,5,Örgryte IS,9380,2,14,2006-11-05T15:00+0100,Allsvenskan,10581,Ari da Silva Ferreira,6,home,1,0,11,11,0,0
+783779,26,Kalmar FF,9374,3,5,Örgryte IS,9380,2,14,2006-11-05T15:00+0100,Allsvenskan,10581,Valter Tomaz Jr,10,visiting,1,1,11,11,0,0
+783779,26,Kalmar FF,9374,3,5,Örgryte IS,9380,2,14,2006-11-05T15:00+0100,Allsvenskan,10581,Kim Larsen,58,home,2,1,11,10,0,0
+783779,26,Kalmar FF,9374,3,5,Örgryte IS,9380,2,14,2006-11-05T15:00+0100,Allsvenskan,10581,Anders Prytz,71,visiting,2,2,11,10,0,0
+783779,26,Kalmar FF,9374,3,5,Örgryte IS,9380,2,14,2006-11-05T15:00+0100,Allsvenskan,10581,Ari da Silva Ferreira,74,home,3,2,11,10,0,0
+783780,26,Öster,9394,1,13,Hammarby,9372,2,3,2006-11-05T15:00+0100,Allsvenskan,10581,,,,0,0,,,,
+783780,26,Öster,9394,1,13,Hammarby,9372,2,3,2006-11-05T15:00+0100,Allsvenskan,10581,Pablo Pinones-Arce,45,visiting,0,1,11,11,0,0
+783780,26,Öster,9394,1,13,Hammarby,9372,2,3,2006-11-05T15:00+0100,Allsvenskan,10581,självmål,65,visiting,0,2,11,11,0,0
+783780,26,Öster,9394,1,13,Hammarby,9372,2,3,2006-11-05T15:00+0100,Allsvenskan,10581,Fredrik Gustafson,83,home,1,2,11,11,0,0

@@ -1,0 +1,74 @@
+## Model 3: Consider inter-seasonal skill differences ----
+#' The third model is a development of Model 2 which also considers skill differences 
+#' between seasons. This also accounts for the fact that not all teams are in the highest
+#' league in any given season.
+#' 
+#' The outcome of the model is defined as the number of goals scored for the home and
+#' visiting teams, respectively.
+#' 
+#' The model starts by making the following assumptions about the priors:
+#' - The number of goals in a match for both teams is Poisson distributed.
+#' - The lambda parameter to the Poisson distribution is equal to the exponential
+#'   of some baseline plus some skill parameter of the scoring team, minus the skill
+#'   parameter of the defending team.
+#' - The baseline measures the same thing as in model 1; however, it is divided into a
+#'   home baseline and an away baseline to account for home team advantage.
+#'   Both baselines are assumed to be normally distributed with an expected value of 0 and 
+#'   a standard deviation of 4. NOTE that since the lambda parameter measures things
+#'   on the log scale, this actually covers a goal range from 0 to 54.6 goals!
+#' - The skill parameter for the starting season t is normally distributed with an
+#'   expected value of some mew parameter and a standard deviation of some sigma parameter.
+#' - The mew parameter is assumed to be normally distributed among the teams with
+#'   an expected value of 0 and a standard deviation of 4. 
+#' - The sigma parameter is assumed to be uniformly distributed among the teams with
+#'   min=0 and max=3.
+#' - The skill parameter for season t+1 is normally distributed with an expected value 0
+#'   and a standard deviation which is estimated based on the entire data set for the
+#'   previous season.
+#'   
+#' Due to the way JAGS is constructed, the sigma parameter has to be translated to a
+#' tau parameter in order to be usable in the model. tau is set to 1/(sigma^2).
+#' 
+#' These parameters and the assumptions underlying them are described in a slightly
+#' more thorough fashion at:
+#' http://www.sumsar.net/blog/2013/07/modeling-match-results-in-la-liga-part-two/
+
+model {
+	for(i in 1:n_games) {
+		HomeGoals[i] ~ dpois(lambda_home[Season[i], HomeTeam[i],AwayTeam[i]])
+		AwayGoals[i] ~ dpois(lambda_away[Season[i], HomeTeam[i],AwayTeam[i]])
+	}
+	
+	for(season_i in 1:n_seasons) {
+		for(home_i in 1:n_teams) {
+			for(away_i in 1:n_teams) {
+				lambda_home[season_i, home_i, away_i] <- exp( home_baseline[season_i] + skill[season_i, home_i] - skill[season_i, away_i])
+				lambda_away[season_i, home_i, away_i] <- exp( away_baseline[season_i] + skill[season_i, away_i] - skill[season_i, home_i])
+			}
+		}
+	}
+	
+	skill[1, 1] <- 0 
+	for(j in 2:n_teams) {
+		skill[1, j] ~ dnorm(group_skill, group_tau)
+	}
+	
+	group_skill ~ dnorm(0, 0.0625)
+	group_tau <- 1/pow(group_sigma, 2)
+	group_sigma ~ dunif(0, 3)
+	
+	home_baseline[1] ~ dnorm(0, 0.0625)
+	away_baseline[1] ~ dnorm(0, 0.0625)
+	
+	for(season_i in 2:n_seasons) {
+		skill[season_i, 1] <- 0 
+		for(j in 2:n_teams) {
+			skill[season_i, j] ~ dnorm(skill[season_i - 1, j], season_tau)
+		}
+		home_baseline[season_i] ~ dnorm(home_baseline[season_i - 1], season_tau)
+		away_baseline[season_i] ~ dnorm(away_baseline[season_i - 1], season_tau)
+	}
+	
+	season_tau <- 1/pow(season_sigma, 2) 
+	season_sigma ~ dunif(0, 3) 
+}
