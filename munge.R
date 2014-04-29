@@ -1,6 +1,6 @@
 ## Läs in data
 require(data.table)
-goaldata <- fread("Data/all goals.csv")
+goaldata <- fread("Our data/all goals - allsvenskan.csv")
 setkey(goaldata, "gameId", "minute")
 
 # Vissa matcher har färre antal rader än de borde ha, dvs. alla mål är inte med
