@@ -131,12 +131,8 @@ plot_pred_comp2 <- function(home_team, away_team, ms) {
 
 ## MODEL EVALUATION ----
 
-<<<<<<< HEAD
-## Model 1: Baseline model ----
-=======
 ## Model 1: Incredibly naïve model ----
 
->>>>>>> 02e1e890415fc0791f031739c3433949bd130d73
 # Compiling model 1
 m1 <- jags.model("Models/m1-naive.bug", data = data_list, n.chains = 3,
 				 n.adapt = 5000)
