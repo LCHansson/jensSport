@@ -4,7 +4,11 @@
 import everysport
 import csv
 import os.path
+import dataset
 import sys
+
+db = dataset.connect('sqlite:///everysport.db')
+
 
 # TODO: Store the API key in an environment variable
 APIKEY = "e293caf28745f51e6c38e2eb30cb489d" 
@@ -18,14 +22,16 @@ leagues = {
     "Allsvenskan - herr 2008-2013": [57973,51603,44165,38686,32911,27773]
 }
 
-# Store stadings for each round so that we don't have to call the standings API for every game
+# Store stadings for each round so that we don't have to call the standings
+# API for every game
 standings = {}
 
 # ==========================================
 #                  FUNCTIONS
 # ==========================================
 
-# Returns a dictionary of the given round with the team id as key and the standing as value
+# Returns a dictionary of the given round with the team id as key and the
+# standing as value
 def getStandingInRound(leagueId, r):
     print "Get standing for round %s in league %s" % (r, leagueId)
     standing = {}
@@ -34,10 +40,11 @@ def getStandingInRound(leagueId, r):
     resp = es.get_standings(leagueId, r=r)
     if len(resp) > 0:
         for d in resp[0]['standings']:
-            teamId = d['team']['name'].encode("utf-8")
+            teamId = d['team']['id']
             standing[teamId] = pos
             pos = pos + 1
-            # For more detailed data (eg. goals, wins, loss, ties) we could parse the stats dict in d
+            # For more detailed data (eg. goals, wins, loss, ties) 
+            # we could parse the stats dict in d
         return standing
     else:
         # Return false if there is no data for the given round
@@ -54,19 +61,20 @@ def getDataFromGame(game):
     if roundId not in standings:
         standings[roundId] = getStandingInRound(leaugeId, row['omgang'])
 
-    row['sasong'] = game['league']['startDate']
-    row['matchid'] = game['id']
+    row['league_id'] = leaugeId
+    row['sasong'] = game['league']['startDate'][0:4]
+    row['match_id'] = game['id']
     row['hl_id'] = game['homeTeam']['id']
-    row['hl_namn'] = game['homeTeam']['shortName'].encode('utf-8')
+    row['hl_namn'] = game['homeTeam']['shortName']
     row['hl_slutmal'] = game['homeTeamScore']
     row['bl_id'] = game['visitingTeam']['id']
-    row['bl_namn'] = game['visitingTeam']['shortName'].encode('utf-8')
+    row['bl_namn'] = game['visitingTeam']['shortName']
     row['bl_slutmal'] = game['visitingTeamScore']
 
     # Get position in league unless first round
     if row['omgang'] is not 1:
-        row['hl_pos'] = standings[roundId][row['hl_name']]
-        row['bl_pos'] = standings[roundId][row['bl_name']]
+        row['hl_pos'] = standings[roundId][row['hl_id']]
+        row['bl_pos'] = standings[roundId][row['bl_id']]
     else:
         row['hl_pos'] = 7
         row['bl_pos'] = 7
@@ -75,37 +83,37 @@ def getDataFromGame(game):
     return row
 
 
-# Takes a list of leagues and returns the a list of games 
-def getDataFromLeagues(leagueIds):
-    data = []
+# Takes a list of leagues and returns the a list of games
+def getGameDataFromLeagues(leagueIds, **kwargs):
+    if 'update' not in kwargs:
+        update = False  # By default, do not update if game exist
+    else:
+        update = kwargs['update']
+
+    # Iterate the provided leagues
     for leagueId in leagueIds:
         league = es.events.leagues(leagueId)
         print "Getting data from league %s" % leagueId
         for game in league:
-            gameData = getDataFromGame(game)
-            data.append(gameData)
-    return data
+            # Check if game is already in database
+            gameId = game['id']
+            # Yes game does exist
+            if db['games'].find_one(match_id=gameId):
+                # Update data
+                if update:
+                    print "Updating game %s info" % gameId
+                    gameData = getDataFromGame(game)
+                    db['games'].update(gameData, ['match_id'])
+                else:
+                    print "Game %s already exist" % gameId
+            # Game does not exist in db
+            else:
+                gameData = getDataFromGame(game)
+                db['games'].insert(gameData)
+                print "Add new game %s" % gameId
 
-# Takes a list of dictionaries and writes to a given csv file
-def writeListToCsv(data, outputFile):
-    def writeToCsv():
-        cols = data[0].keys()
-        f = open(outputFile, 'wb')
-        dict_writer = csv.DictWriter(f, cols)
-
-        # Write column names
-        dict_writer.writer.writerow(cols)
-
-        # Write rows
-        dict_writer.writerows(data)
-        print "Write to file: %s" % outputFile
-
-    if os.path.isfile(outputFile):
-        ask = raw_input("File %s already exist. Do you want to overwrite? [y/n]" % outputFile)
-        if ask == "y":
-            writeToCsv()
-    else:
-        writeToCsv()
+        # Append team form
+        appendTeamFormToGameByLeauge(leagueId)
 
 
 # Takes a list of leagues and returns the positions round by round for every team
@@ -116,7 +124,7 @@ def getHistoricalPositions(leagueIds, folder):
     for leagueId in leagueIds:
         data[leagueId] = []
         r = 1
-        # Get the standing of the next round, if no next round (= season has ended) 
+        # Get the standing of the next round, if no next round (= season has ended)
         # getStandingInRound() returns False
         nextRound = getStandingInRound(leagueId, r)
         while nextRound:
@@ -141,15 +149,15 @@ def getDictFromCsv(fileName):
 
 
 # Adds a form column to the dataset of games
-def getTeamForm(data):
-    pointsInRound = {}
+def appendTeamFormToGameByLeauge(leagueId):
+    pointsInGame = {}
 
     def getForm(r, team, season):
         form5 = 0
         form10 = 0
         _r = r - 1
         while (_r > r - 10 and _r > 0):
-            points = pointsInRound[season][_r][team]
+            points = pointsInGame[season][_r][team]
             if r - _r <= 5:
                 form5 = form5 + points
             form10 = form10 + points
@@ -158,40 +166,43 @@ def getTeamForm(data):
         return {"form5": form5, "form10": form10}
 
     # Iterate all games to and create a temporary object with points per game
-    for game in data:
-        hl = game['hl_namn']  # Home team
-        bl = game['bl_namn']  # Visiting team
+    # at every given round
+    # Structure: season -> round -> team -> points in game
+    for game in db['games'].find(league_id=leagueId):
+        hl = game['hl_id']  # Home team
+        bl = game['bl_id']  # Visiting team
+        print "%s - %s" % (hl, bl)
         r = int(float(game['omgang']))  # Round
-        season = game['sasong'][0:4]  # Season
-        if season not in pointsInRound:
-            pointsInRound[season] = {}
-        if r not in pointsInRound[season]:
-            pointsInRound[season][r] = {}
+        season = game['sasong']  # Season
+        if season not in pointsInGame:
+            pointsInGame[season] = {}
+        if r not in pointsInGame[season]:
+            pointsInGame[season][r] = {}
 
         # Let tie be 0, win 1 and loss -1
         # Only positive values would distort form variable in early rounds
         if game['hl_slutmal'] == game['bl_slutmal']:
-            pointsInRound[season][r][hl] = 0
-            pointsInRound[season][r][bl] = 0
+            pointsInGame[season][r][hl] = 0
+            pointsInGame[season][r][bl] = 0
         elif game['hl_slutmal'] > game['bl_slutmal']:
-            pointsInRound[season][r][hl] = 1
-            pointsInRound[season][r][bl] = -1
+            pointsInGame[season][r][hl] = 1
+            pointsInGame[season][r][bl] = -1
         else:
-            pointsInRound[season][r][hl] = -1
-            pointsInRound[season][r][bl] = 0
+            pointsInGame[season][r][hl] = -1
+            pointsInGame[season][r][bl] = 0
 
-    for i, game in enumerate(data):
+    games = list(db['games'].find(league_id=leagueId))
+    for game in games:
         r = int(float(game['omgang']))
-        print r
-        season = game['sasong'][0:4]  # Season
-        hl_form = getForm(r, game['hl_namn'], season)
-        bl_form = getForm(r, game['bl_namn'], season)
-        data[i]['hl_form5'] = hl_form['form5']
-        data[i]['hl_form10'] = hl_form['form10']
-        data[i]['bl_form5'] = bl_form['form5']
-        data[i]['bl_form10'] = bl_form['form10']
-
-    return data
+        season = game['sasong']  # Season
+        hl_form = getForm(r, game['hl_id'], season)
+        bl_form = getForm(r, game['bl_id'], season)
+        game['hl_form5'] = hl_form['form5']
+        game['hl_form10'] = hl_form['form10']
+        game['bl_form5'] = bl_form['form5']
+        game['bl_form10'] = bl_form['form10']
+        print "Add form data to game %s" % game['match_id']
+        db['games'].update(game, ['match_id'])
 
 
 
@@ -210,20 +221,18 @@ def getTeamForm(data):
 getHistoricalPositions([57973,51603,44165,38686,32911,27773], "../Our data/Historical standings")
 '''
 
-'''
-writeListToCsv(
-    getDataFromLeagues(leagues["Allsvenskan - herr 2008-2013"]), 
-    "../Our data/matchdata - allsvenskan 2008-2013.csv"
-)
-'''
 
-data = getDictFromCsv("../Our data/matchdata - allsvenskan 2008-2013.csv")
-dataWithForm = getTeamForm(data)
+# getGameDataFromLeagues(leagues["Allsvenskan - herr 2008-2013"])
+appendTeamFormToGameByLeauge(57973)
 
-writeListToCsv(
-    dataWithForm,
-    "../Our data/matchdata - allsvenskan 2008-2013 + form.csv"
-)
+#getDataFromLeagues([57973])
+#data = getDictFromCsv("../Our data/matchdata - allsvenskan 2008-2013.csv")
+#dataWithForm = getTeamForm(data)
+
+#writeListToCsv(
+#    dataWithForm,
+#    "../Our data/matchdata - allsvenskan 2008-2013 + form.csv"
+#)
 
 
 # ==========================================
