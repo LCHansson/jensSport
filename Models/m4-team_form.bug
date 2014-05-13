@@ -35,33 +35,47 @@
 
 model {
 	for (i in 1:n_games) {
-		HomeGoals[i] ~ dpois(lambda_home[Season[i], HomeTeam[i], AwayTeam[i], HomeForm5[i], AwayForm5[i]])
-		AwayGoals[i] ~ dpois(lambda_away[Season[i], HomeTeam[i], AwayTeam[i], HomeForm5[i], AwayForm5[i]])
+		HomeGoals[i] ~ dpois(
+			lambda_home[i]
+		)
+		AwayGoals[i] ~ dpois(
+			lambda_away[i]
+		)
+		
+		log(lambda_home[i]) <-
+			home_baseline[Season[i]] + skill[Season[i], HomeTeam[i]] + HomeForm[i]
+		log(lambda_away[i]) <-
+			away_baseline[Season[i]] + skill[Season[i], AwayTeam[i]] + AwayForm[i]
+		
+# 		form[form] ~ dunif(-5, 5)
 	}
 	
-	for (season_i in 1:n_seasons) {
-		for (home_i in 1:n_teams) {
-			for (away_i in 1:n_teams) {
-				lambda_home[season_i, home_i, away_i, homeform_i, awayform_i] <- exp(
-					home_baseline[season_i] + skill[season_i, home_i] - skill[season_i, away_i] + homeform[season_i, homeform_i, awayform_i] - awayform[season_i, awayform_i, homeform_i]
-				)
-				lambda_away[season_i, home_i, away_i, homeform_i, awayform_i] <- exp(
-					away_baseline[season_i] + skill[season_i, away_i] - skill[season_i, home_i] + awayform[season_i, awayform_i, homeform_i] - homeform[season_i, homeform_i, awayform_i]
-				)
-			}
-		}
-	}
+# 	for (season_i in 1:n_seasons) {
+# 		for (home_i in 1:n_teams) {
+# 			for (away_i in 1:n_teams) {
+# 					lambda_home[season_i, home_i, away_i, homeform] <- exp(
+# 						home_baseline[season_i] +
+# 							skill[season_i, home_i] -
+# 							skill[season_i, away_i] +
+# 							homeform
+# 					)
+# 					lambda_away[season_i, home_i, away_i] <- exp(
+# 						away_baseline[season_i] +
+# 							skill[season_i, away_i] -
+# 							skill[season_i, home_i]
+# 					)
+# 			}
+# 		}
+# 	}
+# 	
+# 	homeform ~ dnorm(-5, 5)
+# 	
+# 	for (i in 1:n_games) {
+# 		homeform[i] ~ dunif(-5, 5)
+# 		awayform[i]
+# 	}
 	
-	for(season in 1:n_seasons) {
-		for (home in 1:n_teams) {
-			for (away in 1:n_teams) {
-				homeform[season, home, away] ~ dnorm(0, 0.0625)
-				awayform[season, away, home] ~ dnorm(0, 0.0625)
-			}
-		}
-	}
-	
-	skill[1, 1] <- 0 
+	skill[1, 1] <- 0
 	for(j in 2:n_teams) {
 		skill[1, j] ~ dnorm(group_skill, group_tau)
 	}

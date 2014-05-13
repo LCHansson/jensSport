@@ -58,8 +58,8 @@ data_list <- list(
 	AwayGoals = matchdata$bl_slutmal,
 	HomeTeam = as.integer(matchdata$hl_namn),
 	AwayTeam = as.integer(matchdata$bl_namn),
-	HomeForm5 = matchdata$hl_form5,
-	AwayForm5 = matchdata$bl_form5,
+	HomeForm = matchdata$hl_form5,
+	AwayForm = matchdata$bl_form5,
 	Season = as.factor(matchdata$sasong),
 	n_teams = length(teams),
 	n_games = nrow(matchdata),
@@ -305,10 +305,59 @@ cat("Sum of Result:", result, "\n")
 # thinning to handle increased autocorrelation)
 m4 <- jags.model("Models/m4-team_form.bug", data = data_list, n.chains = 3,
 				 n.adapt = 10000)
-update(m3, 10000)
-s3 <- coda.samples(m3, variable.names = c(
+update(m4, 10000)
+s4 <- coda.samples(m4, variable.names = c(
 	"home_baseline", "away_baseline",
 	"skill", "season_sigma", "group_sigma", "group_skill"),
 	n.iter = 40000,
 	thin = 8)
-ms3 <- as.matrix(s3)
+ms4 <- as.matrix(s4)
+
+
+dic_m4 <- dic.samples(m4, 40000, "pD")
+diffdic(dic_m3, dic_m4)
+
+## Ranking teams and making predictions ----
+
+# Model assessment
+n <- nrow(ms4)
+m4_pred <- sapply(1:nrow(matchdata), function(i) {
+	home_team <- which(teams == matchdata$hl_namn[i])
+	away_team <- which(teams == matchdata$bl_namn[i])
+	season <- which(seasons == matchdata$sasong[i])
+	home_skill <- ms4[, col_name("skill", season, home_team)]
+	away_skill <- ms4[, col_name("skill", season, away_team)]
+	home_baseline <- ms4[, col_name("home_baseline", season)]
+	away_baseline <- ms4[, col_name("away_baseline", season)]
+	
+	home_goals <- rpois(n, exp(home_baseline + home_skill - away_skill))
+	away_goals <- rpois(n, exp(away_baseline + away_skill - home_skill))
+	home_goals_table <- table(home_goals)
+	away_goals_table <- table(away_goals)
+	match_results <- sign(home_goals - away_goals)
+	match_results_table <- table(match_results)
+	
+	mode_home_goal <- as.numeric(names(home_goals_table)[ which.max(home_goals_table)])
+	mode_away_goal <- as.numeric(names(away_goals_table)[ which.max(away_goals_table)])
+	match_result <-  as.numeric(names(match_results_table)[which.max(match_results_table)])
+	rand_i <- sample(seq_along(home_goals), 1)
+	
+	c(mode_home_goal = mode_home_goal, mode_away_goal = mode_away_goal, match_result = match_result,
+	  mean_home_goal = mean(home_goals), mean_away_goal = mean(away_goals),
+	  rand_home_goal = home_goals[rand_i], rand_away_goal = away_goals[rand_i],
+	  rand_match_result = match_results[rand_i])
+})
+m4_pred <- t(m4_pred)
+
+
+# How often does the model predict the right number of home goals?
+mean(matchdata$hl_slutmal == m4_pred[, "mode_home_goal"], na.rm = T)
+# The mean squared error of predicted number of home goals
+mean((matchdata$hl_slutmal - m4_pred[, "mean_home_goal"])^2, na.rm = T)
+
+# How often does the model predict the correct outcome (home win/draw/away win)?
+mean(matchdata$resultat == m4_pred[, "match_result"], na.rm = T)
+
+# Results:
+# Right number of home goals: ~23%
+# Correct outcome: ~23% of games (random would have been approx. 33%?)
