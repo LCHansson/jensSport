@@ -68,8 +68,8 @@ def getDataFromGame(game):
         row['hl_pos'] = standings[roundId][row['hl_name']]
         row['bl_pos'] = standings[roundId][row['bl_name']]
     else:
-        row['hl_pos'] = 0
-        row['bl_pos'] = 0
+        row['hl_pos'] = 7
+        row['bl_pos'] = 7
 
     print "Game: %s vs %s: %s-%s (round %s)" % (row['hl_namn'], row['bl_namn'], row['hl_slutmal'], row['bl_slutmal'], row['omgang'])
     return row
@@ -116,7 +116,8 @@ def getHistoricalPositions(leagueIds, folder):
     for leagueId in leagueIds:
         data[leagueId] = []
         r = 1
-        # Get the standing of the next round, if no next round (= season has ended) getStandingInRound() returns False
+        # Get the standing of the next round, if no next round (= season has ended) 
+        # getStandingInRound() returns False
         nextRound = getStandingInRound(leagueId, r)
         while nextRound:
             data[leagueId].append(nextRound)
@@ -139,6 +140,7 @@ def getDictFromCsv(fileName):
     return data
 
 
+# Adds a form column to the dataset of games
 def getTeamForm(data):
     pointsInRound = {}
 
@@ -155,6 +157,7 @@ def getTeamForm(data):
 
         return {"form5": form5, "form10": form10}
 
+    # Iterate all games to and create a temporary object with points per game
     for game in data:
         hl = game['hl_namn']  # Home team
         bl = game['bl_namn']  # Visiting team
@@ -164,18 +167,22 @@ def getTeamForm(data):
             pointsInRound[season] = {}
         if r not in pointsInRound[season]:
             pointsInRound[season][r] = {}
+
+        # Let tie be 0, win 1 and loss -1
+        # Only positive values would distort form variable in early rounds
         if game['hl_slutmal'] == game['bl_slutmal']:
-            pointsInRound[season][r][hl] = 1
-            pointsInRound[season][r][bl] = 1
-        elif game['hl_slutmal'] > game['bl_slutmal']:
-            pointsInRound[season][r][hl] = 2
-            pointsInRound[season][r][bl] = 0
-        else:
             pointsInRound[season][r][hl] = 0
-            pointsInRound[season][r][bl] = 2
+            pointsInRound[season][r][bl] = 0
+        elif game['hl_slutmal'] > game['bl_slutmal']:
+            pointsInRound[season][r][hl] = 1
+            pointsInRound[season][r][bl] = -1
+        else:
+            pointsInRound[season][r][hl] = -1
+            pointsInRound[season][r][bl] = 0
 
     for i, game in enumerate(data):
         r = int(float(game['omgang']))
+        print r
         season = game['sasong'][0:4]  # Season
         hl_form = getForm(r, game['hl_namn'], season)
         bl_form = getForm(r, game['bl_namn'], season)
